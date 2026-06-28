@@ -1,0 +1,6 @@
+feedparser
+edge-tts
+requests
+feedgen
+PyYAML
+python-dateutil
