@@ -1,3 +1,6 @@
+# ====================================================================
+# 配信情報とニュースソース設定（整理版）
+# ====================================================================
 podcast:
   title: "毎朝ニュースブリーフィング"
   description: "世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約"
@@ -6,28 +9,40 @@ podcast:
 
 settings:
   lookback_hours: 24
-  max_items_per_category: 4
+  max_items_per_category: 3      # 1カテゴリの最大本数（短く整理したいので3に）
   voice: "ja-JP-NanamiNeural"
   retention_days: 14
+  min_japanese_ratio: 0.4        # 見出しの日本語比率がこれ未満なら除外（英語記事よけ）
+  block_domains:                 # 除外したいドメイン（見つけ次第ここに追記）
+    - "vietnam.vn"
+    - "news.cn"
+    - "people.com.cn"
 
+# --------------------------------------------------------------------
+# Googleニュース検索RSS。各クエリに when:1d を付けて「直近1日」に絞り、鮮度と関連度を上げる。
+#   形式: https://news.google.com/rss/search?q=<クエリ>%20when:1d&hl=ja&gl=JP&ceid=JP:ja
+# --------------------------------------------------------------------
 categories:
   - name: "世界情勢"
     feeds:
-      - "https://news.google.com/rss/search?q=国際情勢%20OR%20世界情勢&hl=ja&gl=JP&ceid=JP:ja"
+      - "https://news.google.com/rss/search?q=(国際情勢%20OR%20外交%20OR%20安全保障)%20when:1d&hl=ja&gl=JP&ceid=JP:ja"
+
   - name: "学校教育"
     feeds:
-      - "https://news.google.com/rss/search?q=学校教育%20OR%20教育改革%20OR%20文部科学省&hl=ja&gl=JP&ceid=JP:ja"
+      - "https://news.google.com/rss/search?q=(学校教育%20OR%20教育改革%20OR%20文部科学省)%20when:1d&hl=ja&gl=JP&ceid=JP:ja"
+
   - name: "倉庫・工場・物流"
     feeds:
-      - "https://news.google.com/rss/search?q=物流%20OR%20倉庫%20OR%20工場%20when:1d&hl=ja&gl=JP&ceid=JP:ja"
+      - "https://news.google.com/rss/search?q=(物流%20OR%20倉庫%20OR%20工場)%20when:1d&hl=ja&gl=JP&ceid=JP:ja"
+
   - name: "WMS・WES・WCS・RFID"
     feeds:
-      - "https://news.google.com/rss/search?q=WMS%20倉庫管理システム&hl=ja&gl=JP&ceid=JP:ja"
-      - "https://news.google.com/rss/search?q=WES%20OR%20WCS%20物流&hl=ja&gl=JP&ceid=JP:ja"
-      - "https://news.google.com/rss/search?q=RFID%20物流%20OR%20RFID%20在庫&hl=ja&gl=JP&ceid=JP:ja"
+      - "https://news.google.com/rss/search?q=(WMS%20OR%20倉庫管理システム%20OR%20WES%20OR%20WCS%20OR%20RFID)%20物流%20when:7d&hl=ja&gl=JP&ceid=JP:ja"
+
   - name: "日本の社会"
     feeds:
-      - "https://news.google.com/rss/search?q=日本%20社会%20when:1d&hl=ja&gl=JP&ceid=JP:ja"
+      - "https://news.google.com/rss/search?q=(社会問題%20OR%20事件%20OR%20労働)%20日本%20when:1d&hl=ja&gl=JP&ceid=JP:ja"
+
   - name: "政治"
     feeds:
-      - "https://news.google.com/rss/search?q=日本%20政治%20国会%20when:1d&hl=ja&gl=JP&ceid=JP:ja"
+      - "https://news.google.com/rss/search?q=(国会%20OR%20内閣%20OR%20選挙%20OR%20政策)%20when:1d&hl=ja&gl=JP&ceid=JP:ja"
