@@ -1,0 +1,33 @@
+podcast:
+  title: "毎朝ニュースブリーフィング"
+  description: "世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約"
+  author: "Yuji"
+  category: "News"
+
+settings:
+  lookback_hours: 24
+  max_items_per_category: 4
+  voice: "ja-JP-NanamiNeural"
+  retention_days: 14
+
+categories:
+  - name: "世界情勢"
+    feeds:
+      - "https://news.google.com/rss/search?q=国際情勢%20OR%20世界情勢&hl=ja&gl=JP&ceid=JP:ja"
+  - name: "学校教育"
+    feeds:
+      - "https://news.google.com/rss/search?q=学校教育%20OR%20教育改革%20OR%20文部科学省&hl=ja&gl=JP&ceid=JP:ja"
+  - name: "倉庫・工場・物流"
+    feeds:
+      - "https://news.google.com/rss/search?q=物流%20OR%20倉庫%20OR%20工場%20when:1d&hl=ja&gl=JP&ceid=JP:ja"
+  - name: "WMS・WES・WCS・RFID"
+    feeds:
+      - "https://news.google.com/rss/search?q=WMS%20倉庫管理システム&hl=ja&gl=JP&ceid=JP:ja"
+      - "https://news.google.com/rss/search?q=WES%20OR%20WCS%20物流&hl=ja&gl=JP&ceid=JP:ja"
+      - "https://news.google.com/rss/search?q=RFID%20物流%20OR%20RFID%20在庫&hl=ja&gl=JP&ceid=JP:ja"
+  - name: "日本の社会"
+    feeds:
+      - "https://news.google.com/rss/search?q=日本%20社会%20when:1d&hl=ja&gl=JP&ceid=JP:ja"
+  - name: "政治"
+    feeds:
+      - "https://news.google.com/rss/search?q=日本%20政治%20国会%20when:1d&hl=ja&gl=JP&ceid=JP:ja"
