@@ -1,46 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 11 Jul 2026 20:15:32 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>6月29日のニュースブリーフィング</title><description>6月29日 ニュースブリーフィング
-
-■ 世界情勢
-1. 国家警察署長がプラボウォに会い、国家安全保障状況を報告（VOI.id）
-   https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBubl9RdmVnSzVwVER0UzdiY0MzTHFVTl9USmNhVTh6MUhUVENJX0phVTBjcmd4WF9EU2VFX1I4Zjkza1HSAUJBVV95cUxPRlhMVmc3RFQtMnp3Nk9wZ3p1T2xCSTQ3RTlrbzJMQmRxMDYxbkVUTzF0OUUzZUtmaUJxXzhZVFRVUlE?oc=5
-2. 岡山大がヘリウム回収、リサイクル試行 需要増や国際情勢で価格高騰、循環の仕組み構築へ（山陽新聞）
-   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uU1o0Mk83cFBqSVhzeUZZZFlDeE5GcG1jQUZFRzRIazBmSF9kVDc1NV9MX2NYY3VWWWtRMV8zR0R3RzZrdHRaV1hSLXc0Sk0xX0hoNG5jQ3pyalMxRFUwRHVUY1Z4WHA4?oc=5
-3. 悪質ホスト：支配の果て、ツケ700万円 元保険外交員 ホストから甘言、暴力 支払えず、顧客口座から金盗む（毎日新聞）
-   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKNklZREd3dllCU3lIZTlSbWtvMl9BbmJzM3VLQ1RVQ2NxaUZ1eUNQUGVpRERsNVp4S0tEYTZjeDNZb3V6d0M5d0V0M084Tld3cWdtU1BQcEZ6c3pIUFJNWHNneXFWVTNZ?oc=5
-
-■ 学校教育
-1. 川崎市教委、市内小中高で複数新聞読める環境を整備 総合的学習への活用も（カナロコ）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE8yam9tZ0pNNjVRVjRUUTR1eGQzalk1Z1l3SDgxNHpNWnYwZzkwUWtTZUIyR0V4UmNXbVI5ZkQ3bGU4RUNiZk9PNEZYa1prZnI4bUVEdHdtWFJ6WUJGc2NtbUNITjQ1V2hURVFveA?oc=5
-2. 郷土新聞作りのポイント 昨年度知事賞の宇山さん（福井大附義務９年）に聞く 伝えたい思い 大切に （１）テーマ設定 自分の関心事 意欲的に （２）情報収集 当事者の生の声 貴重 （３）レイアウト 手書きの絵で親しみも （４）記事の書き方 読む人が分かるように 新聞作り こつ学ぼう 来（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE45VHV5RW9na0o0eTRGQk1vRTBQakc4Nno5YWNZRjBwbzZiNXRNQmk1RTh1bkxra0ptb0NxXzRIdmZBYm80aTlic2c4Z2l3UHUteGhweVBULVlHWnZuTVE?oc=5
-3. 沖縄相、辺野古で献花 閣僚で初 転覆事故に「強い憤り」（沖縄タイムス社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVWXMzYVI0SDhPTFZxd21ubldjMktjYUZwdFA2UHVSRFEwbzFQZ19WYVFVQ2FwTmNaNUFKUWJWMDFvcHpyWjA3QW1Wbk40UzVwczBNcU1rSm4zN2pSU2c?oc=5
-
-■ 倉庫・工場・物流
-1. 「共同配送をなぜ続けられるのか？」 茨城の食品物流企業、95%の定着率を実現した現場で何が起きているのか（au Webポータル）
-   https://news.google.com/rss/articles/CBMie0FVX3lxTE10RzNSY1M4LTlpTUtuYmFhejRTMkNGVzBucmJQOVp5VDhwT1Ywb1hwVlhmWjA5aUc2czFkWUgwWW4xWGxOdE5SOS11Qll2VE1YN1lOTGoxaDJwQm1vNks5MURTdlJ0M3g0Y3lNdUpCNksxZnE5RENfUFlaQQ?oc=5
-2. チュングエン、東南アジア最大規模のインスタントコーヒー工場着工［経済］（VIETJOベトナムニュース）
-   https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wTjQ0R2t1dWtqaUdwM2syd0NnZ3k0TGNwMUI5Sld3UEZBclNId0Y0UjZXVWs0SEJfV3JvU18wYzBmdTh6M1BmRUFSMGJXN2lzZlktUmRPZV94T3k3ZlBnSFA0R2g?oc=5
-3. ＮＰＡＣ・高浜工場、徹底管理で高品質維持（化学工業日報 電子版）
-   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HSDZfcUllTWwyajF2dXU0NGpSYzRacjZXV1VKSkNvRjJJeE9LQXd2dGdtcDRlM0tjbVZhMDY5RkhzZ09ZcnlrZExDYkNvR0VxT25R?oc=5
-
-■ 日本の社会
-1. JR東日本やJAL、外国人労働者育成は他社と組む 「現場専門人材」の基盤に（日経ビジネス電子版）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15ZDRkMWRBd3RvVC0zOF9pUkZzc0gwcFVLbXBaN3ZBZkxmZlZMdUgza0RnbEJ1cDdxZHRlVXRsU0xiWnpZZS1WVUd3bndtajVxU1Z6MjdWZFo2X0EzVlMwWi1rTjc5Z0E?oc=5
-2. LGBTQ+や多様性に対して世界でバックラッシュが吹き荒れる今、かつて日本で実際に起こった事件をベースに描いた『ブルーボーイ事件』2026年9月16日（水）DVD発売（ラブすぽ）
-   https://news.google.com/rss/articles/CBMixwJBVV95cUxNRkQ1SDlVTmNBdHFWSkNoNlZTX25Qd21oMGJUeWxEQXRwQ2lVZ05jXzRMYU1CbEhKeWpHT0JIYU9qTHliaU9UOS1kdm0xb0VCaWtaVHQ2NG9CTEJQVkJiS1J6bTRNY0hZWnVERndFNkpFRDFGRTN5WFhIcExmazdzU21CbHdKYXJwNllheFBGcUd3YTBSOGRCeXJPSnV5SDg4bHJqeThzVjFBR0RMX1RyWHU5aTdDNE1vMjItUk82QUJhQ0tXTnNiclo1cFpSNENQU3dSR3M1Wlp0bDFERkttZGFJMXF3UlJRLWpYOFNsSWhnN0pvbVBKWEdpYkxISmluNnZ1dERCcktHeWRhU1U0QWpFQVFYeXdnbVVubVNDTkNjNUxzNFl6eGI5YWMwYnd6V2RTaktZWnNqdVEwYXowRzdxdGxBck0?oc=5
-3. ロンドン在住の元国連職員が警告「日本の住宅の“防犯性”の低さを自覚して」“安全神話”が崩れる日も近い！？（週刊女性PRIME）
-   https://news.google.com/rss/articles/CBMiXEFVX3lxTE44dEdmbHFwREpOY0g1aTVzSzdpMWhUQlJiZWhuWGJCSUQySlFIcGFuMm1HbTBPN0M2UzBzVFRWT0xMczFmSTBZNWwyNVJFdlRuQUR4OHJxdWhYLW1v?oc=5
-
-■ 政治
-1. 【#みんなのギモン】国会で議論「個人情報」同意なしで提供可能に？（TVer）
-   https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yVFNhUVNTWUNUN3R5M3BxOFM1OWV2dE95YkNOYXl6RndtN0ZVMDVpaDdXcnl1SFg3Z1Y1anFmTU9oX0F1c043djYzcw?oc=5
-2. 国会議員動静 6月29日 | 行政・社会（佐賀新聞）
-   https://news.google.com/rss/articles/CBMiVkFVX3lxTE1waUdsYXoxM0lzWXhRRmR4U2NqaTQ1YUt4alhCQ0tsOUlFcnduaWZSODlXcnJfUDYyU0NhQllLVFBYdG4zZ05ObzAtaVd1WHVfNEtIaVVR?oc=5
-3. 化学総連、岩田内閣府副大臣に過剰規制見直しを要望（化学工業日報 電子版）
-   https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYUzBZYlFwamJSNUhDRGJiUS1qd0RfdDJOcWJ5WXpLRXlPT1VucnpqSWpORGtSckpTWGM3TW1GOF9BQ0Fqb0NlSzhLVmlOLWVtMG5z?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-06-29.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-06-29.mp3" length="1376064" type="audio/mpeg"/><pubDate>Mon, 29 Jun 2026 05:39:10 +0900</pubDate></item><item><title>6月30日のニュースブリーフィング</title><description>6月30日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 12 Jul 2026 20:12:59 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>6月30日のニュースブリーフィング</title><description>6月30日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 文科省、豪・NZと科技外交 重要鉱物の供給強靭化（日刊工業新聞）
@@ -647,4 +606,45 @@
    https://news.google.com/rss/articles/CBMibkFVX3lxTE9ibFZHc29ZOXhuS1RtUjc2Z21Pb3pNT0YxaGJ1QTluTnMtTkdKQXp2MjVab2xXV01scTFYWnhucTAwalBqWmU0X0xxeEU4YllDUV9BNU5IeGYyT2FBUGp6OUo5V2VXT016aVFtbXlR?oc=5
 3. ＜ニッポンの米＞需給安定へ助成拡充を 新水田政策で若手農家 全青協調査（日本農業新聞）
    https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IY0FUWU1mSkN4akpNd3NTNXpwZmN2bTFPZkxJZEJhSjl3ZTBHTktnazNLeWF4OGJTRndEdDlwRUpJZlMyMGYtdzMxX3JoRDliMHhfNENqRQ?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-12.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-12.mp3" length="1416096" type="audio/mpeg"/><pubDate>Sun, 12 Jul 2026 05:13:39 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-12.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-12.mp3" length="1416096" type="audio/mpeg"/><pubDate>Sun, 12 Jul 2026 05:13:39 +0900</pubDate></item><item><title>7月13日のニュースブリーフィング</title><description>7月13日 ニュースブリーフィング
+
+■ 世界情勢
+1. ウクライナ、首相交代へ 近く内閣改造 対米関係にらみ外交体制固め（朝日新聞）
+   https://news.google.com/rss/articles/CBMijgFBVV95cUxPNE1fUVR5WE9FUTFTZmd6OE1DREtROTljNl85VDFTY29uN1AwLS1NM2J4NGxzUVdlckVqdnRfcFhGR21TUnZ4Tk1wWkhMaFJaNk10bmNxWkt4SDdXYU9haHVWdzhtNTltNWgyeE5rRVJha0J3a21sRnU0SUljZUdSZmpCLTZxSkEySkgtRlZR?oc=5
+2. 中国外交部、「南中国海仲裁裁定」巡る一部の国の動きに声明（au Webポータル）
+   https://news.google.com/rss/articles/CBMie0FVX3lxTE9PdzhXazFsdW5aLVhSNDVyUDZ3X2dBcHlzTzJZSFhjNFFlajloUHN3MnF6YkZhZTQ2VXBJMEdmNFpleUJySGJfbjZtbmwwdUNucE82Rnk1bFVrY01tNXF3RGJZclpyTFloVjhxOEhvaWNFQ3RweWQ3UWwzYw?oc=5
+3. タイ政府、飲酒規制の例外を認める新規定。結婚披露宴と外交レセプションのみが対象に。（タイニュース・クロスボンバー）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTE92aE9qZ3N4V1lISjVnMUhwaVR6aDBtdXFibk0tcjR1Y3VPQlBKak9zOUlobG1mVnJQNDBCa0YxTWx3ZER2eUJOVWpPbVRJTFZ4?oc=5
+
+■ 学校教育
+1. 夏季の献血者確保へ学生が協力呼びかけ 福井・エルパでキャンペーン | 社会,学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3aXBpQ2hiakt3amZrQ3pSMjBFakFDTi1XQ2VmRTVoc3NMQnF3TFVzbDB3V0VMU1d3b0lqM01BNkdWRjJBdGpOUDNkUzIwdlpTZGxOVUpGUFNVbGFVbmc?oc=5
+2. 野外活動の祭典、福井の派遣団が意気込み スカウト35人が壮行式 広島で8月開催 | 社会,学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rVloxUjdtOGxhbUdsbmtxeVBpbkJVMElNdHJsejZHY21yUnN2LXBEUEhtTXZ4V0RVZjJXTHdyeGdXUF9Ld2YzNWFEeDczcHFuRFp0SmtHS0NCNlFsMXc?oc=5
+3. 「学校水泳はなぜ必要か？」指導歴30年のプロが語る『命を守る教育』（010-sports.jp）
+   https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxQ3A0UDc4dzVrVXNqU0JXRjdPb3AtNDJ4OVFRc1VVRGk2M2ZtNEE4TmhaR1NFSXdLSms5MWNXWTFwdDRqZGNCUlZZTTZTenZJQ1E?oc=5
+
+■ 倉庫・工場・物流
+1. コーセーＨＤ、南アルプス工場の稼働式開催（化学工業日報 電子版）
+   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oS3pGT1NjZEVCNmx2Si01ZGVIaGtMdHRiM3FmV2Y0NGFndmpXaWo0V3FqSjFSWEU0S1pneHhaMnBxNkhuN3BFLW84clhQM2FUUU5V?oc=5
+2. 【科学スコープ】照明の工夫で、植物工場の野菜がイキイキ（山陰中央新報デジタル）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OWVUtMHR0NnB6MGVMQ1dpQUNBelpZQUtZOE5LdGdEczcyakVmM2Y1MzZlckJHam9BT2h4YmdHZ3ZjSk1ZYjBiOUhVRS1mSjhJU0FpUEl5anc2aTA?oc=5
+3. 【科学スコープ】照明の工夫で、植物工場の野菜がイキイキ 東京大チームがレタス、トマトで手法開発（東奥日報社）
+   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHbm1mNTUzRHYyMi1rN1RqRUFNLUJOdFdGYmlzSDF2ckVOYzB1MkhMcFNhSlBrSTVEY0JSUFVUZ2NpbDN4Yk1zQXloZUFYWkxKQTJqckNwUms?oc=5
+
+■ 日本の社会
+1. 60代になっても学生ローン返済、引退できない米国人（上毛新聞電子版）
+   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPSm1TUDlVbEtLbVZ4ekFWZ2U3NV9aRGdWZ0x1bTl3SktpMVdtTkFXZFBLdXdjOTBtUmhJOHVTcnFZTHlCLVJ3Um1pVUNYa2htdkpMc1hfOTc?oc=5
+2. 日本NCP最終声明報告・決起集会 65歳以降の就業実現を！（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tbHllMnNic2JQZ1dYRUJ3eUptVjBYUzhuZTJoWjZuNzVKUEY2dnZYY3dsRHk4LTNVVVNtMk1YYVFWRk9uelNGczZ6dHBfcjBTOUlQZnFYaE5vd2VOOU1Z?oc=5
+3. 中国が日本大使館幹部呼び出し 「領土主権と海洋権益を断固として守る」南シナ海問 | ふくしまNEWS（kfb.co.jp）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQMWNIejV0V3BfTEJoM2dGLWZQOFhZNkhXRTVTc0l6dXp0c29KV05pc2VKMjg5b0t3eDEyZ29zTV9WQlljSXRQbzVXWnp1SzRIVGRpZ1pR?oc=5
+
+■ 政治
+1. アサヒ、時価総額でキリンが追撃 資本政策がトップ維持のカギ（日本経済新聞）
+   https://news.google.com/rss/articles/CBMifkFVX3lxTE5xWUl5dEVCdTRTcmJEWldfNnc2SWUwSklaRWo2bi13UVV0Rzc0YTZLUk5ReXJhRVNCT0Q3UWZFX2Y4UXpReXFwaXNfTm12TTlCZ3dWM3lKZ0NsMnNqUk54UmJrckp1dE83MEJ0R0hIclNDM3lHb1NPZWRHNGJJUQ?oc=5
+2. 国会議員動静 7月13日 | 行政・社会（佐賀新聞）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mV2xNZzh3b09NSmpSRTZDTWNFQ2E4YzJSaVVNeTI5VlFqN2RrcTV0RVVheWg0T3R6dS0wenBkbXZ0cW1tTy1tc1RhYWp0OGJKY09DNUhR?oc=5
+3. 【山日デジタルの日特集】６月の震度６弱 気象庁会見、政府地震調査委の様子は 東京発山梨～国会担当記者の目線（sannichi.co.jp）
+   https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uTGlra3FGSENxS3VfdXJyb1d4VUtGNjg1WFdMLUFFaEY5Z0owTGQ3MTUzT2tDeEdVa0MzYjhURHFJNkJtd1lKNnI1SzVMM1dQMnAwdXh2TmdvSmpXNHZ6THFuQjk?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-13.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-13.mp3" length="1234368" type="audio/mpeg"/><pubDate>Mon, 13 Jul 2026 05:12:17 +0900</pubDate></item></channel></rss>
