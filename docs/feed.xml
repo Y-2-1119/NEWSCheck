@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 16 Jul 2026 20:17:26 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>7月3日のニュースブリーフィング</title><description>7月3日 ニュースブリーフィング
-
-■ 世界情勢
-1. 「小泉進次郎大臣が中国の〈新型軍国主義〉批判を返り討ちにした」と喜ぶ人が知らない事実【佐藤優】（ダイヤモンド・オンライン）
-   https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzVkYzcnV1NjVtaS12N0ZaT2ZWdDNpa3FTOVJUYU54X19pSG1UTHIzaFJxemV0b1gzWEtNR1Y5Zi1yUWFJMmhyaEQ0VjXSAU9BVV95cUxNWF95YzFFOWJuU0ZaaGRGbWw2bzl5NV9JVERlTFNPdEJMYzFCQlBsNnZpM3ZHNmZSa0tYM3RqQlJVTVlDa21JZkVid0UtUHlz?oc=5
-2. イギリスの軍事予算不足が日本の安全保障の死活問題に、起こり得る“戦闘機不足”と懸念される空の安全（Wedge（ウェッジ））（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE56d3dzUEFVRUpnSUIzdDlHYjhMZkVDTENuQzVYeTdjZGxTNXFEaW1waUd6RlA2Wll3Y04xcWNkSXVVWEJXWXcyY2Y1b0ptTGdzTzVFT2VGOEg5RGZXNkpvVzdzdG0yQ3VEeDRMUUpiRm1BRG9YVFhyXzlobUpGME0?oc=5
-3. マリン米国土安全保障長官＝3月、ワシントン（ロイター＝共同） - 米長官、イランのW杯敗退を歓迎 「喜びのダンス」に値する（西日本新聞me）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DM1lRQUVnR0Y2UXB5cFNZSVdveHJ5QmxoQzhNQS1BeGQ4d3g3a09XU2VLaE40dF9mTllaR0I2WVczVDQtN2pteWFyeFZrb0tteWtHZkVnTQ?oc=5
-
-■ 学校教育
-1. 岐阜：高校教育改革先導へ３校 文科省が事業採択･･･今年度から：地域ニュース（読売新聞）
-   https://news.google.com/rss/articles/CBMib0FVX3lxTE5xTFZxdHFmNWNJS3Izc0ZwcWIzYVg5WnpTTm54YnZmckUtdUtWZDR2T3E4TGhqanBDVmNYZTZFWUIwVnM4RktKNlNQWTM2ZlBIN0xGWlhLa2U2aXVLUm1IZElJd3oxMnFsWTNMLTNaSQ?oc=5
-2. 【事業者様へ】高校教育改革に関するご提案・資料送付について（pref.kagawa.lg.jp）
-   https://news.google.com/rss/articles/CBMigwFBVV95cUxPTjljNE9kTFB2MmpCcGRLMGYwNlhXa2VpWkdiV0lTNllCQW5HMFo0WWxvLXYtRlVvVS1URTlONFlZWV9MRmZOaVVXTlh5eXRpaDRWYjFSdkxCZmdwdWUzZGNmNHlZT3lYcV9PU3lKZUc0c3M4SU9UZW1FeWdWeVFUMFltUQ?oc=5
-3. 文部科学省 - 「算数」の名称変更は見送り 意見に隔たり、文科省方針（西日本新聞me）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sbHdweEFjaFd1STdha2xlM3FxRWtJczBNWnFRY0kwOFpCRDhaV3dEMjNnUnlNbkZkM1AzdTB4Mm9VSHVSYTF2b2lzc0l2RTM3LVBFS2hBaw?oc=5
-
-■ 倉庫・工場・物流
-1. 「鉄道やフェリーはいらなくなる？」 2030年代半ばへ動き出す“物流版新幹線”、国内物流の主役はどう変わるのか（ｄメニューニュース）
-   https://news.google.com/rss/articles/CBMigwFBVV95cUxQNVFybkx6cXh3aHh3UkxoNlNJeTZMSm1VUEdHdHlkMEZrMml1a3J3UGd0dXZNMldjOHJFbmx3RkhvWVR3MnY5d09aaDB5YXg2a2lMV2F0YXE1bWN6N19kUUUwVmJpcTl4MjRSNjh0SEFJeFJrN3hKN0pkNThINDJmMDRhY9IBiAFBVV95cUxOWnZab1JYakt3MnBPakxXdHd2Z0h1WkxJX3cxbldISUo5Yml2M3VEZ0VhdjNKUlVabVBxVDVPc1F0bnNBbWhaNUJoNV9VTjlFZndRV3JndUZCVFZ1bTJVN2o4TEtxaUJMYXZRS3Fod3N0dXhuWTRWNUlHbDVxWHZ2SU5PX1pmWWk2?oc=5
-2. 運送ロスなくし物流改善 トラック配車のＡＩアプリ |（佐賀新聞）
-   https://news.google.com/rss/articles/CBMiVkFVX3lxTFBneGN5T0ZaN2QzYXI1N0hpSEFDbEdQYTBOck1pMFI3UnpzQmhLLW0tZXd5dVNhVU94WVJDOFcxLVhYc0dQNk9wdV9kS3ZDLS1veGpYTURB?oc=5
-3. 運送ロスなくし物流改善 トラック配車のＡＩアプリ:経済（福島民友新聞社）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTE80d1VjN1NkOWliTDRweEZNMFcxRW8za1lLXy05UFNxQmYxN3UzSmphQjFCQTV6NS02SHlVbUl0WjlOTVlvRnp5UzFDVEdwNFIxRm94OVJEVzY3RG5NemIxcGhCRF9zY2p1Q3c?oc=5
-
-■ WMS・WES・WCS・RFID
-1. ロジザード、WMS価格体系を10月改定（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE43SXhqWUcwaW1jNm8xV1FxM2wyNkZPa2JGZ256R0RoM01yQW9FRmxvLU1zV2Z1NnlJS3FWS29JbFRLUEVhTUZmOA?oc=5
-2. G.A.グループ主催「物流倉庫で特定技能・育成就労が解禁」ウェビナーにロジザードが登壇（PR TIMES）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTE9fLU1QdzloVTZ3VTV5bDFUdzJETVZrRTNZZDk1MFdXT0ZVQl9VOUVaYm9FSDdDWGs5NmN3UzhfcW90VURzLU53a0VycVJVZUdWVWxKd2ttdkJZMzhZZno0RkNVNWp6bHVTWmc?oc=5
-3. アパレル物流DXの実践ポイントを4社共催セミナーで解説（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMidkFVX3lxTFBJMThLNTBZcjlpdTlhYU1JVlVDd2dDWUlaMjI2VjVSanRWUG9HaVFSa2s3UnFRaDJwZzNYTVNoSU42Q0pvLVdEay1JcUYyRXpoMi1aWXNTaHZ5M2Q5LVlwQXo3WVQtdGFZTnprNF9oQ0lTUUl2Qmc?oc=5
-
-■ 日本の社会
-1. 日野町事件、証拠開示請求 弁護団「無実明らかに」（nnn.co.jp）
-   https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sbTRqcGR5TTJ1N1BDVlpkSkdyUk53SDVCXzh2bFN5NXdXX2x3NS01YlBGV0JGbzlmTmJwdHZ1OC1aT1RRQ0RlZzhQSGJ2UjJ6?oc=5
-2. 日本の企業が抱える“労働者1人あたり年間70万円の見えない損失”の課題解決に挑戦。30秒で自律神経を可視化する次世代ウェルネスWebアプリ「NAGI（凪）」を販売開始。 (2026年7月2日掲載)（ライブドアニュース）
-   https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JdVUwQzZNUG43SGQ1VTlEWkVKcDdfNGdIMEhza29Nc2FINVNnY3NvZnVoVDFKQzRPalJjTUV0dlZlZXc0VTR3cWRxNk9mOHphQ0xWVmw0N21VcExBSGNvNWtn?oc=5
-3. ある無差別殺傷事件が、日本社会の大きく深い闇へとつながっていく『犯罪者』緊迫の本予告（banger.jp）
-   https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYNVpCNEtXaE9GTGc1cUYyalVYS3VOTnExQ0g1bkI0a2MzSEJLc0Jnc2NUWFE1aWRkZk55TnFkMmdaM2FEQWc3RElR?oc=5
-
-■ 政治
-1. 【政治解説】重要法案の数々、数の力で強行突破 高市首相の国会対応に反発強まる（TVer）
-   https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TNmc2Q2VpRFM4UUJzcURFczIzZjV2VmNwV0hIYkpxYkdqQXZLdHNCazQ4eG56WGRZcUhhN3VxQkJPamZCQ1NicDV2VQ?oc=5
-2. 国会議員動静 7月3日 | 行政・社会（佐賀新聞）
-   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PMUhnN1I5OEJFMk5vZUNoY0hRSUU5bG1PZndsaXhuazRNTm5kTTU4SjVIaVhzSW9OY2FHM1J5djFLZlpfWUNpNEkyQl9ZVEp5cGR0bC1R?oc=5
-3. 次期国会、新しい体制で 中立公3党が初の「協議会」 組織課題など検討へ 2026.7.3付（公明新聞電子版プラス）
-   https://news.google.com/rss/articles/CBMibkFVX3lxTFBHRGV1cks1aUEzNEdYRGRjNTd2UkQxeHZndHRqNTFiNUlXNUY0cjNYRzBIWmwwSl85NkpkX0NkaTBKbnlfS0VqTVFySjBRT2h6SDUwV3VyRHFvZ3NHMlBhYTlYTWRpYTJSVE5BNGJn?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-03.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-03.mp3" length="1622016" type="audio/mpeg"/><pubDate>Fri, 03 Jul 2026 05:39:07 +0900</pubDate></item><item><title>7月4日のニュースブリーフィング</title><description>7月4日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 18 Jul 2026 20:11:50 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>7月4日のニュースブリーフィング</title><description>7月4日 ニュースブリーフィング
 
 ■ 世界情勢
 1. ティト内相、BNPP RIの役割を強化し、国境の開発と安全保障を加速するよう促す（VOI.id）
@@ -647,4 +598,49 @@
    https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zLXlGcXdNampsbmZFZ2NfM2xXOGVmVEFnNkRobHdJejQweF9ZbnBrelhjdFNZdlJjWWE1NU9kTTBCM1J4SXFlUGhreUc1Zk01V1NjcVdIQVloOEU?oc=5
 3. 国会延長幅 与党調整腐心…野党反発 審議見通せず（読売新聞）
    https://news.google.com/rss/articles/CBMiZkFVX3lxTE91X19sS1Q0MnZMVHRXUWNWSGtEWmhwZG9ZNzhIMHFUOXRfRmhXVHJoRDVWTmN5Z3UzbEVWUzJBbG9ySXJ0UHo0R2p5QUVaLU01ZnA3dEYtYnZfLUVXa2hSYTIwZFRsdw?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-17.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-17.mp3" length="1498032" type="audio/mpeg"/><pubDate>Fri, 17 Jul 2026 05:15:31 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-17.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-17.mp3" length="1498032" type="audio/mpeg"/><pubDate>Fri, 17 Jul 2026 05:15:31 +0900</pubDate></item><item><title>7月19日のニュースブリーフィング</title><description>7月19日 ニュースブリーフィング
+
+■ 世界情勢
+1. 渡米研修「考え深めたい」 佐久本さん意欲高校生外交官プログラム（琉球新報デジタル）
+   https://news.google.com/rss/articles/CBMiYkFVX3lxTE43VUhRNl9MZDFsbnZGRjVHUGZ5TThLcVowRExLenF5ZEZSdXdsMnNmbGhfY281RFlxYU4yT3pRUVMwdXZONFBnVWZMaTgxUGx5QkNTU2d6RW5kYTROYmV3RmhB?oc=5
+2. 谷内正太郎（18） 自由と繁栄の弧 外交の地平広げる戦略 麻生氏には「ケンカ」も教わる（日本経済新聞）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTE9HNURZZU1jYzdPT1JLMWVTMlR1M216RFVVQnlDQVgxX1NfUFI2OVpFZmtYRmhLZHlTRkx0aTN6aFJ4Q19Hay1MU0ZHZkhYRXJxZmJ2dDRnVks1d3VFUVBnZ1FOX2ZMeHRkQy1acg?oc=5
+3. Lancetの日本特集（国際政策論文：人間の安全保障外交への転換提言）｜Taro Watanabe（note）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xTXVwZTNIc0RHS3RQYU1XZjJZZHFuTGpTZjh1bHA4ZlRXcFlGdFJtVmVSakFPa2tYV2FFTGoxeVZJLUFsNUlKOVo3M002N2NH?oc=5
+
+■ 学校教育
+1. 多彩な探究 次の学びに 高志高３年発表 試行錯誤の過程、課題も | 学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DSHhKckVXSWZ3eW95Um9DT2pXV1lYdlFYRHFmQTZQUHhmelI5UHZxeHpaY1RMaE45WDdGZ2JvbDhOZzczMEFpX0YzZGE0Mm5VYkN5NG0yZGlUWWp6dVE?oc=5
+2. 【高知】磐越道のマイクロバス死亡事故を受け、県教育長「安全確保を徹底」全校長へ聞き取りへ (26/05/29 19:10) Sandy Leon (cEnLSdsuVT)（Mshale）
+   https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ec0h0S0Q2Rng4NkxDc3hocy1pakZ4eXF1OExELXRJR1dZZU9UUm5FLV82OGFMVHQ5M3owQ2VLMl92RDN4ejJKa1VwOXVRSFI2djRrUmVIMnVOOFF3cFhEbA?oc=5
+3. 通信制・不登校はむしろ「圧倒的な武器」になる。総合型選抜のプロが語る、レール外からの逆転受験戦略（Excite エキサイト）
+   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzUFRHRG02Y2c0SndmLUw3eWRFRDFYV0hyQm5TNW5CUFQ4TnZVNm1BaXh2VUowazJPQ0NlZk9YZlY5SWJ2WVE5ZDdDMmNONTA1aHAzZXg5cktJWHVSY1lYd1dDYw?oc=5
+
+■ 倉庫・工場・物流
+1. オムロンやイシダ、現場のDX化で存在感 工場や医療機関で（日本経済新聞）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTE1ldVhEeDRLYlVUN05lbFlDbkNyOEJjaGlaVjFiZmpnYUpJdWQ4Q052dlgySjgtd1FOaThaWnV3RWs3d29xRlE2MUJvbE1jczJzbW4yS0hlRGpuc0xrR0luS05XaUN4NlNUWlBEUA?oc=5
+2. 赤沢経産相「地元のため全力で動く」 半導体工場誘致へ 米子で講演（山陰中央新報デジタル）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE01d2RnTVNKTzMydGZwbHdKZUdtTVVIVXlwanR0MmFBc1ItR2hkTmxjcW45OTVpdHdKQWNDYTVxLXNvMEZ2QzNZWEZTXzhIenRqQS1xTFduQUdMSzQ?oc=5
+3. ニチレイ障害、学校給食にも影響 サイバー攻撃が物流直撃（福井新聞社）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTE9yZW9JYVAtYWNHNXNFSkJWSTctaGtERXA1Um42ZUNwQS1IdnJkdzJxZDltUnhsRUhsYlBkdFFUZTJVWEdMbGNlRWpfOGI1dm1RMVhzeGpIQTJSVmNjcm9jQS1XSmlVS3ZFUmNCVw?oc=5
+
+■ WMS・WES・WCS・RFID
+1. ボックス型双方向シャトルの世界市場（2026年～2032年）、市場規模（耐荷重：1.5t以下、耐荷重：1.5t超）・分析レポートを発表（アットプレス）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ST0R6NVR6am4ybEQ1RzNsbWxfMmdLRVJaRUpsYk85YlJXekxyX3BGZVRXbnZtcWRxamgxcE55VzRvU3NqeWRFTFB3X2VnMDA?oc=5
+
+■ 日本の社会
+1. 台船に寝間着姿の女性搬送後死亡事件の可能性も大阪・大正区（朝日放送）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wbjU0eGtzM2xpQzV2S2VZelRENEVBRHB0WUJRbnNHYWJLMVNjcnYxNXRZeU5HV1luOHNrNl9leUdFSmNUVVlpdVhHZUR1Tkt5bW92Y2Rlc1ZzX1phVlhnWUl6MFFsRDA?oc=5
+2. 「告白－25年目の秘密－」松村北斗に殺人容疑、25年前の誘拐事件に新事実浮上！第2話ネタバレと予告（navicon.jp）
+   https://news.google.com/rss/articles/CBMiREFVX3lxTFBpejFxZkk0dmN2QVdsckFKR1dGQVJvOWxsVElEcFN6NlBlN3NKSnBzNjB5WlpaU21TOFUzbmRIUFRsQnJD?oc=5
+3. タイ東北部、頭部と性器切断の猟奇殺人事件発生！ 30歳男から事情聴取。食人の疑いも。（タイニュース・クロスボンバー）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTFByMHVESDA4ODdoUUNsUG5aYkh1MkljS2V4aV9uNTZhd0xuU2R4TERSanl5NHVSbkFieUt5SmtrLTl6R2V1M0x4M2VCRDNxenM5WjRPS2Nn?oc=5
+
+■ 政治
+1. ［小林吉弥のズバリ核心］「国民不在」の特別国会（日本農業新聞）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UdkM1Mmo4WUxuNVNYSzBvMlk1N3hWeU5xdzRKQlBwMVA5M0lRRG80UHdJdmQ2T0RmV2loOW5UdFdtcE5CZk5tM2RYc2lCbzlQV2FXZFBPclJObTA?oc=5
+2. パプア、台湾代表処「閉鎖」…「一つの中国」政策 尊重（読売新聞）
+   https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTb0xZcjUzSW54TG12OUJJVV9OWHpkUVNaaHRnNG5PRTc5eEp6Y1BxRFBsOEVhdDJaT0l1M0M5alY1X3RwY0tTdnVpOXVDeDg0TFFrMl9FbnMyS3lJR0kxekln?oc=5
+3. 【靖国神社「みたままつり」】（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aVEJROC0xMmNwOUdLVWFseFJHRUJaN25CSDRCWEVldTM1djZDWElITzVTaTV3cG5jZzJOWFpGV2JuWTRuX05MT2otNFZ1aE5LUG14Q25xZng0WFZYQ0Zj?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-19.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-19.mp3" length="1468944" type="audio/mpeg"/><pubDate>Sun, 19 Jul 2026 05:09:53 +0900</pubDate></item></channel></rss>
