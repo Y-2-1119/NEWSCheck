@@ -1,52 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 18 Jul 2026 20:11:50 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>7月4日のニュースブリーフィング</title><description>7月4日 ニュースブリーフィング
-
-■ 世界情勢
-1. ティト内相、BNPP RIの役割を強化し、国境の開発と安全保障を加速するよう促す（VOI.id）
-   https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBDZHRKYWdjQVpqeUFSTHlIYTlUcGJFMFJIRUlMZ1o4WHBXY3ZoUHptdmNBSUZQNkc0RXN5TzVXTUhHM0nSAUJBVV95cUxOeDNFelBmUEVwb3RBTkQ5UHFSdVI0akJYa2VwbHNKY0ZnVXNmUC1MdnlKdGZtbmR4QnloME14allwd0E?oc=5
-2. シンガポール企業庁（Enterprise Singapore）との協力覚書を更新 ―日・シンガポール外交関係樹立60周年とJETROシンガポール事務所設立70周年の節目に連携を深化― | 2026年 - お知らせ（jetro.go.jp）
-   https://news.google.com/rss/articles/CBMid0FVX3lxTE5KdjRZTkk0cEhRRHY0ZnRrLThOZEJSM092TGFMbUVraFA1RGNZSWdpanhiLVNCR3pVUFJ5Z3Uzam96WjY5WHBfRUNLLWp3eWFfZGdVZ1NTVzBDWkIxT1V2QlhUZTN6V3lyeXJNalVDMHFETVR1cm1F?oc=5
-3. インド訪問を終え、羽田空港に到着した高市早苗首相＝7月3日夜（産経ニュース）
-   https://news.google.com/rss/articles/CBMiogFBVV95cUxNamtPR0wwdWFDWEVfaFd6SVB1MF92eHQyZ3ZXNVVfb195cGNVM2V4MHRwWjJQa19wekE0b19Pb0VBUi1wOWFmSUxSdUt6TEhhZVhIZEVrOEZKR3JqYzlyTzFDSlVkcUJYY2JyVzc5SmdmRzZyRFhZZE9rZS1LMUpvdXhjTmJZa2h6clUzRjZpeWJocUdOOFlxODNZVnM5SDFLcmc?oc=5
-
-■ 学校教育
-1. 学校教育に新聞活用 ＮＩＥ推進でセミナー【釧路市】（釧路新聞電子版）
-   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PenAzS0ZwR3dVaG1DSkhyb2JidGZGSDZ0WnR1YVpiTEJlRktMLVBHQVlMU0VCX0JwMjVtajU1UnphZ1dMcjRTOFducUowYnFSaXNF?oc=5
-2. 文部科学省 - 総合「学習」を「探究」に統一 小中高一貫で活動深める、文科省（西日本新聞me）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zaXNmZ1JlaTgta0pGdlkyY3diNjQ4a1FVbUg2M2RpZ0M2Mng3aWdUc3hCbnN5NjA5QXZ2Y3h4cklBb280SVhJWjQ1R29ub0VtUkpqNjlCWQ?oc=5
-3. 学校教育への満足度は親世代よりも高く74.7％～10代の学びの価値観に関する意識調査～＜プレマシード（北海道新聞デジタル）
-   https://news.google.com/rss/articles/CBMiiAFBVV95cUxOclBFMmpleUJBdm1jR3Y0bmlxN0E1VUJvVElfVXBVdG45ZThGekJNV3FQMDA3b3VDRVNtOXp2Um9ib1lEdnJ2SkowdURYUFRZWE1OWUdsWG1INHY3RndNNEo2dlpMZ2JqVUdTQ3BHUFhwVDFWbkFsVktnTGpZSTJ3TGRYOHRMUnIx?oc=5
-
-■ 倉庫・工場・物流
-1. 次世代メモリー出荷 キオクシア 来年量産化目指す 北上工場第２製造棟 ＡＩ需要に対応へ（iwanichi.co.jp）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XcFlYNERsU2l4OVF3dVExTTF4WGlfTlAtdjhjbXRucmNPUFRSNlFpLXBGQUNhUld4R0djQTZpVS1HUHdrYnhOUTFwX0o4QjFMODNtVEVGYnJZYVk?oc=5
-2. 【再処理工場】ゴール下げられた印象 宮下知事、規制側に指摘（デーリー東北）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sM21oUXgzSlgtcUNmMENTaW1jb2ptM1FHWl9xYXN2R0p4LWlYSFBSMmdPcDBINWJQVGJZaDZqUEM2WjN5ekhZeGJVeE1lb2gxREJEYkhUWDNMdDdNNVRqOTdNTUt4bUE?oc=5
-3. 宮下知事、６日から仏出張 現地で再処理工場視察（デーリー東北）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hMnFoNXNBckM2bWl3ZlR4bkZJVXppa1lnT19ES0Q5UHVDUFNJUmczYUhPcG9nZDhzOVZWOWtLTk9lbkIxX19aNEEtUE5WV241eklPSDU3TlFoX2daZW9zdTBfOXg5TU0?oc=5
-
-■ WMS・WES・WCS・RFID
-1. Dole、北欧青果物流でGreenfood部門買収（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FeGU0cVNzUHJpMHRVTTFYckxtamllcm5nd3hXTnV2Q3hhWWNnSmRGbVpkWFZhc09hY1pacUtMbzg0Z2hYbVNvQg?oc=5
-2. アスクル、ウェブサイトからの注文は12月初週再開か WMSを使った在庫商品出荷は12月中旬再開見込み（MarkeZine）
-   https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xTHVESElmVEFzbXk4ZkI0MnhRM0F5ekVhQjZ6X2E0aXJVVjVKeExNNUwtQlNUa0dTdTNGUHRPbU9yRmpCZDY1VmZWSEhwaWM?oc=5
-
-■ 日本の社会
-1. ■日本財団、県内の社会課題解決支援に意欲（琉球新報デジタル）
-   https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RSlNSVjJpNG5jVWxncERFeklZVnhsRWlTNTFlSElxalNaQm1WYjVxTFJDVHVNYjYxOVI0V1Vxa21BWWQ5TFBjenlLc0w2WFpCbUVNdi1JUUZqYWZCZXA0Tw?oc=5
-2. ［読書］小説 ブティック 池井戸潤著 日本の課題を描く「寓話」（沖縄タイムス社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE90MkZHRkMtUGRyVzI1ZFVGTlowSkNBRDVCbEF2cnFzOVZKcFBuM3djbTFSdlFuMGkzMkFUcFlBdE8yTlBndFZnRmROOGttUFh2RnRkXzRDbFJnMXdrQnc?oc=5
-3. 旧統一教会とは（今さら聞けない 日本政治の超基本）（朝日新聞）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UMzBmRnAweEZnM3J0cm5rWmEzazZKQXdDMmFIQnhNcjRORlczWjZWZktmQlN6WDBsbkZhaTZGTFpQYk9WTzE1bS1WT0lzVXRMVmdKb2lBUnVDUUc1MlFQckYwdEJiTnc?oc=5
-
-■ 政治
-1. ペルー大統領選挙、ケイコ・フジモリ氏が大接戦制す 選管が正式発表（日本経済新聞）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTFBMNnc3TVFfM2pZY2NfZEtfQ0ZnVkxXWGk3LWs2OEFIcS14a2p1VlR2RDNoNG00T0t0bDllUlJxVzhhRVVoMnJ1X1lxeGRFQlg4NUhIVEMzVzhJMkVQTDk3V1Joa2ZPa1gxZUhLNg?oc=5
-2. 門県議、レンタカー無許可営業 選挙運動用の車などを党公認候補に有償貸し出し 兵庫維新が調査|社会（神戸新聞）
-   https://news.google.com/rss/articles/CBMib0FVX3lxTE1GT1ZuZHZoWkdiQWEtZEV0aExzdTlyY2VWd2k0dXhudUduc0hTeERvVDVXRzJhWmVHeUN6VklVcUVXUEdzbGl3cVpQTlFjVWJmOWdYLTN4R2UzeW4xcUp1bk9TOC1LOTJ0dXBMdFQ3OA?oc=5
-3. アメリカで進む「部族化」…「職場の同僚は青ばかりで孤独なんだ」「娘と移民政策の話をした途端にケンカになる」（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE51R2w4QW9pb0xJQ3h5VTdxRk15T0dsZ1lpZGNiaWZUaGYzQktFMWpqV3E1bVlCQ2ZyMm54a1Q0Sl9mS1VyZ1hHaHdvZDJ2czY4UkhfS29YNklLTlBQOXNMcmN6WlFtRFlCZ3NjSDBONFlRRGFoSk9naHowM1p1YjQ?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-04.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-04.mp3" length="1469952" type="audio/mpeg"/><pubDate>Sat, 04 Jul 2026 05:35:09 +0900</pubDate></item><item><title>7月5日のニュースブリーフィング</title><description>7月5日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 19 Jul 2026 20:15:05 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>7月5日のニュースブリーフィング</title><description>7月5日 ニュースブリーフィング
 
 ■ 世界情勢
 1. プーチン:ロシアと米国は世界の安全保障の共同責任を負う（VOI.id）
@@ -643,4 +596,45 @@
    https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTb0xZcjUzSW54TG12OUJJVV9OWHpkUVNaaHRnNG5PRTc5eEp6Y1BxRFBsOEVhdDJaT0l1M0M5alY1X3RwY0tTdnVpOXVDeDg0TFFrMl9FbnMyS3lJR0kxekln?oc=5
 3. 【靖国神社「みたままつり」】（選挙ドットコム）
    https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aVEJROC0xMmNwOUdLVWFseFJHRUJaN25CSDRCWEVldTM1djZDWElITzVTaTV3cG5jZzJOWFpGV2JuWTRuX05MT2otNFZ1aE5LUG14Q25xZng0WFZYQ0Zj?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-19.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-19.mp3" length="1468944" type="audio/mpeg"/><pubDate>Sun, 19 Jul 2026 05:09:53 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-19.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-19.mp3" length="1468944" type="audio/mpeg"/><pubDate>Sun, 19 Jul 2026 05:09:53 +0900</pubDate></item><item><title>7月20日のニュースブリーフィング</title><description>7月20日 ニュースブリーフィング
+
+■ 世界情勢
+1. 世界貿易の脅威が高まり、インドネシアのヤシの外交はより積極的であるべきです（VOI.ID）
+   https://news.google.com/rss/articles/CBMiRkFVX3lxTE1yY1d4XzlMMURNTkhzbHJPQlBSS1MzbTlXdFRrQmZXQW12Um4xWUtSaEVVVUtoRTRiZW5FSDNoVEhPcGZ2eGfSAUJBVV95cUxNdFdrQzcxRDQxWkxjb1J2NWlZVmRpMFZQRVJfX3JmR0t5Nzc4cEVTRlRXVzRZWXEzZTd1djM0N2hIamc?oc=5
+2. 谷内正太郎（初代国家安全保障局長） 私の履歴書（19）谷内塾（日本経済新聞）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTFBxRGFibUVLVHEydW0yUV9ydkliblE3S2VzSDh1Z1ZiazFTaUhPMUN3X0lpUFNkOEpEMndxc05ReG03ZkxiX1ZEZEF2dUtoTFFrUW92eGVNMzRFSVFYM0p0NktQMjdaOU14ZVdrQQ?oc=5
+3. 【社説】復帰する駐米韓国大使、韓米の懸案に堂々と対処を : 社説・コラム（ハンギョレ新聞）
+   https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KZGdyWDdvMWhUbnNNYk1VMktEdUdqRFpwWndEMGg4ZlUxb1JNSmpMZ0RiSWd6MnpDb0dJSEFOQjBUZ2lfUHpJRkotcDBUbnhGZ2Z3anF0S0w2VHk1?oc=5
+
+■ 学校教育
+1. 政治的中立調査 学校の萎縮を招く恐れ（中日新聞Web）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EaGs2eWdBcVBaNDRvS1ZlR3Q2ZU5pY0NmTXdZV0tMRUtyUThQOTNXajhYQmVHYmtBc1VXN2Q1dUxxQ1lkYTdISWRCeTlNZTk4Q3Y0b0l3TkFHLXZ4emppREJRZTZmcm8?oc=5
+2. 県中学陸上、女子2年100の山村が全中標準突破 | スポーツ,学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pcS1EYmpvVUxDS2NKQ2RkZ1F0bGx3M2lXZTd0WFBGWWlKRDVYTG1obEJldmpqMzZ1YUVMSW1EdFNBUkc0N3llOHNzek9ZVWJwSE4wMThMRllBdlM3LWc?oc=5
+3. 【注目】保護者対応に弁護士？学校現場が変わる理由【神戸市北区】兵庫県議会議員 大塚公彦（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZQlRSV2NjYl8zTEwya1BGRTF6dUZPeGxHSGVXMWFkZ21EdTNiclZJdnp3Y1RZNGFuTmNmclY5X2hZd1ZQdFBBMkRHSHZMd1VQeGtndTMtV2VHWGNqRjVr?oc=5
+
+■ 倉庫・工場・物流
+1. 工場再編進む 乳業メーカー 各地で生産終了相次ぐ 自治体など対応に奔走（日本農業新聞）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mX3FqZDluTXhrelpfcDNCRTFuV3dSQzdqTE82aTVFRnR4S2NMY0tRQXdQb3hxbFcwUlV3ZTM2UTFnZkItUkgxSk1vYlNqNEdJSG5LRlJBWQ?oc=5
+2. ニチレイ、週内に物流復旧へ サイバー攻撃で障害１週間 信頼回復へ全容把握課題（山陰中央新報デジタル）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lejFQTEpTMDdMWms3VEh3VHhJNmQwRG4xM2FWbVZYTTFkSFFodlo3YmNKMjhJRnl0RGV4NVVwRFptMEFpdFZuX2VBRnlzazMtTU5YQThJNHRkWTQ?oc=5
+3. 守山区小六町倉庫（rakumachi.jp）
+   https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlZqcE16cUZzR2gyRFhITDd5ai1UQ1VFcy1LMjU2aHZTUlJVZWt6YmFCVG9nSnY5X2lzc1E4cDdnTEZEd2RiSk8tTHhmY0JhRWhOdWx3WDdYLWl4WjV2QWlaMkJKRkpHay1OUUFtNmcyTXZmaHJqd2Y1TWNIMlR5LVRB?oc=5
+
+■ 日本の社会
+1. フェラーリに550万円の罰金刑！ ハミルトンがスタッフを撥ねる事件発生……チームはコミュニケーションのミス認める（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE5yMVZKbDhtWXh5UE9TTVNwNmlkVV9ZWHFiUDZpS2lJTmlVZ2JRQjBSOWhfNzhmM0cyUENUUXpINUl5dGxRd3YxQXVsaUJmcE11T3I0YUdITV9YV2owVFpTaGdYcDVWdDc0SXEyU0ZjTnhRTXNvNnBYZnBpNW9ESVk?oc=5
+2. 【サポーターの広場】街角から平和を（JCP TOKYO）
+   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NLU13bjBORHhodk05aC1PRmdDV2ZhS2xQQ1JOQmxpM1ZjTEwxUTdhTUJZY3p6WjhqNDVUT2p3UWZzVVY4dmJ1bnJnV3dEcWVKT3Aw?oc=5
+3. チェンマイで警察官による恐喝事件発生！ 外国人労働者を狙い、支払い拒否で暴行の末、重体に。（タイニュース・クロスボンバー）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhWDJSX21IbGRwSEZvbmtOdEgzQVNXc1ZHZE1sb1gzMEZGbHV0bHBiNElLNHZhR1dDTEFjREFydG0xLWpLYVNja1pUTkVEd0wwYzI4S09PXzY3TGc?oc=5
+
+■ 政治
+1. 社会人大学院生が鳴門市に政策提言 「面白く働けるまち」発信/離婚女性の再出発支援（徳島新聞デジタル）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzOTU1dXNmRHQ1MkRsZ3pjZ2NDTFlHY28weHN6dWVmd0c1Sy1WMEZyZ3FDLUVNYnJhdnJnNVhzRUJDVU83VkxjQnA5SDZhWTh6V3ByZjFn?oc=5
+2. 県関係国会議員週間予定（２０～２６日）｜四国新聞WEB朝刊（四国新聞）
+   https://news.google.com/rss/articles/CBMid0FVX3lxTE5DN0lZNnM5cnlfTE5ocWlSMS1jdVpBenBFb1lCVm91UFFzLWZ0Nzk3Smxzc1hWTHM3ZUtiaHNka3dwNnlRekktcDJpM2E0bDV5am1Tb09OU29EdUxuaEc5dXNHMTJjdnpLRjNhcW9uNmhfQTd3d01R0gF8QVVfeXFMUEVKc2Z5MEZwWS11UDNsVktrS2ZIN0RfaGd0UVBaUUcxRDhPd1dETzBWTkpvTk1zdzA5Y3o5SktwWjJ4SFBvTDF4cU0yamVITmFMUTN6eUtSREtXSkYycFV5Sm9GRXhuQW9YeEZ1Yzh0OUFHTDZiRFpDbUQ2Mg?oc=5
+3. 「副首都」法案の成否焦点 延長国会 中傷動画陳述書も注目（山陰中央新報デジタル）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YSTVLQkNaSFpkRk82TUJ0d242dFllRW9lWEFvdXBTdExjb3B0WFgtcS1zRTZZcW1qN0Y5MlRWLVVKVUxTcUhTU0FSLU5Pa3M1c1ZkN21xTGs3WGM?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-20.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-20.mp3" length="1235088" type="audio/mpeg"/><pubDate>Mon, 20 Jul 2026 05:13:32 +0900</pubDate></item></channel></rss>
