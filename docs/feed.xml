@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 23 Jul 2026 20:35:26 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>7月9日のニュースブリーフィング</title><description>7月9日 ニュースブリーフィング
-
-■ 世界情勢
-1. リトアニア新政権が対露強硬姿勢を維持し中国との外交を再構築へ（Межа. Новини України.）
-   https://news.google.com/rss/articles/CBMidEFVX3lxTE1pcHp3LWlnaW84TFRuZUdyVlQtZDBVdjlFZW9qaFhvTVg1RVJ2SG9xZ2FwMkd0QXJnbXdGNE82RzlpNEpsUFJaWnN1Vm80ekVEcE9MdGZ6MTlBanV0b19VemtxRUl3elFyWTJNZmV0Z1cwSm5R?oc=5
-2. 経済安全保障に秩序を 米外交問題評議会シニアフェロー エドワード・フィッシュマン氏（日本経済新聞）
-   https://news.google.com/rss/articles/CBMia0FVX3lxTE9jbGJBOGQ0T2k1QzJUVGc0VkJNelBYNDY5alhPXzczQ2N4U0NzOFlfVHJqanNINmhZNm9seDh3MkhtOXh4LTNDRHVtREJPZHh3NUNTdTNSY3g4SzBIQV9nZmtYc1pGdFhkcFdr?oc=5
-3. 谷内正太郎（初代国家安全保障局長） 私の履歴書（９）条約局（日本経済新聞）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE43N0hvcXRBRTVFN3VzUnFkWURKeVdLSTBaLVo5YUJtWkhZRW5Vd3VqYjB3cEIwbHlqTmd1cmV3alpISGRqV2RLS0FBdzVBclEteXpxZmpEX215TTluVHdXVjFvUVIzNnQ0aWV4cg?oc=5
-
-■ 学校教育
-1. 文部科学省「AI for Science萌芽的挑戦研究創出事業（SPReAD）」に情報学部櫻井淳准教授の研究課題が採択されました（bunkyo.ac.jp）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTE5JTEhCRzRrblN1VVdjQ2U3NW1LTE1pQXBSa3lPZFo3SDNjOW9vMFh6QWxtUHg4ZGlKV2RjQ2doRGtPUlY4ajFiQV8zS0RwajJJRGlJbmJzY2NpRXJIclEzbldrTFRwWlZLN1E?oc=5
-2. 島根県・丸山知事「頑張ってこれなら仕組みおかしい」 文科省の高校改革 島根県内１校が不採択、スケジュール感批判 「アラブの石油王じゃないんだから…」膀胱がん治療、退院後初の定例会見で苦言呈す（山陰中央新報）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE9hQV85NUNRMWJVSHlJUndiUzlTVDdXNkNrOENuQWh4N0ZkY1cxeWV2a3VObWJ0cTdyZksxR0ZISm8zdHRkT0hmRlRmT1ZERjBJU0lkNkZDZjRkSk5LN2lqWEx3VDZQN01MQ1VxUlVTd29JUkQ3Y05wYmhfWkNUTEU?oc=5
-3. 島根県・丸山知事「頑張ってこれなら仕組みおかしい」 文科省の高校改革 島根県内１校が不採択、スケジュール感批判 「アラブの石油王じゃないんだから…」膀胱がん治療、退院後初の定例会見で苦言呈す (山陰中央新報)（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMijgFBVV95cUxQQXhDLWVwa1VhMGZTc1ZYX1h4RlM2endyd0c1SEZuNWlNcnJiZnA0MXBrTWRTQ1N2cW53TENvRS11M2ZCV2NoRTJ5QnI2UTV6elpoRXZ5cEZQdWg1Y1ZCQVFZM1pqZHNOekVDZkpTazRBQ00xMkRMVVd6Yi1SQ3gwNG03Z0FfVGF1X0dxNHRn?oc=5
-
-■ 倉庫・工場・物流
-1. 最新植物工場を視察 鈴木農相（日本農業新聞）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0SFNNNklOMC11YVlqZm1DWEM0aEdDTXM0dXNOQnBURnRYckRFLUtjdGR4ajV2cHRWUDAyWnB1MUtxZWxUSGp4Q0YxbEItVkI1ZTBVZWtFcw?oc=5
-2. ペガサス運輸 土居IC物流センターを拡張 年内完成、総工費3億円（愛媛新聞）
-   https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TYnBleEtMaUJSMU5VSmdBMFNEa2ZRWElIRVoxUzVDY0RlRGVDS2c0eW1RUHFwYkJQbHZzNFp5b2JKa01Zbi1NRjUzeUR5OFJoZzR2TjAxU1RmOHRXNnJUcg?oc=5
-3. 田中貴金属工業・湘南工場／燃料電池発電設備が稼働／発電能力５００キロワット、ＣＯ２排出量２６％減（日刊鉄鋼新聞 Japan Metal Daily）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xa2k5VEJaR0NjaEx3WlJ2SmNpVmoxaHJycHo0UUtGaVpqTUgzWWFRdXJZbWhSei1lZ2pmaFhSLTVpaFd3bF9URlpoWFpFcVlNWlJxYlJtWEc2eHpRU3c?oc=5
-
-■ WMS・WES・WCS・RFID
-1. アスタリスク株価の上昇理由を徹底分析｜RFIDセルフレジ・DX戦略で急騰した背景と今後の見通し（EBC Financial Group）
-   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrVXVJQzAzNF9ZMktsdUxrN2RsRmkyWWpydk1QYVhQRm9lSUd2cTFvQVY3U3ZuelpTTnRwSjRnOXk1NHpoZGg5NWJjTFVKRHk5WFE?oc=5
-2. セイノー情報サービス、第50回物流ITソリューションセミナーを7月24日に東京・大手町で開催（PR TIMES）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTE5JOEg0Sml3OE41aDl3dEVnc3BHUlQ2dmZReHVfalZIRzhvWENtVjlnZDR3dlJfMU9aN1FNQUdTZGhWeEd5eHh2RGpXQTNBMTFwbGE4d251Tnk4TVFsRVJIby1TbmxlLVpxTmc?oc=5
-3. オンザリンクス、物流の利益改善効果を2週間で可視化する「YUKAI™」利益シミュレーションサービス」を提供開始（PR TIMES）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTE9WTTFHRFp0dnJHdGJGbHZhWUFwQVdQczlTWFgxNEpwdDZQZHRBNkIwMmlOLU1HX2c1cmYzZ3ozYndISmZuSkVVTVZoa1NLS0xfLVVTRFpEMVdqeHpsVGZrcmxHWjN1bVEwSWc?oc=5
-
-■ 日本の社会
-1. カンボジア拠点の特殊詐欺事件、かけ子10人を再逮捕 愛知県警など（中日新聞Web）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tUXF0VFkwYTUwZFBDN2pLQUJ6c3F2MW12ZmhmV2FlbnBsdXhJQlRhbDlGU1hhZzRkZGZfOXdBem41c3FBbC0tSGhSZzQyYW9qMjR6eA?oc=5
-2. 写真：【日本代表】中村敬斗〝ソックス事件〟にブラジル戦の大誤審 ツキにも見放された森保ジャパン（東スポWEB）
-   https://news.google.com/rss/articles/CBMiYkFVX3lxTE96RDdUcmJhNGd1NlNRRkJjNG1kOHFIUnV5Ymo2b1R0UjdzOVlWS2R4Zm1JM2ROQmJGNm8wY3EyTDNVam9HRVpOWWZCTDZWc21SUTVrS1Q5NmdwbXY5VVZ1aDNR?oc=5
-3. 日本の倒産企業数が10年以上で記録を樹立（Laodong.vn）
-   https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ1ZCZUZZYi1yd1Z1d050UllOc0gxWUU3NXRQdkRhS1hnTjZ0MDlqTlBCamw1LXVRcnJfMTAycUFvbHFReDFkZTNlYzI5MHY3dUNxWlNBRHRiSmdJai1tZklqdWN3S05GdkZ1VU0wNHVrZFpSVlpic3FBTF9PWHVPeDJWc0JiWVA4bjhhRGlUTjBsTW44dm56cW1WVzlabTVMbGFqZVZoUnZoYUtndTBMZTlB?oc=5
-
-■ 政治
-1. 全ての医療機関と福祉施設の網羅的調査、年度内は断念 優生保護法の強制不妊で国会検証会議（京都新聞デジタル）
-   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHS0hJQTFBZG5pb0lyZWJ6TzVoZUNXVWkwNTVWVDNaOVdPWmswZ0thbFZkR1ZDd3FsNGxJZmRycUs2R0lCSWpRXzNuZ1VudmxtTVFHS0ZUaFY?oc=5
-2. 読む政治：正常化も「綱渡り」の終盤国会 首相の消極姿勢、党内から苦言も（毎日新聞）
-   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ISEVRYURBcklpUmtMWTBNOUJHb0VGczJTa19Ka2ZNalBONkp5eGpmMk1oRk1Ja0xYSEhTMEo3TXpIYVpFTE9ldjFaRVFlVmFBV3JsV0s2UWRKZ2xfRTRrX3Q4NnFTaTVZ?oc=5
-3. 【#みんなのギモン】高市首相、混乱続く国会どう正常化？ 与野党激しく対立（TVer）
-   https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiNE5tbVBmSGY4MWRDbzRqUGtic3VGSlB4SDZHVjJoOGpqZGVyOXRRMWl3aGR4aWdjQ0U1MmxUSkxDT3RiQTktWm5xNA?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-09.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-09.mp3" length="1747584" type="audio/mpeg"/><pubDate>Thu, 09 Jul 2026 05:40:19 +0900</pubDate></item><item><title>7月10日のニュースブリーフィング</title><description>7月10日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 24 Jul 2026 20:44:38 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>7月10日のニュースブリーフィング</title><description>7月10日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 高橋洋一・政治経済ホントのところ【航空自衛隊の名称変更】宇宙の安全保障、切実に（北國新聞社）（Yahoo!ニュース）
@@ -651,4 +602,53 @@
    https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0R3pvVW01SnFabXZPb05fR1p1aWJxQXBTUHVfUWNpRi01YlYwb01TcGNCdlZhbFRZOGZxUXpqVjFLVW9LSVdEMlV2TElhZVFmMWwzck9fWQ?oc=5
 3. 辺野古移設を見直し 下地氏が政策発表（沖縄八重山日報）
    https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQbTVtRnduRzhzei04dzNZdjZSbkc5NjJHM2ZmZnZORzRUbFdGdzVZeXE2QUVqMlltMFFKUE40Si1BOF9GV0NSUW51ank1a1ZCLXpEYW50Njc?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-24.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-24.mp3" length="1507536" type="audio/mpeg"/><pubDate>Fri, 24 Jul 2026 05:33:35 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-24.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-24.mp3" length="1507536" type="audio/mpeg"/><pubDate>Fri, 24 Jul 2026 05:33:35 +0900</pubDate></item><item><title>7月25日のニュースブリーフィング</title><description>7月25日 ニュースブリーフィング
+
+■ 世界情勢
+1. 緊張する独ロ関係 日本は現実主義外交を＜佐藤優のウチナー評論＞（琉球新報デジタル）
+   https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3Z2dEa3FwMTFUSUFuVk8wLWlkUUNxbFplaVMtU0JXQTJsV0pZc0RFZ2lwNWt4REU0WFhFSGxBdVNjWGFCNlpmSHN5Q3BCRURhbFB2ODZfaGZWZzVuNFRNRw?oc=5
+2. 谷内正太郎 私の履歴書（24）北方領土交渉（日本経済新聞）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTFBjNXFqSnVNbXFqbTRNT3YxYWlhX3I5dUdLbVUwblFRMG1mTkJNdUpqUUxoUi1DWVdRa2VqeUUxeGoxdi1TUWpoSXFNY3VlNnRkQ29ES2dSWUVrSUxSSkpHR0dfdXlNd1NLVFpQYw?oc=5
+3. ゼレンスキー大統領が8月以降の防衛・経済・外交の優先課題を示す（Межа. Новини України.）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTE1tVm1UTkxqd0VEdmVHTndyQ0JfRm0wc2RJa2hUUi0ydWE2bzVpWjB4WGF4bHdrdUU4ek9UR3VYMHBraWhzUFpZNEtFMUI1aEpxUm5ZeDM5bFhWOGtVWEU3VVNmd0ZwMFhSLTFVNQ?oc=5
+
+■ 学校教育
+1. 岡山大が代表機関の「おかやま地域未来共創プラットフォーム」 文科省事業に採択 地域発展へ人材育成、定着（山陽新聞）
+   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBraUVuczBTZ01scTNFRlRIUGFucWRFOFM4SUtGWDd2LXJFeWxSNGxIcGtOWk5YdzA3d1JLSVVyYUpnZ3hnY1g2a3ZOY0d0RXNVSWc?oc=5
+2. 全国の教職員の働き方改革を実現へ 文部科学省校務DX等加速化事業（事業II）に採択（ニコニコニュース）
+   https://news.google.com/rss/articles/CBMie0FVX3lxTE5CR20wdUNLbmoxbUY3NTlQdUNncndyRXh1dS1Ec2VEQzdHMHZfTjh5XzJ4MFM2b0dYYWZuV3hDeTB0R1NOcUNscVBHVU85Wmg2ODFSNkJ4Yk1nRU84c3VyaE1BbzF5QV83d3pDVF8wdklHYS1OMnREa3k5QQ?oc=5
+3. 文科省が全国の大学に「積極的な資産運用」促す通知少子化による進学者の減少で（朝日放送）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4eW1QTUNhanI0a0Vzb1duV1hDbGhZRzVBS3pFQ0toZVliQ2pPc3FKbG1wbmh5N2RMbjZrZVFyWnhOSkktaVhSRllRYmpteVdjMG5FSzN6dExmdXNvMFNQR3ZkMEkxZW8?oc=5
+
+■ 倉庫・工場・物流
+1. ウクライナ軍がロシアの通販会社倉庫にドローン攻撃 物流網への攻撃強める ロシア軍は首都キーウ近郊にミサイル攻撃 10人死亡（ｄメニューニュース）
+   https://news.google.com/rss/articles/CBMigAFBVV95cUxNZk5xY293dGFhSjlEa096Nkcxa1otYTNuTy1SM3FZVDM4T2Z1djVTWndkU2xabV9Ha2piU21HSVFGOXEzaG9UTlFkRThHUnVOb19XbkNjbG1QZ0hvcDd1bUkzcElEYzFwdmpZZWlQcHJrQXdKdVlvUC1CaVM3cDhtNtIBc0FVX3lxTE9PUWZ6VDBNMTdTX1FOOG9STTY4MFF2WW5qUUplVVprcEhGOUtyTWNqcW5uMnNtZEdjRGp1SW93OUU2ZExQbE9tYmtRNWtma1ZJeHotV0EzRVlfX1czQXNNWm1BUWdOaDNjTUFfQnAxSUFKajQ?oc=5
+2. 乳製品工場新設に融資 生乳需給調整へ 農林中金と日本公庫（日本農業新聞）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCN3dqcC1DZTM3VEJsTGFlbnZTUV9FY3V2dVNmbl9Cb2VhQVlodk5XRWItTmZHblVKZTROVVRJYjZGR0tsY1pJQVR0VU1UNWFQNUFsR0c3VQ?oc=5
+3. 島根県内最大のコメ倉庫完成 ５０００トン保管 斐川に集出荷集約 ＪＡしまね（山陰中央新報デジタル）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLNExacWRXLTZzRG1oVHpEX0tnSzRyc1pOdVFDNmRnYnVhRVlUbE1lZ2liSVpCbGMwSkV3X0V5aW0xX2FCd3VGOHZfdWw0NExJenp1QUVJLXBKRGs?oc=5
+
+■ WMS・WES・WCS・RFID
+1. セイノー情報S、成果あるDX導く経営判断力問う（LOGISTICS TODAY）
+   https://news.google.com/rss/articles/CBMiSEFVX3lxTE5YZmJyYWFZdGZwWmlkT2pKU0dNaGh1U3RDcVYxMnVheVBncjZhb3k2RHh1OHQySmJ1MXdkYzVYbzB6QXUzanpWYw?oc=5
+2. アート引越センター／RFIDで引っ越し業務を革新、日本DX大賞2026で優秀賞（物流ニュースのLNEWS）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBybHpnZVRIQkdPRjM1QndaSDFfUGdEako2UGtjeGlwaFhEV0JVOVExZzVhQkt3b3NRdTFiVFY0Vy1aWEhuamhVVWw5bUtPU3JHdnlSZw?oc=5
+3. アマノ／工場・物流施設向け入退管理「ASAS」を販売開始、バース予約連携も（物流ニュースのLNEWS）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OZE42eDhHa2t5UXFkcmNJVVN2YV91Qm9VR0dRVVVDZ3RfaW1Bc2ZwbEJ1a1RkT2dRdVhyZ3E4UVhvM1ZmUzBpWlpVOHpSMVozOW43cg?oc=5
+
+■ 日本の社会
+1. トランプ新関税 日本12.5% 「強制労働対策が不十分」 軽減措置は継続（日本経済新聞）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTE1YMi1xd2NOZnUyUVl5OWU3WHMyM2VqVy1hcUR1ZHpBdS1Ha2JzUGZxaUQzMGN6UjN4VU5feFRBQWxUSk9rSXFOV0ZoUjNJSTdhcW9tUG1UNjZVOXBmU1BDQ2dDX2JsZ2Jrb2g5Qw?oc=5
+2. 医療・介護の社会課題解決を牽引する金融機関を表彰『日本経営グループ ヘルスケア価値共創アワード2026』を開催（ニコニコニュース）
+   https://news.google.com/rss/articles/CBMie0FVX3lxTE5YM25pWjQyUlNyZ0pWclZsZjFqa3QwNk9oZVN2Tl83SWF2WS1neVpQZGhnN3ZPRjN2VjJFcjVCa0JsbmgyV0hMOVFnT2UxWWhKSFRuc0Z5WFRDVGJ2dXRDY0IzMFRUT0tLcDdoU1NpUlBiSVh5RXRPZ2R0Yw?oc=5
+3. 赤軍メンバー パレスチナ解放人民戦線…：日本赤軍が起こしたテロ事件 写真特集：時事ドットコム（時事ドットコム）
+   https://news.google.com/rss/articles/CBMibkFVX3lxTFBXenEtRXAtV1gwcmZmQld1bjQ5UHJldXNzcURCTVFFUGlQMFRwVHdfWnZmQzNQaTY3cUhGZUxyMW1DR2VyOHMxYjBSUVEtY0ZvZDJ0cFlOeEg1YXRqWDhHdUNOVndsTGtKbUVFUnpB?oc=5
+
+■ 政治
+1. 長野県知事選挙 期日前投票始まる ８月８日まで（市民タイムス）
+   https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QalZtWWFlWWh1c3RzV21vdENRTll3THR2d1Q0ZTVoa2ZINWNuWkM0cTZlcnhWZXBxZTU0b2xaUzNTWl9UYWlJX2xsb0NQRU0tcDZsaFp6M0VYdWRBRS1qM1RubG0?oc=5
+2. 国会が事実上閉会 合意形成どう図るかが次の国会でも課題に（NHKニュース）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNX0JmMmhRUGJKSDd2R3BEb1FKNWN6NEp1a2RPaXFCS0ZsOEs0bllpbzlON1MycEZoOHJOSFZESGhCenpXRWpFLTlrRF9pMi1oYVNOcmQ0UFVwOEVHb0tJ?oc=5
+3. 「副首都」法案欠陥多い 必要な予算規模など不明確 記者会見で西田幹事長 2026.7.25付（公明新聞電子版プラス）
+   https://news.google.com/rss/articles/CBMibkFVX3lxTE1oLVhUYUJnQklrcnB2R2dxa1hzV3ZEVVFMaXlSSF9iT3JIMGxnTEhSWmJiQTFPSy1TdkI4SE5aMDFqYjRyWFlGdGt3LUFNRFdRMC1kaVZubDVtRjlPVzhBMTZmeUgyeVVIbmhodDJn?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-25.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-25.mp3" length="1569456" type="audio/mpeg"/><pubDate>Sat, 25 Jul 2026 05:42:52 +0900</pubDate></item></channel></rss>
