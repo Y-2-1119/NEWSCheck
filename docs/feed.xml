@@ -1,46 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 26 Jul 2026 20:29:28 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>7月12日のニュースブリーフィング</title><description>7月12日 ニュースブリーフィング
-
-■ 世界情勢
-1. ゼレンスキー大統領が外交人事を刷新し武器供給協力の迅速化を指示（Межа. Новини України.）
-   https://news.google.com/rss/articles/CBMicEFVX3lxTE40ZGVRczRxX2ZsMnhDY1BRdlctRFdTSGloeE9sT1BqV3NLLUlFdGRaWlVkcWJfS2ZIdTg1al9fWENkRG9Qb2Y4ZDdGZzl6SGRHSjJRVXdDcmY5eWc2RlZUOUwtVVNFdFRDY0FaU2pmZTQ?oc=5
-2. 「イランは外交を利用して『危機管理し、時間を稼いでいる』」とバーレーンが国連安保理で指摘（arabnews.jp）
-   https://news.google.com/rss/articles/CBMia0FVX3lxTE5NWEtSOTRmOUswbTFLOHBSTnJFRll5ZERvT2tOWkpBb1Mxd1Vwc2NjWnpySEtuU0s3NkhQWHk3VWQ2bUxkUmVCVlBxZG1nMDNxcGZXTFQxbHN5emNKdU9ReXVuXzg2d2NTQUxF?oc=5
-3. サウジ皇太子とトランプ大統領、米イラン問題や湾岸地域の安全保障について協議（arabnews.jp）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE5JODNaUThlQVZGYXc3RHVVTXVvVURxYTJFbEZiRExxUXBrMjc1OEJxZFBIS21LV2JtUHY0MEVrVTJOX2dNMklTTzdIb0dLeVpKaVZVc3d6VC02MEEwNlc1OERwMWtSbmZFRUs1TA?oc=5
-
-■ 学校教育
-1. 郷土新聞作り こつ学ぶ 本紙記者 福井大附義務で出前授業 使う新聞ＮＩＥ | 学校・教育,学校・教育（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tWXV6cS1SNXhlaUJidWk2eUpLdHJ3QVNZSVhjUm9LNnNQcEpHbW1KazIxS3JTN1ZwZVlNWmhreks2UHdhQjROSDV2MEZkbGxFSjdXYTJDNEJqR1cxNnc?oc=5
-2. 若狭高×台湾、フィリピン 共同探究で国際交流 テーマ設け１年間 | 学校・教育（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE05Z3IydzFQby1vd2t2SktabXIxOWg0cHFMOS04TlRmMzlUNThkcDAzcWRxbkhnbHVTX05GLWxqazRTcEc2NVhSYWwtVVNKNExlQmwzQS11RDFXZFdJMHc?oc=5
-3. 身近な疑問 探究成果に 外国人との共生、目の健康、防災… 鯖江高３年 最終発表会（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCUGRKRHJzLW8wRFpVeXduSWExWnktUVhkOGl2cUZJcFREX3Jod3V5cHdCa2JfMWc1TGc5R2JfR0VrMWFITF9Yd2k5TFNfUEtpWGROcF9kVjhIY19Manc?oc=5
-
-■ 倉庫・工場・物流
-1. Ｏｉｓｈｉｉ Ｆａｒｍ 古賀大貴ＣＥＯに聞く 植物工場を世界産業に（日本農業新聞）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lVUtXcUxCTFFqb0VUcWtRVDYtR1ZpRG1WN3FxTU42UkZnMmtzR2ZSZEJiWlJrTFhwTGlvQ3BhUWFwb1dyVXlLSUhNWjNIUENWLTlXTmFEVQ?oc=5
-2. 東海でデータ拠点開発熱 需要拡大、遅れ挽回へ 工場のフィジカルAI導入進展も呼び水に（日本経済新聞）
-   https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXAyMjM2ZEo4V1ROY1lPVnZUVFZpRk5ia0xmUVI1M0dRS0ViN1VfQXYyRTRZek54NDNGak0xQ25RM19IWlpvZ09TNHBEcmNPXzE1aUJrQ0VqaGJFZ3JLeXFiQ1dzMDItbDFjeC1tVUszdFF4eG82S3NTYlYwQkhEN1VDTlRwa2VTZ2FxOEp1ZDZ1a1pJU0I2aV9nQzZRTTF4UHc?oc=5
-3. トヨタ、米工場に５８００億円 メキシコから一部生産移管（福井新聞社）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTFAtR3NVajljblZKajYtU1NiM0hhaEgyaFZVR3YwZ2hqbFFnTFVDWkk0Z0lHLVJLSm9pMHBaS3JISGZxTUVzcFdlcGlLUlhsRjVhV2JHQ25oazQ0QUd3ZUNxRUo5aG5TVmcwX3hjVw?oc=5
-
-■ 日本の社会
-1. 『告白－25年目の秘密－』ラスト3分に“衝撃事件” 視聴者戦慄「邪魔するものは許さない…って？」「疑念をもたれた？」（オリコン）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE81bEhyanMxOExHM2dmblRLTFJ5RE1zNzZ5RElWU3ZkMjNlMTRBMXotaUV1Y3JUOXprVTJaZFVMWGpSSDJwX21hakppZzJFRlhtT1RkT2ZYa2pINlFqT3Q4dXdtZTZITFlqd1lqY1c5dDhsX1U1T1pSbm13aTNfeDg?oc=5
-2. 『告白－25年目の秘密－』フェイクドキュメンタリー配信決定 久保史緒里「考察の手助けにもなるかと思います」（紀伊民報AGARA）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTemd2OFh4ZkhBN0ZnZGJYQVlQTWFTdWt2ZTdoX0dMTS1tcmdQRjc3NF84ZWlUN3h6Y01RYzFEbnRacmJ2VEt0THlRY3hUOVU1ZmtKeUFWRDFXaG5pMEE?oc=5
-3. 松村北斗主演「告白－25年目の秘密」Huluオリジナルストーリー配信 本編で起きた“事件”数年後視点から当事者たちが証言【ルポ・あの日の真実】（モデルプレス）
-   https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zcEdnNk91U3RJV05Vc2xHRHZuMDF0RGRPZmJwMldxY2o1d3NYLVF2LWZNYXRpTV82RzBvWFhmazc4QndnMWcyYUpNRkLSAUhBVV95cUxPcF9Va1IyNEhnRFhKNnBLLXM5TlFrWDRMNnprb0VTVkZqdTNXaDVFU1ZWSzlvYWxrSmd5emx1VndrazZuUFlIbkc?oc=5
-
-■ 政治
-1. パパ必死！（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE56SjBGZkIyblZzQVRtOVhDU0ZzUkptN3RXaXJBMmlqZkVwdW9JbjNUVlBnendlNUFGaXprbEVDTXAyRzhCYmR6bnRvMWZ3alNVVU1PS1FRWjRYTGlMdFdF?oc=5
-2. (国会が正常化)比例削減法案は先送り 野党が一致結束して強硬な政治姿勢ただす 首相、衆参予算委に出席へ 2026.7.12付（公明新聞電子版プラス）
-   https://news.google.com/rss/articles/CBMibkFVX3lxTE9ibFZHc29ZOXhuS1RtUjc2Z21Pb3pNT0YxaGJ1QTluTnMtTkdKQXp2MjVab2xXV01scTFYWnhucTAwalBqWmU0X0xxeEU4YllDUV9BNU5IeGYyT2FBUGp6OUo5V2VXT016aVFtbXlR?oc=5
-3. ＜ニッポンの米＞需給安定へ助成拡充を 新水田政策で若手農家 全青協調査（日本農業新聞）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IY0FUWU1mSkN4akpNd3NTNXpwZmN2bTFPZkxJZEJhSjl3ZTBHTktnazNLeWF4OGJTRndEdDlwRUpJZlMyMGYtdzMxX3JoRDliMHhfNENqRQ?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-12.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-12.mp3" length="1416096" type="audio/mpeg"/><pubDate>Sun, 12 Jul 2026 05:13:39 +0900</pubDate></item><item><title>7月13日のニュースブリーフィング</title><description>7月13日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 27 Jul 2026 20:50:17 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>7月13日のニュースブリーフィング</title><description>7月13日 ニュースブリーフィング
 
 ■ 世界情勢
 1. ウクライナ、首相交代へ 近く内閣改造 対米関係にらみ外交体制固め（朝日新聞）
@@ -639,4 +598,45 @@
    https://news.google.com/rss/articles/CBMibkFVX3lxTE1iZmg4U1dEYkhocWlvdXQ4eEtyRkU1SjZVQmJiRW5ta3lEOFJTaHF1MFM4aTgxY2hQcDR5M1ZDUjg0ZGdFZFA3MGlFUm4xSFRGSFdZdkRkNGlLWWh0QnlYd1NaazlucFRObU1FaXRR?oc=5
 3. 若者投票率向上へ「選挙カフェ」 次期北九州市長選に向け 高大生が企画立案 ／福岡（毎日新聞）
    https://news.google.com/rss/articles/CBMib0FVX3lxTE9NZFpHd1UybG5wanJ4ZEN0MUROT29OZDJ4YUlMYk5UZ3cyZmNKZ25EbEF3THpNTVhKWFZ5ZEl1LURtMW9fUDVzTTZraTlzeU9TdnhnbGdmWnFPWHFaWEFmTTZ3WE56Nk40OVEwQmMzcw?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-27.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-27.mp3" length="1420416" type="audio/mpeg"/><pubDate>Mon, 27 Jul 2026 05:27:45 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-27.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-27.mp3" length="1420416" type="audio/mpeg"/><pubDate>Mon, 27 Jul 2026 05:27:45 +0900</pubDate></item><item><title>7月28日のニュースブリーフィング</title><description>7月28日 ニュースブリーフィング
+
+■ 世界情勢
+1. 外交巧者タイを引き寄せる中国 トランプ流「紛争解決」が生む遠心力（日本経済新聞）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTE16ajI2RVd2dGo2NDJjSFZTemlzaFpqcDB5YkkyOVluZFJGR2U4T215b2VudVFvTXZrY2wzM3FWSHFRazA3blVfNlJDaFZtbVlyX2NOSmktcER0VmJxSF9DRUk3TW54aXZ0YW9tcA?oc=5
+2. 職業人の経験、やりがい学ぶ 名護高 医師、薬剤師、外交官、弁護士 高校時代のこと、学習法も（琉球新報デジタル）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE16TG04cTFOZUpjcGkwV090YjFIWDgwMjM3RXpDOTlIVThocUdEMWhhdWtsZ0pOWFFPRmEyM0M2VWhEOHM2NjZDM2tjTkJrdlFmc0RSN2dlWExtSjY4N1E?oc=5
+3. トランプ大統領、イランとの外交協議を進めている（株探）
+   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwbldNQUdhOUZWczRHeTdSOHJhWFdIODJVc2lLVG1sVXNtSWRqb1JnYTJLeVFRWHZfVFRUbzVwOW5sSWktQ1E2SWZQY1dxckplZFE?oc=5
+
+■ 学校教育
+1. 【叡啓大学】本学１年生の大崎哲生さんが文科省主催プログラムでドイツ派遣 全国８名の代表に選出、本学からは３人目の快挙（山陽新聞）
+   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QUjVMU084ZVBPSUYtRDY4d1lkS3d1bVhHcVZNZkNzQ3VTRy1SSFI2T1RtZDJ5bTlpdWZGUUk5bzd1UTdGRlViUlI0Q1l4WjctR3c?oc=5
+2. 【第47報!】辺野古事件で文科省が報告書を公表するも左派の皆さんは事実を見事に認めたがらない模様/５月２１日に辺野古に学生を連れて行った大学があった Carmelo Anthony (aiXt4PkGEI)（Mshale）
+   https://news.google.com/rss/articles/CBMiYEFVX3lxTE44XzMtdTF0VFZvRy1PX24tZzVoa1ROTGprX1BxWXpubHVDY29KSG5ScklHMTZsT2szZUZ0SE9sclJEUHZFZFY1UGFaSS1zb0tnMzRvUEJ4S1JmYWtfSDdkeQ?oc=5
+3. 【見附市】学校だけではない「学びの保障」を考える（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1OUY5UjBLWWE3RkwyR1ZwUklrTlJIWGk4MTJYZW9sZ21GNURmb2VwQlVTYThNbU9VYzItRWhSdnN4WVg3ckNiRGN1YTJ2bTBFaVBiR2gtbGZBSkVmZjRz?oc=5
+
+■ 倉庫・工場・物流
+1. 倉庫の床に砂まき「防震」、建物と荷物の揺れを低減 金沢工業大学など開発（日経クロステック）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MYnZOS050enJ3WjFydjlqU3h1Rm85bVBaSkdLYmc5SDFmVnRoc2dlbDA5ZmpxNlZvaUU2Uk9sejBJVW1QYXNHWVRFVW1MbUhCZWNaS3lDaEZBYzA1Y3hGNnZqLVZ4LVE?oc=5
+2. 社内物流トドケール、佐川・ヤマトと連携 送り状を即時印字・印刷（日本経済新聞）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTFBjd2k1Vzd6d2dWZTF6OFdFQUktZDBBWm5ISVVsQTdBZTZaOFRGcnF2cEsyYkVpWG4wMmhKMGhuOGRoTnJVaGRPLWlGM3k4cW9ySXFTOThJbUl0cFRobWhES01PQkdDNUhiak5TQQ?oc=5
+3. 変わるトヨタの英工場 GRカローラ、北米輸出の拠点に（日本経済新聞）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE82TGJ5Nk95QlF2SlRSS2M4eC12YWhMSkJac3cxcnJFLTA5SE9SMkh6VW5kNk5MTWsxTW1XOFQ5T1pNYnFPMVJGOHBoMzlLQ1laczdGZk5nTTJqRHYyanVZM1VtbEo5Q1NFME5YVVJWal8wMWxnckViRTZCcUI3alE?oc=5
+
+■ 日本の社会
+1. 中国、米追加関税の撤回要求 「強制労働」否定（日本経済新聞）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTE5BMFRtNVFOd0VlY2ZiSlNWTjViSmlMOG1UemhjMlJhTGlzUTNEci1ma2twcTlONDBwWHVoTDI4WnltR3RoM3g0YzJYaW15WHdhVE4wVUUwUGctXzNYXzM4eDhNeU5mV3VaQmJqMw?oc=5
+2. 浴槽に足跡……日本のホテルで不可解事件？ 中国ネット「怖すぎる」「あり得ない」（ｄメニューニュース）
+   https://news.google.com/rss/articles/CBMikwFBVV95cUxPOWVzRHB6Vy1wNU52WmJfV1FyWDhJWDBjdkJIUmQ0c3lhaWdIOWptNFBKR09DdldYRW1GRFFuYWE4dV92LUNIdk5nMXNiQ0owa3hGYUdCYU81NmtlaW0tZmhkbmlnd3JfMkstRUlrcUQweFhwY2ZkNHpoakpOTVhuRjhlY2drMmpBcHVDSkNPVzlUaWfSAY8BQVVfeXFMT2lhMWZ6NEJobGhSWXM0T3pKQnpUZ3lhaVFVYnhjWnJLdnMxYmVHalNsai1jY0Fia2lsQS1PYVdQS1FSN1FteGpWYmUzUVM0MTFWS1FWNXVLSzRoSDJ6TUNZVWRoSkZmMzRwdHhGSnhQaC1CeDVIbThDMmJtQzVjYjNJOXVDa3JoVnpaWXJqdWM?oc=5
+3. 「入院患者が死亡した」老人ホームで傷害事件 86歳の男が同居する89歳男性に暴行か けがをした被害者は5日後に死亡＝静岡・磐田市（TBS NEWS DIG）
+   https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xcndEZkNXZHVURGNyRHN2UTdqOTNPOVVZWlQxcFprUkRneXdXZ1d6QTlyeXZUZGtiSjhRRGJrV0JCSnFfem9VY1Z4WVZBLWZ5RENuQ1FKQjJjQQ?oc=5
+
+■ 政治
+1. 高市首相「英国の首相は年間40時間程度」少なさ指摘される国会出席「日本は他国と比べ長い」主張（ｄメニューニュース）
+   https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX0tUeFUtWnFmdFZVMUhXWDljYmZwV0U4VExGSU9xMmRHOVlfRzg0b3pDVXowbU9kRElpcGhfZ2ZUNms0dnVzUHd5VktSWHRlRUlNMGlwZzhfcU9rU1p2UDlnbFRDTVRkZlJYZjk1WlgyUkdlNUFfTU41ZG91TXpQUFNHS1ZfUnMwWGNPMzdUeEotdExtVjN6QW5CU2Q5Z3diYjlEZkpTTW_SAZsBQVVfeXFMUGhTcnE4akFlekVVeFdGcFd5SGp2MmZmNl9CbVc4VGxyclpaWnhPTmpyMlVWSnBSUHpKbk5udC1HcjZySUpQTlJBT2xpWkRtXzVYd20ycVdIWG9TZFJBU0xnT0kzdXhPeExUdHVWbFlnRmpvYlNBbkdNajRqMERJY3JBRW9Dbzdwcmp5LXdPM1gzM1FJRlllRzc3T0U?oc=5
+2. 【中間選挙】何としても勝たなければ身が危ういトランプ（Wedge（ウェッジ））（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE55ZjVHTXZsbXotQngxZXNFNHQ4bldrVTREbC1YWTRTenM1cWRadHJsemNYRER3ZTNUZHBMbzNNNWNIQUpURHZldDNxb3d3MzdMUFZqeWxZX0REa1RETHI5RlU4Zjc3Z0R5ZHV1RnU4cEZ1S2d2UGFrcm4xRDN2Yjg?oc=5
+3. ［ニュースアイ］特別国会閉会、農水８法全て成立 ２７年度予算が焦点（日本農業新聞）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTE54UjBfZURrU1lOVXBQUm11ZEF0RVY0bUxwNFZTRWI4cHNjNVlldjQxdjh4NGxUQThoc25wQklIRmpsdmppRllScFJ2RjdqU2YxUGpaVFZ3VQ?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-28.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-28.mp3" length="1357920" type="audio/mpeg"/><pubDate>Tue, 28 Jul 2026 05:48:26 +0900</pubDate></item></channel></rss>
