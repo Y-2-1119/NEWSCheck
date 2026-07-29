@@ -1,50 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 28 Jul 2026 20:39:24 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>7月14日のニュースブリーフィング</title><description>7月14日 ニュースブリーフィング
-
-■ 世界情勢
-1. “外交官の仕事に興味を” 外務省職員が高校で講演 金沢（NHKニュース）
-   https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zQmhtN0Y2MUl6NExxRVBNR0l5RDNYRlk1WENxTThDRDhaZ2w4VTc4TTZTR0VVZVNOdGZIaDdsamNXMmJJUTJtT0Y1SWg4WkR1VVlUWVJhcDE?oc=5
-2. 米共和党・外交タカ派が大幅減へ グラム氏が死去、引退も続々（日本経済新聞）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE44S0h4dzMxLS0wWDRST1VURlBYQUQzMjRCLWl6c1lqM1pUcWJHVzJGY2Zfa2JrWjJFdmU0NU8wUTZidHcxREwyRzZNeHJ3QkFwY2RYZzA2TXVYQWViSk5DRmROY1dkRW9jdVp6dA?oc=5
-3. ウクライナ新内閣へ 外交強化、首相辞任見通し（朝日新聞）
-   https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jVjJKdVJ2dWVuV0JKSmVjR1pGVWprRm8ySFJmeXBCeVEtRjBxZmxhVHAyN00xeHJtSEJHYUFzQXdJby1wd2tYeDFZYXAya28tc0F5bVBaeWZqOHpL?oc=5
-
-■ 学校教育
-1. 地方大の魅力は「地域がキャンパス」 文科省会議に現役学生（朝日新聞）
-   https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zbFg4aXp6VmpXV0ljQ1llYzhKQWt3M2tFTjIyTDdCSnlsMTk4YmJRVmRUelJrUTM5UHhHcnY5ck5fV1RJOHpKNWFqQkkxS0JjSkdHYlRTZldjcTRW?oc=5
-2. 詩の表現方法 敦賀高生学ぶ 県文学館が出前教室 | 学校・教育（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iOURpcHJFYmh5Sk5ZUWl6OTlmX2k2bTVmaFh6R2l2UzktQ2tCOVY2WkFzUGh0d2hEZVpHd0QwWkJQTkNpbktnaEVUUzM5emI5RHpqeXNKTEVaR0xRUVE?oc=5
-3. 私立大の公立化、文科省が初の指針 「地域の人材需要踏まえ検討を」（日本経済新聞）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE43ODlYTFgtOFhfdFFrU0xYZ1RNRW5udVZuTk5WOUN3WkdCazdVU1hDd21xVFZSQVpsVzNObndlQnQyYkE2dlh3RkFXQnFaT1lpc0txQk15SUZrOFBFX2xTZ1VLWElqZDc4ME52cw?oc=5
-
-■ 倉庫・工場・物流
-1. シカゴ・ロックフォード空港 空港近接地に物流施設、27年完成へ | 航空（daily-cargo.com）
-   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5laDJHZzZBTWEwdXJZMGF1Y0lSU3hiMUJvOVVZS01GWU9QempxM2ZmeWdIQlBDQ3p6UFZCS1gwM0h3TmFZbU13U3dudnpFSnlMOW5JNEZvWW5RQVgtX1l0dEFPSjBTZFNo?oc=5
-2. マスターマインド、食品印刷×自動化で拡販 工場向け一括提案（日刊工業新聞）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE95SHl3MVJUTVZvcDdnT19WUU1TRFF0ckRXNXFQTTMwVEJ5eG5PbURiWGRBMThVVzdDRDZMR1hWU3VxeXNuQ3NJYnNKUjlZVzhhaHYyMlk5U3BmS0E?oc=5
-3. 赤字続く黒糖工場 コスト増賄えず ＪＡおきなわ、国・県に支援要請へ（日本農業新聞）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mdFVIbGkwSnN1WS1CVGMxYk81ZVprMzllYUlrRlVoMkV5OFRJa1VQUVo3SmtsSEstbGlpRllVelFFLVJNYi1Fd25tN0JBU0l0LVVGam5lNA?oc=5
-
-■ WMS・WES・WCS・RFID
-1. 三菱商事ロジ、物流教育「ロジスタ」に法人版（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BOVN1XzZVcTdpN1RNZ1hLT3JWOV9ta3FGbFVxSlFGV1NBTDV6WEFZVzE0TlByQ3pYN2s4Q216OWExN3ZCRTBwZg?oc=5
-
-■ 日本の社会
-1. 京都で国際AIハッカソン 国内外参加者が社会課題にAIで解決策提案（烏丸経済新聞）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYNW9WVzlkeEpEWnljamQ3dHN4Q19kYXUtUTdmVjFsU2JncjFseEhtdV9Ha1M0emRpcDJYOGJxdl9kTmtfekNFQUlxX2lYQ20tM1FYaA?oc=5
-2. 【発言】 ウォラーFRB理事「労働市場は均衡し、安定している」(フィスコ)（Yahoo!ファイナンス）
-   https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVktQkhkckl3cGRJUEpMNlNBTEdfalQ1V2JJaGpfTGlxS2RmTkFUY2FPZlBVcW15Xzh2MVZuZmMwY2swY1dpNVpFTmlOMnZyVi1feUdTZkVKVXk4RlFRLVZEcFhCUkhnRExQQTVfczlwLW9kMHBRT09RR0dzcE9SSVZqVlJ2cjg?oc=5
-3. ワールドカップ開催中に知りたい ケガのリスクを約3割減らす「FIFA 11+」とは（PT-OT-ST.NET）
-   https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdkQzclhVX2tkMzcxY3dyUmpUcGdYcjdMb0JXQWZvdE9YODF4Wk9GMkNhcGlXLVV6RkFtR0ZlOWVrV2owNnRKZUZvZF9PTjh5LTNoWDBnMEY1WWRqMGF6SjlQQjJ1N05pWVA2cXZoVXhlcXgxenJmaC1FaHdRNzVXdzJmX3dmYzZwQjRLQ29LdmlsZUJ3SElIVlF2dktic0JCdlRxLXZkY0pyYTNCa0hYTE5lZ2ZxYmYyTUcwSlJFMHZONUZuVG44em1yM1JZNjRlREZfWW9VaU5pYnhRSXpjcXdQR0lFUnNsUHk1ekdB?oc=5
-
-■ 政治
-1. 国会議員動静 7月14日 | 行政・社会（佐賀新聞）
-   https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tYXRZZi00ZDRXYVkzRDZaczd4eGY5T1VFLVFMaTBwSkFCOWRFeXBKTGdFN205X18xOVFMVGZFUFQxVGZObmI5eFpJYnktNElsbGJTS1ZR?oc=5
-2. 未来への潮流 金融政策の現状と行方 引き締めモード強まる インフレ緩和見通せず（中部経済新聞）
-   https://news.google.com/rss/articles/CBMic0FVX3lxTFB3ekJ1RFFrdVBxb2FNUk93cWFfbWlOS2RObDhkUE5vLTBDaEVpTmpDMDRQV054TVVkYTVRWlVLNVVwZlJYNmkybkJNWGE1dEJKdExtVmE3LW81cHo5YVhMdy1jNjdBUDJON2ZfdWlqQ0xjUDA?oc=5
-3. 選挙とSNS 収益化の停止が必要だ（中日新聞Web）
-   https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4VDg3WUFGd3JyRUR5UEdTcGc4Wmwwejl3YmZiT3R1Z011Z1NsTFpGeWdXMS1taWdXTkJvTUtkMUJGQVF1d1JQd1RLRjl1VHRnUlM4NEtTU093T2xudjZTLVdZMEI?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-14.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-14.mp3" length="1212192" type="audio/mpeg"/><pubDate>Tue, 14 Jul 2026 05:36:39 +0900</pubDate></item><item><title>7月15日のニュースブリーフィング</title><description>7月15日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 29 Jul 2026 20:29:45 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>7月15日のニュースブリーフィング</title><description>7月15日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 骨太の方針、注釈にNATOや韓国の3.5% 防衛費大幅増へ下地 [高市政権の安保見直し][安全保障関連3文書]（朝日新聞）
@@ -647,4 +602,53 @@
    https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SZGdXNWVfMW9nV2N4MkRvLVhFMG5nUlFSS2ZRZzJXYjRPV0h4Q0piQlk1Wm0xck05WHBPT0Fldzh6UlVKTEU2YmZVNDhjV1NzT0hkanFNa3RQMzVYa1FvOGxBaW5vU0pu?oc=5
 3. (衆院各派協議会)選挙制度改革を加速 9月末の結論めざす 中道・中野氏が意見表明 2026.7.29付（公明新聞電子版プラス）
    https://news.google.com/rss/articles/CBMibkFVX3lxTE12ay1IUjg4Vll5YUpRbHBxaHVRd045cWY1dTVMYXBBRVFNYlJmcUNqeXhLVXh1MUFwNUdTeU1VVWJKZlA5aGR6RGVKTDdDVGRjZUxvaG9vU1VYN0NDc2Z0LUZNSURnRUFweHdacG1B?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-29.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-29.mp3" length="1448928" type="audio/mpeg"/><pubDate>Wed, 29 Jul 2026 05:37:38 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-29.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-29.mp3" length="1448928" type="audio/mpeg"/><pubDate>Wed, 29 Jul 2026 05:37:38 +0900</pubDate></item><item><title>7月30日のニュースブリーフィング</title><description>7月30日 ニュースブリーフィング
+
+■ 世界情勢
+1. 谷内正太郎（29） トランプ時代 「アメリカ、カムバーック！」 日本は多国間外交で指導力を（日本経済新聞）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTE9tWVVmWVZ0WUNsbU9UdmFWQ09QX2V1TGx2aHB4aUk1VVp3N0xSMXFEUmFzY25wc19yOVdMTzJrOXVxa2FySF9ERUpFOHZ2dW9LRVE5Unk1dkkxaEtTQ2JpX1ZHclFERTFPNkJHRA?oc=5
+2. 保護主義は企業と消費者の利益損なう 米国のロボット輸入規制で中国外交部（ｄメニューニュース）
+   https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWkplNElZTGZCbDNTcFVpOWstZlFwNVlhTUpmWmRxYWl1YmhSRW9mUzNUTmxBc3NvZmc5QjEzSlA5M0xyOWU5VkZCWU9zT3NyQWoxbUxOeGVNQVgzeDhUZmNMTlAwWTI2X2dKOFJlNVNnRWx5bmgyZ21RVFVnVXl4Y1BQWjA3WlAxeUFR0gGQAUFVX3lxTE42UHl6VXo4SlFrZ1JtTWxpN1FqTHh2X3ZhV3czeXNMaXYtaTlBbGRmbDVzMzRhMzI1aFpQNVZQdHE1VnJkTlk0MHFXQmx2d3ZiMjlyeTNHamhDZk9PUE54QUdnX24wM2dpU0hKODZFd1VLOTdQSExkRklhUXVvbVRJXzN6UGdxTUpibm9TdnRDSw?oc=5
+3. SmartDB、日立製作所の輸出管理（安全保障貿易管理）業務に採用 -旧システムをノーコードで刷新、約5,000人が利用する基盤に（北海道新聞デジタル）
+   https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWjFNT2RPZUZPY2RZRkMycTE1SmhZcEMzZnhCM3dHS0J2NWdUcHFaYWRYV05IZWZYSXJIRnF5NUU4RE1tR2p4aThiMEx5WFlNVmZQNXZZR0k2Y19zMXFhY2lubmhjZWd5ZlVlVVpGNEdnMW94X3kxTF9qTXJKVmVNdjdiMl8xWS1S?oc=5
+
+■ 学校教育
+1. 熊本県の公立小中学校 体育館の冷房設置率は約2割 全国平均は約33％ 文科省（テレ朝NEWS）
+   https://news.google.com/rss/articles/CBMickFVX3lxTE5fSVJ5WHRGTjQ5U09zYnRzUzNrdXlGSEYxYTVBYjJJVk9VTmRzUkh2b2MybURqcmZObThoelc3NVNYcm5INElhdnhZQ0xfOVdacml0N3lJWEFfcU45NjRIY2Jqb0dNSEYzMVIyUVdjUWNXdw?oc=5
+2. 熊本・宇城市と氷川町は体育館に冷房なし、文科省が冷房完備の教室を避難所に活用するよう全国通知…熊本地震（読売新聞）
+   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMaXZWdEtVU0lvYWxic19yTEI5TDZkdWlKNXZwM2JZTVRic1lUM0xrMEtWZFV0TkRRMTZaUUxKZXY3ZkVSa3FTUW9uX2dzLUh2T3BxU3FwSHNWRUJSSkk3Vkh1cWhZQQ?oc=5
+3. 「冷房のある教室を避難所に」令和8年熊本地震受け文科省が呼びかけ（TBS NEWS DIG）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IRFAwTmhIYXowbUZLS0lrVW1yYUQwZWNobkdfeUZaQ0oxenZnTjlpbThlSVFCTVM4azUxWVNySl9wU19Wdm44NkFTZGlHMWk5bm84YjEwcw?oc=5
+
+■ 倉庫・工場・物流
+1. 現場でAIアプリ開発 日本IBMと三井倉庫ロジ、物流DX人材育成（nikkan.co.jp）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xbmp4dENnc2lPbEZyWWEyNG9Obm1GcFRSdWpmbi1XaENMN2hKTkFVV3N3OEtLSkFXbERwNWZxc2tINF9YeHY0dWpCc293T2p3b2lURmZYeWp4MTg?oc=5
+2. 熊本地震 一部乳業工場停止も廃棄は回避 飼料工場も製造止まる（日本農業新聞）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rbEJjQTFWa0szOHluNkE5NXpCN2t1cGdHeGFDbE4xVG54YW5Id1drTjQ3TG4yUThmdXhuY1JNcUJaNEpVb09rN0ZpbWVtRWN0S1R6cllXVQ?oc=5
+3. 熊本地震一夜 深刻な農業被害 施設損壊、物流乱れ（日本農業新聞）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zZ0tieDJSV0FGNXlLQzJWOU9YdGo0Um1Jbm9wTlFiSzZYTjhrNV9WT0c4WnRrNjFqLWxvd0Z4aUM3d0JFWUZjdWJhNHk2ZWJJa2xuTVFwT1N2X3c?oc=5
+
+■ WMS・WES・WCS・RFID
+1. ブライセン、倉庫・バース管理を一体提案（LOGISTICS TODAY）
+   https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTd2NGcjkweXp3dm1xQ1h3TUQ5TFZoSWgzU3l1NENNZFdUZmhWWjhiNkJJNm8yZzljM3l3SnlrM2F5TFpOZm1qRg?oc=5
+2. TOPPAN／小型・軽量RFIDリーダーに温度センサータグの読み取り機能を搭載（物流ニュースのLNEWS）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OT1h4UGR1RHRHcFB1Z1Yzc2ZuNE1vUm13X2thOUt4MmhzWnd2d1NiNGdSSEFnR3BmVUhMTjh5WEZqbkJPb3dMenA2cDJjS0EyMHdkdA?oc=5
+3. TOPPAN、RFIDで設備温度を一括測定（LOGISTICS TODAY）
+   https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kQ1ZIY01TRXVCOGN6bjhqUENNS1UybEhWcmY0QmFmRF95YlQxeS1PRURWVmJ5Yk04bzJwX3VUSGJZM2p4Mkk3NA?oc=5
+
+■ 日本の社会
+1. 頼みの不動産事業でも露呈 再び問われる日本郵政グループのガバナンス（ｄメニューニュース）
+   https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLVBfZFNGX1JsQ0hmQ2szWTNUYTY0RGlzTk0yZ3pFd3FtYzZEYXhxSVc2akt0N3V4TW5rbmI4b3BZMC1fYU1oanZlQnNXY005ZGVqSXFiZktsMFNxZUJvZ1EzUGpYWExYYXFrTEFoS3dwYlE4a1kxTUF0M0F1TEZxTlA2X01FOE1Ua2hINENKLVlaajBybG9JNDdPQVlQdi1HUUg5UGt0Smh6Z9IBqgFBVV95cUxOLVBfZFNGX1JsQ0hmQ2szWTNUYTY0RGlzTk0yZ3pFd3FtYzZEYXhxSVc2akt0N3V4TW5rbmI4b3BZMC1fYU1oanZlQnNXY005ZGVqSXFiZktsMFNxZUJvZ1EzUGpYWExYYXFrTEFoS3dwYlE4a1kxTUF0M0F1TEZxTlA2X01FOE1Ua2hINENKLVlaajBybG9JNDdPQVlQdi1HUUg5UGt0Smh6Zw?oc=5
+2. ヘイトの皆様のおかげで、外国人労働者の皆様は、韓国を目指されています。（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zNkt0VkFIRlZSVVdoZHVDV3Q4S3doT3pfQm5KeXFqLXJUczJDV0ZjaXBsS1l5cnk1c3lfRVc0RGh3ZmhSUlBmTDV5OThOLWZ1b1NlOFhfQ0p1OURlZ3Y4?oc=5
+3. 有識者「ガバナンス再構築必要」＝日本郵政グループで相次ぐ汚職事件(時事通信)（Yahoo!ファイナンス）
+   https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVR0c3Rzd3VTX1NlZjcwZDR0Umh6bmc5V1owVS1SSzdCMnhRSklsazVsWTJkbmt4bXFad1J2MWZRMXZoeHZfallFLWZXSURfYUFfQXlZZDlrT1U0ZmU3YU5FVEZHcUVHMlQxZE5PRTVtT0F3MEVEQjloeUVLS0hTakJjXzBCeWs?oc=5
+
+■ 政治
+1. 【解説】高市内閣の支持率“急落” 無党派層の支持離れ･政策の“優先順位”･「説明しない」姿勢 3つの要因とは（TVer）
+   https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCcF9qcXpIT01DZktfY1F0aTBhMGFiVVVBcDlkSGRYUHNHWGdFaXNhY0o5d2RqbVpBM1Y5enNGdmFSMTZXVy0wSHhwcw?oc=5
+2. 国会議員動静 7月30日 | 行政・社会（佐賀新聞）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE01bXVqQWdPQUFyOUxzLUwxaUhIaVVmWFU2UldDTVRKdUU2RkdmSHQ3UXl0M1NvOGd2TXp1bGthMUtfYm1NOE5kTHQ0Y3h5MUxxcHFvNUJ3?oc=5
+3. 論点 国会閉幕＞注目のテーマ、兵庫県選出の国会議員に聞く(下)再審見直し |社会（神戸新聞）
+   https://news.google.com/rss/articles/CBMib0FVX3lxTFB0dW42MHhHbVZWclU3b003akV5RFZadFJRUUR3LVBCYURJWTE4M3BUWlBWU3cyVlpidXlyaU04NkJlZERSOG9wc1pSWXl3RE5reG5IX05SbFNtdEJNQThuNVR4dnB4VnBnTDhoSzlTTQ?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-30.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-30.mp3" length="1550448" type="audio/mpeg"/><pubDate>Thu, 30 Jul 2026 05:27:59 +0900</pubDate></item></channel></rss>
