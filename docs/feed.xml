@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 29 Jul 2026 20:29:45 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>7月15日のニュースブリーフィング</title><description>7月15日 ニュースブリーフィング
-
-■ 世界情勢
-1. 骨太の方針、注釈にNATOや韓国の3.5% 防衛費大幅増へ下地 [高市政権の安保見直し][安全保障関連3文書]（朝日新聞）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tV1BIbjA0U2kzOWx4MXd2TnlDbGpYOEZXQkkyMUdSSGlxdFF3S3V3emMwT2FzemNFSExReVpBODFmdHEyNGJUeXlobk9nRGhYMWl6OWc1R3R5OTVlLTFLVHE0WUJhMFk?oc=5
-2. ＜私が防衛省を辞めた理由＞ いま、日本の「安全保障」の議論に欠けていること（Wedge ONLINE(ウェッジ・オンライン)）
-   https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrbi1YeE1VQXExdjQwOHJscV9FVV9FV1piRHZXSGphR3hyUG9JdjlDVnhodDBWVlA2OEhMZXV0Q1k4cGdxaHU3Z2VXSWtxUmhVa1Rn?oc=5
-3. 米政府、ミュトスを外交カード化 中国と競う陣営づくりの代償（日本経済新聞）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTFB0RzJ6U0gyQVpwN3V4YU0wcGVWUjVOeVRXVjFMUkJwVHBVRWZLMnBOSUNMX1RRWXRpOFEtODJQWXM2b0VXLWJnR09PMFQwOU9ldjJNX3ZvX0ZNYUdOb295TXZ3NjB1UjRkeGF1RQ?oc=5
-
-■ 学校教育
-1. 滋賀県の「公立高校改革」2校で本格化へ 20億円以上かけ学科再編や施設整備（京都新聞デジタル）
-   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwRV9zS0xHTHpiMUo5TmhQQ0plVVdGME1YNEVHRk1aUmpZX29iY0NyQ01xQTJyZUNhZ2Q1cHJSSEhrcjFfN0lkOXctektNWV9nUkNJdHlTTTA?oc=5
-2. 「マルチなエンジニア」育成 工業高校の改革後押し（建通新聞）
-   https://news.google.com/rss/articles/CBMigAFBVV95cUxOTlRsODcyUms2WWNQenBRdXB4WnpoRU5TS3pjcjFGckFjenJCZzNrazNMWnJQWlI0X1RtbDlYUlVDMzdWeEFhVWk4ODVlakZvd0drQU5pdmhLcVVyNzlIaW53TFZMaU5HOTVzTnNJajZDblk4ZFhGeVF2SC1TdTJtQg?oc=5
-3. 【特集】「自分を超えようとする挑戦者を育てる」グローバル教育改革…神奈川大附（読売新聞）
-   https://news.google.com/rss/articles/CBMiigFBVV95cUxOWEUzZWpkQjdVYy0wNVZJS0R6bnR0bm5pR2J0THo1Wmx0NkF5dFdqcWlBUVFhM2JObGVTMXpkdjRxZW93UVRmV2N1TTc3aTNONGlzYTNOZXBJQ2ZkS0otSUhHV05BMW9mekpiWGxWNXRpX19oLWgtY2pfcXZJbVBGY21lZlZ3X0RpeGc?oc=5
-
-■ 倉庫・工場・物流
-1. 東陽倉庫相談役の白石好孝さん 常に前向き、今日が始まり マイウェイ新書出版（中部経済新聞）
-   https://news.google.com/rss/articles/CBMic0FVX3lxTFBzOHdnS2ZRNk9ma1lFazJCdnh1UkxxTmtmLVVmcVk5cTJ1XzhoT3NGVkd4MmxMTkdlZ1cycWMwWDlpbDY1U3R2bldZNmY1M1NFM3VQZ0t5QjBZNkhQX1R1clYyOThsV1RlcHlHSlcwUXdvUWc?oc=5
-2. 表面処理加工のケミカルテック 犬山市内の工場に新棟 ９月稼働 自動車部品向け増強（中部経済新聞）
-   https://news.google.com/rss/articles/CBMic0FVX3lxTFA5N3QyRUF2Y0lUNE5xdFZxcEF0QklSUHBCTmFtSTlTTmczcjlyRWgzVlJ3RHlhZkJYSHBzRHRHRjlSb1JWN3JvVkQzVHNMMmZZV3dVMFJtU044VDZEcU9jbWVIQTloUUhhRHZmdU94RUlOa3M?oc=5
-3. 植物工場の海外展開を 維新、農相に提言（日本農業新聞）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE55VjViSWhZOWRoY0RMUlVQR3ExLVZNeU9ib3lteGx6bkhzaDZmcEVfd1kxMnlXV0dZVFVZUExJVThsUlk3elBPa1FUM0F3cVgtTUZHTlZIaw?oc=5
-
-■ WMS・WES・WCS・RFID
-1. 「AIの最初の一手は？」に答えを出す ― 物流業界のための共催ウェビナー、3社が4つの問いを議論〔7/16 11:00~12:00・参加無料〕（時事ドットコム）
-   https://news.google.com/rss/articles/CBMia0FVX3lxTE82NVlzaFZra3Y4akVlN3ljaG56WEotVGpDdUQzS2tPUWJFUllRX0pQUkhHNHlETjFNQWFZbmlHN2pBRW42ZjNzblNJcjZkdk5xUVdTWGtFckluQnE1MjdzcngzV3B1RVpvcE5j?oc=5
-2. ダイアログ、物流経営の生成AI活用を4論点で議論（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pdXdsZktXNEZCTzhGRFJtTXZLaVNxVjZWRFRoYmp6RGdKVTA2c2hfSV90VGJKdHNFVk1kMnFrcFg0b0g3azA2RA?oc=5
-3. 現代自動車も出資...「ロボット統合管制」のノバテク、70億ウォンを調達（매일경제）
-   https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yV3lNMkFUYXVoeW84OHFaN3FnSnhLZXZjeWJOUkRDcC0xNHRBc3BBQUVQNnV2WW5Gc1pmLVlyaldxS3ZBUVhOeVRxdlFpbTQ4NVpB?oc=5
-
-■ 日本の社会
-1. OBC、『奉行クラウドEdge』で多言語対応。外国人労働者が使用する言語の約9割をカバーし、多様な人材が安心して働ける（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMie0FVX3lxTE9kVFptNV9zaTRhS19GOUtBeGNJUUFva29hR0FyVV9SNk00S2tfRW5RSUt0SzYwVmxQRXdzZ0FINmY2WEhZeG83TGQ0ZFNNMy1PQklQQ3E0a0tPMVR3cDVNR1VqaEJaM1pHVGFnTkhYWTZPVVFKMkNoeE10MA?oc=5
-2. 日本郵便元社員の収賄事件 歴代担当者2人の不正も明らかに すでに懲戒解雇（テレ朝NEWS）
-   https://news.google.com/rss/articles/CBMickFVX3lxTE9iZERILTRlcGl3N2FLNUdtRkYtVkFYZ0hrOEtWMThQU1hCSVpMSGVudHJlSllGcEk2UjZPWDF5U0ltOEhJYWRYd28wNEhUREJXeFRObUc1c214QzBhXzNTMks0dGt0MjJ1Rjgya1FibU5fUQ?oc=5
-3. 姫路の日本化薬で爆発 男性従業員が意識不明、もう一人も軽傷 薬品混ぜガス発生させる実験中|事件・事故（神戸新聞）
-   https://news.google.com/rss/articles/CBMia0FVX3lxTE5KVXFsRmktZzR4T0oyMnoyNnE3QjFjZk1UUHJyNC0ta01kc2J0alBFQ1d0b0VURlVSM3FNaTFTZ3N1eDBVdkNrU3FtTDhFQ256cXZWVFRGdzZFb2JIUVdva2pubm1NYnVzUlpR?oc=5
-
-■ 政治
-1. 国会議員動静 7月15日 | 行政・社会（佐賀新聞）
-   https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3RUYwQW5LR3lvem42aEJ5RGZQWmFVMjNGelN6RlQ1X1g3U0FqczBGTFgteWtkc3pEQ3NXbC1mSlZxNUJjVGdUSlNmR21sUjFXRlUxREhB?oc=5
-2. 関連死減らす 安心の避難所を提案 政策甲子園地区大会へ小松大谷高生 間仕切りなど組み立て体験、意見交換（中日新聞Web）
-   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NT2I4LVh2Q04xcWVhRWdvMDdNR0I2cld3S29VUy1fUFJ5YVhWU3NycmNuWWc3RmVmQ0lHeGNwWTlJZEo1aGc3NWo2Mmh5bUNPd1RtSkpqR1p0a3lONjQxNVNFbl9nVjY1?oc=5
-3. 荷主は3299社/特定事業者の届出/物流政策関係者会議（建設通信新聞Digital）
-   https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxcmJDa2lGc0lKakpoM2d0S3FQMTBXNllscm9semNjR2dsV191TGg3d0JvUjQ0VDFKQ1FEX0liQmRpWnJNdUxsY29iMnN5YXNR?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-15.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-15.mp3" length="1591200" type="audio/mpeg"/><pubDate>Wed, 15 Jul 2026 05:34:00 +0900</pubDate></item><item><title>7月17日のニュースブリーフィング</title><description>7月17日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 30 Jul 2026 20:40:48 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>7月17日のニュースブリーフィング</title><description>7月17日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 谷内正太郎 私の履歴書（16）真昼の決闘（日本経済新聞）
@@ -651,4 +602,53 @@
    https://news.google.com/rss/articles/CBMiVkFVX3lxTE01bXVqQWdPQUFyOUxzLUwxaUhIaVVmWFU2UldDTVRKdUU2RkdmSHQ3UXl0M1NvOGd2TXp1bGthMUtfYm1NOE5kTHQ0Y3h5MUxxcHFvNUJ3?oc=5
 3. 論点 国会閉幕＞注目のテーマ、兵庫県選出の国会議員に聞く(下)再審見直し |社会（神戸新聞）
    https://news.google.com/rss/articles/CBMib0FVX3lxTFB0dW42MHhHbVZWclU3b003akV5RFZadFJRUUR3LVBCYURJWTE4M3BUWlBWU3cyVlpidXlyaU04NkJlZERSOG9wc1pSWXl3RE5reG5IX05SbFNtdEJNQThuNVR4dnB4VnBnTDhoSzlTTQ?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-30.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-30.mp3" length="1550448" type="audio/mpeg"/><pubDate>Thu, 30 Jul 2026 05:27:59 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-30.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-30.mp3" length="1550448" type="audio/mpeg"/><pubDate>Thu, 30 Jul 2026 05:27:59 +0900</pubDate></item><item><title>7月31日のニュースブリーフィング</title><description>7月31日 ニュースブリーフィング
+
+■ 世界情勢
+1. 【関西外国語大学】ベルギー・アントワープ大学のサウアー教授が「レアルポリティーク」の視点からウクライナ戦争をテーマに講（ニコニコニュース）
+   https://news.google.com/rss/articles/CBMie0FVX3lxTFBwUjItU1pPakU1N2lHRngxQ2RwQUZuU1pTU282TUtyT0tZalE4bzVjYWc1cXM3bnlUVEVNajZDTTYwVjg1dTVkeWFoeGJZcU4zLU5rZ1NRcTJIdmgyS01BNGlMRVJLcVZwX3dpR1otR3NQeUhkX2hsN2JCaw?oc=5
+2. 熊本地震の被災地復興支援、政府が義援金受付専用口座を開設（Taiwan Today）
+   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aSmtubDlmaTFOa19IVkNvVXlQd3MtejVPWDRDbllnQ2ZZTlkyZzM5Z2FYaGZhbDhXOEdvdGhUekNyWFR6Y1pxaVppUkZ4ZWFEcmc?oc=5
+3. 中国：中国の「ポケット」外交官栄転 アジア局長交代 豪大使に就任か（毎日新聞）
+   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSeTJzODl3M1lLcDB3elZrV05JcU1FblI0SkJ6TFQ2Nlp5MHFpZ01mbGdSZkRab2NXOE5PVEd0dDhEUDRjT2dTR0tPTUk0YU1Ucjh1dG1DQVVYNWo3TzFXVl9EUHlvSGk2?oc=5
+
+■ 学校教育
+1. 破れた本修復 児童司書奮闘 坂井で養成講座 | 学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE90TEUtQXlsa1lZQllsYW9jb25ydXVTQm9uYzB6S3p4UnhJVmdOb2dhNTBWbEdEckpDMnI5V3QtZkxvZ0l4N0R2dGUySXNxZ0NXZzI2WEZVdmhFRlgzMlE?oc=5
+2. 情報科学部の取組が文部科学省「令和7年度大学等における学生のキャリア形成支援活動表彰」で「優秀賞」を受賞（hiroshima-u.ac.jp）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2WHBubHV3NW1Ia1NEU0JncTI4aGJNeUlPSE5yVUJoeEgzZXN3RFVGOWZUQlp2emk1ZlFlcV9DNTl5UDk4YXIteThEYTl2MVh5ZnRfNWZqNA?oc=5
+3. 情報の新教科など、小学校28年度、中学29年度から 新指導要領（朝日新聞）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42QTJ3UmM5YURnRXIwLU16Y1E0WVh6VkZMM2d2QTY1ZjFCWG9jRkZJWGVPandWQmpQYUVlbDA2TllDeUxLaWxJeTU2dWstYWw5cTRxSndpQmtEX1AwOXlQS05IZDRxbmM?oc=5
+
+■ 倉庫・工場・物流
+1. 〈株価も反応〉三菱自動車が人型ロボを工場で活用へ､東大発ベンチャー｢フィジカルAI｣で攻勢！ 新型パジェロにも期待感（東洋経済オンライン）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ESVE4NlNRTkJoV3N6ejJQMlpfVVl1WE4tNmxiOWQ5VTBhcWxabkVXeVh1OEJIZHdmd3ZCX2Nmd0dwUjJha2Z3UXVlUG85ODQtLURIWXBDYlZiRDNpTFZz?oc=5
+2. カリツー、安城市里町に物流センター 国内で35拠点目（chukei-news.co.jp）
+   https://news.google.com/rss/articles/CBMic0FVX3lxTE5nTlp2UlJpS21GbGlhMVpJNHdwRlphblJPM1J6cTUyS2Jpd0ZSSTZsOGFYcTF6Y2E4d3J0RVpfa3F3RnFaS3V6WW9UNk1EdHRicXN6dWV3NHhyeFJKenU0S1hDaVNoTkhYLTNvSUY4Z2lFVWM?oc=5
+3. ジーエーロボ、工場・物流向け人型ロボを販売（化学工業日報 電子版）
+   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GQ0M1ME1RZS1MM3oyMFYtOF9KU0N6RzJEUmwwWUVTRUNJQzM4REFKV3N3RkxnWHZTY0twNVZHeWpHSURCaGxOT1d1eGw3Unhsdl9Z?oc=5
+
+■ WMS・WES・WCS・RFID
+1. 三協、自社物流拠点向け改善支援を本格展開（logi-today.com）
+   https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TakVwbDdZeDRCWmQ1dU90bUlGR2dMU1U5eUxLOG1sZVNHM3R6MDk1M0pVZkJnTnZpNjZWb1lVQTkwN2x5Z1gyMw?oc=5
+2. 創業57年・数百社の物流改善実績を持つ三協、自社物流センター向け「物流改善コンサルティングサービス」を開始（ニコニコニュース）
+   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUbEFSNzRYTEpiUUJYYW1KanlYN0lUekZsU1ZEaDE1N0o1SkZvYkhtYV9fY3dPam53WDVkVUVPeEhOZ2VxbG42bU16ckJDQTdNdFZsV01NWVdpNmh2X0UwTkJveko5Mm9f?oc=5
+3. スマートラベル市場の範囲・規模・シェア・業界分析および2026～2036年の予測（ニコニコニュース）
+   https://news.google.com/rss/articles/CBMidkFVX3lxTE5qX2IzdmI0MUFZekpkQ0lSVDJXN3dTc2x0a05NTlJrZDEzN2hXTWVIaVBfVUExVjl3RHFLZ0FSejNXbjF5RU55alVLTEZBN0dUNWRhbk50UGJGSTltU2xPQV9SNlhpZjJPM0hyT21zWUwtRXc1bHc?oc=5
+
+■ 日本の社会
+1. 政治家でも企業でもない「日本人の給料が上がらない」真犯人は他にいた（現代ビジネス）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxTDFsUnF3NVdaTXJMVkoxb183N1ItUDIyVVlIWnhUNllZRkh0R2VHbTEyQVBJTk1McXlEWTUyTEdJR1NZYnNNMWNlWGpLY2s?oc=5
+2. 考察／官民挙げて日本を再び強く、日本成長戦略会議の成長シナリオ（中）／高市総理「成長と危機管理の両面で投資」／橋本氏「国内投資拡大には予見可能性向上が必要」、「一律労働時間規制の是正で人材力回復を」（日刊鉄鋼新聞 Japan Metal Daily）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TeWxBNWc5MGVhZFlmUFdzcmNNQmVSSlYxMkNxd0tJS2R3U0p6MHNWTnZtZWlLUHVWQXNNczAyYWlqU19qUWRmZkpla2dvLURwUFA4R0xxUDdtQ0laSWc?oc=5
+3. 約5か月の逃亡劇…保釈中に覚醒剤事件の裁判を無断欠席した住居不定の男逮捕「不出頭罪」静岡県警初適用（TBS NEWS DIG）
+   https://news.google.com/rss/articles/CBMiWkFVX3lxTE42aU03T0FzRElQWkswcnFORVdkckZIdVpRdWZDSmFkQ21PRkxsWlFkeVpoMHZuMkVRUU8yVnU0MDRia1hLWWh2VzJKRzk1Z0k1SzdMeHZMQlExUQ?oc=5
+
+■ 政治
+1. 京都・滋賀の中小企業業況、8･8ポイント上昇 日本政策金融公庫 製造業が大幅改善（京都新聞デジタル）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hT01TSnBHbV90UUpxR2xXNG9JSjhGVTkzY1ZSTnRuNjV5SVFVaDk5X0cyUWpScXluVkpIYkdGRkhreEp2ejYyejZUVjUzT0tZaTNRVXRZeS1HX3c?oc=5
+2. 国会議員動静 7月31日 | 行政・社会（佐賀新聞）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yWTZDSHNQMXhJNVpaemZKOUFvRG45Z3FMSmI1RGZRR3lJMDBfRHpqcjVjbXowcHN3bGxsMmpRMUM5QUJIa2dob3FNOFlQMUw2cWpjUWRB?oc=5
+3. 京都市議選左京区選挙区で参政党が新人擁立へ（京都新聞デジタル）
+   https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1bV9Vb1RpdUtIVHFhUnpSQ2ZqUDUyQnprclVlaU44SVl4VkQ0Qm5OT0p2YnBGQVdIUnhCNTBvdkg1Nk9OT052OExGWTUxRTIzT2RIRThWMkY?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-31.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-31.mp3" length="1657728" type="audio/mpeg"/><pubDate>Fri, 31 Jul 2026 05:38:46 +0900</pubDate></item></channel></rss>
