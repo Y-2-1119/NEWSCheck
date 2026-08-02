@@ -1,46 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 01 Aug 2026 20:25:10 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>7月20日のニュースブリーフィング</title><description>7月20日 ニュースブリーフィング
-
-■ 世界情勢
-1. 世界貿易の脅威が高まり、インドネシアのヤシの外交はより積極的であるべきです（VOI.ID）
-   https://news.google.com/rss/articles/CBMiRkFVX3lxTE1yY1d4XzlMMURNTkhzbHJPQlBSS1MzbTlXdFRrQmZXQW12Um4xWUtSaEVVVUtoRTRiZW5FSDNoVEhPcGZ2eGfSAUJBVV95cUxNdFdrQzcxRDQxWkxjb1J2NWlZVmRpMFZQRVJfX3JmR0t5Nzc4cEVTRlRXVzRZWXEzZTd1djM0N2hIamc?oc=5
-2. 谷内正太郎（初代国家安全保障局長） 私の履歴書（19）谷内塾（日本経済新聞）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTFBxRGFibUVLVHEydW0yUV9ydkliblE3S2VzSDh1Z1ZiazFTaUhPMUN3X0lpUFNkOEpEMndxc05ReG03ZkxiX1ZEZEF2dUtoTFFrUW92eGVNMzRFSVFYM0p0NktQMjdaOU14ZVdrQQ?oc=5
-3. 【社説】復帰する駐米韓国大使、韓米の懸案に堂々と対処を : 社説・コラム（ハンギョレ新聞）
-   https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KZGdyWDdvMWhUbnNNYk1VMktEdUdqRFpwWndEMGg4ZlUxb1JNSmpMZ0RiSWd6MnpDb0dJSEFOQjBUZ2lfUHpJRkotcDBUbnhGZ2Z3anF0S0w2VHk1?oc=5
-
-■ 学校教育
-1. 政治的中立調査 学校の萎縮を招く恐れ（中日新聞Web）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EaGs2eWdBcVBaNDRvS1ZlR3Q2ZU5pY0NmTXdZV0tMRUtyUThQOTNXajhYQmVHYmtBc1VXN2Q1dUxxQ1lkYTdISWRCeTlNZTk4Q3Y0b0l3TkFHLXZ4emppREJRZTZmcm8?oc=5
-2. 県中学陸上、女子2年100の山村が全中標準突破 | スポーツ,学校・教育（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pcS1EYmpvVUxDS2NKQ2RkZ1F0bGx3M2lXZTd0WFBGWWlKRDVYTG1obEJldmpqMzZ1YUVMSW1EdFNBUkc0N3llOHNzek9ZVWJwSE4wMThMRllBdlM3LWc?oc=5
-3. 【注目】保護者対応に弁護士？学校現場が変わる理由【神戸市北区】兵庫県議会議員 大塚公彦（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZQlRSV2NjYl8zTEwya1BGRTF6dUZPeGxHSGVXMWFkZ21EdTNiclZJdnp3Y1RZNGFuTmNmclY5X2hZd1ZQdFBBMkRHSHZMd1VQeGtndTMtV2VHWGNqRjVr?oc=5
-
-■ 倉庫・工場・物流
-1. 工場再編進む 乳業メーカー 各地で生産終了相次ぐ 自治体など対応に奔走（日本農業新聞）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mX3FqZDluTXhrelpfcDNCRTFuV3dSQzdqTE82aTVFRnR4S2NMY0tRQXdQb3hxbFcwUlV3ZTM2UTFnZkItUkgxSk1vYlNqNEdJSG5LRlJBWQ?oc=5
-2. ニチレイ、週内に物流復旧へ サイバー攻撃で障害１週間 信頼回復へ全容把握課題（山陰中央新報デジタル）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lejFQTEpTMDdMWms3VEh3VHhJNmQwRG4xM2FWbVZYTTFkSFFodlo3YmNKMjhJRnl0RGV4NVVwRFptMEFpdFZuX2VBRnlzazMtTU5YQThJNHRkWTQ?oc=5
-3. 守山区小六町倉庫（rakumachi.jp）
-   https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlZqcE16cUZzR2gyRFhITDd5ai1UQ1VFcy1LMjU2aHZTUlJVZWt6YmFCVG9nSnY5X2lzc1E4cDdnTEZEd2RiSk8tTHhmY0JhRWhOdWx3WDdYLWl4WjV2QWlaMkJKRkpHay1OUUFtNmcyTXZmaHJqd2Y1TWNIMlR5LVRB?oc=5
-
-■ 日本の社会
-1. フェラーリに550万円の罰金刑！ ハミルトンがスタッフを撥ねる事件発生……チームはコミュニケーションのミス認める（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE5yMVZKbDhtWXh5UE9TTVNwNmlkVV9ZWHFiUDZpS2lJTmlVZ2JRQjBSOWhfNzhmM0cyUENUUXpINUl5dGxRd3YxQXVsaUJmcE11T3I0YUdITV9YV2owVFpTaGdYcDVWdDc0SXEyU0ZjTnhRTXNvNnBYZnBpNW9ESVk?oc=5
-2. 【サポーターの広場】街角から平和を（JCP TOKYO）
-   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NLU13bjBORHhodk05aC1PRmdDV2ZhS2xQQ1JOQmxpM1ZjTEwxUTdhTUJZY3p6WjhqNDVUT2p3UWZzVVY4dmJ1bnJnV3dEcWVKT3Aw?oc=5
-3. チェンマイで警察官による恐喝事件発生！ 外国人労働者を狙い、支払い拒否で暴行の末、重体に。（タイニュース・クロスボンバー）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhWDJSX21IbGRwSEZvbmtOdEgzQVNXc1ZHZE1sb1gzMEZGbHV0bHBiNElLNHZhR1dDTEFjREFydG0xLWpLYVNja1pUTkVEd0wwYzI4S09PXzY3TGc?oc=5
-
-■ 政治
-1. 社会人大学院生が鳴門市に政策提言 「面白く働けるまち」発信/離婚女性の再出発支援（徳島新聞デジタル）
-   https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzOTU1dXNmRHQ1MkRsZ3pjZ2NDTFlHY28weHN6dWVmd0c1Sy1WMEZyZ3FDLUVNYnJhdnJnNVhzRUJDVU83VkxjQnA5SDZhWTh6V3ByZjFn?oc=5
-2. 県関係国会議員週間予定（２０～２６日）｜四国新聞WEB朝刊（四国新聞）
-   https://news.google.com/rss/articles/CBMid0FVX3lxTE5DN0lZNnM5cnlfTE5ocWlSMS1jdVpBenBFb1lCVm91UFFzLWZ0Nzk3Smxzc1hWTHM3ZUtiaHNka3dwNnlRekktcDJpM2E0bDV5am1Tb09OU29EdUxuaEc5dXNHMTJjdnpLRjNhcW9uNmhfQTd3d01R0gF8QVVfeXFMUEVKc2Z5MEZwWS11UDNsVktrS2ZIN0RfaGd0UVBaUUcxRDhPd1dETzBWTkpvTk1zdzA5Y3o5SktwWjJ4SFBvTDF4cU0yamVITmFMUTN6eUtSREtXSkYycFV5Sm9GRXhuQW9YeEZ1Yzh0OUFHTDZiRFpDbUQ2Mg?oc=5
-3. 「副首都」法案の成否焦点 延長国会 中傷動画陳述書も注目（山陰中央新報デジタル）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YSTVLQkNaSFpkRk82TUJ0d242dFllRW9lWEFvdXBTdExjb3B0WFgtcS1zRTZZcW1qN0Y5MlRWLVVKVUxTcUhTU0FSLU5Pa3M1c1ZkN21xTGs3WGM?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-20.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-20.mp3" length="1235088" type="audio/mpeg"/><pubDate>Mon, 20 Jul 2026 05:13:32 +0900</pubDate></item><item><title>7月21日のニュースブリーフィング</title><description>7月21日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 02 Aug 2026 20:27:34 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>7月21日のニュースブリーフィング</title><description>7月21日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 藪中三十二氏、国際情勢語る とよしんエグゼクティブクラブが経営研究会（中部経済新聞）
@@ -647,4 +606,45 @@
    https://news.google.com/rss/articles/CBMibEFVX3lxTE5Na1JMWEtuRHV1NWR6RkZ1elNiUk8wQzJHZzRSR0JjOGNiX09FWmlGdVU0SWsxMTlBTzJUVE01dUlVbWV6WHh1ZmtwaVpNVzFsaVZtN3dMWnRnY2VzdXBxQXJaN2xyeU5SV09GVw?oc=5
 3. 防衛省に来年「国際政策局」 普天間対応も将来「局」に（琉球新報デジタル）
    https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fSS1BVVlkczJjSG54azJsa0lUSHkweFpvbG5LT3BxcWc4eUNfSl9RTWdNcGZTX3BvdV90N3VOcnVDTEdDN3B2Q0FNd0NqOFMtQWZuczN5Q09XQW9MQjFyUw?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-02.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-02.mp3" length="1366416" type="audio/mpeg"/><pubDate>Sun, 02 Aug 2026 05:24:00 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-02.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-02.mp3" length="1366416" type="audio/mpeg"/><pubDate>Sun, 02 Aug 2026 05:24:00 +0900</pubDate></item><item><title>8月3日のニュースブリーフィング</title><description>8月3日 ニュースブリーフィング
+
+■ 世界情勢
+1. 中高生にアメリカ大使館員２人が講演、外交官の仕事を語る…浅野（読売新聞）
+   https://news.google.com/rss/articles/CBMiigFBVV95cUxPSUZjLWk3T2Z0T1hMcXE0R1Z2QXZnSkI4QVlzbTFLNThINDJBX2FJeW9jUHhfV1RadEI1eE4zUmFHREhtWWk2WXJrZzIyNXUzckRhUlVwbGF3OE1rTC1hZEVtMmpDYmNJM1g5dm5rbHYxMVhLRFZVVnB1SVpsLTJjUzhKZFdVS0lReEE?oc=5
+2. 【ブログ】インドの対日外交政策を読み解く― 新幹線計画が映し出した「国益優先」のリアリズム（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yTEFNTHBveTVJLTFCbUdPUDJUQjhpR1hsYkZ5bDUzTVVKNFlRR3VGVWZ6VTU4QjdzclJseG5XM1VCZmxPb1hBYlE1RjNzbnNNc3cwQTI5S0xYNnk4bjJF?oc=5
+3. 米、イランに外交解決を迫る トランプ大統領、再攻撃も警告（福井新聞社）
+   https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PdDFVZUkwUW0xRDRCOFJHczN1ekxkS0JyY0IxV09iNFpiQ25iel9LMkI4UkY5bjRLTmE2a2gwQmVmWG9PMjhNdGVIdjhfV0lxaGhqZVpNUVZjUDU2VXRfYWVXdmJ4dw?oc=5
+
+■ 学校教育
+1. 文科省幹部人事／事務次官に矢野和彦氏 審議官は望月禎氏（日刊工業新聞）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LdjJ1TDFMVFFBRU9tblR6VUlmcWdKUnlHOHNOMnlnSGhlalpUR0k5R01Lc0ZBbEo1QTF5VE9RalY1WUFaTzlhbWJyLUNfNVQ2TW9Qa19YazhPbGc?oc=5
+2. ［大弦小弦］琉球新報記者の質問（沖縄タイムス社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNaUM0SHNoN1ZLWG4xOE9HdmpMSGhhRjFfLVNtQ0ZId0RfVFZoOV9yNWpGaWFIa0ZPWjZPTy0wYmNUYjY2TDdyVkU4c3dCM3RkTlo2WEZIZm05cU9vZ0E?oc=5
+3. 2027年度入試から総合型・学校推薦型選抜で面接が必須化 よく聞かれる質問は？（朝日新聞Thinkキャンパス）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVl9KMkRhRmZMNnZjLTZCdEp4WFdiWFZqTzZUN1dWZW5NSDloNkRzU0o5elJxRHc1VGRIa3ZMLUV1di1UUUt1MkdVemMxcVJlYVdZNm5IZDlacDFIa2JMR0RsbUdfWDJfZFg1Q2I0VkNybE53NDI0cWZWWVY4QTA3dThFaTdzVFhN?oc=5
+
+■ 倉庫・工場・物流
+1. 変幻自在 老舗企業の挑戦 日本いぶし瓦 瓦製造からスタート 幅広い屋根工事に対応 工場、倉庫向け増える 遮熱シートがけん引（chukei-news.co.jp）
+   https://news.google.com/rss/articles/CBMic0FVX3lxTE1oTDJLTnRXbnBlcVlMM3hhLWNDdTFpZ0xDMjBCa1pnV2hLZ2lGYUc1bUkzVkI2MUpnODBXMFg4bF9BcTdoNXZVSGlONTRLWmtVbVg4WHVrQUhJYTB1R2xpUG5MXy1EaTdLTXhTTzZmdXZWdk0?oc=5
+2. ［資材ガイド］施設園芸・植物工場展 省力化など注目株紹介（日本農業新聞）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE92Z0dya2stLUdRR0JadWhUNm1KM2RUdEtSVmx0V28tMHc0M3BtMUtucmF2S2FiSGNrR0I4bGFxWFdQTTl3MmpBcnR3aUcyYXJIRFlHdFFWcjBWLXc?oc=5
+3. カヤバ、印に新工場 4輪用緩衝器、日系OEM向け生産（日刊工業新聞）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sQkUxSVFLUGVxenRCSXJyN2FRTzVueDgtV1A3WVNWckZ4M2pldEszMzhQR3dOVEg3VHJ5b1BNU2RQVHhFU2VNRGRqd0dyRlpRRGc4akRYcGx5Njg?oc=5
+
+■ 日本の社会
+1. 学者が斬る・視点争点：短時間正社員で広がる多様な働き方 長町理恵子（週刊エコノミスト Online）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTFBDR0xmZlNjbHJWc05XWl9SVVZqWFBRUDBXRjVZYTJXQ1U5eVo3SzhqMFNTd1lrNklzUndjWlRYUmdOcUFNd3ZlZEFOSzVjcjZ2R3o3QWlHWnVmcUl2X29NWmx1V0dVZWlxczJuU3ZaRGVjYjBfTy1EaXdOVlFkQzg?oc=5
+2. MLB:ポッドキャスト「大谷翔平に対する裏切り」が解き明かす事件の真相（日本経済新聞）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTFA3NVZjNE1FMWJ5T0ZuX292NE15c3VZb09PODFTbjc2VkctS2ZlRjg2bjFGVFQzSXgtMnRUNXZaTUNrbTJ1b0tDaVUtbzZid3BiWjhsZjFZT21tdXp1bnNjMTBtY1VYWFhBNjh4WA?oc=5
+3. 県内事業所の転倒労災増加 社会福祉施設で顕著 人手不足、職員高齢化背景（nnn.co.jp）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTE45WV9leW9NM0R1RTJLQ0d5NnVqazBiRk52ckJUdEpUbXo0TVFySzFKQ0tQSEVMci1XNDZRSjMwTU1Rd081ZUxfbXRDS3JXLVJ5?oc=5
+
+■ 政治
+1. 船舶活用医療推進室長に林氏/内閣官房（建設通信新聞Digital）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TV1FQb0dOQlQyN2pzMFE0TkZvaVVGeUswbXl1bEpiOHoySkFMQ3ZweVNia2l6RjN0cWQtbXd6Xy1qTnhqaVY1aDVmYnAtaC12?oc=5
+2. 国交省人事/事務次官に塩見氏/不動産・建設経済局長は須藤氏（建設通信新聞Digital）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YTUpqWGV2ZGFHR1BXSUE0X3NsMGRObkU4LWRtSXh2STJoeGxNZGlPekZFVUFEdVpVenJnbG4xUjI1UUlsMjhSaGlYYlFKNkhK?oc=5
+3. 経産省、ナフサ備蓄の議論開始 産業政策の視点で（chemicaldaily.com）
+   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JdllMRm96MFZwUllveVlFaGM0czk1STVBVDZxQVJmMjVrei1yc1dTYzVnQVkzc3hUSFdHSWk3TG1ENEFIQmhTb2V0NzJ5cjZSaFhr?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-03.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-03.mp3" length="1222848" type="audio/mpeg"/><pubDate>Mon, 03 Aug 2026 05:26:08 +0900</pubDate></item></channel></rss>
