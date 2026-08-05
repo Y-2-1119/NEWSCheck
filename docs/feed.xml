@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 03 Aug 2026 20:43:05 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>7月22日のニュースブリーフィング</title><description>7月22日 ニュースブリーフィング
-
-■ 世界情勢
-1. フロンテオ、経済安全保障分野を次の牽引役に（化学工業日報 電子版）
-   https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GSEhSSkdpRUZhdHNjUXpWaXRIdkxRbld5UnNJU1pJZkZzSXljSlpuOGJtV0JSdk9SQWZJVHpYYkZfYzR3X3hESFR6UDduejllbzEw?oc=5
-2. フーシ派、サウジアラビアへの海上封鎖を宣言-ヤンブー・トラップが現実化、日本のエネルギー安全保障に迫る二重チョークポイント危機|セキュリティと安全保障のニュース-セキュリティ対策Lab（合同会社ロケットボーイズ）
-   https://news.google.com/rss/articles/CBMihwFBVV95cUxNdHpka2duWnNncVh1WnhEb241UHhfQ2VwdUNpT0FJVjBDVTB6dmd2V21wS3JOZDg1UERSZVdaajZuVno0TExlTmpnM1dPaC10RDlIaHc2OWRnR01WN2phSVR4OE5rdGdldEhQY19CdXU5QmtjaW5NdzU0S1RnMllFU25mME5hTWs?oc=5
-3. 中学受験で人気の国語教室・南雲ゆりか 「国語は外交力」だと気づいた2冊（日経BOOKプラス）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZUUN5VU9LTXdqVkJyNGV4Sml5ekp3Vy15WTNSQU0xM2pNTEJkeHc0Zkw0Z1RVREhLYTBENE16MFpZWjBtWGlhS2dFNFJGeDZvT1Iyd1NaV0lIc0d4ZTF2MjFMRkRRZmlBdklLMg?oc=5
-
-■ 学校教育
-1. 私大に「積極的な資産運用」促す通知へ…文科省、リーマン・ショックから続く「慎重姿勢」１７年ぶり転換（読売新聞）
-   https://news.google.com/rss/articles/CBMic0FVX3lxTE9tWTBBZ3N6T3hSZUt0d3Z0aGNNSjZRcjRMbmplOHNzc1VIRmdtY0tvSmM3VFFDd2J4cnAzT3ItNk1lSDc3Uy0wNTBBMTdEdTk4WGN2OFE3OXhnZks0aEFJamVtQXFnQm5ZWGpRblJJQWUySzQ?oc=5
-2. 河合塾グループと株式会社アーシャルデザインが資本業務提携契約を締結 ～「スポーツ×教育」による教育価値の創出を推進（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SSGJaLWJZZTh3Mk5DZUhCbTBvNEJ2bkZjRGF1dTFhZVdzZk0zTTFLaFFwTXdwYVNlR1l5SVdnSlhiVEZzRzd1Wk5JeFY1ZXo3VUd3U09HOGZ1djlBc3FkYWVWWXh2emNE?oc=5
-3. 通級指導、過去最多の23万人 24年度利用、文科省調査 (2026年7月21日掲載)（ライブドアニュース）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmejNDM0gwY3VkMERrSzRSdl9Wa1hEUEdtTmRJbC1NTVpSajF2MU8zQ2l6LTJ5OUxJNmllcl9UeEx1ZmsxMWdNaldISE5kMnZXcVBuSDhINWl1MDZRN1E?oc=5
-
-■ 倉庫・工場・物流
-1. 工作機械部品加工の小垣江鉄工所 安城工場など設備増強 半導体関連需要に対応（中部経済新聞）
-   https://news.google.com/rss/articles/CBMic0FVX3lxTE8wZ0lVTkt2OW1FQzVNT0d2VDRNSGg4V2NnZkZQMm92bjFDTGVFa3NUbHRDck5FVE94dWE5aDBJdGVOY1RaMWdqamFhMFR3ZzdmRHk4VHd1elhlYmhyMXg0eFAwdlJQNFU2ZmhfREFiNGNaUFE?oc=5
-2. ゲンバを歩く 高瀬金型 成形第４工場 「スーパーエンプラ」専用ライン 未来志向のものづくり（中部経済新聞）
-   https://news.google.com/rss/articles/CBMic0FVX3lxTE9JenJtLThacWU0bmtyQ0xXTmV0V0tvNVNuWE1nbUo3bEY4QjlmRzgxdUlPNHc3bzR2UDU4UXpBazBnNGhHcXdaNjlVUHA0LWFpbXJrWjZYbFVTaWQ3NFRFSHVrTG9IcGs2OHVmTEg2TWtNVGc?oc=5
-3. 岩谷、川崎に圧縮水素工場 関東の供給体制強化（日刊工業新聞）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kZVdwU0wxOU9MbnlCeXoyT2dSbGZCOHc5c3gxV2QzZXJKRUszTE93clI4SU1YMHJ6Q0VkUzU0RzJEa3pfaHFqV2I2MmtWc3FKSVlQMXpYZ1EyUEU?oc=5
-
-■ WMS・WES・WCS・RFID
-1. HOUSEIとAPT、メーカー横断で倉庫自動化支援（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE02dU1lOXUyX0tlOTZ2ZEV2LVhkMFFGZ25qX1lwSTJCb1AwX2p3RGVyOGk1SlNkMFdhRThrM293U3VvR2RpZllUcw?oc=5
-2. シーバ、ポーランドのGSK医薬品物流を5年延長（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UYldDTlRINlJqTTdnX3hjQ0tHT0p3LVcyUkw0MEptaTR1WTIxRkZmNk50cE4zeHpiMk9NWEc3YmlCQjZfRVV5dA?oc=5
-3. マースク、ブラジル北東部で物流拠点拡充（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vUHpLd3FyQzZyNFBlOUMyLURmRXJqYXAtV2lWYV9VWkxxN204M2syRnVkV1plR2tXeUpaaUxObFhtX05tNXNlWg?oc=5
-
-■ 日本の社会
-1. 日本向け覚醒剤密輸事件を捜査、バンコクでベトナム人6人を逮捕（タイランドハイパーリンクス）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GbUJBV19DaEs4RVBMX3BmRmRlNF9VZVhJZnlTQnY1SEMzWm5fNnkzNENJbHR3Mm9IYnpQYVV4X3hhWTRzNTduTjJRa25XaTN5amJweA?oc=5
-2. 【続報】タイ警察、日本行き覚醒剤密輸事件でベトナム人女性6人を拘束。（タイニュース・クロスボンバー）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NQURxY3MxdlgtMFBCMzRIQzdSa25KbmhIaUhPTHF4V3ZDendTWHBVNl9yeGozdDFpVzJSbXhmbUFtYnNtbGtxU0lEaXFQNUFNVDBkSHBycw?oc=5
-3. “たくさんの恋人がいる女刑事”森カンナ、まさかの逮捕 『多すぎる恋と殺人』連続殺人事件がクライマックス（山陽新聞）
-   https://news.google.com/rss/articles/CBMijAFBVV95cUxONUJCdW1lTlpRZUotejZyWVJGSHBkVDYxYVdESWF0SEVYLXV3ZzZHUWxQNDFJcmFad0xkenc1OUtUc1JsV2d3cXZ2LXppUFJFV2poVzVHclh4ejNwTVFmbW4tN2RqcW1zWG4tdmF1NVNKVndNZ29IakVtRUNJVWVtSW43TnZVckRlQkladA?oc=5
-
-■ 政治
-1. 延長国会、「貴重な平日」院内調整で消費 政府提出法案も置き去り状態に 政界の断面（カナロコ）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE0tY0t4ektaSUphcGdfRW9PQ2J5NkJsb056blpKMkRxMXFBbGJzcHFHOTdTV0h4MGh6Yk1MRWo1SU5jWGh0c2JraFJqN2ZTSXFnVGYwdWdVUFNVZFByd1drZmNneV9uM1RtVTdzOQ?oc=5
-2. 高市内閣の支持率ダウンは政策の失速感が原因か！？安倍政権との夏休みの違いとは？今野忍記者×山本期日前氏が解説（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1SkZNQU9KNlBVZTRJR25QQkJqWFd1SGtYbVJfTnBmZ2FwLTRqM3l4aXdjRWREX29pOElKWXNFdng4QmFWbWJOX2RkV1FCZy05RzdlMTRIMVJiVWRJMlBYTEk4NA?oc=5
-3. 延長国会「副首都」綱渡り 立憲・斎藤氏「結束して否決目指す」（朝日新聞）
-   https://news.google.com/rss/articles/CBMiXEFVX3lxTE41VFhjZ1IzVVlOS0c5ak91QWYtMExwTFFrSVpwYmVJOEdmWFhVbEdRQ0J2NmtCNHVqSDV2UjdjbWs2c2g5QkNodXB6aE9qRnJ4eEdkbml4eE85OWRX?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-22.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-22.mp3" length="1608912" type="audio/mpeg"/><pubDate>Wed, 22 Jul 2026 05:39:19 +0900</pubDate></item><item><title>7月23日のニュースブリーフィング</title><description>7月23日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 05 Aug 2026 20:43:13 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>7月23日のニュースブリーフィング</title><description>7月23日 ニュースブリーフィング
 
 ■ 世界情勢
 1. ＜主張＞議員の渡航不許可 外交を政争の具にするな 社説（産経ニュース）
@@ -649,4 +600,53 @@
    https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QcHhaNXdwWmhjT19RdUVEYmN0cmduamNXQzZTVXc1RnVxUDBnLWVLSVp1amlPaXRlVm96bDZhTXpjYTc4b3VFcUJoUFA4clRkbDhsTnpKN040MW5IT20zRHNB?oc=5
 3. 米中間選挙、右も左も急進思想に若者なびく 「トランプすら伝統勢力」（nikkei.com）
    https://news.google.com/rss/articles/CBMibEFVX3lxTE9ORmN4WHBDWVpFcTA3NHF1bDVvcGRDNHpWYVk4OVlDUGlqXzUxUzNiQzhtNU9wNmhOVnk2RXJVQlFTeWFVM0RhdHo0NEFnZDhQZHVadXgtcjZzRE1fVEVPRzNiWVNGeE1CMGd4Xw?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-04.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-04.mp3" length="1632240" type="audio/mpeg"/><pubDate>Tue, 04 Aug 2026 05:41:05 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-04.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-04.mp3" length="1632240" type="audio/mpeg"/><pubDate>Tue, 04 Aug 2026 05:41:05 +0900</pubDate></item><item><title>8月6日のニュースブリーフィング</title><description>8月6日 ニュースブリーフィング
+
+■ 世界情勢
+1. ゼレンスキー氏、対日外交に不満 武器供与巡り｜四国新聞WEB朝刊（四国新聞）
+   https://news.google.com/rss/articles/CBMid0FVX3lxTE5fUzlOdlVJZFlKTXEyUHZzeXg0Sm5JbmN3cFVwbWI1SExXXzU5Wlp0SDlJT3VqY3FNWHFSelpVZ0lDMUhKNllWbVNVRWpHS1pTalJvdFpvWHd6ak10VmhfTXBVWVA0M1BqSVp3TEpESUNvME1OUngw0gF8QVVfeXFMUEdlTVhMenkwQXFmQkg2TlVNbFpGOVNpOTJUbWI2blhDZ01lblhrakZNSF96eld4b3BsRk5MSC1hNDR4TVJiM1l0aXJZZ3NQQmY2a0dIZ04wZ0h1ZjhwRkVNZENkR29NbmZ1NGM0T1R0X1JjWE1HcGV5cXM1eA?oc=5
+2. 秩序を揺るがすトランプ外交 対中・中東安定…日本に宿題山積み（日本経済新聞）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTE1hb2NJUkx6VEE4U3FOV05DUzl6ZGJGZ0UwbUZlN21ScnFoVm5ieXZ3TG44bWlwR1ZSekJMaWF0X0ZqdzdTdmMtSUNGZEpTZEwyemJ2NG12U3BOUndRdlY3MFktdmEyT2QtS1psYQ?oc=5
+3. 中国 輸入プリンターなど調査へ 貿易に関して「安全保障」を理由とした初の調査（KAB 熊本朝日放送）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE84WVl2YU82QXhjTjFXVmZVSjVBVFhJUXo3clVlNHpzSHlVa0IxQ0V2TGh5STU4M2RuV05kdVdzZDkwUVZsYnNnYmVxWlo5OFRhd2N4dUh3?oc=5
+
+■ 学校教育
+1. 「探求」が土木学習を発展/第18回土木と学校教育フォーラム/土木学会（建設通信新聞Digital）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wN2ZvbHZQcFE2U3AzdUFHYnBwdFlkNkdoUHpfRG9iMzBuNWJJZDVMWDFRX0NHS04tY1ZiWkttQkZkN211bmxlU3d6THU3c2pB?oc=5
+2. 高専新設や学位取得必要/機能強化へ中間整理骨子案/文科省検討会（建設通信新聞Digital）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vZlJSd1ZUQnhfTWpaWHJudUFIQWFxX1VpbS1QaG8zLWJMM3FuSU1DaVotMXJMclppOTRHVHFwTUNTRDBMbEwyTmZfaVdlS1dj?oc=5
+3. 小中学校の教員採用数で全国トップクラスの文教大 独自指導の仕組み [埼玉県]（朝日新聞）
+   https://news.google.com/rss/articles/CBMihgFBVV95cUxQZGpyMm1KTXV2YTFZbzRYbHM4MUJxNlJNYmd5RFVCWHowZVhUeXNRLTRkNzd5R01YZUlzbG5xVWRSdGdiT2J3LUhTNXRJdmptbzRSbDVqQ0JqNzZwaXRfbVdGNHUtOF9Ycl9xbEhxUDNnV2ZySG5ySzBXd214RHM5cGFJQnhHQQ?oc=5
+
+■ 倉庫・工場・物流
+1. TCI、ヨビトラで物流効率化法の定期報告支援（LOGISTICS TODAY）
+   https://news.google.com/rss/articles/CBMiSEFVX3lxTE52cFdSQ3lmZzBSYVJ3R3o3UVY3MWVwaVVIZGdtUXlESF9qdHFJa0JYVGxNaTFEYllrczdCMHJQakxYTXp1cjk2Rg?oc=5
+2. Amazon、物流拠点集積進む尼崎に関西最大FC（LOGISTICS TODAY）
+   https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XakJGSUJNSjNqS3lhNEpFY1haMnk5bFlpSUs4d1JDU0ZkY1BVNHh5WENuY1lqVTJsY3k5cXR6MTYtY3B0MDl2Zg?oc=5
+3. 宅配の終点を再設計、住宅を物流インフラに（LOGISTICS TODAY）
+   https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PRkkyMmh6Zm1fNTlicFhVN3JXUGNKcWJMQnAxSTVLZDd3aVJUUXZqV0FNaUNrSFpSNm9PdmVCVEFFZ2dVVGhKQQ?oc=5
+
+■ WMS・WES・WCS・RFID
+1. クラダシ、山本山とEC物流代行契約締結（LOGISTICS TODAY）
+   https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kSkFxX1ZTM2RGV0p0Xzh5M01tR0pYcU0wZm9MLUVlREpVNzNhNkFvRTZqWUxDNU9DWFFVY09iY21KMzkxVW5xTVZnZ0tGUdIBTkFVX3lxTE1kSkFxX1ZTM2RGV0p0Xzh5M01tR0pYcU0wZm9MLUVlREpVNzNhNkFvRTZqWUxDNU9DWFFVY09iY21KMzkxVW5xTVZnZ0tGUQ?oc=5
+2. YEデジタル／DHC川崎ロジスティクスセンターにWES導入、本格稼働を開始（物流ニュースのLNEWS）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjazUxTmg2S25zZ1dWYkxDaC1qU1hCcjFCX0hjUW44RWpNXzBnd0xhM1cwT3FRVmcycWpLSVYwS1k2ODlObThPUDhTVHBMMXM5dDNWVw?oc=5
+3. 『ロジザードEXPO 2026＠大阪』開催のお知らせ（PR TIMES）
+   https://news.google.com/rss/articles/CBMiakFVX3lxTE8wQ0gtQlBhbldfNDNMS3hyWU9KclBlSjYxc2JuUDVSUGNSWWZneDJfU1hKOHhYQl9BTWNEcEZkbG12V0hPSVZqcG5sTjU5R2JyaHpFNWJueWI4UXdNTGVqcm5iRzZXVjlwVnc?oc=5
+
+■ 日本の社会
+1. 木原事件に新展開 重要参考人が初告白「木原誠二・元副長官の妻から前夫の怪死現場に呼びだされた」 【週刊文春 目次】（文春オンライン）
+   https://news.google.com/rss/articles/CBMiS0FVX3lxTE53dV9UWl93VTB4ZDBwZ2ppdmdnV2hCS0JKRDdkNFRoRHpYNENUTUwwbmowbHJQbnVpc08zSGlFVFBkb1B5bzRHMHpZcw?oc=5
+2. 未来を語り合う 厚生労働政務官・神谷政幸（日本経済新聞）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTE5MZ3dacHFEM2VZZ0NvNjV2bC1JTS00WjdzSjcyZ2FGaW1OVUMwRkx0ank1NFpIRkhqdnQ3NHluUVBUbW9vckhxNEtJbG0xaUszMEFBZDhoLVcwYUU1R08zVE1BSHFOYUNjeU8teA?oc=5
+3. 労働者派遣法施行とともに40年 東三河初の人材会社「ISO」山口社長、採用難時代の人材確保について語る（東愛知新聞）
+   https://news.google.com/rss/articles/CBMiXEFVX3lxTE8ybEFDbW9NUWp4dFA0OE1xY25LNWZ3RDlXV0IzNXZuTVNsWnA5cm9PR3dyZ3Fham0yZ1NSQV9jVVdkc1F0R3dkWDRMaUJOTHA3YUpLQXUzaFlwdXR3?oc=5
+
+■ 政治
+1. 南あわじ市 子ども議会！（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ndU04dHVaM1BIZDlydXlFRzhjUHc1VlhxcnNJVm5KcW5xQmtJOEdEdmpuVDZpZjN3eDJzMktpMndLWnVmcVNyZ2xRZkhaR291d3Iwa1JzcUc0SXJINndz?oc=5
+2. 円安是正、日本の政策必要 米長官発言 「植田総裁が対応」｜四国新聞WEB朝刊（四国新聞）
+   https://news.google.com/rss/articles/CBMid0FVX3lxTFBqc0l2UGhLNEt2aDJHVG95NGd5Z2xyZVo1bjFfMnBLeE1ick9Jb0JMSWVOM3RMQ3JfT3lyQlVyOHNQVm5ReUNDdXV0VkhQcXUxNjhoT253dHVwNlRMT2ZWLS1qbF9JUFd6TG5nZS1ZQjlBUHczQ2pR0gF8QVVfeXFMT3I0SU1UbmF0TkRQTnZfMXpyeFN6d0hEejQzcUlKR3lYUU5PTmxzaDRCZzNQRnNsV0p5RDQ4VW13c3A2ejg4RU42cldtZlM4ZnpFNm92eER3cllPSTlQUWRpVGlieHdlb0paY3dkdVlzZ05Wd25ucWZMZG05SA?oc=5
+3. 原爆の日（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VblJKS3hhY3ota3JMeDVBUnVYRnVYVTFSVHd0Wl90QUFkWHU5YVFTc0dFYm1BcV9wTEJyd1NjVGI4ZW5MOFVIaldZdXRWVS1Ha251YUVsdTY2cFQ4OXZj?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-06.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-06.mp3" length="1387584" type="audio/mpeg"/><pubDate>Thu, 06 Aug 2026 05:41:45 +0900</pubDate></item></channel></rss>
