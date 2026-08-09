@@ -1,46 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 08 Aug 2026 19:50:45 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>7月26日のニュースブリーフィング</title><description>7月26日 ニュースブリーフィング
-
-■ 世界情勢
-1. （今さら聞けない世界）「宥和」外交、なぜ否定的に響く？ 藤山一樹さん（朝日新聞）
-   https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ndnFZbGdiNDB2U01xU2xpY0tRZFpnRElfTnlza0VhbXdobHhlSGp1Y0J6WGs3bnlSYUNzQnNTVlh2d2ptcmJ5QlJUT0tRZXZVSE95WGdmcTNEcDdT?oc=5
-2. ［欧州の新常態］＜安全保障 番外編＞「自立の責任」危機感浸透（読売新聞）
-   https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tNlMtZ1NlaDB4cVRKcmN6TVZFSDJfQWRTM1E5Y2x5Yk5fU0FTS0RJc0EtWVk2bHNNTGhiazNEdTItaFBEa2JKMmdSaW5rZTV4a3NJUjJHN1NvV2V4NFl0UFRn?oc=5
-3. 米、対イラン協議「継続」 外交での最終合意に含み（山陰中央新報デジタル）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qRFh4aTNFcmlvSHNCLW4wcEtCMjI3TEQ3TURZbW9JVC05OC1fakRkVzlRamlqWUowYThOZnpVYUlUYzBBNWE0dTVSU2xJeUpENzhXM1dPZDZKWEU?oc=5
-
-■ 学校教育
-1. 避難所の課題 対話で探る 南越前中２年 「考える防災」実践 使う！新聞ＮＩＥ（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE53OFQxX3Z6aWNnbGFqUUQyWVoxUmluS0I5TE1ZWnA4VTZOY3Y0U1hvcG9LMF93VmswbDFmcVNGY3JBdWhDMjNWdzA1dEhyaWhTM3RmeFlYQWxNQURXSlE?oc=5
-2. 三島史人・福井工大教授 微小プラ 磁力で回収へ ふくいの海～渚の守り人 | 社会,学校・教育（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYYWZ5VXRFX185M3RIUy1YV1VMbGJhOGJYSTVieUFObmlqeXBwTkUxT2xjVEZfTVoxbmEtSE9VYTEwMmswYTRNc1B2RERQZU5CbzNZclRwbFhUTlFuZHc?oc=5
-3. 文科省、辺野古転覆受け状況調査（埼玉新聞）
-   https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iU19KRUdQRjJ4M3ZkczI0bW5NSW9oN2VPUEQ2c0p0UE56bExWZ2RQVHpkOUFvbnNSdXQwZ2JLWEJJYXJqQUpCU0s2U1J5cFRyNUhjaXFYZWpCY1pMVFROdlhDdEVLQQ?oc=5
-
-■ 倉庫・工場・物流
-1. 倉庫で眠る素材活用、牛革のエプロンに 豊岡の老舗かばんメーカー CFで製作資金募る|但馬（神戸新聞）
-   https://news.google.com/rss/articles/CBMibkFVX3lxTE9KeDBEc0JycHRaTzU3c0lhRGdlNFpMTllpVEhURlZWUVVNRGxrTDdBUGRmWXFZVjVObldpNzc5Sm10R3BxN3M1MHBrQ1J4eE1xWlpHeVVBNVhXenkwSUlwNUdodjRLcE85T08ydDZR?oc=5
-2. 地上に舞い降りたUFO!? 愛西市の田園地帯に防災倉庫（中日新聞Web）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jV2dRRUJ1Q0dnbkNZUFpxTDFjYkI1MllnMEpsVlZnWTQ5MUd1dy1TTzMwRldqLXZWNXBTVldhbkJOaEdBM2hENk41UURvRFdOc1hZWg?oc=5
-3. ちらつき始めた「使用済み核燃料再処理工場」の28回目の完工延期 青森・六ケ所（河北新報オンライン）
-   https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aZHJLRGxWSU1KSEQ2RDd5Mmt5NTRKQWVXTmt6eHVnZ3VKcGN4MFMwWUlIWFRONVJTeGJ5SHYwclozTlVpT2s4X3QwVEVTNGhQLTBzOHEyc0oyaXlNVGJndw?oc=5
-
-■ 日本の社会
-1. トランプ政権が日本を含め「強制労働対策が不十分」な国・地域に新関税を発動 ─ これをあまり甘く見ない方がよい理由とは（The Liberty Web）
-   https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DWGx3cnRpT25NdmZiZEJ2NGxKaEtCX09ZMDFPeEVOblQ2STVWT05NZ1Qwb1pMeGV1M1RERkd2aTlmVUpCWFM4MjRhamRobmfSAVRBVV95cUxPaDJxNEE3anl3aUxVZVZLelB0cWVYbzZ4ZEs4TDR5OE8zV3ZqM25lak9Cb0tBM2UxSDZiaTE2bUVDRkRrbEo1NS1VTnJrQ0ZmaGNuSVg?oc=5
-2. レバノンで岡本容疑者の葬儀 パレスチナ組織発表（au Webポータル）
-   https://news.google.com/rss/articles/CBMie0FVX3lxTE5rUkJJbUt6enpLVU1nTGZ2bjJiZW90NDBKbktKbzN2ek0yWnJuZzlpOHVCQlZMV3BZRldhcTl1OTJnd3VUTU9JNjhQZkh3WndpMW8wT1gtei1YRjdxeU14azVFUEp6dWdOblUzUUNDTy1EQmRnNFNpMEY1Yw?oc=5
-3. 津久井やまゆり園事件の検証は不十分だ／藤井克徳氏（日本障害者協議会代表）（ビデオニュース・ドットコム）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE1TSlMyMTVLV2xtMUNKajlSSWtSVVo1eGwyejdMR0RYMzRVMlNXS09aYV9WTVBITWYwN3QtWDdjZ2VENmEzV3ItSnFEV1A4Q1ZSSHRoZExtd3lucmQyVV9sWE5qbm9CMVNPZFYwUHRwSGdocjEtZmtuTGFBTHdXZjg?oc=5
-
-■ 政治
-1. 社説＞特別国会閉幕／民主主義の土台崩す数の暴走|オピニオン（神戸新聞）
-   https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1X3FISFJTeDFXQkZXZEkyeVF3ckY5N1VmeEpQOUJKekJWMFZwMVN0WndMZkF3b1Y2RXJUUHhNU1dyX0xmcGgzN05fZG9fSm1kcGI2dXJsbXVfbzdPeU5VdjNZVFo2Smpf?oc=5
-2. 暮らし軽視の国論二分 特別国会が閉会（中日新聞Web）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41Y2dkbk5wczV5X3NpSF9jZG5SV29JSmV0MF9hX2tleS1JQXNZVmRXS3IxUGdJVTA2MzZsaGtqakVGYVIwR1VXazNBcWpsZk94cDMxbW9rTWRiWURwRG1TOWREUHEtN00?oc=5
-3. ［特別国会閉会、ベテラン議員に聞く］村上誠一郎氏「"数の暴力"になりつつある」（愛媛新聞）
-   https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pT1d4TmJDQkw2ZGZ4OG9YYVllWDdDdFk0cUZkMnVDOHZlTy1FRE4zWkdiM1lXVWJaQmpJMEpXSnFkXzAtMFBoaVZkeEVOSklIUHpQNXlMZnplZVlqaERSdA?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-26.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-07-26.mp3" length="1205136" type="audio/mpeg"/><pubDate>Sun, 26 Jul 2026 05:25:05 +0900</pubDate></item><item><title>7月27日のニュースブリーフィング</title><description>7月27日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 09 Aug 2026 19:54:49 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>7月27日のニュースブリーフィング</title><description>7月27日 ニュースブリーフィング
 
 ■ 世界情勢
 1. マダヤの農地、農園の生産性は、 コミュニティの食料安全保障を強化します（VOI.ID）
@@ -633,4 +592,45 @@
    https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YaG9lRXNZZFNLZWl6US14VTVFN1h2VkpYMHdlRlpPQlFDS0stemkxX0sxUm03T0JUcEg4Q25wWXhzNGpXWk9MSzU5QXd4UWVBZzZURjlkZ2Y5YlpWemc?oc=5
 3. 画像・写真：内閣・党人事、幹事長が焦点：時事ドットコム（時事ドットコム）
    https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HYUxyY0c0UVdLMkVVaUI2X0VEZmJzUExOcHQwc3MzeFUwZUpXVWdXS3pWUHJ5R1FndW4taDRXdGxObDh0RTNURktEYjdvNzdXbE94T1phVW5oNS1oSWFiRF9mdjg?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-09.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-09.mp3" length="1687392" type="audio/mpeg"/><pubDate>Sun, 09 Aug 2026 04:49:06 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-09.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-09.mp3" length="1687392" type="audio/mpeg"/><pubDate>Sun, 09 Aug 2026 04:49:06 +0900</pubDate></item><item><title>8月10日のニュースブリーフィング</title><description>8月10日 ニュースブリーフィング
+
+■ 世界情勢
+1. 【叡啓大学】リベラルアーツ科目「国際協力・安全保障概論」で模擬国連を実施 「世界の飢餓問題」の解決策を議論（山陽新聞）
+   https://news.google.com/rss/articles/CBMicEFVX3lxTE9hVnQ4VTdpY2dnbHliZ1pRYWlfcTRqbmcwN2k0VElCMGgwVEFMYXhxeXpVd0ZiQ1JKbnVWcHloczlwWW1uMDVYVUZfVzIxT0RVTWx4R1VvS2hWSUtHWXBPYl9HaUplMFdGLWlwbWt0bkg?oc=5
+2. 台湾駐日代表が長崎の平和祈念式典欠席 座席配置が「外交団エリア外」として長崎市に抗議 「尊厳を無視している」（TBS NEWS DIG）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CSW02eGpNLVRCdF8xQnRuSGRCcFB2aF9jYkxteTFOYWZWdkNhUVFCblphVGszcFdwZmhERUhIUGwweHBMaTBaT0RPa05iT2c4ZWRMOVByQQ?oc=5
+3. 天下の利益をもってわが利益となす 中国の首脳外交に見る大国の気風（ｄメニューニュース）
+   https://news.google.com/rss/articles/CBMikAFBVV95cUxPS1hsRFo2UVl2dmcxTmxUWmxidkI2SHhXU0VaZG5aY1BuQkhTc1YxaC1nUzM2bXJWQ2Y0VkJYNi00WEZFaVBtSUlYODc4ZDRfR1ZmdERrYkpsblFFY2JFQk8xU00wNzl2dmE1VGxUbVVIbDlrNEVIS3lRREY3NUlfalN6TEJJbXJISGVhWVp2SjjSAZABQVVfeXFMT0tYbERaNlFZdnZnMU5sVFpsYnZCNkh4V1NFWmRuWmNQbkJIU3NWMWgtZ1MzNm1yVkNmNFZCWDYtNFhGRWlQbUlJWDg3OGQ0X0dWZnREa2JKbG5RRWNiRUJPMVNNMDc5dnZhNVRsVG1VSGw5azRFSEt5UURGNzVJX2pTekxCSW1ySEhlYVladko4?oc=5
+
+■ 学校教育
+1. マンダラチャート元祖の豹変？！3万部突破『Google NotebookLM 徹底活用術』著者が、“書いて終わりの目標設定”を終わらせるAI×ゲーミフィケーションを提唱（朝日新聞）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2RWRLOEFWN3JCXzJ5d0Nja3N1ZWFLNEpEVG92QV9kUno1SGJxaGZUcnRzS05mNWxGbllhSDJJWFpYY3NKTXhscHNrdGtDbURscnlWZTBJWnhhNlk?oc=5
+2. 長野県知事選、現職の阿部守一氏の５選確実…経済団体などの支援受け新人との一騎打ち制す（au Webポータル）
+   https://news.google.com/rss/articles/CBMibkFVX3lxTE55RmRrM0NmWjZJd25XU0w0cnEyalpoYW0wUWtWTnRwVEJmd3kxUmo1MXRzcFNuNkx2UklyakZzUklJa05jV0VSbjFTdG96aG1aakY1TmI0WE5ENWJIRlFmUnpHanQ2b1YxVlZaT053?oc=5
+3. 文部科学省「こども霞が関見学デー」に参加しました。（クラウドファンディング - READYFOR）
+   https://news.google.com/rss/articles/CBMib0FVX3lxTFB0bERNQ2RkM29ZUW5KanJnNWxwMTU3eWZkQzdVT2hETlNIQnoyR0RSVFZwb1pHdkVzZ3hXN1pnay1vQVlfSTFHZlBYRDNxRVlBV2YzU1FmRC1YZl9fY0M0NVM5UmxnZVAxLW54MUU2TQ?oc=5
+
+■ 倉庫・工場・物流
+1. Lotte Mart、釜山に2,000億ウォン規模のAIロボット物流センター稼働…英Ocado技術を韓国初導入（BigGo ファイナンス）
+   https://news.google.com/rss/articles/CBMidEFVX3lxTE52bjN1a3ZRd3VWZzhYNTJkR0FNeUpZNTNlRkYyRTd4UkRtSHJmZnYxU1BMVjBaM2ZOcnVPZkhHVFRhLS1RekYwVGdQdGc2dnpBQUprXzlKakI4bTFTYlMxNzYxckQtOXlfMnlJeGhrLTFiRldN?oc=5
+2. 世界保健機関の人道支援倉庫がドニプロで攻撃受ける、医療物資130パレットを搬出（Межа. Новини України.）
+   https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mdTJ3X1JNb0ZSXzFDOFZQeEw5NmxNc3ZCTXBzV2o1MzZlWUEtLWxMUkp3QWIxZVZpVXoxZWJNNTM5NWxxdEs0WVZBWlRPSERhMENxOWg2a0E5ZUNRc1JwSA?oc=5
+3. ドクターイエロー後継「ドクターS」 JR東海浜松工場に搬入 鉄道ファン注目：ニュース（中日BIZナビ）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiNU15SG5WTkw4eUFyWnVEQzNONVdIWEo1T3J6SEZQUXhVV2w5ZjdqcmZxWUFlaDROVU5rdWFQQlpWQWI5b1doVzFqYW9POFFBZmdwUV8yc21VVWRJSFJR?oc=5
+
+■ 日本の社会
+1. 全米鉄鋼労働組合 日鉄のUSスチール買収を事実上承認 一貫して続けた反対姿勢を転換｜TBS NEWS DIG Jesta Group (95EFbqfn3A)（mshale.com）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zaHgzN0RxV09wTmpKUmw2VGZkU0s2NGdyWTNMZFNfR2Q3R1pORGw2WnM1em5sTnpMT3pESTE0ajdhTXNvVUVjejQ5S25ISC1abGlaV00wSmUwdkk?oc=5
+2. 【熊事件・総集編】人を襲い食べる熊たち…。日本の熊害事件10選【ヒグマ・ツキノワグマ】 Alexander Volkov (SVRaRXNnRV)（mshale.com）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tU1hQdXJLd0pnQ3J1SjNIRXJqVzNSUGdIWUlfdTM5TDhVMFUtdmhRZUluZm54S25iaC1ybGI5bUZyTEk2U2VLUUFpZnZHaXlnVDYyMjNvMGFPUTQ?oc=5
+3. タイ中高一貫校で銃撃、5人死亡 教師ら標的、男子生徒が発砲（au Webポータル）
+   https://news.google.com/rss/articles/CBMieEFVX3lxTE9pdVlGSGdySzZ5THJoMkdSVTZJNlRMTWZxQVBrNWpaRkhBbkFxNzNmWktLcWxBMndrUVdFUlpITnIwLTVkd0F2Mm1ZcXhvRkM0VUVYeUhGTTl1X2tna2R4LVVUcUhHWTFoX1pOX1B4MkZfZEJmZWdzbA?oc=5
+
+■ 政治
+1. 「食料品消費減税」では価格下がらず事業者マージンが増えるだけ!?高市首相主導の“サナエショック”の懸念（ダイヤモンド・オンライン）
+   https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NemtLYm1Nd2hKSmNoZEZhLVBDTFJwVDY2b1otUjJGRGlsTU9pQ3gxSHdIMUMtVzhVTHBUeWdnamowUHdhc3VPcWxPMWvSAU9BVV95cUxPMjZqdzdTMGJYV3pwNGhvbml5dHhMNVoxSXlwVWpYdnlxckRZNUtfSXBpNGJURjRCRlNyZTJEc01PejcyeGFzUkNKaTlEaXZZ?oc=5
+2. 拙い国会運営、首相に原因 牧原出・東大教授 〈検証 特別国会〉（上）（山陰中央新報デジタル）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuNjIyZXVfUUQtdE9FUi1BZDl1NTFlT0h4Vm1mV1Z5LWxDMFNpR3p5Z1ZBcXExTEM4MjhkcHZ2ZlVBNmV4ejc1alRvMTg5U1JjZjZzanh6S0JRRHM?oc=5
+3. 核禁止会議参加に慎重 首相、内閣改造巡る言及避ける 長崎原爆の日（山陰中央新報デジタル）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sTkRQZ1NxUmloZlF0elZXaWlOckRCRW02UUxZSU1nMXRrcGliU1FvNFQ3bHJDdnZrV0VvSlcxUkNUSVdQbFl4Y0JIS2ZnNDA4LWJaUEZuZnNlajQ?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-10.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-10.mp3" length="1508256" type="audio/mpeg"/><pubDate>Mon, 10 Aug 2026 04:52:57 +0900</pubDate></item></channel></rss>
