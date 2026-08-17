@@ -1,46 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 16 Aug 2026 19:41:18 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月3日のニュースブリーフィング</title><description>8月3日 ニュースブリーフィング
-
-■ 世界情勢
-1. 中高生にアメリカ大使館員２人が講演、外交官の仕事を語る…浅野（読売新聞）
-   https://news.google.com/rss/articles/CBMiigFBVV95cUxPSUZjLWk3T2Z0T1hMcXE0R1Z2QXZnSkI4QVlzbTFLNThINDJBX2FJeW9jUHhfV1RadEI1eE4zUmFHREhtWWk2WXJrZzIyNXUzckRhUlVwbGF3OE1rTC1hZEVtMmpDYmNJM1g5dm5rbHYxMVhLRFZVVnB1SVpsLTJjUzhKZFdVS0lReEE?oc=5
-2. 【ブログ】インドの対日外交政策を読み解く― 新幹線計画が映し出した「国益優先」のリアリズム（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yTEFNTHBveTVJLTFCbUdPUDJUQjhpR1hsYkZ5bDUzTVVKNFlRR3VGVWZ6VTU4QjdzclJseG5XM1VCZmxPb1hBYlE1RjNzbnNNc3cwQTI5S0xYNnk4bjJF?oc=5
-3. 米、イランに外交解決を迫る トランプ大統領、再攻撃も警告（福井新聞社）
-   https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PdDFVZUkwUW0xRDRCOFJHczN1ekxkS0JyY0IxV09iNFpiQ25iel9LMkI4UkY5bjRLTmE2a2gwQmVmWG9PMjhNdGVIdjhfV0lxaGhqZVpNUVZjUDU2VXRfYWVXdmJ4dw?oc=5
-
-■ 学校教育
-1. 文科省幹部人事／事務次官に矢野和彦氏 審議官は望月禎氏（日刊工業新聞）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LdjJ1TDFMVFFBRU9tblR6VUlmcWdKUnlHOHNOMnlnSGhlalpUR0k5R01Lc0ZBbEo1QTF5VE9RalY1WUFaTzlhbWJyLUNfNVQ2TW9Qa19YazhPbGc?oc=5
-2. ［大弦小弦］琉球新報記者の質問（沖縄タイムス社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNaUM0SHNoN1ZLWG4xOE9HdmpMSGhhRjFfLVNtQ0ZId0RfVFZoOV9yNWpGaWFIa0ZPWjZPTy0wYmNUYjY2TDdyVkU4c3dCM3RkTlo2WEZIZm05cU9vZ0E?oc=5
-3. 2027年度入試から総合型・学校推薦型選抜で面接が必須化 よく聞かれる質問は？（朝日新聞Thinkキャンパス）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVl9KMkRhRmZMNnZjLTZCdEp4WFdiWFZqTzZUN1dWZW5NSDloNkRzU0o5elJxRHc1VGRIa3ZMLUV1di1UUUt1MkdVemMxcVJlYVdZNm5IZDlacDFIa2JMR0RsbUdfWDJfZFg1Q2I0VkNybE53NDI0cWZWWVY4QTA3dThFaTdzVFhN?oc=5
-
-■ 倉庫・工場・物流
-1. 変幻自在 老舗企業の挑戦 日本いぶし瓦 瓦製造からスタート 幅広い屋根工事に対応 工場、倉庫向け増える 遮熱シートがけん引（chukei-news.co.jp）
-   https://news.google.com/rss/articles/CBMic0FVX3lxTE1oTDJLTnRXbnBlcVlMM3hhLWNDdTFpZ0xDMjBCa1pnV2hLZ2lGYUc1bUkzVkI2MUpnODBXMFg4bF9BcTdoNXZVSGlONTRLWmtVbVg4WHVrQUhJYTB1R2xpUG5MXy1EaTdLTXhTTzZmdXZWdk0?oc=5
-2. ［資材ガイド］施設園芸・植物工場展 省力化など注目株紹介（日本農業新聞）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE92Z0dya2stLUdRR0JadWhUNm1KM2RUdEtSVmx0V28tMHc0M3BtMUtucmF2S2FiSGNrR0I4bGFxWFdQTTl3MmpBcnR3aUcyYXJIRFlHdFFWcjBWLXc?oc=5
-3. カヤバ、印に新工場 4輪用緩衝器、日系OEM向け生産（日刊工業新聞）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sQkUxSVFLUGVxenRCSXJyN2FRTzVueDgtV1A3WVNWckZ4M2pldEszMzhQR3dOVEg3VHJ5b1BNU2RQVHhFU2VNRGRqd0dyRlpRRGc4akRYcGx5Njg?oc=5
-
-■ 日本の社会
-1. 学者が斬る・視点争点：短時間正社員で広がる多様な働き方 長町理恵子（週刊エコノミスト Online）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTFBDR0xmZlNjbHJWc05XWl9SVVZqWFBRUDBXRjVZYTJXQ1U5eVo3SzhqMFNTd1lrNklzUndjWlRYUmdOcUFNd3ZlZEFOSzVjcjZ2R3o3QWlHWnVmcUl2X29NWmx1V0dVZWlxczJuU3ZaRGVjYjBfTy1EaXdOVlFkQzg?oc=5
-2. MLB:ポッドキャスト「大谷翔平に対する裏切り」が解き明かす事件の真相（日本経済新聞）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTFA3NVZjNE1FMWJ5T0ZuX292NE15c3VZb09PODFTbjc2VkctS2ZlRjg2bjFGVFQzSXgtMnRUNXZaTUNrbTJ1b0tDaVUtbzZid3BiWjhsZjFZT21tdXp1bnNjMTBtY1VYWFhBNjh4WA?oc=5
-3. 県内事業所の転倒労災増加 社会福祉施設で顕著 人手不足、職員高齢化背景（nnn.co.jp）
-   https://news.google.com/rss/articles/CBMiUEFVX3lxTE45WV9leW9NM0R1RTJLQ0d5NnVqazBiRk52ckJUdEpUbXo0TVFySzFKQ0tQSEVMci1XNDZRSjMwTU1Rd081ZUxfbXRDS3JXLVJ5?oc=5
-
-■ 政治
-1. 船舶活用医療推進室長に林氏/内閣官房（建設通信新聞Digital）
-   https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TV1FQb0dOQlQyN2pzMFE0TkZvaVVGeUswbXl1bEpiOHoySkFMQ3ZweVNia2l6RjN0cWQtbXd6Xy1qTnhqaVY1aDVmYnAtaC12?oc=5
-2. 国交省人事/事務次官に塩見氏/不動産・建設経済局長は須藤氏（建設通信新聞Digital）
-   https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YTUpqWGV2ZGFHR1BXSUE0X3NsMGRObkU4LWRtSXh2STJoeGxNZGlPekZFVUFEdVpVenJnbG4xUjI1UUlsMjhSaGlYYlFKNkhK?oc=5
-3. 経産省、ナフサ備蓄の議論開始 産業政策の視点で（chemicaldaily.com）
-   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JdllMRm96MFZwUllveVlFaGM0czk1STVBVDZxQVJmMjVrei1yc1dTYzVnQVkzc3hUSFdHSWk3TG1ENEFIQmhTb2V0NzJ5cjZSaFhr?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-03.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-03.mp3" length="1222848" type="audio/mpeg"/><pubDate>Mon, 03 Aug 2026 05:26:08 +0900</pubDate></item><item><title>8月4日のニュースブリーフィング</title><description>8月4日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 17 Aug 2026 19:49:41 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月4日のニュースブリーフィング</title><description>8月4日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 地政学リスクと経済安全保障（8）海上封鎖のリスク、再認識を（日刊工業新聞）
@@ -625,4 +584,49 @@
    https://news.google.com/rss/articles/CBMid0FVX3lxTFBsWXRuakFuR2t1MzVkdlJIa2hyMm91Z0FmLV9PbU5TTkxaLVBJMkFYQjVENllyWElfRnd2LU9TR2Q5WmZFdzg5ZlAwcjRJZnZEb1JxRGFsbDByWE10czVIaTVLdW9RVFVRNVBWay1oYzdIMDE3blhj0gF8QVVfeXFMUFZJWW1TQmNMQzZueTNDU0drdGZXZ3pNdVBISjcxeURGYVJ5Qjc5Y2xEb00wUVAxeFhsNG9DS09QalA0YmVWTThCZWdzaWFMbVRBaXlKRGZoMFZfRGVjdUtuaHlMRFJDWkhCTTZrZmxpQXMzaXZyb2ZIaHBKTQ?oc=5
 3. 県関係国会議員週間予定（１７～２３日）｜四国新聞WEB朝刊（四国新聞）
    https://news.google.com/rss/articles/CBMidkFVX3lxTE4xTGlvRU5RTEhVWmVSem12cDIxVzR5N0xtOVBJN2IxWUI4VnNfeU9COEZBN09DTnFoaE1FWXdUWVAxbVdkNk43Zi1yN1UyOW5hRW5EYm9xZkZwcl9RZG1pMWhkcW1Eb2ZVSzN2b3FWYTJkTkNlUHfSAXxBVV95cUxNeDRLRUJSSFRyRDB3U0tObEIxMy1LMVB1RVI3cVhXSnBPakVWcW0wcXJLVXhnVmZxVDBsdlR2OWJXVUtnT0RfOWpyVkE1WGdqSUFhT3dSVHBRdVpwUDNCVXFtZjhXaVRWR2JoNHd1TTk4VjJrbWVxT085RWVC?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-17.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-17.mp3" length="1336176" type="audio/mpeg"/><pubDate>Mon, 17 Aug 2026 04:39:39 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-17.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-17.mp3" length="1336176" type="audio/mpeg"/><pubDate>Mon, 17 Aug 2026 04:39:39 +0900</pubDate></item><item><title>8月18日のニュースブリーフィング</title><description>8月18日 ニュースブリーフィング
+
+■ 世界情勢
+1. ゼレンスキー大統領、戦闘経験を持つナウメンコ氏を国家安全保障・国防会議の第一副書記に任命（mezha.net）
+   https://news.google.com/rss/articles/CBMib0FVX3lxTE8zUWhBaWw2T2pOUVhyWUp6Z0pCTXV0OWpOVExtclYxNzJNMzItNmM3ajVWMnpXTUo5cFduSmFhcnZtS1JzelVwRl9WaW5NbG1iczlJc1BxSEdNVmJIUmtQeVYxSlRWaENrdjIwTUwzRQ?oc=5
+2. ドローンと中国が変えた日本の安全保障 国家戦略、4年で再考（日本経済新聞）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTE9VMmRZQmlLaG1oNEFkMXc3UTJEN0FlU0ZDRUdFT2Q1V3lvQ2RFcmczMzI5Wk5xejNsOFBhQUZVOEZuYTlORHo5bmd6NmwzekVEYU1lMXBoWVNVcDBJQnJNWDJqUTd5dUMzdUJCeA?oc=5
+3. 駐ロシア大使が呼び出しに応じず モスクワ日本大使館「外交上のやりとりなので回答を差し控える」（FNNプライムオンライン）
+   https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xQWFjc0k3TFhfcWRiM0VUUWFvczM0anM0OEhvTXU0TVhQUU5YVzNVVmRXQXM3ZE9XMkszU1dRbWExM2ZnaWk2b1VxMEJYUQ?oc=5
+
+■ 学校教育
+1. いとうまい子 雨 １４℃ 埼玉 月曜 250120 勉強とは人生を楽しむためにある本来は楽しいものであるしかし学校教育の勉強がその概念を壊している知れば知るほどあらゆるものが楽しめる Stuart Fails To Save The Universe (pz5Me6Yosa)（Mshale）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lcEtDWGk2cjVUMW0zMTFhNDg1V09zWU92bHNaRG5kczdiV1ZKNFRWYWxWc0tjN2xxRFVZd1FsSzBHRkplVE9NbHRkSXdjUFdtTVBEZE96RW9uQ0E?oc=5
+2. 夏休み明けの学校は暑さにも注意 休み中は元気だった子も熱中症になりやすいと文科省が伝えるその理由（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeldQSFJNNE9kOWNxWVBTVkNiOWo3SjdDRTMtOHR3dFdxRzNWQWhCWE1wTEYzek5wZUkzRjZGaEY4QjJtb3FuMUdVS3M2Q291bmNDbXFNdlY1dVIzdkZhODM2TEl6OVkyX1pZQktoX3ZkU1RGWGlVYXR5SHNxMHJBcWNCeTd4M0ZV?oc=5
+3. 大規模地震4回 八戸市、国に財政支援要望｜行政・政治｜青森ニュース｜Web東奥（東奥日報社）
+   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tanBKOHlUQmo4SW4yWUkyTy1PalRuUTV6QW1WQVNiTm5Jc09PWjNvLXY3V0lrV0s5MkUtaGtWWDlQeWdfbjJSMDFIc1N5QzdJaWc3emFlR1c?oc=5
+
+■ 倉庫・工場・物流
+1. 漁協の倉庫が激しく炎上 「ボンッ」という爆発音 北海道（テレビ朝日系（ANN））（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE0xdW4yMnRFSW1xWGhIa2Z3X0JIRThCVldkbWU1VVBwMnByNUxsbjkwalVZUXdld3hZdjdCR1l6MWhtY1NTYXlMYzEyQ1Vjb0h4V1pQLTFTUGNyV3U1RnNyQkxSazdTcTNPbTRsdDIyc2s3UzVYSFk4N0xxV09NNWM?oc=5
+2. 三重松阪 夏休み企画「永谷園フーズ工場見学＆お茶づけ作り体験会」実施（AERA DIGITAL）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTE52NFM5WXFWcW04aVI3XzVKUXFwckR3RUg4em8yU2laU3lpU2wzdkJLRmJ5UTg2V2Q5OXFIdzN3SkdCU1hxSWxmdlJpUlVNbnVM?oc=5
+3. 厚木に初の自社運営物流拠点 住友林業 住宅資材を集約、15都県へ配送（住宅新報）
+   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vcjRSMDVVNXJRWEZHTUZuQUg1dEhvUkgyd3FTcnBTNWNNZGRFVWVjLTBWZlZUbjkzSUZqZjE4QkswTHVXT3oteUdSdEhSTk1USFE?oc=5
+
+■ WMS・WES・WCS・RFID
+1. TOYOROBO、狭通路対応APRなど物流展で披露（LOGISTICS TODAY）
+   https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XSzBCZG1YZENaQmRobndQUzlBZFVmV1J1ZEg0QTFkU1JZWFJHX2ZJSGpBYXZFM2Jac2MyeXhUdFdQY25FRnhnSw?oc=5
+
+■ 日本の社会
+1. 為替相場 １８日（日本時間 ３時）（沖縄タイムス社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoMmRkNzV5VkVmYzUxVFh4a3hOQU9jZG93dzFOaDJZUm14N0xTbEVrb1ZNRzR2UVV2cDhQZzRTc2c0WGFkcG9lb0JzUXBsNFZfM1IxbFBOOTFEb2tIekE?oc=5
+2. １８日に日本大使が呼び出し応じるとロシア（沖縄タイムス社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RSEEyZWY3ZUc2emNIcjc4akFYTUNFc2tmNWg5V21oY29LMXkxNnh0d0pCT1dfaVZyaks2Rl85cF8wMWFrcWJ3Vk9qUGN2ZmFjN1BfdDdiYmdCOFo1bnc?oc=5
+3. 山本實彦・改造社・日本共産党 ――薩摩川内から見る日本の社会主義と言論の歴史（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yZ04zajVVeWJfdVVyRjVHeVpUZXZmLWN6RWxFbEx1V2tqdVNMXzlELUhSWUVZVXdrMlQ5T3VYQWJnVkxxLVlRWERYeUlNYUlFZEsyOXItSkpWaWJ3bmc?oc=5
+
+■ 政治
+1. 終戦の日（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lcnFnVVpXeUdhNVl0dUhUQllYRlh5QWFQM2tnSVBQVUN6Q2NhRVJ6Vk44blZwRjZWVGVnTEQ5RUhua1hpc184WmNoTkM0M0trWjJXYlVma05yUXR5dGc?oc=5
+2. 3氏 政策や理念語る 公開討論会 一般からの質問にも回答（沖縄タイムス社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE8ydkdmQ3JzRjNZZG1TYXg5TldIb202eFVGdEJQNnA1bDRsa0JMNGNlc011MlhjX3RnbG5Fa3NiWWtWU2lNZU1tQlFmX1Q4ZkNZN1BHU2NTVzZ3T0VJckE?oc=5
+3. 米長期金利上昇、FRBの政策リスク反映－シタデル・セキュリティーズ（Bloomberg.com）
+   https://news.google.com/rss/articles/CBMid0FVX3lxTE5mS3VoemRWNFhxbThReU5uRWdQdENodWRHUXBQLU1WNl9HMzBnenIzcU5CNHBhQmRHUTVqV3JFZFFpQVlwQnJHREFIV1JBbGZ0NlYweXhvVm45N3FXS29BT2lNQXZRbVVZRUVwVjk5SVMwRGZubUFJ?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-18.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-18.mp3" length="1407024" type="audio/mpeg"/><pubDate>Tue, 18 Aug 2026 04:47:16 +0900</pubDate></item></channel></rss>
