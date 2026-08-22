@@ -1,50 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 21 Aug 2026 19:45:02 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月9日のニュースブリーフィング</title><description>8月9日 ニュースブリーフィング
-
-■ 世界情勢
-1. イラン最高安全保障委員会トップ ホルムズ海峡の通航再開に6つの条件提示 アメリカに制裁や海上封鎖の解除など要求（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE5VMHJSZkE1UHQyV1oxMHpJVGcwakJ6enYyWGJHYVgzdGxtN1lHeVVJRjNXbmhJY3FDLTlQZ1dSWS1VNGJ5TENrdFFjYUpKUWszN0NmLTZkc0FOcjFjbkp2MUx0b25kamsxQ3Q3eDFmNnZEb21od3hmb1ZvVWd2VVU?oc=5
-2. AIが新たなウイルスを設計、薬剤耐性菌治療に期待も生物安全保障に課題（Межа. Новини України.）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zZkF5WVFfUXlybXdvbUxkS0N4ZXdMTjdSUER2c04yU0RCb2tncW85dGxHbnFiRmRuYVpyVXNkeFRLMnRvdmhWcVMzZXhmT3RwRzgwWXlkSkFXZWk1dVE?oc=5
-3. バンス氏、米国はイラン紛争を終わらせるために軍事、経済、外交的手段を使用すると述べる（VOI.ID）
-   https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5KaUlVbkR4QWNzNXgxb0F1NnVCZlBtSzFiZUtFa1ozY21ZM1FEZGtEMy1EQ25iMGZwb01rNUV2UWVVS1HSAUJBVV95cUxNdHZRQkdBdThyRzREbDEybDBmSlBNMnp6TXhxOE4yeUtycTlTVUVURVlYSDQxMmxKN3cxUHVRUnRNemc?oc=5
-
-■ 学校教育
-1. 女性研究者支援に補助、１大学に年間５０００万円…出産・子育てと両立できる環境整備し研究力底上げ（読売新聞オンライン）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE9obGp5M25SaDRmMm9hX3IyMDBMb1VEVkcxbjhBdnJJTkJJaDFDTUhUWmJlTnlpM0VpeDM5elh3YjA5VktIWV9wUTlTQy1YSWxPMkNOdG1aQ0puWUEzcTNwZElzRkI5TFhqX1VOVzZSVUFZR1JFdm9MUmlCR3QzSjQ?oc=5
-2. 現役留学生がつくる、留学生のための、留学生専用プラットフォーム Japan Alumni Network（JAN）β版をリリース（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMie0FVX3lxTE5TSzdSdW1zYkFTTm5GRTdhWHJTVWxreTlscF9PLTJVMGZCbkpFdjNuR1F0LTBTWXhpR1VHVzlnT2t4cDBZSnZVc2dsWWQtOUNqYmpjZ2lJdWNtbkhuZHN5dDV3Q013cXVMcTBrVXJ4ZFNOWTVlRjRteTdJcw?oc=5
-3. 福井の定番宿題「夏休みの友」なしの小学校が増加中 採用やめた先生の考えは | 学校・教育（福井新聞社）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE1mdEk3VXlGOGxGSWxsLVpjcGFuRmJ4SzRCdVI1eUg2cjBrcENpVm1jZDNXMlFLSDRaZW16RlBfRUNNcGhabW84dmNkckxKMkNGYUlFeEFYRmR1YUpBbXJNSk50anpCNVNJb2JIMg?oc=5
-
-■ 倉庫・工場・物流
-1. 両備システムズ、物流自動化システムを手掛ける 株式会社APTを子会社化（LOGI-BIZ online）
-   https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uMUQ0TVRxUU9CLXpMZWdBZXlCbWlCSlJNSlVzbTc3MVpEenhEOVdzUEZsakdydnVldEZLMUZtSXJrbGRGNXc4ckVqaw?oc=5
-2. 551蓬莱「ちまき販売休止」を発表、理由・今後について説明 「物流委託先のシステム障害の影響」（福井新聞社）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE9OdFhRRHEydnUycDVya0Q1dkJQMktUMDNCTjVxZXFHNFRNaWFCLXY2X1A5VkRKX0xraHlBckhxOFowblNKSEZBbXFJWm01a3pEUXNDVEVnTFRWV1EzaGpUTEF4eS1ENEhlU25fZA?oc=5
-3. 〈前期売上計画を超過〉高麗人参の栽培期間を従来比約4分の1にするスマート植物工場。農薬不使用・純国産・大量生産で"自給率約1%"の国内供給不足問題に挑む「YD-Plants」（FUNDINNO）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE94bS0xOFI4UEtHblBhWjJFeHk0MU16Nk1EY3NfQzF2VUh4ZnNzN1dXUzR4Q0EySFdwaWtYZVhDeEpHelY5cm1aLQ?oc=5
-
-■ WMS・WES・WCS・RFID
-1. RAIN RFIDハードウェア製品の世界市場（2026年～2032年）、市場規模（タグ、リーダー、その他）・分析レポートを発表（Newscast.jp）
-   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zU1VpY0N5ZUkxY3VYTFVsaUQyUmhJclBEUEJzVC1FTFAwWndtbnZLOTlxVWlwa3hJbkg0SFp6M19vRFhTeHpsbWh3d1RJY2M?oc=5
-
-■ 日本の社会
-1. 日本の低賃金構造、安価な労働力の限界で見直し圧力（Traders Union）
-   https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHc4TXhkYThjeHVpUDFlVkZRVG5NZ2k4TENiRkZHelppaGdpa1A2T1RlTFF5UjNFUUlpYmZEZVg0aVlsek9fNzZJLVJ0clRqUHFjbVlOZW5CNmtUajE0eFJyeU5kT05EN1ZWVzlMUmZNblNPSFFZdl9hRHBPdDFUenNTd18weTNuQ2FSSHJ0bjlicmFDbE5hVQ?oc=5
-2. AIの大規模活用、中国の労働市場がさらに混乱―仏メディア（Record China）
-   https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TZE9Bdm1oYjdRV0xhMU43bzdHWXo1Nmw5Sld4XzJDVDE5ZUJoV2ItOTNPdDJxdV9PR29ja2xRNlVzYTRiSlh5X09ScGJSZFBCMnVid2p1eEl6eXVt?oc=5
-3. アイダホ州で最近発生した銃乱射事件について詳細が明らかになるにつれ、当日いかに多くの英雄たちが行動を起こしたかを痛感します。 駐車場内で銃声に向かって走り込んだジョーダン・サリナス氏について、誰もが rightfully（当然のこととして）語っています。 しかし、勤務時間（Moomoo）
-   https://news.google.com/rss/articles/CBMirgFBVV95cUxPWEcxWXZmQjFPSEIyWGZBWnVQNmpJcTY5MlU0cktnNnQ4SjlaTm9OWTNmQzhKRURvdGs5dmk1LXgxMENwcmRESjlIOGlhdnZiWmdsZ3lfSTFscnFEMFBsRmxXMzl6T21maEhNN2FzWWNoVEpJVjNfZkpzVWsyWlFBa3lvUTZiRzJXZjN4ZEhmSzZmWUtIU2ZlS2dabTZpRWFwMFdVRDlldlp0VDZsWVE?oc=5
-
-■ 政治
-1. 政権の重点政策、小林氏が調整奔走 首相意向重視、党内不満も（山陰中央新報デジタル）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rYWNxbzRLS01QQ2ROUmtXYkNWZGk4b2hON1NBT0ZydERzYVhuaUMtTzY1V292bUxYRXlJSV8tbkhnVWpRS2lLTjgwTWotMDZKWFkwNWlWVTFUQzg?oc=5
-2. 宮古と昭薬付が代表 政策甲子園 東京の決勝大会へ（沖縄タイムス社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YaG9lRXNZZFNLZWl6US14VTVFN1h2VkpYMHdlRlpPQlFDS0stemkxX0sxUm03T0JUcEg4Q25wWXhzNGpXWk9MSzU5QXd4UWVBZzZURjlkZ2Y5YlpWemc?oc=5
-3. 画像・写真：内閣・党人事、幹事長が焦点：時事ドットコム（時事ドットコム）
-   https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HYUxyY0c0UVdLMkVVaUI2X0VEZmJzUExOcHQwc3MzeFUwZUpXVWdXS3pWUHJ5R1FndW4taDRXdGxObDh0RTNURktEYjdvNzdXbE94T1phVW5oNS1oSWFiRF9mdjg?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-09.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-09.mp3" length="1687392" type="audio/mpeg"/><pubDate>Sun, 09 Aug 2026 04:49:06 +0900</pubDate></item><item><title>8月10日のニュースブリーフィング</title><description>8月10日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 22 Aug 2026 19:43:42 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月10日のニュースブリーフィング</title><description>8月10日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 【叡啓大学】リベラルアーツ科目「国際協力・安全保障概論」で模擬国連を実施 「世界の飢餓問題」の解決策を議論（山陽新聞）
@@ -641,4 +596,45 @@
    https://news.google.com/rss/articles/CBMihwFBVV95cUxNdm9PODBnVjFzUUE4N3A4LXRsVXphamhzdWc0VmJWaHhKbVVHTW9RWjFrRU9ESEpWUHd5THhSXzZYRG4yNGRXcVVIbmZ2QmFIaUhMbnRxQXdndWpSRW9mUl9rQkduakJ3cXZFekE2Ym4tdVVOeG9VU0VCN29OT2FzcEdCZXVuSEk?oc=5
 3. 内閣改造、来月後半有力 訪米、国会日程踏まえ判断 木原氏続投見方強まる（山陰中央新報デジタル）
    https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUT2dTTV9SQkFqUHl0ZFJBOF9BMkhXMlBfTFlnaHBPd1FIcGtIbE85aHlDT1dKbmdLRVpETFFqM1ZFSkdlOEdQS1B3MlFXQ2NxVmRRVU1UNUVjUnc?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-22.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-22.mp3" length="1564128" type="audio/mpeg"/><pubDate>Sat, 22 Aug 2026 04:43:48 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-22.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-22.mp3" length="1564128" type="audio/mpeg"/><pubDate>Sat, 22 Aug 2026 04:43:48 +0900</pubDate></item><item><title>8月23日のニュースブリーフィング</title><description>8月23日 ニュースブリーフィング
+
+■ 世界情勢
+1. 原油航路安定へ政府注力 中東外交 米イラン膠着、打つ手乏しく（山陰中央新報デジタル）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xcHlZVHhMc0xZUHI1R1FyYVItMXFFWlRWOV9fUVdRM0lYTEpFTS1hMV9SN19nVzY1ZC1yUVFFUEZsWTFUMlE0QkJGUGZFODRmdHJyQUp0cHp5YzQ?oc=5
+2. 100年以上にわたるサウジアラビアとフランスの外交関係を振り返る（arabnews.jp）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTE9fZ0pjdmRSdm5sTlVUZHFSWTY2R0VCVHB1cTZUd2R6UkpKOHFPcU1XaG50d3piMHZMOC1Gc1ZGWmZMSkVyQ0VXWGltYmZNakpGdVJ3T2lFSG80OEdjb25samlBZTFZSkpGRkJRVA?oc=5
+3. 中国軍が台湾東部海域でインドネシアとの演習発表 外交部が国際規範無視と非難（rti.org.tw）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhM0hVNXI5NUwyMWVUMmE1MU9wM2VSQ0VUTUdrb0hSMWhmMUtXMkVfQ2Jwbl9ETlM0SUN6dTFpS2U2ZUotdVcySzN0QTJqOGFMVWJ1UUxjUHBYNlk?oc=5
+
+■ 学校教育
+1. 「不登校」が2年連続で過去最多。悩みを抱える親に知ってほしい「最新学習歴」という考え方【菊池省三先生インタビュー】（OTONA SALONE）
+   https://news.google.com/rss/articles/CBMiRkFVX3lxTE80TkV4VEJvYmdyLVRPa0R2cTB6U3J6SVR5Y3pOSF9zUExZLVZmVUxXc1pvcW9RVkRycHhVS3lNRHdKbmNsT0E?oc=5
+2. 今や不登校児は44人に1人！原因は、先生？意欲低下？いじめ？学校と子どもの間にある認識のズレとは【菊池省三先生インタビュー】（OTONA SALONE）
+   https://news.google.com/rss/articles/CBMiRkFVX3lxTE00OXE4VVBQN3U1TVRiSGM1Z0tYSFhKTS0wX3dPbVc5UGphYWRuX3gzeFFQTUx5TDNBODliQWtyRXAweHBvaXc?oc=5
+3. 全中陸上女子走り幅跳び、間（社）が準優勝 | 学校・教育,スポーツ（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fLXRpOW52QlFUenhNN3VUMkwtS1NNRDRIVkZxa0ROdEJoXzhSZWp0UldzYUNaZF94MjE1N1llVTQ0c1BnZFQ4dm94dGRvajA5VmpUQ3BiUUVqVk0xWGc?oc=5
+
+■ 倉庫・工場・物流
+1. 物流DX「ロジポケ」「クロスワーク」国際物流総合展2026に出展（Infoseek）
+   https://news.google.com/rss/articles/CBMickFVX3lxTE5WN1lhcXhJemFJRGRPZ2F3SjE1NGJwYmNYUzlGYThNMThiTVhyTWFSelc0LU1zUVI1RldIV19kVzZhQXIyRF8tRXdCZDA5OG1RbFlSLV9UOFNqb3NCbk53djZWTmdiOHpZQUd1cWF2VkFIQQ?oc=5
+2. 化学メーカー工場 作業員2人死亡（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXcXYzODhmR1Z3dnFnQkhlcGxqbTY5S0xVNmdkYUxVVFFpSGxQd2hFMkR4RnNmSVdDS3gxRVlfQi15VFFRQnFnRUNadDBCdmIy?oc=5
+3. 化学メーカー工場で2人心肺停止（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xN0FhSDVUdXo4aXllREdmT0VjYXdjcjVBeGVPTWYwMmlzMmhpUDBkMkRHaXpndlRQUzV4ZkptWldZekx2S0dlZWVJYTlPSVdP?oc=5
+
+■ 日本の社会
+1. 強制労働を調査し50年、北海道 「民衆史掘り起こし運動」（au Webポータル）
+   https://news.google.com/rss/articles/CBMieEFVX3lxTE1NZ3ZMYUVjcUttZF9abnVaT2ZwZWoxUGFoTW1GSHhRYzhtUGo0R19fQzlNN1RGREYyQkJ3aUt0czZabGVSMWxyQzM5WVRfdTZJb1gydmVXNE9xaW5IRkxoSENOMTRQWWRnaUVjMVRZbGpDZDdZRlRTNQ?oc=5
+2. なぜ日本は｢豊かでも幸せでない｣のか…歴史に残る｢ワールドカップ頭突き事件｣に見る｢個人主義｣と｢集団主義｣の差（東洋経済オンライン）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuaGRxYUs0TEhfUFFEeDM1aVF5Tl9WdXFrd2laYWZodDJSZEZYNVRvZ29DTnExUkVCVWJHTGNXTzZwd3BBbXVGODR6aFRSMUgzSHhlMEExTWVONFk?oc=5
+3. 「ブルーカラーが稼げる」は日本経済復活の兆し 日本がもう一度考えるべき“仕事の価値”とは（ニコニコニュース）
+   https://news.google.com/rss/articles/CBMie0FVX3lxTFB4QTNBSjc4Q2luUmFKTUpKMU9DUGJiSFhROEE4YTNOQmRwUnFxaDZTcXVqUnNQTDlsVlBaNFVyVlJoWDJMVFQzRjFpZ1RacDFGSS0zNXhWVDJOSFpOQXlHYVh4RGhsNUhDa1M0UUQ4ZkE4REd6djNJYmN5UQ?oc=5
+
+■ 政治
+1. 茨城県南部 M5-9（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tS25qdUlJQUpfZkVCdkFyQmtMSWJjeVZZRklHekxHTDNfZlZ4WTBfdVBhYzdvLWhIM1ZkQXBIODUyTjNuZEp4YjhPcVBablp3S01ZTVg4Q0k4WE9XeEE?oc=5
+2. チーム・コバタカ存在感 重要政策に貢献、処遇注目（山陰中央新報デジタル）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE85bFc3bE5zUWRIdnh5VFpldVI0dmdxTmRTOU9qRy1rMTZsWlFjUXB5SzlXdjZJaUxMZl95REg1Vm5uQlBtSkh3V1hSeWRQd1FNTzVvY0E3ckhKeHc?oc=5
+3. 大きな揺れがありました。（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ta0JLV3g1d2dqOFdHcFNSWFE2R1k3MnhIZ29TazN4M0V4Q3U3YlNDN0ZkaUpXOEk2WlpTc0NhNzhiNG55Z1lUbnNuNUtJX28wRFB3anpEOVhPWG1DN09r?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-23.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-23.mp3" length="1196640" type="audio/mpeg"/><pubDate>Sun, 23 Aug 2026 04:41:56 +0900</pubDate></item></channel></rss>
