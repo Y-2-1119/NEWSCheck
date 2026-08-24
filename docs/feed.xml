@@ -1,52 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 23 Aug 2026 19:43:13 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月11日のニュースブリーフィング</title><description>8月11日 ニュースブリーフィング
-
-■ 世界情勢
-1. 地政学リスクと経済安全保障（9）東南アジア、供給網再構築への視座（日刊工業新聞）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1blVSYU4tZklXSnpUakVwbmt3emVYT3ByV2NmV0VLbWRvSzNpZ3dKYU5saVYyRW44d2ltUlRZMUlPMUtsRWxROXNTQ2xsYWROU2RjVUROdms0U0E?oc=5
-2. スウェーデン治安局がロシアの諜報作戦を阻止、外交使節団の職員を通じた情報収集を摘発（Межа. Новини України.）
-   https://news.google.com/rss/articles/CBMia0FVX3lxTFBUaW93TWNRYjZPMDBmWFBFc1J2OUZlaXd1SHJLLVdBaEY0cW4tTmFEdXR5eXRNMEIxYWRkM3c3MGhoaWNhcmdYMjNsal9PYW8zeGhsVnBhTXM3Rm9pdFR4OXJFUnluUGhCUFJv?oc=5
-3. 今週最も読まれた独占記事を公開、経済や国際情勢の深層を読み解く（Межа. Новини України.）
-   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XSjduWS1Kejd6YU1NUU10QTBMQmR0YnFjY1JGRmhFNDkySVpUNVVSUEV4Y0t4MFRrM2J2Tm5uZ3FNYWZkM25mQWs0aW1TRnNnQWc2b1hnejZTZGRsSm1PSHRTVQ?oc=5
-
-■ 学校教育
-1. 文科省、原子力人材の育成強化 産学官の連携組織設立（日刊工業新聞）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ld00tajR0akNJNlEyVU1Sc3UwZUhxa3pHdDJZMnJxOW5pMUNma19BcWxYcDNKVWNPR1M0RzVBeU5qR1kwZXJMTmprbS00YWd6Vl8yV08zcl91bk0?oc=5
-2. 文部科学省の天下りの実態2025年7月11日時点について Lnp (OdO1G79hd0)（Mshale）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zOGpJblJ1eXZhWXVEMkRmSUdlZzZaZnFPR0JDZDdIcHdtZnRYeG9vWU5NSFYyOWJDY1RtdGxZWnZaVVRSSHBWRDA5cHFBVEFGTWFQajBKcldGQ2M?oc=5
-3. 高専の分野を農業・ゲームなどに拡大 有識者会議学位授与も検討（kyoiku-press.com）
-   https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEU3I3amlmNkdqOHJ3WFc4WngtdlI3Mk9BdnBOWHh6TEVTZUMydFJxY1FxYmRaSldUWjhobGdUdU1aX2YxWE5sOXc1OVozVkMwajVv?oc=5
-
-■ 倉庫・工場・物流
-1. オリオン機械、DX推進 “人が歩かない工場”コンセプト（日刊工業新聞）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE91SDM5dVdFNFRLeW1FUUZQODJPSks1UDlMRi1lNWNqaWxaMWtiNkI5MFJOQmJFeVdNWENTZ1V4VDZpR0JlSWFlRS1uekNlaDFvbkhMdlVRRjdxYVE?oc=5
-2. 食品減税、愛知県で290億円減収 トヨタ新工場の用地整備予算超える（日本経済新聞）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTFBHQ3oyaUdtcjRDdGUtcFU3UFZ4Rm5Qa0VJNnRuRXZ0Wkp3SmgxaXhGZlJFWnNVZ1BZeC1Gck40LVJRRWwycU5YaXFEWDBLanU0YTRLWEZsVTg2ZHNfcEZ5a2FjR0VCRng3Tmkzeg?oc=5
-3. 【横浜】みなとみらい夏限定 赤レンガ倉庫広場で「ディスコ」開幕へ…石野卓球も登場【概要・出演スケジュールなど】（山陽新聞）
-   https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0NXb2NCOFV2TWhQRmFRWlhFVzQ2eDhzWXhXSkFhTGRXTFpOdDMwaUlBUVhrN0lTTGxvMHRGSDJ5MU9sUm85SEJvRW5GWTNtb1RsRDVJTFpaX2hDWnU5OUJEbERPSWlfMTNJdDNOc3g3M0lwcFY5S1VMSVNEREFOTjRSVnVnSWs?oc=5
-
-■ WMS・WES・WCS・RFID
-1. HOUSEI、「国際物流総合展 2026」出展のお知らせ（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMie0FVX3lxTE1fV01tQnZQdUYySG5LN1hRcHNpc3FmRDk3bnQ1SHctM2RFV1QteS1rTnZtQXFtdHVLSElydlhUYUtnaS0taUlWMUdMbmQ2dnlkbnN6bWt5ZWJnTHV4N1FleXczWnhmYlJ0YXV0Yk5xSHA0cUZReUZrdkx4TQ?oc=5
-2. シーオス、人員配置や自動化投資の判断を標準化（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTFAteDNUZjR1NXVYNWRuWE9OdXJSaTQ4WXhmdGhDMG10U3VVVkVVQlktcTZ4eFJOSHFDRVlzMjFCc0VHdlI2ZFZmYw?oc=5
-
-■ 日本の社会
-1. ノンタブリー銃撃事件でタイ首相が激怒！ 容疑者の手錠なしタバコぷかぷか会見を問題視。（タイニュース・クロスボンバー）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sRXIzS1g4eW1wMUFzT3FZcXJyZGhGZ1hDVHNoZmpWZXFfekFRMlU0MkxYcmcxUVZPLXBpSEs2TDU3NHA3MUMtV2dOdUZ4cTN4TU10R3Q0Yw?oc=5
-2. ダナン〜日本間の直行便が増便！2026年12月よりベトジェットによるダナン〜関空線就航へ（Danang Fantasticity）
-   https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb3FZblM0czcwbEpnU1FlZnNfNTFCREt4T2hUMW1CNHRiY2hhaGxIYXNlSWVXVUp4OFNKeXN0TkhVQ2dXby1SRTBLYzZ5cFEwMmd0LTB3R1NmNzZHbGU5SEowTzR2Qi12bVZTNU9jak11b2VyWmRDX2tUQW1Tc2FMWDhjNkZ1TG1v?oc=5
-3. 米シカゴ市で複数の銃撃事件、4人死亡、12人負傷（Record China）
-   https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ULUhnd3FCc3J3UGVUSDJ4akpxd1Zaak9xRld2UzBQVkhKTy1EUmg5eU85Rzk4Ykt0LVFTazRFX0lPcWNxSDlZUzNZc0ItWVpKVGdFZ2dRWnNiNVRN?oc=5
-
-■ 政治
-1. 米中間選挙を活性化させる民主党左派の「下水道社会主義」、米政治信頼回復の“旗”になるか（diamond.jp）
-   https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tUl9GSnpidUFPSFhQTkFMY29BRmpKU2NsQTJzeWdkRXFLSXRtY2JOcGhkVFg4enBhTTNreDVyU0xRZkk0UTdBWEk0alnSAU9BVV95cUxNSDdrUGpRY2pVQmRCcGNGNW1oNzVRVDFXZmlBdnFYWkxZUkZVcHM1UF9vTklIWXlmUWJzSExfaW5wcXlYSnRUVXNKcnE1RHFB?oc=5
-2. 全労金、人事制度の政策検討 時代に合わせ転換求める（nikkinonline.com）
-   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hS3k4RXF0aV9WUEdKdkVTSnp3RVJpTF9MY29GN2QzV2xQS2UtWDVyRjNXQ2JOTXc1VnBWclVpc2lJOE1tc05NaDVVZ3F5cXhwaEl3TUl3?oc=5
-3. 東条英機の史料３００点、国会図書館に親族が寄贈 最晩年の心境明らかに（山陰中央新報デジタル）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YZlJIWlVveTlNdm9oa1VjZnQ0TFlDVjB1Unc0eHZOdlgydVZQdVc0QXdWRVo0VXRPeXUwY1JkcTlWR1NYbmdCejEwMzc2TjBveGNVM05zVjE5NTg?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-11.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-11.mp3" length="1439136" type="audio/mpeg"/><pubDate>Tue, 11 Aug 2026 05:05:39 +0900</pubDate></item><item><title>8月12日のニュースブリーフィング</title><description>8月12日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 24 Aug 2026 19:52:12 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月12日のニュースブリーフィング</title><description>8月12日 ニュースブリーフィング
 
 ■ 世界情勢
 1. トランプ氏、米中間選挙で国家安全保障上の非常事態宣言を否定せず（Межа. Новини України.）
@@ -637,4 +590,49 @@
    https://news.google.com/rss/articles/CBMid0FVX3lxTE51SUI1cTk3cjJUSE40Rk5Ccm96dU1EeFd5M2FBRGl6TnlKUjg2VnJRUVpJQm5xakN2ZkFFQ2lGblRLeUV1M1FscEJGRXZuSVQwTVVlVzNyeEpaY0Vocm9qdG40bVJ3NzFkY0tOMm9KeHh3dVprd2Zr0gF8QVVfeXFMUFFYNWhBQWdaQXNNU0lQNTdkeFVVTGppZEg2RGpRYmtWdS1LZmF5eHRmY3VYM1ZpMS1YUy1CWmZQRWVzYnRmZnRLSjVDRWFTRjh4YUlvT3lURllUbWoxRWduV245OVJtelAtemdEWjM1QXpzZGQyanZFOGxYUA?oc=5
 3. 消費減税 財政に不安71％ 内閣支持 最低更新50％ 「3党合流中止」51％ 共同世論調査（沖縄タイムス社）
    https://news.google.com/rss/articles/CBMiXkFVX3lxTE90WkU1SHVIQ2J6Mk5EOWJNQlZfSzBmYmtOSlZhT3o4dU4wQklkVDdtemg2MUJ3UFVZckQ2M1RXY3RocFlrR1luTmIwQTB6OXlUemdnLTVkVWZmS0NPbGc?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-24.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-24.mp3" length="1406592" type="audio/mpeg"/><pubDate>Mon, 24 Aug 2026 04:41:29 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-24.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-24.mp3" length="1406592" type="audio/mpeg"/><pubDate>Mon, 24 Aug 2026 04:41:29 +0900</pubDate></item><item><title>8月25日のニュースブリーフィング</title><description>8月25日 ニュースブリーフィング
+
+■ 世界情勢
+1. エヌビディアCEOの“神田の夜”に密着、日本半導体トップ30社と居酒屋外交…やきとん三吉に響いた「日本復活」の檄！【動画】（ダイヤモンド・オンライン）
+   https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvam90dEd0MTExZlZYVW56MzhtTXhMVkFUYkVUc01KZGtUNVFlUGJJUHlRRXdHQi1TRUZoUEh3Q0JvNnUxV1VzNFR1cUPSAU9BVV95cUxNM2lybl81NjBieHk3b1RwT09qLVZJalBDaFdjczZ0bTlqSXNqbUd0LVk4cTk4d1JLTXZGVzUzZmxtb1JNYTVyUGtoUl9kcW1N?oc=5
+2. スペイン首相が国家安全保障会議を緊急招集、セウタの移民危機に対応（Межа. Новини України.）
+   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNWVJrblJxRHZhWTkzVUp5eTg3NnN5NjJnZWYyZ0pHeXg1X0hTRFRHYUpudENRRHlGS1BhaUgxX01QNVdMUjBwOXNsbC1xejVFbXp6b0RPaVFkOVhPSVQwRFFzQQ?oc=5
+3. ルクセンブルク首相、ウクライナ支援は欧州全体の安全保障に直結すると強調（Межа. Новини України.）
+   https://news.google.com/rss/articles/CBMib0FVX3lxTE53ZHFVWFMtN2s2cF9UUG1xUzdjcmNXMGJ4aGJKT0RlV2tWdjEtX3pKQkdoSy05RzFHOHdTQ2ZrRWFXd05meHA4S181b1dGcHdMTzE5MkF0cGdpN1FRa3NNMkk5UXhobm5MSUJtd0xEYw?oc=5
+
+■ 学校教育
+1. 教員の学び支援、休業拡充 NPOも対象、文科省検討（共同通信）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTFBDTEg0bElnWE92VkVOVFdHWFlwNXRzREFuclNHLU5mTmVUZERJb3RwbG53SklISHIzYXBJVW5FZ2lELW9hZXpVSEozOHlYSXpqOEpvM3ExTE1zSE1Jc1B3OUoyNk5VZEt3SzFfcHJiaXNXVG9wMGpTeHBIRThXaVE?oc=5
+2. 教員の学び支援、休業拡充 NPOも対象、文科省検討（北海道新聞デジタル）
+   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JS2ZXUjE1ZTNlb3VUVG53dW40eC0xRko5dVZ0UFFUMTlUTnZPLUhyVTFRQkVvcVpDN2JhU2ZsWllfaWVDd0xwVE5xUFdNUGptNmlPSkpockx3UQ?oc=5
+3. 文科省、“次世代革新炉”社会実装へ 安全性・人的資源確保（日刊工業新聞）
+   https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4aHNJMlpVbVVVV0dCUThJQzVSR0tDSUtVSnY5aXFHWXpTQ3lySlN4cFVXdzZGeU5qMWdwaTFDRWFBTHlXQUJJU09FWW1CM1pXYXQzV2xyVGE?oc=5
+
+■ 倉庫・工場・物流
+1. 帝人コードレ、中国経産局長賞 大田に主力工場 人工皮革製品技術評価（山陰中央新報デジタル）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yVjNPV204UFJrb2hWb0JiS242YXhELTFHQUpNOEs3RmdMY2c5NkxyQnNwTWxYU3JrcGRQVWY4bDdtNG9hTXJKY1NvQm5PemFNOTZRblI0c1RIcGs?oc=5
+2. 米国物流施設、共同投資プログラム4号を設立 CBRE（住宅新報）
+   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfRmowdWJEdEFOenRmdDJEVVExZTFKbFc2QjZtdnY0dVpReW9MU0dEVDVmcm9VQXE3MXpEZnUyTnF1TzhjTVhTa3cxX1ZTZjZkSkE?oc=5
+3. グレイジャーの新グレシャム物流ハブ（GWW）が、同社の投資ストーリーをどのように変えたか（simplywall.st）
+   https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXFRYXJqNVVJa1h3UE5WemVpN3FSakNmYk9CX3FWcTc3Q2RsSGZjUUQwNEVTVXNheUY4eVU5YlluWnFPVWdXS0lXT0ZwbEt2TldRYWQ1ay12bk54QkI2WHdwOWwtc3hCaXpsZnpuVHN0d3FucDRhbkhyaHdVajBjRC14VHJsLWc2TEZBSllKejROUjQ5VjMxX0hZSdIBmwFBVV95cUxOSXFRYXJqNVVJa1h3UE5WemVpN3FSakNmYk9CX3FWcTc3Q2RsSGZjUUQwNEVTVXNheUY4eVU5YlluWnFPVWdXS0lXT0ZwbEt2TldRYWQ1ay12bk54QkI2WHdwOWwtc3hCaXpsZnpuVHN0d3FucDRhbkhyaHdVajBjRC14VHJsLWc2TEZBSllKejROUjQ5VjMxX0hZSQ?oc=5
+
+■ WMS・WES・WCS・RFID
+1. APT、スタディスト・CNETと共催でタイ・ASEANの物流現場課題に関するオンラインセミナーを9月3日開催（PR TIMES）
+   https://news.google.com/rss/articles/CBMiakFVX3lxTE9vUUY1b0JuZjNkU1dGVm82cW9iUFRDT3BvTHNIZ1ZUbnJLdzB1YTlmMXhuNFJzeVJiRC1ZTUZqSFpWQ0c5ZVVBc2JFQ19jTEVjUFVoOTlaS29iUzdmeXI0VVQ1T245RVVhZVE?oc=5
+
+■ 日本の社会
+1. 【速報】ミャンマー人労働者の出国ワクが大幅に拡大。入国も早くなりました！（Excite エキサイト）
+   https://news.google.com/rss/articles/CBMidEFVX3lxTFB6aUxLWW1DV1lTQmk3WGR2NXc4Qkc4RG0zdDlEOE9YdTBfQzRoemVUR284YjRfbHJsT1NrN3pkcVNscTVXWkRNa3hpQ1dmS0xQTUJoeTJDeThIeHlrM2FqdWxNbU5UZzdtZ09KbVphakp4eFVQ?oc=5
+2. 日本が月45時間の残業ライン見直し？中国ネット「給料ちゃんと出るなら」「中国企業で働いてみろよ」（ｄメニューニュース）
+   https://news.google.com/rss/articles/CBMijwFBVV95cUxQUDdra1R0RXFhWUdJNWY1SEluZXZRbVFhcDZEMFRwWC1qd0xGYzJfdUtpVm1RNGRlT2ZnaElVTk9NSXVJTGlld1F3dkU5SDZIY0lXZ1JNejRONWZLS0s4Qi03QnZPZW0xb3RSSmEzWjJHSHM2WHNPaW5KaEdZY0pPd0VMblN5MnVJb0xJd1BnQdIBjwFBVV95cUxQUDdra1R0RXFhWUdJNWY1SEluZXZRbVFhcDZEMFRwWC1qd0xGYzJfdUtpVm1RNGRlT2ZnaElVTk9NSXVJTGlld1F3dkU5SDZIY0lXZ1JNejRONWZLS0s4Qi03QnZPZW0xb3RSSmEzWjJHSHM2WHNPaW5KaEdZY0pPd0VMblN5MnVJb0xJd1BnQQ?oc=5
+3. 誰かが火災発生の前に通報していた…？SQLで事件を解くプログラミング系の推理ゲー『Ghost in the SQL Data』日本語対応へ―9月10日にデモ版公開予定（Game*Spark）
+   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxaXI0bG1LVUd6M2pXVnFtM2FCaEUxQXNmcVhtSHM1SWMyQlNYN2x2aUZKcV9OQzRmdjg1TEw1OXJJcnlEdXJFVEJlMnpNS1FYTF9VQnE1S2lFcnJyS3VDdGlqOWpKQQ?oc=5
+
+■ 政治
+1. 京セラ 香川県善通寺市で電子投開票システム「デジ選®」採用 都道府県の選挙では24年ぶりとなる電子投票実施へ（ニュープリネット）
+   https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdkR0MDJIdEJuUXdtQWJ0QzFXdzlOLU1rVWwwS3RyckNCMHRxMXlWcXhSX21aV1VONnU2UDNYUVl6d01KTmtOLTlWWFhfVFFKYWRSenFVX0V4ekRuV1otc2U5U3lNRmJsa0lDY0dBOFhTYnVZelZEVGdOWndFLXdSenMzeldYUTAwaExWZmdadkJiV0JpUkFPV1dCWlZKRmVKNDJJbUZCNEpBUy1XdUc3c1Z3YWpEc29vTWxodWFsN21nZGUwQkwtdGZvYmhRTDI0dExaMA?oc=5
+2. 標茶町長選２陣営、町議補選も選挙選か 立候補予定者説明会【標茶町】（釧路新聞電子版）
+   https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MOEVUTThpLVJWcUozZ3lOS25WQXA5WFFObWl4VjJ2TmRtU3FNa09tSC1YaU55eE1STVU5SURVNTJpaUZmYWZCUXZlV2JJQTZjYTlZ?oc=5
+3. ＜社説＞内閣支持率が過去最低 独善的な政権運営改めよ（琉球新報デジタル）
+   https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZWmd3MDNsZDNuRWpGRUNGc2tYNVJIX3R6Vzc2X0pUdVlCbVA2cGZzZFFSZTN0a1dsUnFSdWd5eGRUS3BUQmtWT1F6NFUwNE54cXpjRUh0R2c3RHNCV2dhaU13?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-25.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-25.mp3" length="1482336" type="audio/mpeg"/><pubDate>Tue, 25 Aug 2026 04:50:00 +0900</pubDate></item></channel></rss>
