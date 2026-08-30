@@ -1,46 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 29 Aug 2026 21:50:51 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月17日のニュースブリーフィング</title><description>8月17日 ニュースブリーフィング
-
-■ 世界情勢
-1. トルコ、上半期の原油生産量が2310万バレルに（TRT 日本語）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1COF9ZYm9Ddm5fVExLeFNQTEJYY0l6emFKaFFuZVhmeTQ3T1RwWUxqbnZBZUNQd1hHMGlNS2V6UEcwMEdXRTRBeS1ldFo3QVVKZzBLazBtczBTX3M?oc=5
-2. 元オランダ大使が評価、ウクライナは戦争で欧州安全保障の担い手に変わった（Межа. Новини України.）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTE1ldVNHXzdhZ01XcTRhWV9kWU5FTHRiMDJJSkplQ1Itc1Rmd0xHTlZiRk9pQ3FsNmNzMzdQVi1TZ2Q3bFEzaGxzWTBMbjN5TEE0S2QtUXE0Tm9CeGpNaDJFRG1TTzFBMi12M2c?oc=5
-3. 初代駐ウクライナ・オランダ大使が回顧、独立ウクライナは欧州安全保障に不可欠だった（Межа. Новини України.）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE9XNDh5NFdGOW53NURsTloxeUxnTURyZ0V1MXRtTmFqUHFwVTItR1YwaGNYTVhUOWtIdGZITGFlVW9HTm40THVIVWRCTjJwR3RNMkN3UXR5QUx4cTZ3VGdGb2M2X2RfZm8zX1RkNA?oc=5
-
-■ 学校教育
-1. ＜画像2 / 19＞「#卒業おめガシャポン」が紡ぐコロナ世代とともに進化した新しい学校教育とは？（ウォーカープラス）
-   https://news.google.com/rss/articles/CBMibkFVX3lxTE5pSDVsMi02RExjbzVqYnZid0x6SndORVZzQjNTYTlFQXJ3dGtIQTE0VlhsemoteDRfc2d4cFg3T2N3TmVFR05YV1FScnhiUjRMTkFKOTBoRWVOMmV5VDROLU5TanE5QkV6eTRMWnJ3?oc=5
-2. 宇佐こや フレッシュ＆チャレンジ 大分県宇佐市家族旅行村「安心院」は、宇佐市の税金にて運営中！（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JaHVIVjZWNlBCcWVjRXdpellHZEdlaUNfbVBERGtLSmpsdFkybGNOYTRNbGxpWVJuNVhzRmtHNGhSWjZzc1BacmY1d01oTWI1TWlsMzdHRFFfSzFHb19F?oc=5
-3. 東大でも早慶でもない…｢AI分野｣の世界の大学ランキングで唯一100位内に入った日本の大学の名前【2026年7月BEST】（PRESIDENT Online（プレジデントオンライン））
-   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IUUwxLUpNa1FtY1llcTU1aVZ5NlBfYVR0MTI3NEQzdVpfWVdUOGthT2dWa3haVE4xVW8zOW8zc2lOa2hxNkZtekhNSE1BZnVhQlB6MHFkRFg?oc=5
-
-■ 倉庫・工場・物流
-1. 外国人比率10％超は34市区町村 湯沢町など1年で7つ増える「リゾート型」「工場型」 「移民」と日本人（産経ニュース）
-   https://news.google.com/rss/articles/CBMidkFVX3lxTFBnYlVnT2N5ZHBhXzZ3em1LQnViVlc0TlpmTGVqZzFEMlhsMXdKRXdhWWN0OXJTVjdqTi1aX2E5dk9ZcEc2NWNoM3FYVDM4OFNXQ3ZLNG4wN2VucHgzZjg5RVlrTF8tZnRHYTg4emZJS19OdGhzUWc?oc=5
-2. 立石で訪れる有名もつ焼き店、伝統を守る花火師の倉庫に眠る巨大な花火玉を紹介＜船越英一郎の昭和再生ファクトリー（WEBザテレビジョン）
-   https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CWEJJR0ZLQ00zeWVGVE43OXdQbU9WdU1FbHJ0LXJvdHQ5SV9Id29LeTJfQ05yQTV4anJXdFFob09LdGxBMTJmRERsZVlwekxtcWtfRkRtZDU?oc=5
-3. 鹿島新社長、AI時代も｢最後は人｣ TSMC熊本工場に技能者7500人超（日本経済新聞）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE0tZXVJSlpwT3RzeUxwaThxY004OTh3UVI2UlcycU1ZRXFJMVRYVzVRTFBlbmdrUC1vWnVyc3JTMGkzT0lZV2xqcWxObnpjZFVkanFsY3JVbGxpX2NlTklpRUJvMzd4R3JWSmFBSQ?oc=5
-
-■ 日本の社会
-1. 福士蒼汰、爆破事件の濡れ衣着せられたジャーナリストに…９年ぶり日テレ系連ドラ主演で“極限チェイス”（au Webポータル）
-   https://news.google.com/rss/articles/CBMibkFVX3lxTE5HcGJLQXJ4X0cyVkZYblYyS0djZzJteW4zcTM2Mk53YXE0UXVaZGxYa3h4RHNHODRxM1hzUHJFOGpUTnlHaEZXNUZVXzZYZ181bW4zUVdnZ0RMNW0zSVVTcUl0UXZkZFlsMjd6YXdB?oc=5
-2. 福士蒼汰、日テレ10月期日曜ドラマで主演 スリルあふれるラブミステリー【ハイド＆シーク 0秒前の彼女】（au Webポータル）
-   https://news.google.com/rss/articles/CBMibkFVX3lxTE15N243UjQxa0pYeG8wT1lkdXF1YlhKRmh0VVZVRlZOYnhMWldwWjRSbnpEVG5hUnFTdWxpelk1SzVLY1p6dGlVQVhyVGtkM0ZuZ3IxaUt2elFRdTVxaWVrbWxXUFRxaF82OW5kN0tB?oc=5
-3. インドのテック労働者にAIの脅威（上） 作業代替で縮む雇用（日本経済新聞）
-   https://news.google.com/rss/articles/CBMid0FVX3lxTFA4ejAyWUMtdUJHVlNPY0FwMjlhbnhkMFJ0NDZLS1BFOTZSM3A3enU1STFJb04xRU81NUhieHdfMnRLNTNjME5RVXVKZjJkdHpuYjlILW1BQ1NWYlQ1U1JIa3hlcWRXQXNEOWZ6dmhtOWo3dlJzcXk0?oc=5
-
-■ 政治
-1. 議会運営委員会の視察：横須賀市（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JUklJc2JQTFdrWmtSRXlWeEdCUGJ5cG5wa2x0VG41Ml81RnAtbzNFSXlTZlhVSWJ2YUl6b1JqY0NaUUJ0aURkQ1FpNkxVSHdra1k0Z2NZMWpsWUs1LUE?oc=5
-2. 自民幹事長の処遇焦点 首相、臨時国会へ人事着手｜四国新聞WEB朝刊（四国新聞）
-   https://news.google.com/rss/articles/CBMid0FVX3lxTFBsWXRuakFuR2t1MzVkdlJIa2hyMm91Z0FmLV9PbU5TTkxaLVBJMkFYQjVENllyWElfRnd2LU9TR2Q5WmZFdzg5ZlAwcjRJZnZEb1JxRGFsbDByWE10czVIaTVLdW9RVFVRNVBWay1oYzdIMDE3blhj0gF8QVVfeXFMUFZJWW1TQmNMQzZueTNDU0drdGZXZ3pNdVBISjcxeURGYVJ5Qjc5Y2xEb00wUVAxeFhsNG9DS09QalA0YmVWTThCZWdzaWFMbVRBaXlKRGZoMFZfRGVjdUtuaHlMRFJDWkhCTTZrZmxpQXMzaXZyb2ZIaHBKTQ?oc=5
-3. 県関係国会議員週間予定（１７～２３日）｜四国新聞WEB朝刊（四国新聞）
-   https://news.google.com/rss/articles/CBMidkFVX3lxTE4xTGlvRU5RTEhVWmVSem12cDIxVzR5N0xtOVBJN2IxWUI4VnNfeU9COEZBN09DTnFoaE1FWXdUWVAxbVdkNk43Zi1yN1UyOW5hRW5EYm9xZkZwcl9RZG1pMWhkcW1Eb2ZVSzN2b3FWYTJkTkNlUHfSAXxBVV95cUxNeDRLRUJSSFRyRDB3U0tObEIxMy1LMVB1RVI3cVhXSnBPakVWcW0wcXJLVXhnVmZxVDBsdlR2OWJXVUtnT0RfOWpyVkE1WGdqSUFhT3dSVHBRdVpwUDNCVXFtZjhXaVRWR2JoNHd1TTk4VjJrbWVxT085RWVC?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-17.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-17.mp3" length="1336176" type="audio/mpeg"/><pubDate>Mon, 17 Aug 2026 04:39:39 +0900</pubDate></item><item><title>8月18日のニュースブリーフィング</title><description>8月18日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 30 Aug 2026 21:57:26 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月18日のニュースブリーフィング</title><description>8月18日 ニュースブリーフィング
 
 ■ 世界情勢
 1. ゼレンスキー大統領、戦闘経験を持つナウメンコ氏を国家安全保障・国防会議の第一副書記に任命（mezha.net）
@@ -639,4 +598,45 @@
    https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qYXZ1b3JBSjZPQ1VheTJTU0QtYUFPTG1hcGUtT3RlZC1tTmc5TVliSm1KNEJJRF9UYlF0aFowQ3NxZkd4ckVIdnc2ZUtxUUpDVHY1Mi1DUjlSSDRVVWJoTnl2QksxVzA?oc=5
 3. 沖縄県知事選挙の関連X投稿の発信地は「東京」が最多、沖縄を上回る デマ、候補者攻撃…選挙への影響は（東京新聞）
    https://news.google.com/rss/articles/CBMiZEFVX3lxTE85N0ozVUVTMnNZanljUmlpejhPdjRYSW0zTktNVFlrb005X1UySkxuMUhmM1NRWHo0NjVzNnp5d0FLRjZOQ1JCU2hNZkU2RUtkYVFwdlNyQ05nWkhPdnRoVjM3UG0?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-30.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-30.mp3" length="1308528" type="audio/mpeg"/><pubDate>Sun, 30 Aug 2026 06:49:14 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-30.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-30.mp3" length="1308528" type="audio/mpeg"/><pubDate>Sun, 30 Aug 2026 06:49:14 +0900</pubDate></item><item><title>8月31日のニュースブリーフィング</title><description>8月31日 ニュースブリーフィング
+
+■ 世界情勢
+1. 長すぎる日本国憲法前文の功罪、改憲に向け安全保障環境の現実をどう議論していくか（JBpress）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Yb2xBZHRWUW1zWnVSaXY2UFgxMGVROXdMM29rNU9kNzBRZHlaMF9PcWJmaWNBekxSTXhmaV9vYkNCYVlNaHJmT0xjRTREaUZqOVM5Nmtn?oc=5
+2. 首相靖国「遥拝」に賛否 外交配慮、定着懸念も（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QdDVKdVF5QVhPLTIwS3MzWE5rTTc2d1RHR0RJdS1Ib2VWZFEwNTBqMWw4aGsyckp3enJXWHA4RUNHb3FlUUxiZ2ZIOVBBRUhXc2Z0aHA5cFJqaEZuTlE?oc=5
+3. 首相の靖国「遥拝」に賛否 外交に配慮、定着には警戒（北日本新聞webunプラス）
+   https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zLUZleW00SnZNcE9WRU5RLXhwZmtBQlJ2aEU5ci16SWZ1UFI5MWFSSERZN2ZReVYtZi1Xb3UzdktRdHFxX2E5ZENkdw?oc=5
+
+■ 学校教育
+1. 地域教員希望枠の大学事業、国際競争力けん引学部に東北大等…教育業界ニュースまとめ読み（リセマム）
+   https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzYlRtNWxrNlFiVXJWS2EwbFN4OWN3MGZUS19USHdfRjNqazZpbXlUM202Y0pMVWoyZEViY0NPeXQxdVdKNnAyaE5tZGpXdkZUMk1JRG50X0x4S1QxcE0tTHJ1YWhCdw?oc=5
+2. 京都府南丹市でかつての「国民学校」教育を振り返る 「軍国少年」育てた授業の内容とは？（京都新聞デジタル）
+   https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3MHQxUWtyaHp5VVVfdlVEMTlFWEEwSEtXTE90WGpQeDBzZk1iR2VvbnRXMDBUMXhUQ3hzeFNRMDNEdHNFRTcwa0RPbTNzUEVURkxDeW8yRE8?oc=5
+3. 文科省、海洋と地球温暖化をテーマに公開シンポ ９月15日にオンライン開催（月刊私塾界）
+   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5COEh0bXVVZktEdjR1cmxCY0RXZnJQaVlqaVFCZWVnY3JWb1h4R3ZsUlRIemtZR0pvX0Q1dkxOSnVNWnRWR2FjMWdQcGN5ZTM0Tmc?oc=5
+
+■ 倉庫・工場・物流
+1. 韓国・全斗煥元大統領の孫、物流センターで1日8時間勤務…「働けること自体が恵み」（AFPBB News）
+   https://news.google.com/rss/articles/CBMickFVX3lxTE80V29abkRMNWlrcThpV3c0YkhDeHhGTDl4dEl0NHNicVNhNGhOaGZUT3g0MUFOMGlqbzJabWxCaVBPTGhEOUxQOXRwekpsdC1hdXNUcmFVNmlIdjNGbmM5M2RWOFRjZzZuQ3FJOXFEZTZZZ9IBVEFVX3lxTE1iVmZIbEFpVE8xQVVSMTV4MEtWci1vWG9UTnhEY2ZfQlJrRXk0TFVnaGVwYnNHbG1DQlJXWU9CengxdGtZblB5bnJ3SmVlUWNfYldqYg?oc=5
+2. 韓国・全斗煥元大統領の孫、物流センターで1日8時間勤務…「働けること自体が恵み」（KOREA WAVE）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE9pLUhMajc5NzAwOGktaGNMODZUTEw3SktXb3ZodDJSQVJBUWVyZUVPVjA0ajV5blkzQ0djZVZDSmpRS252QWdpc2NWeDFxRk1GNVVGQk9BTlJvcGpQMjA1eEVKSGhqMjJGYmpmeGZaczlnbU4wRzFZVmxURFpRNjg?oc=5
+3. 【北区】志茂の北清掃工場の解体工事、巨大な鉄骨フレームがなくなるのはもうすぐかも。（赤羽マガジン）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mWklGVFZhSmdxVUZsbV9rNy1vR2dZVXJiN2dkVGVweXVOZVJ3blFPNEs3YmJySGdvbGhlM2ZHS18ya0VSeHplVkRvR0xmVW5WU0NLejZn?oc=5
+
+■ 日本の社会
+1. 日本物流自動化市場 2034 | 19.23十億米ドルを達成、14.35%のCAGRで成長（Newscast.jp）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tTGh4X1k0cjBRdllkazZlNl9YeDFyNFlQZkUyelgtd3dXM2o3TjdrYUYwc0sxZEU4QjFkckc2SFBsLWl2WTliLW5KQkViMVk?oc=5
+2. 3. 【日本政府に疑問】ICC赤根所長への制裁に「残念」…一方で残業規制緩和へ、僕たち労働者は本当に大丈夫なのか？ Lamine Yamal Injury (UjmD44AHUd)（Mshale）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OVFRhQjM1S01ZamVnbk4zODVqYnpHN3RvZ3pfWmRsNDZPWEU4V1B1aGp3aUozeFhVRE5yZVBKZ0l4ZGZWcDF5Vy11YWNBanpkT1kxZGFWQTNJQk0?oc=5
+3. 日本人は本当に「働きすぎ」なのか？ 主要国との比較で見える問題（ナゾロジー）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uaEgzRlF2YVVFWUF5ZGdQQnVvRWhZekJQNG5qcUEwaHR1cmF6SHB1VnZpeWRpTjZiMlZWRndfanFmbDJTT2hWUngyVkNpYTE4d2E3djY1ZVNEWVE?oc=5
+
+■ 政治
+1. 省庁で定着するチャット、官僚｢使うの当たり前｣ 国会答弁の作成も [郵政不正]（朝日新聞）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01clNsVGtEcUdDQmU5RWdYZkF3ZHNNRjUzNDdYamc3TkRzMW1GMl81M1EwMm84TUZHWFh6WVNlMXhFTlJxOV92NXJOTXdldmJOMmpnaVctdC10bW9FZEZPdjd1OXVYOGM?oc=5
+2. 沖縄市議会議員選挙2026候補予定者｜なかそねまこと政策３．通勤・資格取得等を応援｜沖縄市議選（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LVWZfWXVnSlAtUXdJUk9HTXVDWm91WkZuSmh4eGd1VFFLRVc4ZVBOdUJQS2RxX2FhdUhHRkFjLU95Ui1Wa1gwZ2FXY2xMNGFYbzJkRm9vaHM3c3VQRU53?oc=5
+3. 粕屋町長選挙で県内初の電子投票 開票作業わずか25分 現職の箱田氏が3選（2026年8月30日掲載）｜FBS NEWS NNN（日テレNEWS NNN）
+   https://news.google.com/rss/articles/CBMihwFBVV95cUxOU0I2VnRVRHIydXVBbi1HTUlkMU1LNTlLTEd1Mkk1Q1pGUmI4RjRuYVpPZzBEZHMxZW9aV1Z0NGp5T3ROandIX2RCTW9PZklmRl9oelVjcGkyS3l4WGl4SHhNOWwxcVZnV1hGZEh1aVdnMFA5M3V5b3h2X1BRLUt4aDBVc2Z6cFU?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-31.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-31.mp3" length="1463472" type="audio/mpeg"/><pubDate>Mon, 31 Aug 2026 06:55:52 +0900</pubDate></item></channel></rss>
