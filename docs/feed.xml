@@ -1,50 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 30 Aug 2026 21:57:26 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月18日のニュースブリーフィング</title><description>8月18日 ニュースブリーフィング
-
-■ 世界情勢
-1. ゼレンスキー大統領、戦闘経験を持つナウメンコ氏を国家安全保障・国防会議の第一副書記に任命（mezha.net）
-   https://news.google.com/rss/articles/CBMib0FVX3lxTE8zUWhBaWw2T2pOUVhyWUp6Z0pCTXV0OWpOVExtclYxNzJNMzItNmM3ajVWMnpXTUo5cFduSmFhcnZtS1JzelVwRl9WaW5NbG1iczlJc1BxSEdNVmJIUmtQeVYxSlRWaENrdjIwTUwzRQ?oc=5
-2. ドローンと中国が変えた日本の安全保障 国家戦略、4年で再考（日本経済新聞）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE9VMmRZQmlLaG1oNEFkMXc3UTJEN0FlU0ZDRUdFT2Q1V3lvQ2RFcmczMzI5Wk5xejNsOFBhQUZVOEZuYTlORHo5bmd6NmwzekVEYU1lMXBoWVNVcDBJQnJNWDJqUTd5dUMzdUJCeA?oc=5
-3. 駐ロシア大使が呼び出しに応じず モスクワ日本大使館「外交上のやりとりなので回答を差し控える」（FNNプライムオンライン）
-   https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xQWFjc0k3TFhfcWRiM0VUUWFvczM0anM0OEhvTXU0TVhQUU5YVzNVVmRXQXM3ZE9XMkszU1dRbWExM2ZnaWk2b1VxMEJYUQ?oc=5
-
-■ 学校教育
-1. いとうまい子 雨 １４℃ 埼玉 月曜 250120 勉強とは人生を楽しむためにある本来は楽しいものであるしかし学校教育の勉強がその概念を壊している知れば知るほどあらゆるものが楽しめる Stuart Fails To Save The Universe (pz5Me6Yosa)（Mshale）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lcEtDWGk2cjVUMW0zMTFhNDg1V09zWU92bHNaRG5kczdiV1ZKNFRWYWxWc0tjN2xxRFVZd1FsSzBHRkplVE9NbHRkSXdjUFdtTVBEZE96RW9uQ0E?oc=5
-2. 夏休み明けの学校は暑さにも注意 休み中は元気だった子も熱中症になりやすいと文科省が伝えるその理由（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeldQSFJNNE9kOWNxWVBTVkNiOWo3SjdDRTMtOHR3dFdxRzNWQWhCWE1wTEYzek5wZUkzRjZGaEY4QjJtb3FuMUdVS3M2Q291bmNDbXFNdlY1dVIzdkZhODM2TEl6OVkyX1pZQktoX3ZkU1RGWGlVYXR5SHNxMHJBcWNCeTd4M0ZV?oc=5
-3. 大規模地震4回 八戸市、国に財政支援要望｜行政・政治｜青森ニュース｜Web東奥（東奥日報社）
-   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tanBKOHlUQmo4SW4yWUkyTy1PalRuUTV6QW1WQVNiTm5Jc09PWjNvLXY3V0lrV0s5MkUtaGtWWDlQeWdfbjJSMDFIc1N5QzdJaWc3emFlR1c?oc=5
-
-■ 倉庫・工場・物流
-1. 漁協の倉庫が激しく炎上 「ボンッ」という爆発音 北海道（テレビ朝日系（ANN））（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE0xdW4yMnRFSW1xWGhIa2Z3X0JIRThCVldkbWU1VVBwMnByNUxsbjkwalVZUXdld3hZdjdCR1l6MWhtY1NTYXlMYzEyQ1Vjb0h4V1pQLTFTUGNyV3U1RnNyQkxSazdTcTNPbTRsdDIyc2s3UzVYSFk4N0xxV09NNWM?oc=5
-2. 三重松阪 夏休み企画「永谷園フーズ工場見学＆お茶づけ作り体験会」実施（AERA DIGITAL）
-   https://news.google.com/rss/articles/CBMiUEFVX3lxTE52NFM5WXFWcW04aVI3XzVKUXFwckR3RUg4em8yU2laU3lpU2wzdkJLRmJ5UTg2V2Q5OXFIdzN3SkdCU1hxSWxmdlJpUlVNbnVM?oc=5
-3. 厚木に初の自社運営物流拠点 住友林業 住宅資材を集約、15都県へ配送（住宅新報）
-   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vcjRSMDVVNXJRWEZHTUZuQUg1dEhvUkgyd3FTcnBTNWNNZGRFVWVjLTBWZlZUbjkzSUZqZjE4QkswTHVXT3oteUdSdEhSTk1USFE?oc=5
-
-■ WMS・WES・WCS・RFID
-1. TOYOROBO、狭通路対応APRなど物流展で披露（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XSzBCZG1YZENaQmRobndQUzlBZFVmV1J1ZEg0QTFkU1JZWFJHX2ZJSGpBYXZFM2Jac2MyeXhUdFdQY25FRnhnSw?oc=5
-
-■ 日本の社会
-1. 為替相場 １８日（日本時間 ３時）（沖縄タイムス社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoMmRkNzV5VkVmYzUxVFh4a3hOQU9jZG93dzFOaDJZUm14N0xTbEVrb1ZNRzR2UVV2cDhQZzRTc2c0WGFkcG9lb0JzUXBsNFZfM1IxbFBOOTFEb2tIekE?oc=5
-2. １８日に日本大使が呼び出し応じるとロシア（沖縄タイムス社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RSEEyZWY3ZUc2emNIcjc4akFYTUNFc2tmNWg5V21oY29LMXkxNnh0d0pCT1dfaVZyaks2Rl85cF8wMWFrcWJ3Vk9qUGN2ZmFjN1BfdDdiYmdCOFo1bnc?oc=5
-3. 山本實彦・改造社・日本共産党 ――薩摩川内から見る日本の社会主義と言論の歴史（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yZ04zajVVeWJfdVVyRjVHeVpUZXZmLWN6RWxFbEx1V2tqdVNMXzlELUhSWUVZVXdrMlQ5T3VYQWJnVkxxLVlRWERYeUlNYUlFZEsyOXItSkpWaWJ3bmc?oc=5
-
-■ 政治
-1. 終戦の日（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lcnFnVVpXeUdhNVl0dUhUQllYRlh5QWFQM2tnSVBQVUN6Q2NhRVJ6Vk44blZwRjZWVGVnTEQ5RUhua1hpc184WmNoTkM0M0trWjJXYlVma05yUXR5dGc?oc=5
-2. 3氏 政策や理念語る 公開討論会 一般からの質問にも回答（沖縄タイムス社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE8ydkdmQ3JzRjNZZG1TYXg5TldIb202eFVGdEJQNnA1bDRsa0JMNGNlc011MlhjX3RnbG5Fa3NiWWtWU2lNZU1tQlFmX1Q4ZkNZN1BHU2NTVzZ3T0VJckE?oc=5
-3. 米長期金利上昇、FRBの政策リスク反映－シタデル・セキュリティーズ（Bloomberg.com）
-   https://news.google.com/rss/articles/CBMid0FVX3lxTE5mS3VoemRWNFhxbThReU5uRWdQdENodWRHUXBQLU1WNl9HMzBnenIzcU5CNHBhQmRHUTVqV3JFZFFpQVlwQnJHREFIV1JBbGZ0NlYweXhvVm45N3FXS29BT2lNQXZRbVVZRUVwVjk5SVMwRGZubUFJ?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-18.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-18.mp3" length="1407024" type="audio/mpeg"/><pubDate>Tue, 18 Aug 2026 04:47:16 +0900</pubDate></item><item><title>8月19日のニュースブリーフィング</title><description>8月19日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 31 Aug 2026 23:16:30 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月19日のニュースブリーフィング</title><description>8月19日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 終戦81年、高市早苗首相の式辞から消えた「反省」、日本のアジア外交は一段と漂流の気配（ダイヤモンド・オンライン）
@@ -639,4 +594,49 @@
    https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LVWZfWXVnSlAtUXdJUk9HTXVDWm91WkZuSmh4eGd1VFFLRVc4ZVBOdUJQS2RxX2FhdUhHRkFjLU95Ui1Wa1gwZ2FXY2xMNGFYbzJkRm9vaHM3c3VQRU53?oc=5
 3. 粕屋町長選挙で県内初の電子投票 開票作業わずか25分 現職の箱田氏が3選（2026年8月30日掲載）｜FBS NEWS NNN（日テレNEWS NNN）
    https://news.google.com/rss/articles/CBMihwFBVV95cUxOU0I2VnRVRHIydXVBbi1HTUlkMU1LNTlLTEd1Mkk1Q1pGUmI4RjRuYVpPZzBEZHMxZW9aV1Z0NGp5T3ROandIX2RCTW9PZklmRl9oelVjcGkyS3l4WGl4SHhNOWwxcVZnV1hGZEh1aVdnMFA5M3V5b3h2X1BRLUt4aDBVc2Z6cFU?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-31.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-31.mp3" length="1463472" type="audio/mpeg"/><pubDate>Mon, 31 Aug 2026 06:55:52 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-31.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-31.mp3" length="1463472" type="audio/mpeg"/><pubDate>Mon, 31 Aug 2026 06:55:52 +0900</pubDate></item><item><title>9月1日のニュースブリーフィング</title><description>9月1日 ニュースブリーフィング
+
+■ 世界情勢
+1. トランプ脅迫外交、最初の成功はベネズエラか？（アゴラ 言論プラットフォーム）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRMndVTHl1VF93VGVDTHV3Sm50SVRiNE9aRnFTamNMWVIwYTY4NWxCVW9hOUUxMWJsYWV5TGtrdlFZT3IwRTZUS0djNXhWMkhYS0FKTERrcGt0UEU?oc=5
+2. イタリアとスペインの外交対立続く 入国審査の撤廃停止延長 モロッコ移民流入問題巡り（産経ニュース）
+   https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZSjJTVzd0MGxaRndqcFRuZklIaWd2elhNVF80czJGM1ZseXJBUVZRX0hiLXZ5WlE2SHY4bU9RQ0ZZek5hWXNqaGlwMnhmSDdPbUZ5U3l2Tk0yV2g5QzV1SXU0SkQ3dzNEYUJFLVNJWktDZV9UMFE?oc=5
+3. V4外相がブラチスラバに集結、日本参加で途絶えていた外交対話を再開へ（Межа. Новини України.）
+   https://news.google.com/rss/articles/CBMicEFVX3lxTFBFb1ZTSERGZ2lEVEhRLVd3SlNnbU9DMTMwTF9BQ2hWaVc5RGtNWEwtTktSWFdReUxEdHdJdnZ5MG44bmswZ3cyS0VYY1VydzJZMXFKd21NYzl1T1ZKUm8xaE9mYlowcl9OTE9yU1lYVEc?oc=5
+
+■ 学校教育
+1. 「同じ学年でも算数の授業時間が違う？」文科省が示した次の学習指導要領で学校の裁量はどこまで広がる（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT2d4TWl1VzdwVld4bG00MWhjZHgwbVU1UzVoSlp0M2cyRTd4TmFQc3FLX1BUVlRta3RLcUt2RzlBOVR4QjNWbVFJSEVWQzUtZlI3WG10VjdTV1NfZ1JOZHhBWV9GdTRyOHd1Mm1LbE5hM2lLcWVuUW1lTWZwZXRhV0ZrVW5QT1Bk?oc=5
+2. 不登校が過去最多「学校が楽しくないから」文科省調査で見える、学校と子どもで全く違う「行かない理由」のズレ（Infoseek）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tYlBoT2RSMGJfb3Q3QkVMTnF4Q3VXMlQyYlVaN2tiNEVuaHN6XzhKd245TmNseVg3NlJpMkVfY01nNE5JQjBpQmZtbFhNdW9qbUZ0VUhRU0hDOFdEeGpmOXo0WERpQ0U?oc=5
+3. 教育研究強化へ「リバランス促進」 文科省要求、大学病院支援（MEDIFAX web）
+   https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tV2c1WkJUa0dadXZiOExNOGl1SjI3NGJic005SVJueGtmYm43eUZ5MGk5QnczbFRCUGpuQmJGN3BpWWJqYmttdtIBTkFVX3lxTE9Ca1IwY2lkTXFXUkZtNU44MEhFT01iMHAzYTVHRldBVHRISFhOODl1UzdSM0pvOVlVQ3dNanRUUWM4cy1VNHlkdkdGSmtGUQ?oc=5
+
+■ 倉庫・工場・物流
+1. nestが王子製紙の工場でフィールドワーク 紙の循環の現場から脱炭素を考えた（Sustainable Brands Japan）
+   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zMlNqNWJHRnY0LWVpSDYtVG1reU90bjVTRjRCdThnOFgyLTlDY1RhN3d6TlJYblBPLTRHNE40SkNhcWtxYWVHdzRVMWI3dExQdWs0aE1ucFMtQQ?oc=5
+2. 物流DXのエニキャリ、「国際物流総合展2026」に出展 配送現場のDXを提案（PR TIMES）
+   https://news.google.com/rss/articles/CBMiakFVX3lxTE9HWjc5VE9zTC03VzJWNlNyZnd5RU5sVnpTTi1DcGo5R1JuUUk3TEY4UmtGbTJVM3AtdkRmSnhyMXZhT2NJNkxkVTJVLVdoME9SM0JLaHM1M29mOXAxbG45WU50MnlvZk5PZ0E?oc=5
+3. アイリスオーヤマ、味の素、三菱食品が物流改革で築いた競争優位性とは／ラピダスの勝ち筋、ASMLが握る不可欠性とは（JBpress）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kbWw0czRjeFluUTlhNEtoX0g1SlBKQVhZUEFFRGtsYUt1TUVjMlhYVjdfdkUtX3l2dlIzY01pX2xzaWhMNF9RUVI2RjFVOGQ1MGM5V1Zn?oc=5
+
+■ WMS・WES・WCS・RFID
+1. 食品物流に特化した3PL展、東京で初開催（LOGISTICS TODAY）
+   https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lN2tGcmJuTXFoU0ctN2xyVVBxTU11UHgtZHFOUlhQem5UbXd5NnpBU1JMZkgyNHJkY0RDSHdYSENSX1hZMmEzWA?oc=5
+
+■ 日本の社会
+1. 強制労働か、ウイグルの実例紹介 当事者は「親族拘束され」不参加（毎日新聞）
+   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CSURTZEd6cENwNGQ3M2dLbHlZc3Uza0NTSEFDS3I5WFIxVm1LREVjSlYteFh2UG40TmlyYTN0UDNCVlI3MG5rUGhmYXotZERKWDVTczRtMkpXQ2NpSElzTjViaWtCSEk4?oc=5
+2. 労働協約の交渉継続へ 米USスチールと組合（ｄメニューニュース）
+   https://news.google.com/rss/articles/CBMikwFBVV95cUxNRHpUQkM5WTZyZ3JqczdSa0lMOHRIR1FxRkFXX0JfN0NUZDBua216NTZNazBkcFROczJXY0x4bnMyU2FFZlVLMl80SmVUN3NmNjlKaW55WXhZX3JrX1RvRW8yMXZscFV4cmtKOFJxUGFzR3BHRVY2bkVudHJKSi1peTFPc2hHLUtsalY3MGpYZ2Q3ZWvSAZMBQVVfeXFMTUR6VEJDOVk2cmdyanM3UmtJTDh0SEdRcUZBV19CXzdDVGQwbmttejU2TWswZHBUTnMyV2NMeG5zMlNhRWZVSzJfNEplVDdzZjY5SmlueVl4WV9ya19Ub0VvMjF2bHBVeHJrSjhScVBhc0dwR0VWNm5FbnRySkotaXkxT3NoRy1LbGpWNzBqWGdkN2Vr?oc=5
+3. 労働協約の交渉継続へ 米ＵＳスチールと組合（nnn.co.jp）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGUGxlM1lGZ3VLaWdtOEVGeVR2elVpWjJQOTRGTDJCaFRMSlFCOVMtQ2ZaZ3RQWmphYVJHWVZLUFZBVnp4c18zYTVPV3REdGhP?oc=5
+
+■ 政治
+1. 米軍、中間選挙で投票所に部隊派遣「計画ない」 制服組トップ（Reuters）
+   https://news.google.com/rss/articles/CBMiekFVX3lxTE5UdmQta2RUZTlkeWlKSXpxa3NJeVVqMktxTlpXOHZUYTdmXy15SFRLdTRGMWlucWNudy1SZzVyUTRhMkNNSHh6OG1zZUlvQkFtRmRMdWNtX2JDemtQeUpKTjRJR2J0dGY4TjZmbmZTQV9ITW9RNmtpUGRB?oc=5
+2. 【名城大学】マスコットキャラクター「名城しし丸」が「NIKKEI 企業キャラクター総選挙 2026」に出場（Newscast.jp）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hS2FjVkFZdzJfU1dJWFNaLTcySm9WM0NHS2NRYnRyS1h6dVB0ck5WZFB0ODJKZ1VZQlNxSGNJeFl3UkVwYWRjUzYzMWhEdEE?oc=5
+3. 佐賀県知事選＞現職の山口祥義氏が自民県連に推薦願 代表役員会で抱負、政策聴取へ | 行政・社会（佐賀新聞）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IdTN4N1FpMnpTRFBGczdfTzQ3VWRvZ3hCWXJCelJFdjBlU1ZYYzhRUnE1MjBDaGJSbjMxazR2bWdRdVFsdEljSW1zRnRCb1ZuVG1mdkJ3?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-01.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-01.mp3" length="1389168" type="audio/mpeg"/><pubDate>Tue, 01 Sep 2026 08:14:55 +0900</pubDate></item></channel></rss>
