@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 02 Sep 2026 21:55:16 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月21日のニュースブリーフィング</title><description>8月21日 ニュースブリーフィング
-
-■ 世界情勢
-1. ゼレンスキー氏、外交チームの人事刷新を予告 米国担当で新たな方針（Межа. Новини України.）
-   https://news.google.com/rss/articles/CBMidkFVX3lxTE1aZksyUjZzSlRvWll5Z0xXUjhMWHNuMDFJZDJtNE9PWjhIMURQbHJrV1Vjekd6YXRfYzBNZUlwZUV0Zm5LXzU5c0lUQ0tyd3F3U1FsN1VCMHVyNm5weVozLW1CR2RaR3JvRlktRFN4YncxOFFTUFE?oc=5
-2. 安全保障の新次元（4）反撃能力高め抑止力に ミサイル射程、30年代に2000キロ超 「つなぎ」は米国製頼み（日本経済新聞）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTFBsSm5lSDVtWlA2ZTN3cmw1OVg1bWRiaFlOZzZzbGRGVHhIbk5KZGxPRnFMcEN1Y19kUmw2UXBwVlJwckw0RkhaT1F0Mk10VUV4dnc4eWJicGJjeEZWSHB4UndrXzBGZmRGX3hYZA?oc=5
-3. オマーン、ホルムズ海峡の恒久的な安全保障には地域の平和が必要と表明（arabnews.jp）
-   https://news.google.com/rss/articles/CBMia0FVX3lxTE1mOWdJMXpzcHpENzRZMUI3Z1Faa3R1cUxGNnktVC1OU1FSZ3UxZUNXRktCRUpESm95ZTUtRmk5WTZlZnNhVm1NQnZkQVR4WU90X3JWdGdRZmY4aHFmT1BJcjZFNVVtNzJOSGdN?oc=5
-
-■ 学校教育
-1. 廃校を活用した私立小学校「六瀬ほしのさと小学校」開校までの道のりと1学期を振り返るオンラインイベントを8月28日に開催（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZV3JZNnVZOWNRZ3NwWHF5bV9Fa05YYm05OGlQbDBaQ2pTVmtRb21XR1BaNzFjM3BqZHJqYlZBTzRwWlo3ZVVxUWpwWDdPeHNBZm1HT1p3NEVWaGR1aU9wd1FzeHhwX3Rm?oc=5
-2. 【中高生の保護者向け】Gakken高等学院が「対話」と「進路選択」を支えるオンラインセミナーを開催（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMidkFVX3lxTE5leWlPWVBFMjZ5VlFvSElFVnhSanY2ZVFXSHY2Z0hRVjBJYkJLZ0RzSmNCY2R6bkRPNzBKc29aNFQ2RlEzUUlNUWV6UHRidTRPX0pQazdBWE9wazhUTTNuMU8xZHl0MXNuQ3FKcVBVTGxvcDI0SlE?oc=5
-3. 国が進める高校教育改革「ネクストハイスクール構想」の実現へ 山口県教委が実行計画（骨子案）示す（ｔｙｓテレビ山口）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUTRTTXVJN0NXVXdBbGVWSWZHangwMFIwMFB0bVQtR2JnNzRFVEJsdkZ0X2JGVDV1YWRRVnJock5faWxkejRsY2wzUHlqX3hFaVhzRXVhQzN1dXRMNVpKUXR2Z0o5QzVKbGo1blpsc0dTLVZxSGhDb1I3bGdCcVk?oc=5
-
-■ 倉庫・工場・物流
-1. シーネット、「国際物流総合展 2026」に出展～「WMS×つなぐ」をテーマに次世代物流DXソリューションを総合展示。（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNakR5a2t3SzlUbm9HSWtRZXNiLTlkcE5abTF2eURyNUNSa1VBTkZOVHB1NHRzS0VCQjFKZ3VyaENaYXRSV1lzSzBrWmtXU1cwV3VxdUVyaE1MWWM4Rm13LVBVcjdfQ0xz?oc=5
-2. インテュイティブ・サージカル（ISRG）はマレーシア新工場とDa Vinci 5更新で割安なのか？（simplywall.st）
-   https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS0lucTRSTi1DRWM3ZXFMRVVZT0dwSHEtdEd5V3kxRkdmYjZHby1KUmFJNkNYX05DMy1TTTl6a1pPNUZYSDJXME5sRjk4YXNncl9BRVcyZGMtZWlKVUpXT1ZLNmcyUENoMlFUcUQ0TEtoaXFXb3VoRjRjbkFjTGJqQ3lmSjVNekM0RDV6bzlFczRYWDBweGtmWjFsVUpyUlpiczhMQlluTkl5QjFHWVRaT25raGp4NFEtQmtNRjh2MVNLcTd1NHVHYlMtTjN1UFBTMGx6dlZrWdIBpAFBVV95cUxNMW9sU29NOEdtVGlaTktrdF9SZXFhUTV0TF9hdTFQdUE5OVZLbTgzRDBVbWVrWG1sRmFYUlB6N1RXQmtRdWpHek9zZ2xTbjduZkZ4ajRHWl9yVmQxQ0UzX2FUUmxLSFBOaVlxMGZTQkV5aElzX3FSSGcxMWROdVA3eENDS0RNYkNHSzhLZlp6LTlXVXpvSHdvRnE4RVpDak54M1pFYw?oc=5
-3. 【熊本地震】死者38人に…1人は直接・関連死に該当せず 日本製紙工場で倒壊した煙突撤去始まる（日テレNEWS NNN）
-   https://news.google.com/rss/articles/CBMifEFVX3lxTE56VXdicEllTjF1ZUo4ZHVlVVY5OUI2bzJJc3pucDc4ak5odEVaR1VCNDQ0aDBVdDV3Zlh4QWNiM1RCckozbTNuU2lJVldQOUhQdl9sS2FNR2ZOazBVMFR3bk10QnA1dk1raENzLVBFSHVmRFNNTzRuR2tlUFA?oc=5
-
-■ WMS・WES・WCS・RFID
-1. シーネット、AI搭載WMSで物流判断を高度化（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZWHBKQ2NXdGxSazM1OU56dE5WalloVVU4TmVsMkVkYWRQNlR3emZiWVZOMUFrcHVlX3dPZVh4aWVTdTUtYVgzaA?oc=5
-2. ロジザード／物流データの分析・改善をAIが支援「AI在庫分析」サービス提供開始（物流ニュースのLNEWS）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1NnJLUjFQVWNKX29CcFlLUnlETDlfbzdsQm5qVTFxV0FTTEdKU0JqNkRIaURvT09vR3g4X3NDTWhwWWV0aHlqT0Frc2RoNWtzUWwtSQ?oc=5
-3. 【拡大リニューアル】来場1,000名突破とアンケート結果から見える「物流現場のリアル」（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMie0FVX3lxTFBlV0JGQUNsTGZ1b24zRnJJVy1OSU1vS21Fa2hIRlF4QWJqSzFOZlJiUXRpUy03ZGdhQk5vWC1JaHMtNmNyZ3J0blQ0Wmp6WFR4UktGWU4yRU1MQVU4WFUyei1mS0t2cnZIWFhRYmphc2IyNHlubVdOSWZPdw?oc=5
-
-■ 日本の社会
-1. 寝室に“争った跡”福岡・天神に留学生の遺体…殺人事件と断定し捜査（ABEMA TIMES）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE52ZnE0UmFZa2RqQ19uV3kybk1zYXlPYVFway0wWjFqQ01zNFNLdWF3R2JPb2N2XzgyMzN1VW1ZcE1BcjFIMWVjZGRSZkhCbjNLSkxZVktnT2JjRTRYZ0E?oc=5
-2. 日本精工労働組合藤沢・桐原支部 横断旗100本、市へ寄贈（タウンニュース）
-   https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FV3VUdlJ6eFZ6TTlwalgzV3JPMnp2S0ZDNHpWa0RSdXN2STE2cHZPV3kzNjBTVFJyOTVtQkJtSmEtc1NjX0ZIRzc2YTNJaHhKZkRpYjF1bG42MzBGTTFXTDFMY1Y?oc=5
-3. ジャングルポケット齋藤さんの事件に関して、アメリカ滞在の立場から思うことを話します Draymond Green (EQIITS4ElL)（Mshale）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RdzFKd3FkNGNNdGQ4RVo1TUFlTXhZZHY1YTE1WnlmeVRkdm5lSXc2aVBtOGFoajBTVlFfMXJWQmk2SjVfa2I0RzJLZTM2NmNvaGw5dGtwWEhSUE0?oc=5
-
-■ 政治
-1. 消費減税と「所得連動型給付」のセット導入は筋違い!?中低所得層支援の本命策の実効性には財源問題など“宿題の山”（ダイヤモンド・オンライン）
-   https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sdmxjOGVLdnpla1pZemtEWVA5clBkTDRrTThTQ2tDLTBTUUpFeTBxVGktdzA0WjFGWGYtdXk4VUV2SWpoZUlNZUFpVFLSAU9BVV95cUxPUHdCT2hMNGNpalF0QnJBZlJJa2J0bUpId0V4dzUyemRGNzNYNzlsbXNaLVkyNnl5aE9KdWxmandEak5lQmIwaXVWTHZFaUdn?oc=5
-2. 消費減税を巡って次々と上がった「待った」の声、年末の来年度予算編成で首相は壁にぶち当たる？（ダイヤモンド・オンライン）
-   https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Ba25XUnJYaDJma0dBQmtIV0tsQTQzUlozbF9NMmFaUWotUFAtLXFLUWxMU3k1bTJWNmQ3S0Y5TDJoRFhBTHhxd01lenjSAU9BVV95cUxNR25fMFRYcHdKVmhIUXdoWklTNjZXS051MlpDQ2ZmWTB0dHJlbmQyd1FhTUVNWmRHeDVSRXlNRUJHZ1ZuenR0QkE2TUMzdm93?oc=5
-3. 観音寺の選挙キャラ誕生 銭形マリンめいすいくん 市選管、知事選へ顔出し看板｜四国新聞WEB朝刊（四国新聞）
-   https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmh4MzI0YWtycUszd0VCcDM1NHJyVlJTdEVGLVFWTUFjeWdqaFp0cEt0ekVQVi1JRUlwbGl6ZUxWRXNuZUFkamhiVHY1WGh4Rko3QXo4X3NzMG9EcGpoUlFHZmNFVHJsajhlSUYtd0ZiM2J1YWdvcl9OT3NKQVlRd0FfNm1hd9IBfEFVX3lxTE84SmVuVlo4UDNCa19HeEFwVElSN2U3MkpBeWNMZTJjU1dkOGRMMXIxclVxclc1Zy01OXhuekJqQzRHLUJPbExRbkx0LTM4eWhfTkQ0R0dYc3lSN25ZeE1rdmtIbFBoOUpMOE1NbUVzRXVEUTNNQWJCWlNENGY?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-21.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-21.mp3" length="1717632" type="audio/mpeg"/><pubDate>Fri, 21 Aug 2026 04:51:01 +0900</pubDate></item><item><title>8月22日のニュースブリーフィング</title><description>8月22日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 03 Sep 2026 21:52:10 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月22日のニュースブリーフィング</title><description>8月22日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 地政学リスクと経済安全保障（9）東南アジア、供給網再構築への視座（日刊工業新聞）
@@ -639,4 +590,53 @@
    https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uWV9XVWFGNWlKbmtPZk5FNlMxZklxdGRjTF9yT2xxV2hGeVhjQV9zdW9qQ3pnWGVGQlpVVGlKSEJjTXRHUlRkcmNJejI5MWxBSTJLQVVYNVlSQ2w3Q2tSVHB2MDRxcDg?oc=5
 3. 自民党の奄美振興特別委、野村参院議員（鹿児島選挙区）が委員長に就任（南日本新聞）
    https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lOEx5R21ZVUphbHFKM1d6YTducXNVOEdBeEhSXzVSQUdvUlVpSVUwU2p2Q3B0MDNZX2otbjlkakhyV21fUHZOZkMyOVh4QnR0UnRlNjZ3a2w?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-03.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-03.mp3" length="1825344" type="audio/mpeg"/><pubDate>Thu, 03 Sep 2026 06:53:37 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-03.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-03.mp3" length="1825344" type="audio/mpeg"/><pubDate>Thu, 03 Sep 2026 06:53:37 +0900</pubDate></item><item><title>9月4日のニュースブリーフィング</title><description>9月4日 ニュースブリーフィング
+
+■ 世界情勢
+1. 元カナダ軍高官、ウクライナはＮＡＴＯとつながる欧州安全保障体制に加わるべきだと訴え（Межа. Новини України.）
+   https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wdGx0emZEVk94Y1dWWXljcGNidXpqS09hNXU1aWpVVkl4RW1pdnM0c3lIVXNoZVdkWmFEWHdPMkR2RUx1WG1CdHJxYmY5S2dKT1pIS0lsX21venZKb2RlWjFDd3BpVlgw?oc=5
+2. 台湾有事は自動的に「日本有事」なのか、日本が選ぶべき二つの安全保障戦略（JBpress）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE15aXNpWFBCaGtidk53VXJEN1RYMVVRSGRyeGR3TFhJakRtbDdWWU1SdEhUeHlWX1MyajVVLUpiam9lUFd6VUsxSW40bGhWQ2dwZlVPbWNn?oc=5
+3. 【佐藤優の世界史講座】「プーチン大統領の柔道外交」編 プーチン大統領の戦略とは──北方領土初訪問を読み解く（ピンズバNEWS）
+   https://news.google.com/rss/articles/CBMiTkFVX3lxTE56a29hcllvS094VXJ4ZG5ySUZjVkduRDg2MlVzd0U2NFZkOGRRVWhlX3ZkWUdkRU9tUzRmQVBRSHFIMzJ1R1RGTnJ6aWt6QQ?oc=5
+
+■ 学校教育
+1. 約20年前の教え子への性加害で「都立高教諭が懲戒免職処分」も…“刑事も民事も難しい”弁護士が明かす“時効の壁”（news.nicovideo.jp）
+   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SUzM4aUUwWlB2clRmQ1ZYdG5hVzV1LWsyNGRWQlQ3UXY5S1pXeW1oMFBaQnhHT2V6bkxabU13N1FqbzhWbVk3RFR6Sl9sVzBnOE1tcnl1VUFSb1Jwb0puand1Q2syU3JH?oc=5
+2. 文科省概算要求 過去最大8兆7750億円 研究力向上へ人材育成本腰（科学新聞 The Science News）
+   https://news.google.com/rss/articles/CBMiTEFVX3lxTE03cEdFVkdLN1B5aGx5Z29ybk8zbnRiNjY0MW03R1NFdnpYeEtqdHhoMHlBNnhlVWYxaTR2dEtyTG85WnJiTS0zZTZvU1Q?oc=5
+3. 「学校行きたくない」夏休み明けの“不登校”増加…親も子も焦らず“心身の充電期間”に 親が取るべき対応は「否定的に捉えず見守って」（Excite エキサイト）
+   https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2YzNGNm4wTE9renBQXy01bWpqSy10ZE5kY1VpSkpIRHNZTWNGNHlkalptVHJOUlRzaWVCVkZYSjR2a3dkWnRaZTRCTHV2RHV6clNjQjJvWVhvbE1U?oc=5
+
+■ 倉庫・工場・物流
+1. キーウ近郊のコカ・コーラ工場にロ軍攻撃、ゼレンスキー氏「対米シグナル」（ロイター）
+   https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDRPNndDcXdkUGNZd3hmUG9rLXVsLWMzUzhOM2NtVzdSb2RyZTczclRrWlFBSWlJU0JLekdNS3lWTFZtckJaLURrclpaYWZGWnJaNkZsblgzRlVlM2FpaGc2MXRDM0JqN1R2WUtEQ2hiSUhRU0R0UWZSeWpHRU1oZg?oc=5
+2. 画像・写真：日本製紙八代工場で火災：時事ドットコム（時事ドットコム）
+   https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZV3ZfSVNzTVFubmVBcFJTbXAxa3BkbTVKZXRaZUdZcU5XMjRzQXZYNmthMUQzdEpob3QtMVFadmdkRHNXcmpFdDhiZkJweW1nemg2eUZISGdTQVNkT25DVmxYUDU?oc=5
+3. 熊本・日本製紙八代工場で火事 “通報”した人「いつもと違って油のようなにおいが強かった」（日テレNEWS NNN）（ｄメニューニュース）
+   https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXVHY0RkeHE5RWV2bldQMXlOUWh6aXVOSzVqRFFHcUFrTURpWDhyWXVZR0FYcDJqX1g2SmtQQ3JrTnN0UDJqUV9TM21hVnJtUzdiUDFHN2pSb3dwcmdlanFvZ1VUYTQxQ19Mcms5dk1LMFhrNl9COV93dGVRcnE3emhBc0l2dGszcDlXMXdCTFB5TktBM205WUN6anV0LVZi?oc=5
+
+■ WMS・WES・WCS・RFID
+1. 【ホワイトペーパー公開】物流システム刷新を「後発の強み」に変える現場ファーストDX（news.nicovideo.jp）
+   https://news.google.com/rss/articles/CBMie0FVX3lxTE1oV21ZWXFIcDVJZUNVUXVlaEc2MmVHM2QyZmdhNzl4dGU5b2F0ZG56MUZhWVktejhzb1Zrdy0zblBuUjZtQi1BcjJsdDU4ZzhnY1lTNm5mdGc3aW95eXZtNU5oOWptbXhLM05IT3A2aWpXYmFHS0wxR2M5aw?oc=5
+2. ヤハタが挑む物流DXの内製化、AGVとWMSで生産性150%向上の真実（ニュースメディアVOIX）
+   https://news.google.com/rss/articles/CBMidkFVX3lxTE43eDJLT1pBVWhEUmN5cS1hYjBBOW83TkdjT2RpQnZYWDdlSk15RGVlNnRuV1JNRElMUV92dW5DNHRpUjJnMDRFWHgyN3FPTURMcGxVREZYZ3dhSTZsbjJTMlRUb1pQV1JHZy1lYUg2V3NXXy0tU2c?oc=5
+3. シーネット、システム停止時も物流業務を継続する保険型待機系WMS「ci.Himalayas/Standby」提供開始（コマースピック）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HVWZkTkk5YlcxaDA4eDR0UENtc2h6QmVCaUJSNUJLNkZ5V2xyZnRZajZnLWxwQ1BSNDMxMk54bnlmd3FhN1A3QTR0OVRLU3htV0FaaWlYSQ?oc=5
+
+■ 日本の社会
+1. ［論説］外国人材の受け入れ 人権と安全は経営責任（日本農業新聞）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rdFIyeDBrRGdFc3BURU05ZmMyYTVOZWt4d2drQkNaMVNPbGNHTlpHb2xUakpZOHotajNrWjJDSDRnakJyZXEzbFZYNFhXRzdQZkZ5LTE2V0lOY0k?oc=5
+2. エリクソン、東京大学とのコラボレーションで、日本の未来を探る「Enter New Horizons」を始動（news.nicovideo.jp）
+   https://news.google.com/rss/articles/CBMie0FVX3lxTFBiMXBNM0RmUEllVE4wYzljamZmeFVYYzFJYmZiSldZT04wdGZybnhvSXZqWE5JUHpzWkRqeVkzc3g3Z3c3UjlKczNqbU9vRlFoTkJlLUJKcEN5YU8tbzVGUW8zSkVGRlV5d2kzUDMzRHBHLUJhNlBhdXcwSQ?oc=5
+3. オンラインカジノ事件…収益は海外の運営拠点に上納 そこから報酬得ていたか 静岡県警（Excite エキサイト）
+   https://news.google.com/rss/articles/CBMib0FVX3lxTFAxdEtUMlVjSEstVGFQckI5YUo2ZjllZlh2ajBWRmxhSmVSX01pdHJpbUZjOVBfSlBxX1dGUzgyUkZ5a0V6ZXkxb29UY2N4OEVQWS02NmhQR0lkRGI3WlVxSTRTUlFoWUNsS0JBc3lmUQ?oc=5
+
+■ 政治
+1. 内閣改造 片山さつき財務相留任へ（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBMGhia1hjWk9DTkptM0xpQUh5ckpTTzVSWVg3ZFVNSUZzLVNaMHRIb1A1ekVnTENMNUVnUy1IRmF6RFVON3B4aHE3UjNsbVRO?oc=5
+2. 新しいリベラル02（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vNzNST3VXazZlX2ppRTVfT3c0cDFMNGEzeWY4NXNYdjZtS0hVR3VuWW51LWotWVVyQkNnVXVtUmRZRFo3ekdqRFY4Z2JhVEF1cEI2X1A1c0QxeGNjS2xn?oc=5
+3. 高市首相、内閣改造で鈴木幹事長続投へ 木原官房長官も留任 16日にも人事（北海道新聞）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE96NGlwV0h1NGFCaDFMbnNhbUpWQUIxS0QwRW4zdG1rU2JWcGdYanR4YmhHS2pRTmhlTlU5aVQ3VGl0NUl2UTZabU1NQ3VNem1IbHdQLTdYSlhBai1WTWNvN2tiSk5XMVQzS1BRckYwLTlfbFFEOWdlSDdGWGNmR1E?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-04.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-04.mp3" length="1617120" type="audio/mpeg"/><pubDate>Fri, 04 Sep 2026 06:46:06 +0900</pubDate></item></channel></rss>
