@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 03 Sep 2026 21:52:10 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月22日のニュースブリーフィング</title><description>8月22日 ニュースブリーフィング
-
-■ 世界情勢
-1. 地政学リスクと経済安全保障（9）東南アジア、供給網再構築への視座（日刊工業新聞）
-   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPQ2M2VjFISnJYZ3N2cEdMSXVWZlRReEx3UXdKZzRRWV95VTFlMTZET3A5TFJmNlNyY0lyZWJ0a0F5aUNqYXdjUllQbmwxeElHbDhhVktlSkM?oc=5
-2. トゥスク首相、ウクライナ支援をポーランドの安全保障の柱と強調し地域同盟を提唱（Межа. Новини України.）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YRmFCWVBFRzVMeFlGOEM5LThVakowNmFQWHFHRHVHUVptVXZjQVRSa1A2ZVE0N1BodkZQQ3VVUDItZVc0Vzhma2pqTFdhNE1lWkFXbTRoT2NrNzBhRUJNYW5kakRiMkU?oc=5
-3. エティハド航空の機内で台湾を矮小化するアナウンス、外交部：謝罪と改善を要求（rti.org.tw）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pTVZaeVZJZUpHQkxlemxXbDNEamlueTZ2TUVtQ3FQaFlwLVU5a1Noa0N0WF84dTY4U3hDUmgxVWljMjNpTGZGWWt2bVI3cm1HQXlqOWhfMnI2WXM?oc=5
-
-■ 学校教育
-1. 文科省、原子力人材の育成強化 産学官の連携組織設立（日刊工業新聞）
-   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mbHd5QmVFbnZUeWQybk9ZZGJmS2duMWVSeUx0WmZCeG9FejJXVnlZUlhFOHdndXdrcVJVOThSVnN4ZEhGdDBVQkhkRUJpcUhMdk9tWm9LWXo?oc=5
-2. 文科省過去最大8・7兆円 27年度一般会計の概算要求（北海道新聞デジタル）
-   https://news.google.com/rss/articles/CBMiWkFVX3lxTE04U3ZlN0RxcmVsd1ZOZTYzWUpRT2VRemxRSnozSHQyMmwwWl9KSF93N0pzTU5xRkk1V1FLcENJVU56aE9DVXRPa3BkM2pSQ2NmWmJVd1dMMkVEdw?oc=5
-3. 文科省過去最大８・７兆円 ２７年度一般会計の概算要求（中日新聞Web）
-   https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XcHBCOFRGQ19xN3FEbnBiS0ZGOG0wWjJJZ1IzUURZWVRYOHE4SWNYR3N5MFRJWkdsZXh6eklFNXpLT1ZWSm1jWEQ0clVJOHhCWkhsTnA2ZTc0MFJwSU5VQ1ZxOFBrUQ?oc=5
-
-■ 倉庫・工場・物流
-1. 台湾8社が訪日、物流DX・AIで日台協業探る（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2d3pqMm9yVXFUbjVtMi1Ob1UwcXA5TmNYNlloY1YtSmZoRXFaNjlqektjb1Jmdk1JX3JKMHF5SS1kUFNBMWZ2TA?oc=5
-2. DPワールド、マレーシア初倉庫で東南ア物流強化（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WX2VNYnB6VjNDTVNGUG5HeFUwNWplU3phRW11T2RELTFQRXNENXRndTNRU3RZckFIcXpsT0daVnB0d2VxQkZJaQ?oc=5
-3. 運輸・倉庫の女性管理職8.6％、登用なお低水準（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DaTl0dkJYQ1ptN1psQUl3TlM1eEp6VjlXMThKZVRVVXhGeDRYU3NDWjJwZkhWLVo5b1dWclNlR1VXMjhyX3dvMA?oc=5
-
-■ WMS・WES・WCS・RFID
-1. スマート倉庫ピッキングシステムの世界市場展望：成長ドライバーと投資チャンス2026-2032（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMie0FVX3lxTE5OcnhkcDBmM1RPS3FQamFDb2otMHZvd3Z1Yk9sbVFvVmU3dW5nNzByNk00ejR5eXRVdU9wbWpmZ3ZuUWVPWlVQSThTYnNlZHB3d3F3T0FlcVY5TzlZOWVWYzJ0TkQ3UHJoX3NpdjR6SkNzOHhPR2lleVFKUQ?oc=5
-2. LOGILESSがROMSの自動倉庫「Nano-Stream」と初のシステム連携パートナーとしてAPI連携を開始（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMidkFVX3lxTE1QbkFPX2QyS0NGVWhLM0M4ZDR2em54TnloUTQ5T0QxS1pVUktyMGtNemRFRXJtaUx6eXhvR0ROcDItYk11X0lyM0hBWHZ3N0Y5dXU3LTJUUW02WTh3ZTVUbVhFOXFOZzYzWFh5TkcySzl3RmJDNFE?oc=5
-3. 物流AIプラットフォーム「EPG AURA」日本展開を開始、国際物流総合展2026で初公開（PR TIMES）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTE1zZktLYVFKZy1RcGtXZ003aG1FOEVzckZpeEw5REVfd2VmaHRSY3I2ZkFrTzM4UlE3TnliY09wT3dxeEFUbTlyQzV1WEk5MXhYS21kcGl1Sm9JdkE1MFlWcmlhaVpHY0NRb0E?oc=5
-
-■ 日本の社会
-1. 【実施報告】AKANE株式会社、香川県警察本部・東かがわ警察署と連携し外国人労働者向け「防犯・交通安全講習」を本社研修室にて開催（山陽新聞）
-   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzVTZRcHE1Zl9KT042SEp1c29tSEk3aDlKYUVsRTZlcXJHN3VWc0FNYjRvLWNZWlNUWkU0NWdveUhwdm1HOFNYRUxaWWpkOHRORHc?oc=5
-2. 米、天安門事件追悼団体幹部の有罪判決非難（ｄメニューニュース）
-   https://news.google.com/rss/articles/CBMijwFBVV95cUxORXB1NmhNUEl4Ujc1TGQ5NlRVN2NrWHFYMVlkVzM2UDFfMEEwMkpUeF9RUFJxTmRmdHZCdkFNaDduNUdVQnc1V29CMi1hS2NjMWk5bnREbzkyTmFsQVZWbHV6UTZYUDNUd0d2TVh6cmxNTDhKYjJnS0tPNTBJcnhTNkoxeGlTMzB6SGk1UW9LTdIBjwFBVV95cUxORXB1NmhNUEl4Ujc1TGQ5NlRVN2NrWHFYMVlkVzM2UDFfMEEwMkpUeF9RUFJxTmRmdHZCdkFNaDduNUdVQnc1V29CMi1hS2NjMWk5bnREbzkyTmFsQVZWbHV6UTZYUDNUd0d2TVh6cmxNTDhKYjJnS0tPNTBJcnhTNkoxeGlTMzB6SGk1UW9LTQ?oc=5
-3. 【2ch面白いスレ】労働基準法「月の残業時間は45時間以内に収めなくてはならないぞ」日本企業「なるほど…」【ゆっくり解説】 Candice Swanepoel (mLT2yfho5Z)（Mshale）
-   https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oTTdXbFcyZEpZZjFNMnhBT3JpdFZxVDhpSEU5N2hTY0RWanhUR1c0bHA5YzBLLVczdW5wUXRqakl4V19JSjdPaFdiX01ldS11YUNoc0JVbkR1RHFka1Ryeg?oc=5
-
-■ 政治
-1. 米中間選挙「赤い州」テキサスに異変 保守の牙城で民主候補と接戦に（日本経済新聞）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE5SNEpTa0pSQ3lVM3NoM0x1N2Y0OHA4dlpuWDJJVGZfbFhmclRGOEtleGhlLV8tcFVma18zamdwSlMzbkNVVzB4QVFiazJneW9mNGE1QVQtZzloNGxsQTREQkVuRGI1aWtyNzVWLQ?oc=5
-2. 米国債買い戻し増額、日銀政策との比較論浮上－通貨安促す「火遊び」(Bloomberg)（Yahoo!ファイナンス）
-   https://news.google.com/rss/articles/CBMihwFBVV95cUxNdm9PODBnVjFzUUE4N3A4LXRsVXphamhzdWc0VmJWaHhKbVVHTW9RWjFrRU9ESEpWUHd5THhSXzZYRG4yNGRXcVVIbmZ2QmFIaUhMbnRxQXdndWpSRW9mUl9rQkduakJ3cXZFekE2Ym4tdVVOeG9VU0VCN29OT2FzcEdCZXVuSEk?oc=5
-3. 内閣改造、来月後半有力 訪米、国会日程踏まえ判断 木原氏続投見方強まる（山陰中央新報デジタル）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUT2dTTV9SQkFqUHl0ZFJBOF9BMkhXMlBfTFlnaHBPd1FIcGtIbE85aHlDT1dKbmdLRVpETFFqM1ZFSkdlOEdQS1B3MlFXQ2NxVmRRVU1UNUVjUnc?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-22.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-22.mp3" length="1564128" type="audio/mpeg"/><pubDate>Sat, 22 Aug 2026 04:43:48 +0900</pubDate></item><item><title>8月23日のニュースブリーフィング</title><description>8月23日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 04 Sep 2026 21:37:03 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月23日のニュースブリーフィング</title><description>8月23日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 原油航路安定へ政府注力 中東外交 米イラン膠着、打つ手乏しく（山陰中央新報デジタル）
@@ -639,4 +590,45 @@
    https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vNzNST3VXazZlX2ppRTVfT3c0cDFMNGEzeWY4NXNYdjZtS0hVR3VuWW51LWotWVVyQkNnVXVtUmRZRFo3ekdqRFY4Z2JhVEF1cEI2X1A1c0QxeGNjS2xn?oc=5
 3. 高市首相、内閣改造で鈴木幹事長続投へ 木原官房長官も留任 16日にも人事（北海道新聞）（Yahoo!ニュース）
    https://news.google.com/rss/articles/CBMif0FVX3lxTE96NGlwV0h1NGFCaDFMbnNhbUpWQUIxS0QwRW4zdG1rU2JWcGdYanR4YmhHS2pRTmhlTlU5aVQ3VGl0NUl2UTZabU1NQ3VNem1IbHdQLTdYSlhBai1WTWNvN2tiSk5XMVQzS1BRckYwLTlfbFFEOWdlSDdGWGNmR1E?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-04.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-04.mp3" length="1617120" type="audio/mpeg"/><pubDate>Fri, 04 Sep 2026 06:46:06 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-04.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-04.mp3" length="1617120" type="audio/mpeg"/><pubDate>Fri, 04 Sep 2026 06:46:06 +0900</pubDate></item><item><title>9月5日のニュースブリーフィング</title><description>9月5日 ニュースブリーフィング
+
+■ 世界情勢
+1. 各国の若手外交官向けの被爆講話を務めた三瀬清一朗さん - ［長崎県］軍縮専門家育成へ平和講習 各国若手外交官、長崎市で研修 91歳三瀬さん講話「核なき世界を」（nishinippon.co.jp）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kNkVsM0hjVXJLSU5tRkQ0Z1h5ZlBJZDhNSFFUVkxjR2FoYU1tRlpLanVjYTVVNW1vc0J2UWN1cXVIbGJyU1hNYVhfcks0bTVNUXBKNGJORQ?oc=5
+2. 被爆者の講話の中で、空襲警報時に目と耳をふさいだ体験を聞いて再現する各国の若手外交官（nishinippon.co.jp）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sYXdvRXVsd0FnQXVvRWhzYzN1QkFidHVkRzlpcVFwdHhfcHk4N1ZPSWtDUFRVSU1MRTNFTG1CVmhQbGhOT3RxOUNNZzdOZ2tBUDJPZGJaQQ?oc=5
+3. ［長崎県］軍縮専門家育成へ平和講習 各国若手外交官、長崎市で研修 91歳三瀬さん講話「核なき世界を」（nishinippon.co.jp）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qUHBqWnFLa0FPSDNXTmVxRlgwdXBtSUQ0eVZhV3JWY3F4ZXpYa216Zzk5OVpOSzE3OEp5dVVwVTlQMWFSSmt2ZzZ5bUxGeUQwNWJlNGtR?oc=5
+
+■ 倉庫・工場・物流
+1. 蓄電システム、生産能力７倍…GSユアサが新工場（ニュースイッチ by 日刊工業新聞社）
+   https://news.google.com/rss/articles/CBMiQkFVX3lxTFB0eU1xTDIyVXhmN0NEcHhibWoteTJyczdFdEtuVGVNY3pmaG5FZ1hvX281N1pRZkNEOXdIVGkwUTc1UQ?oc=5
+2. 消防設備維持管理 病院や宿泊、工場など 優れた施設を表彰 葵区で県協会－静岡（静岡新聞DIGITAL）
+   https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RY0JDUnBBc1ppYktEY3JNVUVLVWlGS1lvREVoRFB1cHdOWE5GMEEwc29hTFRQTlB5YkxpUkhXb2RaYkM3eHV2VmJ3b280dw?oc=5
+3. 鉄柱の切断作業中に出火か 日本製紙八代工場の火災（スポニチ Sponichi Annex）
+   https://news.google.com/rss/articles/CBMijgFBVV95cUxOUkpRMUxFRUl4eER0bEJUbDhHWExhcW9CQ1E5amN2aF9QeWdpeHIwU2pVZkhEQk51eVEzSHZ4cldTMFhXaWFmWlpLbUpWUEZzYk95S3pMRnJ0bW5BSVduN0FEekV1cW9vUW1ORGhhZF9BVGxOaHUwRWZDY3Z6M3VCY2ktaTYyd19PNHdycVhn?oc=5
+
+■ WMS・WES・WCS・RFID
+1. 4方向シャトル「OmniXuttle」と倉庫管理WMS、HOUSEIが展示へ…国際物流総合展2026（レスポンス（Response.jp））
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1maXI5NUlkZHp2UVFpdXI3MzVfbENTVmc4WF9rWHF6S0QxVVpEUVFkWkFUUG9lM2ZYX0E1NGdsSl84ZlBmY0NGVkVoU3Q0SnktdmZya2ZHWFN1S1RHVmpn?oc=5
+2. AIが「思考する物流基盤」に進化、『EPG AURA』を日本初公開へ…国際物流総合展2026（レスポンス（Response.jp））
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UMjBiQnB3b2FMYmRiS25HYTFDRHhJbkItclJnS1RkWFVLOHRNb2lEX21Sb0pxaEVOd1ZDeVVVaGZuMFNnYW4wZjVzWmxiSHdfUG9UMFhYQmZMcDVlU1A0?oc=5
+3. TOPPAN／TDS2.0対応RFIDを開発、島津製作所のECDセル在庫管理に採用（物流ニュースのLNEWS）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LZjVmZWRHbmJRTXNRYjhhZG1taVlVOUp6enNnRHctcXBTU1d3cktzQ0V3N1ZITzhSY2hpNFRFQk5hY2E5aXc3STd6aFpIMU52TXphZA?oc=5
+
+■ 日本の社会
+1. 臓器あっせん事件、３人書類送検 医師と患者、幇助・対価供与容疑（朝日新聞）
+   https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tRWFORW40b0E3V2hfWTBHX2M1Qjg4eHJvZHNkbUpNQjZSb1pZSlptejBKWEc2NlBlNEt5Z2w3TFBHdUFHNk9PWnl4cWQtZ0ZIdFp3MmJ5RkVtRlc0?oc=5
+2. 中野2億円時計窃盗事件逃走後に「タクシーに乗った」（朝日放送）
+   https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4NHRqQ0UyQlVlX1lSbXhRTV9jdXkwWGUxQ1RxczQ5SUVmUDlWeVNuQVZPXzh0YTVwbEN6aFUwVEUwNXlydGY4dzR1QTNoeE9xWHBvUmdmMkhOVElyeWpwXzlR?oc=5
+3. クロアチア裁判所がノルドストリーム爆破事件の審理を延期、ドイツが戦争犯罪の容疑を追加（Межа. Новини України.）
+   https://news.google.com/rss/articles/CBMia0FVX3lxTFA3OUdJWVBlQ2UweFdjLXRDNko2MnhwVWV2blA4TVRRX0FnMXFLbnpyVjdtYW16TTFoV2t2Zk9qSWVUVWNFb1dOWkE2T0pDSE9EYlNKSVNnZ0hLbHhtbXdYS1NVdDh3MGZtZEU0?oc=5
+
+■ 政治
+1. 【動画】宮城・七ケ宿町長選挙の候補者が語る！ ネット討論番組「かほQライブ」8日午後6時配信（河北新報オンライン）
+   https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MYmNKakZsSkptNTFVeS04S0d2WmVGeUJNbGFEUUEtZHUtMFFwdmxHOVJUQXN3SFNPRmg4S2dmTzVqZkhadGJtNXl0VDJpZHhseXUzTkR5NnJPRGdPb0N1Mw?oc=5
+2. 【沖縄県知事選挙】事実上の一騎打ち 二人の経済政策は 知事選争点「くらしと経済」（TBS NEWS DIG）
+   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RYUhLQ1dZSUN1a0FiVmRXN19CMWlwSnRVY0g4dFZ3cl9YMUpDUzJiUk5LMXdzWnhSc3dYWTFyVTRfTW5hcnYxeVhsbDE4TF9SSE0yRzluNVp5UQ?oc=5
+3. 宮城・七ケ宿町長選挙の候補者が語る！ ネット討論番組「かほQライブ」8日午後6時配信（47news.jp）
+   https://news.google.com/rss/articles/CBMiS0FVX3lxTE4waXVHM3p6WHhLbGNEVzBrY2pzR2JjYmRhajVPSF9CdTNlYkh6emx5c24yQVVuS212MExwbGNMSW9SOTl0ZGJUSkZPTQ?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-05.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-05.mp3" length="1446480" type="audio/mpeg"/><pubDate>Sat, 05 Sep 2026 06:35:27 +0900</pubDate></item></channel></rss>
