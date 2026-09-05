@@ -1,46 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 04 Sep 2026 21:37:03 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月23日のニュースブリーフィング</title><description>8月23日 ニュースブリーフィング
-
-■ 世界情勢
-1. 原油航路安定へ政府注力 中東外交 米イラン膠着、打つ手乏しく（山陰中央新報デジタル）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xcHlZVHhMc0xZUHI1R1FyYVItMXFFWlRWOV9fUVdRM0lYTEpFTS1hMV9SN19nVzY1ZC1yUVFFUEZsWTFUMlE0QkJGUGZFODRmdHJyQUp0cHp5YzQ?oc=5
-2. 100年以上にわたるサウジアラビアとフランスの外交関係を振り返る（arabnews.jp）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE9fZ0pjdmRSdm5sTlVUZHFSWTY2R0VCVHB1cTZUd2R6UkpKOHFPcU1XaG50d3piMHZMOC1Gc1ZGWmZMSkVyQ0VXWGltYmZNakpGdVJ3T2lFSG80OEdjb25samlBZTFZSkpGRkJRVA?oc=5
-3. 中国軍が台湾東部海域でインドネシアとの演習発表 外交部が国際規範無視と非難（rti.org.tw）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhM0hVNXI5NUwyMWVUMmE1MU9wM2VSQ0VUTUdrb0hSMWhmMUtXMkVfQ2Jwbl9ETlM0SUN6dTFpS2U2ZUotdVcySzN0QTJqOGFMVWJ1UUxjUHBYNlk?oc=5
-
-■ 学校教育
-1. 「不登校」が2年連続で過去最多。悩みを抱える親に知ってほしい「最新学習歴」という考え方【菊池省三先生インタビュー】（OTONA SALONE）
-   https://news.google.com/rss/articles/CBMiRkFVX3lxTE80TkV4VEJvYmdyLVRPa0R2cTB6U3J6SVR5Y3pOSF9zUExZLVZmVUxXc1pvcW9RVkRycHhVS3lNRHdKbmNsT0E?oc=5
-2. 今や不登校児は44人に1人！原因は、先生？意欲低下？いじめ？学校と子どもの間にある認識のズレとは【菊池省三先生インタビュー】（OTONA SALONE）
-   https://news.google.com/rss/articles/CBMiRkFVX3lxTE00OXE4VVBQN3U1TVRiSGM1Z0tYSFhKTS0wX3dPbVc5UGphYWRuX3gzeFFQTUx5TDNBODliQWtyRXAweHBvaXc?oc=5
-3. 全中陸上女子走り幅跳び、間（社）が準優勝 | 学校・教育,スポーツ（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fLXRpOW52QlFUenhNN3VUMkwtS1NNRDRIVkZxa0ROdEJoXzhSZWp0UldzYUNaZF94MjE1N1llVTQ0c1BnZFQ4dm94dGRvajA5VmpUQ3BiUUVqVk0xWGc?oc=5
-
-■ 倉庫・工場・物流
-1. 物流DX「ロジポケ」「クロスワーク」国際物流総合展2026に出展（Infoseek）
-   https://news.google.com/rss/articles/CBMickFVX3lxTE5WN1lhcXhJemFJRGRPZ2F3SjE1NGJwYmNYUzlGYThNMThiTVhyTWFSelc0LU1zUVI1RldIV19kVzZhQXIyRF8tRXdCZDA5OG1RbFlSLV9UOFNqb3NCbk53djZWTmdiOHpZQUd1cWF2VkFIQQ?oc=5
-2. 化学メーカー工場 作業員2人死亡（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXcXYzODhmR1Z3dnFnQkhlcGxqbTY5S0xVNmdkYUxVVFFpSGxQd2hFMkR4RnNmSVdDS3gxRVlfQi15VFFRQnFnRUNadDBCdmIy?oc=5
-3. 化学メーカー工場で2人心肺停止（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xN0FhSDVUdXo4aXllREdmT0VjYXdjcjVBeGVPTWYwMmlzMmhpUDBkMkRHaXpndlRQUzV4ZkptWldZekx2S0dlZWVJYTlPSVdP?oc=5
-
-■ 日本の社会
-1. 強制労働を調査し50年、北海道 「民衆史掘り起こし運動」（au Webポータル）
-   https://news.google.com/rss/articles/CBMieEFVX3lxTE1NZ3ZMYUVjcUttZF9abnVaT2ZwZWoxUGFoTW1GSHhRYzhtUGo0R19fQzlNN1RGREYyQkJ3aUt0czZabGVSMWxyQzM5WVRfdTZJb1gydmVXNE9xaW5IRkxoSENOMTRQWWRnaUVjMVRZbGpDZDdZRlRTNQ?oc=5
-2. なぜ日本は｢豊かでも幸せでない｣のか…歴史に残る｢ワールドカップ頭突き事件｣に見る｢個人主義｣と｢集団主義｣の差（東洋経済オンライン）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuaGRxYUs0TEhfUFFEeDM1aVF5Tl9WdXFrd2laYWZodDJSZEZYNVRvZ29DTnExUkVCVWJHTGNXTzZwd3BBbXVGODR6aFRSMUgzSHhlMEExTWVONFk?oc=5
-3. 「ブルーカラーが稼げる」は日本経済復活の兆し 日本がもう一度考えるべき“仕事の価値”とは（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMie0FVX3lxTFB4QTNBSjc4Q2luUmFKTUpKMU9DUGJiSFhROEE4YTNOQmRwUnFxaDZTcXVqUnNQTDlsVlBaNFVyVlJoWDJMVFQzRjFpZ1RacDFGSS0zNXhWVDJOSFpOQXlHYVh4RGhsNUhDa1M0UUQ4ZkE4REd6djNJYmN5UQ?oc=5
-
-■ 政治
-1. 茨城県南部 M5-9（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tS25qdUlJQUpfZkVCdkFyQmtMSWJjeVZZRklHekxHTDNfZlZ4WTBfdVBhYzdvLWhIM1ZkQXBIODUyTjNuZEp4YjhPcVBablp3S01ZTVg4Q0k4WE9XeEE?oc=5
-2. チーム・コバタカ存在感 重要政策に貢献、処遇注目（山陰中央新報デジタル）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE85bFc3bE5zUWRIdnh5VFpldVI0dmdxTmRTOU9qRy1rMTZsWlFjUXB5SzlXdjZJaUxMZl95REg1Vm5uQlBtSkh3V1hSeWRQd1FNTzVvY0E3ckhKeHc?oc=5
-3. 大きな揺れがありました。（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ta0JLV3g1d2dqOFdHcFNSWFE2R1k3MnhIZ29TazN4M0V4Q3U3YlNDN0ZkaUpXOEk2WlpTc0NhNzhiNG55Z1lUbnNuNUtJX28wRFB3anpEOVhPWG1DN09r?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-23.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-23.mp3" length="1196640" type="audio/mpeg"/><pubDate>Sun, 23 Aug 2026 04:41:56 +0900</pubDate></item><item><title>8月24日のニュースブリーフィング</title><description>8月24日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 05 Sep 2026 21:25:32 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月24日のニュースブリーフィング</title><description>8月24日 ニュースブリーフィング
 
 ■ 世界情勢
 1. デンマーク首相が強調、欧州の安全保障にはウクライナ支援が不可欠だ（Межа. Новини України.）
@@ -631,4 +590,45 @@
    https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RYUhLQ1dZSUN1a0FiVmRXN19CMWlwSnRVY0g4dFZ3cl9YMUpDUzJiUk5LMXdzWnhSc3dYWTFyVTRfTW5hcnYxeVhsbDE4TF9SSE0yRzluNVp5UQ?oc=5
 3. 宮城・七ケ宿町長選挙の候補者が語る！ ネット討論番組「かほQライブ」8日午後6時配信（47news.jp）
    https://news.google.com/rss/articles/CBMiS0FVX3lxTE4waXVHM3p6WHhLbGNEVzBrY2pzR2JjYmRhajVPSF9CdTNlYkh6emx5c24yQVVuS212MExwbGNMSW9SOTl0ZGJUSkZPTQ?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-05.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-05.mp3" length="1446480" type="audio/mpeg"/><pubDate>Sat, 05 Sep 2026 06:35:27 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-05.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-05.mp3" length="1446480" type="audio/mpeg"/><pubDate>Sat, 05 Sep 2026 06:35:27 +0900</pubDate></item><item><title>9月6日のニュースブリーフィング</title><description>9月6日 ニュースブリーフィング
+
+■ 世界情勢
+1. 高市首相、愛知・名古屋アジア大会開会式を欠席へ 外交日程を考慮か（chunichi.co.jp）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EQjhyWnB0SUJhTlktR2hVcG41NTV3bnBqb2tyV3FKUkZNSW1tMUhPQm1QZlljQU5tNUdBRjktaFpTaG1lSlhVQktNdXQ2M0V0N1pSbQ?oc=5
+2. ゼレンスキー大統領が外交人事を刷新し武器供給協力の迅速化を指示（Межа. Новини України.）
+   https://news.google.com/rss/articles/CBMib0FVX3lxTE5QSmxFOENuNUpzUi1Walh3UFB3eE54UWZnTDBHS3BUVVRMcGlOdWwzS0V4QUdQNXlSQ0dLQ0dwd0JNZjRfRFNRX2RZU3E1QW82RlN4TTFQS1JTa3o3bWlQZHNYUlV2Y1VyVXJWUE9Rdw?oc=5
+3. ［社説］高市外交 手詰まり 日中の関係改善を急げ（okinawatimes.co.jp）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZExZZUJfdXhrc3NvbERVWklFUmxlRzdYTU51QUh4TzNDWWVWaUxPdmxfX1hzSkxGaHlyei0yaE5maWtDeTY4b1VqTVVMZ0I4UEozWklJYkJnSHJSaVE?oc=5
+
+■ 学校教育
+1. 林尚弘氏がwakatte.TV問題でヒートアップ 松本文科相にも反発「なぜ東大ばかり採るのか」（au Webポータル）
+   https://news.google.com/rss/articles/CBMibkFVX3lxTE5UVnFOenlTTTY5YkdFVWpoWThnQzg5dnRuSmRVd3BHRlRzbElNenM0emRQd1NiT0kxX0hpZzJIUGpib0pvYWF6REdDZHdPOFBNd1ItenZrU2R4a0JJSFNoQ3dIMWlmdHcwT3BFTjRR?oc=5
+2. 高大連携深まる探究 １２高校３６人、県立大で報告会 地域活性化、商品開発、防災… 教授ら助言新たな気付き（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HZHVjSnl2aEN6UWhMalR6WWtXTWNnTGwtOWNqR1FaLUVEbVVERDRxVVBRWS02MW9YRzNFWl9UaGN1YzJFbWNIT0JoS0ZzbXZhOGdoMHFtUjdRMUtHeUE?oc=5
+3. 教育の「政治的中立」 政府の認定、一線越えた 名大・中嶋哲彦名誉教授 時代の正体 高市政権考（カナロコ）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YYWRBSm1ueUQzcnNFSXhmR2U3dnNlYXhTOGllVWw2cTNyQzlQTk9BNnJnQXh1NjY0TVl1OHNod3dBNnFsWjhvOEkxZjlRU0N6RlNNM3A2LVlrWDhfUm9DcncxZG1CeEU?oc=5
+
+■ 倉庫・工場・物流
+1. 風景が特異すぎる!? 「造船所銀座」をゆくフェリー生活航路に乗った 多島美と「工場萌え」同時に堪能！（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMijgFBVV95cUxPOXJYbkxWV2kwOU9FSmptQ3BqdWhyb0pCaWhvaXJyTU1QMExudWlYSzZraTI2Z0VsNmJKSFdxUF9BeXFoSktkbVFnay0wVWtkd0ZXcmduWHhiX2tLUmxCVDZPMnZJVXdQOHhQQmxKSjJwT2NscHlKcUdVZ3VHM2RzaExiRnpiTC1Yb25qWFdn?oc=5
+2. 【倒産】鉄骨工事業者が破産手続き開始決定…工場や法人事務所などの新築・増改築に伴う鉄骨工事を手がけるも年売上高1.47億円も…代表の高齢化もあり休眠業態【帝国データバンク】（RSK山陽放送）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE5uY1RKR09MRV9odEJvelNMd2lvU2dhbTJJSm9yTGpPYy02N2tsU1Y3UmRleGJQRzVKTXg3U21sUVpscnFrTVpSWEF1eDZ3OWp3RmJReFIxMUM2cnVYajdIMUFjWldGME9wclFTXzFZeENTWFZ2S3ZkcFVweS1Qemc?oc=5
+3. 【倒産】鉄骨工事業者が破産手続き開始決定…工場や法人事務所などの新築・増改築に伴う鉄骨工事を手がけるも年売上高1.47億円も…代表の高齢化もあり休眠業態【帝国データバンク】 | 岡山・香川のニュース | 天気（newsdig.tbs.co.jp）
+   https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6cTlPR0tuZEpBSWE3OHZjOEtNdTVxemlFeVlIX2pRU3JENFNkWWx6RVpiVUltRjBYRjJhOTJ0aUJiaVNKUk5LNEt4Vi1xMDhkZl9rMHZoTXJ3dw?oc=5
+
+■ 日本の社会
+1. 日本人がカンボジアで腎臓移植、違法仲介事件に発展。詐欺拠点からの臓器売買の噂は本当だった？（タイニュース・クロスボンバー）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE94TjhFZ3pZTkRtbWNkVXlzNEx6Ukk2TzdVb2dTcWo0cGtJck5xOW5GU2VsT0l0MmR1dnFXbGtvdzRucEgwdHl6cFBxZmpieUktQzVpei1qOUJpZEk?oc=5
+2. 「二度と繰り返さない」 関東大震災時に虐殺された朝鮮人を追悼（Infoseek）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE9rVFBTaDNXejNqQ3ZYWGR2cW80bGp3VXA0NmtSY0tOQlZ3alpORDZDb1JjSmNNQWxlWGtsckZuY2ZqcHJaUXpIS0E4UVFQQmpWT1h0VGlKY3pVTzRjaU1IM0g1NVZ0MG9saS05NWZ1MTRIUzUwaVNXSjJ3aHVBZ3PSAX9BVV95cUxPa1RQU2gzV3ozakN2WFhkdnFvNGxqd1VwNDZrUmNLTkJWd2paTkQ2Q29SY0pjTUFsZVhrbHJGbmNmanByWlF6SEtBOFFRUEJqVk9YdFRpSmN6VU80Y2lNSDNINTVWdDBvbGktOTVmdTE0SFM1MGlTV0oyd2h1QWdz?oc=5
+3. 金曜ロードシネマクラブ（kinro.ntv.co.jp）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fT2tlTWRKYU5jRFdsOW1zb1pENHloTjlFRExRSmFwWi1jQU8xREdIQ21QalVqWGNKVHRqbzl0bVprelBhVEtFdE5TVEdUbkVZ?oc=5
+
+■ 政治
+1. トルコリラ/円 見通し「円高進行でリラ最安値更新...10日政策金利は据え置きの公算」注目の高金利通貨 9月6日号（外為どっとコム）
+   https://news.google.com/rss/articles/CBMiZkFVX3lxTE16TjJYRTdSWVprT2NjU2FhTERmdW5DTGhZZGticDdvRmlWWERkdThJUGFWa1VjMjB6TnRQZHZqbXN1RlFXYjZKMmtpb0RwX1YwcTE0eUk1VEo4UTgtNVVVMlVYZktVUQ?oc=5
+2. 【独自】自民党が仕掛けるヤバすぎる「二馬力選挙」で玉城デニー氏が陥落か？《兵庫県・斎藤知事の再来》（gendai.media）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPYjRzV2FUY3Zrb2daZ2NsTXdDWmRSeVZEOEtFUGFOUTdMR2dKWlByUDRET0lveVZmdTZaZHpvWGdWNnBqS3ZiTW1lc1U2Wnc?oc=5
+3. 維新の党勢占う大阪府交野市長選挙、きょう投票 開票状況ライブ配信（朝日新聞）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xYm5BNlJNbkdjSHk4aWY2Wm4zYnlpZ3hTQ0p5U05LNUVrOHRvUnRmOGt0MGNIeG5UOWMxQUowLU1hYmo3b1JobWo1SzV6VmluTnpOMm9IdDhRWFpLck41aUIzRmhjZlU?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-06.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-06.mp3" length="1500480" type="audio/mpeg"/><pubDate>Sun, 06 Sep 2026 06:23:47 +0900</pubDate></item></channel></rss>
