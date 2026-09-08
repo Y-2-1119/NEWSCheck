@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 07 Sep 2026 22:09:21 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月26日のニュースブリーフィング</title><description>8月26日 ニュースブリーフィング
-
-■ 世界情勢
-1. ニュース・ナビゲート：ICC所長制裁と日本外交 「法の支配」揺るがす 政治部外務省キャップ 田所柳子（毎日新聞）
-   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iWlM2RFcwOHYyaHNQTmJTYno4NUE0SDY2cWpQZ21ZQ3VTTmhyUFRicW1yYnFCeVJCVnhneWl2OTZaQmtfMC1WdzNfYW9BbjhsWHRDbXZWV293Q25KTjlCOTdxUTUwRDht?oc=5
-2. ブレント原油が3%超急落し90ドル割れ パキスタン仲介で米が制裁解除とホルムズ海峡再開を提案か（BigGo ファイナンス）
-   https://news.google.com/rss/articles/CBMidEFVX3lxTE1HcHlrMW1sX1RveEJDZEpZaFpRY3l2OEZ4RjQ5aGRIWmc0OXdhajR6ZlNLV2VXTzZ3NEk3a19YVXBHNGxrTThkTFlCRzUxUXFjaWVNSEt4RzlNNkpaOWd1R2I1bU1OS29SUHJlVmhiRU9YMEZt?oc=5
-3. タイ社会開発人間安全保障省とJICAが「国際社会福祉・社会保障研修」、アセアン11カ国担当者に（newsclip.be）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUMVlmaTNIeHNhWE5RUFhjbG9hN3lEQmhZc0NuM21Eb1JUSy1jZ1dDNkRHcDU3c045QlM2UWNIT1ZqZnljSWRwZk1lRTFqdHV0aVFKal93MzgwLUpmdHc?oc=5
-
-■ 学校教育
-1. 教員働き方改革進める自治体を財政支援へ 文科省、教委に計30億円（朝日新聞）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52OU5pQ3hsSG5aV3lyTThSUklTczVrZGVER0xQR3hYaDZlVXhibjRaWEIxVFY1b1A3MHUya2hvbWhMV0Fra2Y0bVA5S1RsaE9JalgyMmNYYmEyZGxVWEkza2w2bTUzVVU?oc=5
-2. 朝鮮学校の「幼稚園」詐称問題巡り文科省から聴取 自民拉致問題対策本部（産経新聞）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE9JNXdSaTBoN1Bmc3FhTDRJcjliakJ6MERNQzJGLW92anRYQXh1NWN4d0VEbGVZdUptRi1iUnFYWW9KZG1IRnA3SkJzSFpzUDZjajlmcFpmUUlwQ0lkcFpLUnhtZjc5UFdjRm5IVWxVWm4xYWRXSjkteGVfOXhiOXM?oc=5
-3. 朝鮮学校の「幼稚園」詐称問題巡り文科省から聴取 自民拉致問題対策本部（ｄメニューニュース）
-   https://news.google.com/rss/articles/CBMiswFBVV95cUxQSnVRZTA3WGFYeHRMOWVwc2xodEhQN1pmZ2VSRWhIV2p5YmpRVy1xWXBrS2I2T29EV2ZIZjBheXVDdlNhM196VGZ3WnFHaUR2bko2dUZkcTNZUkZoaVpQMDBzaE1uNS1Sazk0U1NtTm9KWDUyNGM0S2NqdmpoZmQ5S0t0NS15cWdnREtyOUFIcDM1SmdIUUQwelRwMnZIVmNzXy04czJfSVhvc1Z2UkJ1MnJCTdIBswFBVV95cUxQSnVRZTA3WGFYeHRMOWVwc2xodEhQN1pmZ2VSRWhIV2p5YmpRVy1xWXBrS2I2T29EV2ZIZjBheXVDdlNhM196VGZ3WnFHaUR2bko2dUZkcTNZUkZoaVpQMDBzaE1uNS1Sazk0U1NtTm9KWDUyNGM0S2NqdmpoZmQ5S0t0NS15cWdnREtyOUFIcDM1SmdIUUQwelRwMnZIVmNzXy04czJfSVhvc1Z2UkJ1MnJCTQ?oc=5
-
-■ 倉庫・工場・物流
-1. ロ軍、ウクライナ黒海港で船舶5隻攻撃 極東では工場火災で約150人負傷（ロイター）
-   https://news.google.com/rss/articles/CBMigAFBVV95cUxNemdZSlpna0NkOTVzU0hYX19RdDBxdGE0UFNMc0RBLWdaR2RmNWV6N25nXzN5NFJ3MVpvTWlGN1JfN2hWU004czk2aElpZTRVVmx1ZTdHdFlHSnVpb01qM3RHTjA5VllBMWhoaWs2ZWxMSzNPbGZENWZLX1pQQmtkVw?oc=5
-2. ホンダ、米国での新工場建設検討 ＥＶ推進を転換し手頃な価格のＨＶ強化へ（株探）
-   https://news.google.com/rss/articles/CBMiUkFVX3lxTE50b2paYzh4X1lDX0hEN2VZb2NhVVpuUlQwVC1EcGtsVkEzSS1CYjMtcVlOM21IXzF2LXJpQTBqWFBMQ2E2dktUQnhIb0ZqUHNTc1E?oc=5
-3. 菅公学生服、米子に新工場完成 ブレザー制服を増産（山陰中央新報デジタル）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZWEhncHNXUnpxTWpXS1llUkdDZWJTQXdhN1N3a1VNOVhkWGw1bC1BR1BKN0kwVkNubW0xcDA1OG9xRThsSUZJNVdPUVJuWC1JZkF0Q25HRnVrQ0E?oc=5
-
-■ WMS・WES・WCS・RFID
-1. 両備システムズ、物流SI領域を拡張（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJbWMzZ2JCZ2tpemMxcHYyWXJfNlJoNG16bmNGek1RVEcyWGxjWlctaVc3ZDlYRlM4VS1SdUZqcUhWanBTdTlDUw?oc=5
-2. インフォセンス、WMSとWES連携で物流自動化支援（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NYnM0NUNtUDM5X0hKSXczRmg1SXBzVmxEV0xYMDFQMGRIclQyeXpyMnpZaWJGLWhPVHcwWGZpSDhTZEluMUtJOQ?oc=5
-3. ロジザード、WMS「ロジザードZERO」に「AI在庫分析」オプションを追加 可視化とAI提案で物流改善を支援 (クラウド Watch)（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMijgFBVV95cUxPalVnTzFaT3hXWHNTRlNVblowV2xrZXhTaDg0LXlkdG5NZ1BTejlua0N0Z0Mzdmphb3FyWVV1NTV6WmhlaE5sZ1NPRFdDc3RpRU05bkJ1SnR3c3JrWEdSR1hwX1I4S2FDZFZseHNDOE5JYlRuN19JV2pZTXRmZGM5REdTdzdlOXlDN0JjdFRR?oc=5
-
-■ 日本の社会
-1. 成長戦略会議分科会、裁量労働の対象見直し検討 濫用防止前提に（日刊工業新聞）
-   https://news.google.com/rss/articles/CBMib0FVX3lxTE9Mb3lGVUFUT0hhUkN5c3BsR3JaYWVILVpKY0k1UVdFeEs2WE51ZWJiR3NYQlk0UHNSMTlSYVpqWmlBdUlPYVQwbGJoTW9MNm9ndkNPWUtWeElXTUlNUFVEQ1E1VzRmbUx2bmVTd2JJcw?oc=5
-2. 「現金500万円盗まれた」3年前に被害届…飲食店経営女性殺人事件 県警はトラブル相談と事件との関連など捜査 鹿児島・鹿屋市（MBC南日本放送）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE9KNEhxeUlFUnZtV0MyMjBQRW5lT3VjVWg2TTlqTGlMczdPdXBzUzVodjFRWmRqU1F2SllkZWZVQU05SklaMkZZYTVlZWIwb2RVX0t2aU1raE82LUVQZ19CSlFRQzlyLTNoUUtUNno4MHcxYU1uMm10X0FiUVJ2SWs?oc=5
-3. 「現金500万円盗まれた」3年前に被害届 飲食店経営女性殺人事件 県警はトラブル相談と事件との関連など捜査（ｄメニューニュース）
-   https://news.google.com/rss/articles/CBMidEFVX3lxTE14Y0JGTWxLU0QxUUN2STdRLXZ6ams3OHRvUnVHdmZYZWtNVkVnbzBrZDVaVUFnaGRwUUpZTkFFVEpjMHRFSmp6WURRLUtBNFhCNUZoaG13alRwODVEV0pGSUlBRjRTQjhMQU11UjJyWVpLb2p20gF0QVVfeXFMTXhjQkZNbEtTRDFRQ3ZJN1Etdnpqazc4dG9SdUd2Zlhla01WRWdvMGtkNVpVQWdoZHBRSllOQUVUSmMwdEVKanpZRFEtS0E0WEI1RmhobXdqVHA4NURXSkZJSUFGNFNCOExBTXVSMnJZWktvanY?oc=5
-
-■ 政治
-1. 日銀「9月利上げ」占う氷見野副総裁講演、金利正常化の最終ゴールは「1.5～2.0％」か（ダイヤモンド・オンライン）
-   https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4NHhZN1FRRUlnT0NXeUdiUDY4UHpUZFJWY3Bkc3p3aHlKYWhoelZwQXBDSmFLa0pBaHN0N1hfejYxczZvWFRKVnhmVkrSAU9BVV95cUxNUFB6OXB6UnlDRDZ0X3Utb2YwMWZkMklLR0VkSlVBdkktZjJ0SmI3ZmpiMGZxWThmUy1ialBNOFU2NHNDM3NlVzcxTC1PLXJR?oc=5
-2. ［知事選 9．13］下地氏、立候補取りやめ 自民と4項目政策協定 玉城・古謝氏 一騎打ちへ（沖縄タイムス社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xOTZZNjVKZWxXeTZtb3g1Z3lMVkNYcktJdTJtaW1sc1Y2UmktVDFQU3lZRTZiQXd1Q003NmJFRk9tcjZjeHNKY3VHdFF0MkEyZ3RtWVFkWVlLR0pJUUE?oc=5
-3. 豊見城市長選挙 大田氏立候補へ 「持続可能な行政を」（沖縄タイムス社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE51N19kdU1uZm9iQ3V3Z0RtWWZRTlJQRVNURV9Gd2N4Qnh1ZWY5bF9OUlAwOENXNE9pTGJxOGpsd2RGeDZhQUxqcVdLOXNJR2psUjJvZWE5TmgyQ1djMEE?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-26.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-26.mp3" length="1638288" type="audio/mpeg"/><pubDate>Wed, 26 Aug 2026 04:50:39 +0900</pubDate></item><item><title>8月27日のニュースブリーフィング</title><description>8月27日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 08 Sep 2026 21:58:32 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月27日のニュースブリーフィング</title><description>8月27日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 高橋洋一・政治経済ホントのところ【米韓軍事演習の縮小】首脳外交再開に北朝鮮慎重（北國新聞社）（Yahoo!ニュース）
@@ -633,4 +584,53 @@
    https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tU19xMHNwQk40NmpvYmtDcm1vTXZoYTlhVWJ5R0d5UVFOZDk1dmN0OUxxT2FkSkIxcjhtOXdOZWVmVlMyeVU3QU1Ici1yOUdvbzk0bjd6a2tMTDJtMTVv?oc=5
 3. 米財務省が買い戻し増額 米国債市場の政策トリレンマ（毎日新聞）
    https://news.google.com/rss/articles/CBMif0FVX3lxTE5qV1lCam9rLUZCOHNlbHdQX0tGV2pVRTFKeTVacmJVVGpEWFBLN1FndEFnZHVjai01TmczUER4eERucFdiSU9GM2ZkR2pBZ21HSHN5WmFvT2pFNXR0RzJVb3Y5WDdnMG8wenVuSkRWR0ZfeFRuck9FWVNMYzljX1k?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-08.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-08.mp3" length="1543104" type="audio/mpeg"/><pubDate>Tue, 08 Sep 2026 07:07:17 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-08.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-08.mp3" length="1543104" type="audio/mpeg"/><pubDate>Tue, 08 Sep 2026 07:07:17 +0900</pubDate></item><item><title>9月9日のニュースブリーフィング</title><description>9月9日 ニュースブリーフィング
+
+■ 世界情勢
+1. 【連載】沖縄県知事選 公約比較（下）安全保障・基地問題、辺野古移設手続きは決着（世界日報DIGITAL）
+   https://news.google.com/rss/articles/CBMia0FVX3lxTE16MFZxS2EzVkxyWWp4WE01ZkxsTFQ3eW50UUdyUU5YZEFVWUExN2RjMGN1WlJxS05FQWlpX2pET3hWeGpkYVZYd0JzY2VLUHRaUjZ2ZnhnTDlLeHNVQjVsNEdQZ0hldGJTRy04?oc=5
+2. 【新着】自治体「経営」と対ロシア外交の共通点とは？ 3選を果たした余市町長が語る戦略づくり・外交・資金調達（新潮QUE）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZVkpsVWI2SEZ1Z1V4aUk0Q05tRHR5cHR5NDdPbXRSYzlBN3VHWFhGWGg1SkxaVkFEbnFZVHBwWGxlX3ZFQ1MzMGxPcnlTMWxW?oc=5
+3. 【社説】東海の安全保障上の脅威高める 北朝鮮の新型駆逐艦「姜健」の就役 : 社説・コラム（ハンギョレ新聞）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sU0RnRWdWbjV4S05XdXB3UmdtQV9WbUNvRURrWGdERVlUSGtVaUlDTVAwVXhqdVVoT0JhNXpxNWpGTHZOd1lJZ0h6S3dnMUdwVnA1S2tuc2tNYU0?oc=5
+
+■ 学校教育
+1. 釧短大公立化 文科省が認可（北海道新聞デジタル）
+   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aSmsyRmVEelo1ODBZYkFFanlKOUxXQV9QNmM0aDBhaG5tejFTMVBxamhoUm93blItM3JMVWQ1aV9FRlFubjdDQzlYejRWdnhsNVlYNjl1THY4dw?oc=5
+2. 市特産「菜花米」稲刈り 鯖江・片上小５、６年が挑戦 | 学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEUG9Rc2xTTGpfcElsTFhtcnIxWi1LckRRTFBlRWotenc0QVZodWpRenFWd3JEUjh6Q3N3c3NKWmFFWml6WjhlS3VYM1hYZUZBb3hyZk9nbTlaSTByX1E?oc=5
+3. 岡山県教委、高校教育改革の実行計画策定へ 官民会議体で協議（山陽新聞）
+   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Rdl9zUk5jcjhELU1uSFFndWFoQzFQZ19qYndmcGVqZHV5cTliQ3RiTFVOejlWaU93UWtmWk1kX3FZRTVpbmNtbmtmdVNrYkFKX2c?oc=5
+
+■ 倉庫・工場・物流
+1. タイがラオス国内の橋建設を支援 物流・観光でタイからの移動時間短縮（newsclip.be）
+   https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RQnJ4aUtndjk4NDRZYm56a0FoM0JxdUo4RGRYUEwyLTM5MlJHUENxck5rSWNzaGwtN3lidnZfT2pnbjE4RXF6cDFQSjdCeVh4SjhRLTFMVU1hQ2FM?oc=5
+2. ダイフクが描く半導体工場と物流の未来、フィジカルAIやヒューマノイドロボットを活用（マイナビニュース）
+   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OTDdhMlFESldhdGJkWU5PTkEtRlVjOHRCcnBSOXdKS0cybFIzMEJTZF81UXE4ckMzUnpQTmZWMnJmWEw4Uk40ZnlEbnE1QUY4SklPUWlGVk1PNzVETi1tS09xRWJRS0JD?oc=5
+3. 愛知製鋼、知多工場敷地内に新技術棟建設。総投資100億円で研究開発プロセス改革加速（鉄鋼新聞）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE9jLVFXZXN5MlMyRk1JU21wbkxoek9uY1Ewc0s5S21lT2E5QXZEYk02d0RaMW5idkU4QUh2cXkyYW83NF80UFdwUUU2WnFnVzVlQTlURXI3OUtPUTA1aHdXWFM0NTU2Sy1lVm5BNHpyV3lfSFVZYkN6bVIybFF0aVU?oc=5
+
+■ WMS・WES・WCS・RFID
+1. ブライセンは、9月8日～11日に開催される「第17回国際物流総合展 2026」に出展いたします！（朝日新聞）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QOGN1czlLeXVmOFdFV0hJQmxrZDk4YURaQVlnVWNLbGp4YzRCcW1JaDZZeXBxWGtGTTJXQmhuZF9RVTdYNEZJbmExdDMzMkVjaU5QQ3N2N0VIYU0?oc=5
+2. 『ロジザードEXPO 2026＠大阪』セミナー情報を公開【第2弾】（news.nicovideo.jp）
+   https://news.google.com/rss/articles/CBMidkFVX3lxTE5WN2U3enQ3eWRrc2gtM2JkeUR1dC03WU9BS3FpU0xrN0lFZHdtR3pxT0Jab2lPeE5MSW5JTWF2ZUllNFBtS3ZORXQ1T01tdW1xVTNtS093aXFrREVja0RCM19xRUdGS2t3V2lsbE1BZE1oMGJjZVE?oc=5
+3. YEデジタル／工場・物流現場をデジタル空間に再現、27年1月からサービス開始（物流ニュースのLNEWS）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CX1c4aWVfVDIzbnFiY0lRLXFwYk1rSXAzdmZmM0lCT1luZEJpbzRuRGhQWXZLUkpxTkVlTlJiRl95UmVfS3F6VFJMX3A5U2w1aGhaZQ?oc=5
+
+■ 日本の社会
+1. イーグルS事件再開：控訴裁判所が管轄権判断を覆す（IndexBox）
+   https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWwxek8zdDNnUWFlbGN0dzdBTDZ1VDFjejM3aVNWUjV6RWhhUlh2Y2NSanlGbnVyeXU1MmdkSDdrOG5MUy0tUzlpVHY1bzRMQUZyRVNLTjNJckRvZ3BSbUs0ck5GcXd3RUF2TGxseHo0TGhGQmZnbm5IOTR1dDBhR3dpdlZHNXdlVThnTlNIVGhGMDZmYVE?oc=5
+2. 生後2カ月男児殺害事件、事件前に福山市職員が自宅を訪問していた (2026年9月8日掲載)（ライブドアニュース）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hdWNuUGk5bUt6aFpTTmVDamstcm9ZVzZDZU1tSjdHaVNtSnZjN2xWaDgzUUZXYkVvbnY4TDZESDRlNFZ4YUpCaUUwMVN6NnlwMmJiQmNhdk5RM2c4YUE?oc=5
+3. 【論点整理】社会課題としての肥満症対策～肥満・肥満症政策の推進に向けた自治体・被用者保険者の視点～を公表（news.nicovideo.jp）
+   https://news.google.com/rss/articles/CBMie0FVX3lxTE43eThIS2UtMjMtSEZlamN1TmtIQnBvcENaZnhvNDM2NXljZmd2bkZ2V0w0cWkyckFRRWJBSk1yN1VrM0JWOVpuWUdQd1RpUlNaLVhUYmhYSzFyaUFEc0JtT0ltMDJwSVk0MGtZTVJrRGc1UlJPeVNoS2JlRQ?oc=5
+
+■ 政治
+1. にとう泰明【新宿区・マンション政策】10月1日から新条例｜大規模開発に「地域共生」と防災の視点（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pNF9yaThoS2FYajRVb01uOFdlYUtDdk9FQVdSeFpNMXplaENyMmNvOXVhbHZ5WmEzR25TWXNqR1ppNW1hYTg0eGExZUEtd1E4d3FPYklDaFVjUEliM0t3?oc=5
+2. 新しいリベラル05（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FSzlWT3QzQmNoQmd3VE5sckZkMWZvNkJESlh1NlpjSVlBS3c4YVdBZFpmM1dreU5SWG5OSi1MTlQ0TWxiYjJ6WHl3akx0QW53SC1tZDR0bjBySlUzZXJz?oc=5
+3. 円乱高下への警戒度、介入時上回る 金融政策読めず154円前後で推移（日本経済新聞）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTE5QS0VTbXFoYS0yX3E2a0c3ZFVyNmNzcjluVDhGMWVSM0t5amsySmRpcmVFbXNFbl91WjRhYUJjbnFiUEVCTTNSN1A2YXJUNnJYbzZQX19mcnlCQ05iQ21FSzU3WjlmSWpmN1diTA?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-09.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-09.mp3" length="1620000" type="audio/mpeg"/><pubDate>Wed, 09 Sep 2026 06:55:55 +0900</pubDate></item></channel></rss>
