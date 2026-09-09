@@ -1,52 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 08 Sep 2026 21:58:32 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月27日のニュースブリーフィング</title><description>8月27日 ニュースブリーフィング
-
-■ 世界情勢
-1. 高橋洋一・政治経済ホントのところ【米韓軍事演習の縮小】首脳外交再開に北朝鮮慎重（北國新聞社）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE9uUDVBV2NWdDh2SE5xdVZUYi1rMkppT1gzMnVFUS05VmswUmI2Q2E5VGplZ1ZLMDlJUmpNQ0pqWkttYlZOSzFvOUxJRjF0Q1M4ajdpcWJZYmx3NEktRGlGdDc5TTEwa3BoNHZjV2dvVlF5bHBYbDNFVkgxUS1NUFU?oc=5
-2. プーチン氏は外交行き詰まりと判断、ウクライナ攻撃を激化へ－関係者（Bloomberg）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTmliNHY3Yy04U1RrWFdZcVlTRzRHNE96UHdqZ1VDazV6cWZZSjg2Y2cxZExJaERiYWxmUHVVOEJzUWlmRm5idGQ4WVhIWEJhM1FvVF95NnJmeDcyaVYxUVpxLXBLNGxNa3lEb2djaU9yWjlIMUZqOVAwRXVZZV9QWGFYUUNkeXFz?oc=5
-3. ネパール洪水でウクライナ人53人が行方不明、外交官が捜索を開始（Межа. Новини України.）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTFB1d0ZIbEw2UTBuN1lJQmxxd21VQ2ZQZHUzRzNWekh6WFl2dkhLRWtBb2UtYzdCUUxzOGI0MF9MVnQxTkM5TkZKNGZRTThXb09KeHkyQzljbkFReWx4VFpQeDAtWlAtNDZLaF9zcw?oc=5
-
-■ 学校教育
-1. 概算要求2027／文科省、深海探査母船新造を加速（日刊工業新聞）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pMUJYREJQRzQ5RFBoVVdNWVJVc0FPMDBqaXFKbHl3dHN5aHdNMEJiV2d1RC0zcjdXY1FWZGhtbXpkWjNXeXRUREdUSFBYeW5RdzYyMEZ3Wlc0ZkU?oc=5
-2. 概算要求2027／文科省、地域高等教育再構築に161億円 産学官金で人材育成（日刊工業新聞）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pVFVvUWotOVB5Z2pNbmoybUtkVUlScVdQTHl4LXNHc2xnSmxfWUY0cjlHZ3ZQN2p4d1RGOUhTN0tndGhmLUltRURzdC1kOGEtdkFDQVpmelFFN2s?oc=5
-3. 「ご飯の日にも牛乳？」なぜ学校給食では牛乳がよく出る？文科省資料で分かった子どもの栄養との関係は（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWczSmtqcGVhMHhmbERBNVdMU0lkZlBFZHF5VmhsRnVVbG5lbHJpdDlXZFFtd2hUUDF1eV9rQjgxWGt6SDZzbHBMZVViY2s0UWhLLUpIblVMa1JTM3BxQ0NETjZHdjdNbnBmWHJCUWx6Ym5xbnNDVTlYeVgwOFZ4YnlGZERzZkFh?oc=5
-
-■ 倉庫・工場・物流
-1. キッチンカーも手掛ける鈑金塗装工場 「有限会社バラーズファクトリー」（things-niigata.jp）
-   https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RQUlnQW5EcnBtQ2FjYWZWX2JWeGhvdF8wTjBILTNQTDlXeGxtZ01OV0tXMmNXLWJYRkRBbXJXVnV4a1dxREdNR1Q5c1ZGUjEwT0VSd2JobnJmYnB3?oc=5
-2. 物流の新たな選択肢に（滋賀報知新聞）
-   https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4YlBzS1otUlBITWQ2OE4tU3ZUVkw3RC11NlNSSG5aM05uTEFQWFVqeXg5UGc3VllXUGRDcDFaaFRNcnVRenl0WU1yazVJbVREMTFZNDFaUDI?oc=5
-3. 広島・岡山で過去最多48社が工場を公開！「瀬戸内ファクトリービュー2026」11月4日～22日開催。瀬戸内に根付く技術と産業の現場を訪ねる（MICE TIMES ONLINE）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BRFI3cTE2bjZlRFVzX3haS1lrZ0lzeTRqSXZJVEtMYlJiUjR6cVFlRnIyMXF6X0xZWHFEM1VGbHVxMkhWRS0yaQ?oc=5
-
-■ WMS・WES・WCS・RFID
-1. 伯東、国際物流総合展2026 出展のお知らせ（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMie0FVX3lxTE84T1lWZ1RjS2t0VGFDN2E1Q2pVRVYzSVdOZlgxdkZaM25PQm1MLWh6SUp1eU1xakwyWXpMdWNaSzZsOTBzQldMUmZKMXBvRFY1RHVqeWVFN2pvcGl1akxqRXVPSXdnR25xUGdEb1JBNWlkV3hfTjRYbmp3SQ?oc=5
-2. ロジザード、『国際物流総合展 2026』出展のお知らせ（PR TIMES）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTFBZZVo5R2p6QXJvTWRUUlVzNEJVVjQ2cUN2ZEZkNGo3NkNIb2FaTkNHSTlkTnlSNTdQMG9HY1cxd29VXzhMVUJoajlYWmowaHRpN2Z5blNzRnlza2FFNzUzQlE0anZDdWZyY2c?oc=5
-
-■ 日本の社会
-1. 台湾、AIサーバー不正輸出事件でNVIDIA・Supermicroの関係者含む9人起訴|セキュリティニュースのセキュリティ対策Lab（合同会社ロケットボーイズ）
-   https://news.google.com/rss/articles/CBMinwFBVV95cUxNeDdkRmVFZTI4Z1FYX0RxTy1lY3ZPeHdady12NUVYMnhNT1BNN0JTWXBobWlyRjF5NG5WT2QzYWJ6U2pSX2Y5MFFjUjlKSGt3aFFtMEdMaGsxY0IzTkV4SGJaZkswakdVM0Iyb1h1R29kVmN4NF8xUlVFaGZjQW1aSVlIX2JjMy1pQk1CTlFMZDVkTVUxZzBsM0hOTTVlNGM?oc=5
-2. 「労働時間に対して給料が高い」職業ランキング…1位は「時給8717円」年収だけでは見えない“稼ぐ効率”(東洋経済オンライン)（Yahoo!ファイナンス）
-   https://news.google.com/rss/articles/CBMimwFBVV95cUxNMEcwNlRCWHpxcjh0NXdXeFdLUHNFU2RPdVhJSTBZSVRYd0Ftd240QVVkLWtNU0x0d1hWdDVMV09tSXFiM196OEZNSy02ME1iYTQ4RkFMMmUxdG9hOGlpeTZBaEEyWk4xdC15d1Jjd3dTMFRIblZ4d3l0UkIzX0VzOGVORXVjTFdvY0F2X0kzSG5YdWtSOV9lTThPOA?oc=5
-3. 永住の厳格化 外国人労働者の減少招かぬか（ｄメニューニュース）
-   https://news.google.com/rss/articles/CBMilwFBVV95cUxQQk1FYTRRYkRIYUxtblExM3gyTXA1OVZVdmEyUzdnSUVuM2tOVWRnc0p3T1lXeUU2cEdPSHVsajhNOGJScXQtTHEtUUE1dEgxSVlKVXlBemJNd1BsYVlFQXdybzN6dnhTZGVVT2dXRF9FNVVoX0F6NDg0WWtrckN3R1h1QlY4YTNIYnlmQ21ZWU0tUTBYQlAw0gGKAUFVX3lxTE02WDBpN2tJeHRPdGJYMFVEaFRqR0hHdGJDNEpSU2p2SUVpaThiUjA2Zm95ZTVvZzdsNEE0LWJsZ2thNVBZQmZZV3paSkt6WDJ3c21aZTBqT0djWnJyaHczbDZCTXM0ZVBJWG5UTVBTNG9rbndMdndxLWxzRE81YW1WX2pGMDVaOHFrUQ?oc=5
-
-■ 政治
-1. 【世論調査／8月第3週】高市内閣支持率45.6%に反落、3週続いた回復が一服―逆転は解消されず（大濱崎卓真）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMEZFV1hGQkw3OThwcU12NmE4SGtMcWVuZk15cGhmUFg0ajFDVnFlU25aa3psNlF5Y2d4SGdlWDZNaGpmYmxmS0JQRVJBMVFfQzQ2RFY1N3cyLXJ1ZGhDMVZ5emhLZThtbFV1aTVTSDJNanpqdEN1cTZXVTdWVG1wMU1ySkVfRC05?oc=5
-2. 80年間変わらなかった日本国憲法 「自衛隊明記」「緊急事態条項」を沖縄の国会議員はどう考える？（ｄメニューニュース）
-   https://news.google.com/rss/articles/CBMieEFVX3lxTE0yUGptcmV2Ty1ic1A3YXJTUVBOSzk5Q19Fa002VzBDMFhxZy1ocHZ0azZrM1VKMXctVlVZNVB0a1NiTE1HY2ZJNWd6TnpFM2dyS3NqMU1DY3JGQkNPRHR2SDVwQ1pJc2pvS1BaUDhyVnRwQnpjVXNQSNIBfkFVX3lxTFBrVzk4SXRWdkFrLWQ1SEZEVGU0VDNYUlJocjRDVS0wWUNNMzBsV0JNazRoaXB0UUdOM2E0bXdNbTVieGZkaVNyTjdyS1BnY0ljSjRtam43cTZ3eVpGYWRDblhaNlYzTVJIM0VvZkJVRDFnODdYM0N2UnBZSkhQQQ?oc=5
-3. 【沖縄知事選】水面下で動いた「3人のキーマン」 下地幹郎氏、立候補取り下げの舞台裏（沖縄タイムス社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Wbm5PaUU1TlVTN0V4QnRWTXVYNHBfNjM3LURfMTd6NXpkUmdacVVReUdtQm9aX0NZNF9XQ1pJZWJ5bHdvS1E2QUhqZ2UtVTFYMkhPRGZ2ZEQ1OTFSM0E?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-27.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-27.mp3" length="1575936" type="audio/mpeg"/><pubDate>Thu, 27 Aug 2026 07:21:23 +0900</pubDate></item><item><title>8月28日のニュースブリーフィング</title><description>8月28日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 09 Sep 2026 21:49:42 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月28日のニュースブリーフィング</title><description>8月28日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 「未来を想像する力は、誰にも奪えない武器」。リリック・トンプソン、権力構造を変える❝フェミニスト外交❞の挑戦（Harper's BAZAAR）
@@ -633,4 +586,51 @@
    https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FSzlWT3QzQmNoQmd3VE5sckZkMWZvNkJESlh1NlpjSVlBS3c4YVdBZFpmM1dreU5SWG5OSi1MTlQ0TWxiYjJ6WHl3akx0QW53SC1tZDR0bjBySlUzZXJz?oc=5
 3. 円乱高下への警戒度、介入時上回る 金融政策読めず154円前後で推移（日本経済新聞）
    https://news.google.com/rss/articles/CBMibEFVX3lxTE5QS0VTbXFoYS0yX3E2a0c3ZFVyNmNzcjluVDhGMWVSM0t5amsySmRpcmVFbXNFbl91WjRhYUJjbnFiUEVCTTNSN1A2YXJUNnJYbzZQX19mcnlCQ05iQ21FSzU3WjlmSWpmN1diTA?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-09.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-09.mp3" length="1620000" type="audio/mpeg"/><pubDate>Wed, 09 Sep 2026 06:55:55 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-09.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-09.mp3" length="1620000" type="audio/mpeg"/><pubDate>Wed, 09 Sep 2026 06:55:55 +0900</pubDate></item><item><title>9月10日のニュースブリーフィング</title><description>9月10日 ニュースブリーフィング
+
+■ 世界情勢
+1. 【吉澤要人（原因は自分にある。）】日本・シンガポール外交関係樹立60周年記念ドラマ『ＳＱＵＡＬＬ』にメインキャストとして出演決定!! ヒロインを献身的に支え続ける恋人役に。＜コメントあり＞（Emo!miu）
+   https://news.google.com/rss/articles/CBMiREFVX3lxTFBUT1NEekFNYWN0S29UMnNLNUpERXRjRTBvWFhfa29maFUtcmhKMTZ3bFdkcU1PSkJCc2V6dWM4LVhKM2Vn?oc=5
+2. インタビュー／自民党経済安全保障推進本部長・大野敬太郎氏 LNG船で国内造船復活（日刊工業新聞）
+   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CbjR2RVNDMV9OZUFMY2RXX1pLU29qc3cyMTE3amN2UXFjSEdoMVA4YkZrWXZvMWxCRjdmZXFPNGRpUUpPMlpFRVFqR05INlEtblVsLUZDVEw?oc=5
+3. 高橋洋一・政治経済ホントのところ【中国の外交アピール】日本は擦り寄る必要なし｜政治｜石川のニュース（北國新聞）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SQWtldDVqTzNGWHZKcUY4eG84dW0yajlIS1Y3akl1ZTQ5cWd1aVpBQXFQUXBsQ3Z4Z2lRd1Q1UEFMdzJMMmEwMG5lSWRuWkYwOTRhWEh3TQ?oc=5
+
+■ 学校教育
+1. 県小中理科作品コンクール 標本や観察記録 成果見て 本社で福井支部優秀作品展 | 学校・教育,学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE91MEZGZXo2bXVSMXZnSjFZSEotcm54VDY3TXlEX09NWG1OQnczc0Z1SU1vNGJvYlg2ZXFobEFMUTJ0dl9rVDM1SjJNYWZaTlNrdjVNWDBqcjRjSU9Bemc?oc=5
+2. 大野名水テーマに４回授業 有終西小４年生 初回はイトヨ | 学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qc2l0d3FtM1NrWHo0cFR0TXZjaTh5ZXhkQlNMR3FjZ3ZVTDk3UjBJeXd5bU5FZ1YxeVdMR2hBZnFqYk9IVl9MWXliRWZ0XzRvVkkyMVV4dmRCZlNlc1E?oc=5
+3. 子どもたちはAIで何を学ぶか 活用推進の小学校長に聞く（日本経済新聞）
+   https://news.google.com/rss/articles/CBMijAFBVV95cUxOWDVFUHVZZUlaeEduRDRhbzduRUl4SkZVa0hWZ1FzV3J2U1VOMmtVdXZ4MDB3d3BkUDRENGR0aVFueTRvM0dMVVI0V01ZLTYwVnhObmdua0NNcU9xWWYwT2dXR3Y1NFlvS19JWGw3RmVrNFh0RHZHM2FjSjNCMGgwbV92YVVwUEk2VGlLVw?oc=5
+
+■ 倉庫・工場・物流
+1. 米コーンデニム、中国工場を26年中に閉鎖 生産はメキシコに集中（繊研新聞）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zV2RMZ2xVRk1yZTNCTWRKNGNGWVF6OEcxUkVaZVNGMU5md2tHUGJlOFN1VlpoNEFHVmg0UHd4Uy1IVWRqSjFXZUk1QTZRSFJZTFZxV1U3QQ?oc=5
+2. 河北新報社 ビズラボ 河北経済研究所（河北新報オンライン）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE5aUHBZdWVBSDB5eExuME02UkVnNVBmMVN0c01FSnExY0ptX1BCTGstX1FaNlVkNVFTeGJvTEJCUV9md1ZNb2F6aFpB?oc=5
+3. 無人航空機、年産5万8000機体制へ…プロドローンが豊和工業内に量産工場（ニュースイッチ by 日刊工業新聞社）
+   https://news.google.com/rss/articles/CBMiQkFVX3lxTE5yTUR4QUUxY1RKcXZNRzFrMmFod0dsM1pXbmpqOGgzR083ay1VVnBDSTdqT2tHTk5hZThXYUJnd29KQQ?oc=5
+
+■ WMS・WES・WCS・RFID
+1. 保険型・待機系ＷＭＳサービスの提供を開始（カーゴニュースオンライン）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PMDlqZmU5bFpzZ0VIQUlGOHpBZU02U1FhRDRRaUxkaTR3UFNSUzUwUkwtNlpOa05GazR3OEwyQV9rVzhwU24tV1JNT05iWnNOVEtYU1BRTVNNRjNwanRn?oc=5
+2. 【ウェビナー開催】〈倉庫管理〉自動化の基礎が学べる ～WMSと自動マテハンのデータと物の流れ～（ニコニコニュース）
+   https://news.google.com/rss/articles/CBMie0FVX3lxTE8tNFUyYkpScWtmMGhKRGRlWFV5b2ttd3NjZjVBdUN6Z3RXTEZiV05TeGFaX0NxYTVqOXc4TU82WlBBZlFEVm82LW11VzFGM3BPNnBOamxZeGdBaGpDNWttd1ZtakxxU3BjSURWQ1AybWdDdk9SdnNBR3FUZw?oc=5
+
+■ 日本の社会
+1. 「日本は幸福に衰退する」 格差を推し活で埋める国の「希望」とは？（朝日新聞）
+   https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTZybkZta050aU9MSUEzWU1BbmJ5VVlXSlhJYXV3UEpHcGFsQWtSZ2pQTk5ORjkzay1OSHpwZ1lyOEdhYUpidFRXV3E4eUEtZHhpQ1lHNTByZG1ISzJTbnJ4RldnU2VzLVN4N050VjdFcjhtSWpRZmY1dHJlOFI1RXFR?oc=5
+2. タイ幼稚園教師射殺事件、犯人の息子が涙の説得も応答なし。警察は突入を一時見合わせ。（タイニュース・クロスボンバー）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RN1diSndRSmNDczhPQTlkcHVmNHFpdUI2TVpfdC04SVJaZkNrVmRad2pNZ0owVHNpR3RlakI5aWh3bjdPMDZKV0x5NVFIQmI4S3o4RlFRVQ?oc=5
+3. 業務外で助成金を不正受給…岡山労働局の非常勤職員を停職3カ月の懲戒処分 (2026年9月9日掲載)（ライブドアニュース）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE96YjVpeE9yZXlwbnMtRGRReW5TN051UGpIc2EwYWJpeHRfcUFkMHk4aHBQMS1HN3l6M0NUS1BBV2s2ZlFmQWRGWVdudkx4QTZPUkZybXdMd3pxbzV6ZGc?oc=5
+
+■ 政治
+1. 沖縄知事選挙でデマ拡散、ＡＩ作成の偽ポスターや発言のすり替えも…陣営「野放しにすれば歯止めがかからなくなる」（yomiuri.co.jp）
+   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrd3d0TzV0NDRRbzFtbHBaYTNaZGVZV1JTS0NaYWhuR2RzTG1vMzMzZWxqaXlNSl9fVlJ0cWcza3lfaVk5ODJTWHYtTml0Yi16MzkweTMzaXZ3YVB1SWRTR2paOFo2QQ?oc=5
+2. 今日の注目スケジュール：欧ECB政策金利発表、米PPI、米中古住宅販売件数など（株探）
+   https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWkt6d0haUjQ4QXI5eGlhYVZPSl9oNUJEa04wYnBvdlJZTlpDbTdOaWVicTgteXFnUmQzQkpCb1V6LXNCZ1JDSkVNYmJCNU9FT3h0RUpCYm4xRGpQNnZ1Yw?oc=5
+3. トランプ大統領 イランとの戦闘終結も石油価格下落も「中間選挙の後」（TBS NEWS DIG）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTE14MGZDWHBzNGh6SHBTZUhUWm5XZ0YtZVU4UnBhTmRPMjQ1MnY2TElmOHlmeC1ybTZ2R3JXa2RwWHVHNEpBRm1fMWpUMGhVcWxIM05oUF9NYw?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-10.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-10.mp3" length="1561968" type="audio/mpeg"/><pubDate>Thu, 10 Sep 2026 06:46:25 +0900</pubDate></item></channel></rss>
