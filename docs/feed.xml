@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 09 Sep 2026 21:49:42 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月28日のニュースブリーフィング</title><description>8月28日 ニュースブリーフィング
-
-■ 世界情勢
-1. 「未来を想像する力は、誰にも奪えない武器」。リリック・トンプソン、権力構造を変える❝フェミニスト外交❞の挑戦（Harper's BAZAAR）
-   https://news.google.com/rss/articles/CBMipAFBVV95cUxPdUZiNkZLd1E4eFhLZElJT0VkSXlCbkNZNkV5WHY3ZVg5MzJGQzVtOUhiemIyOTVlQ2dWRWl2YnkxMk9Ecm9YSURKN280MFlUMG1FYnhCa3llQlEtOUhyNEg5bmdkS1ZqalNNVUlpN0dwYTVjUUV6XzQxdEFYdmQ4X2xJUGVrbUpoUnBaZmpoWlBWdXVWUy04ZW5kUkZEUnRvSGlzdw?oc=5
-2. 【法の支配と安全保障はトレードオフではない】牧島元デジタル担当相「ICCの赤根所長は守られるべきだ」（nippon.com）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE9fRHBRcjBSVXR3SkNZZlpWNjBNUWpFMDlDRkljTHdzN3pLNWkyUHpTLU1ORmNObFN2OXNYY1NINENKM3NLcy1TZDN5cGwxYm1iX1ZpdnRCRHc4bTlfQUZMN2dPeW1aeFhkTV9zRTdVdDl6Z1pNMWRITEg1WWNpc2c?oc=5
-3. トランプ大統領が国家安全保障上のリスクありとみなす外国製電力機器・ソフトウェアを禁止する大統領令に署名、電力会社が設備を交換しなければならない可能性も（GIGAZINE）
-   https://news.google.com/rss/articles/CBMicEFVX3lxTFBkYWE1VV83Z2lHdUlEaU1BY3JVajRaLU9nZENJYXhXYThZNUhRXzQ1NWNEOWMwYnNKRHhBZlpfOE9hdXNvcEIxQW56UHRJVElQNlpaX2szeDlTLXhUdTFYV2ZBZ3dTbGFoWVdfUWJNOU0?oc=5
-
-■ 学校教育
-1. 県内の小中学生の人数が過去最少１３万１７７人 ８年連続の減少 今年度の学校基本調査 広島（Excite エキサイト）
-   https://news.google.com/rss/articles/CBMibkFVX3lxTFBiTzNJTnFnUnpnSFJ0TlE0Sy0tRVp3UzdyV2xnMVJmU3VqcnVBVTJrQTdjZjZ4TVpJWnhqYUhTYUM3NXFXUzJwTkwxM0pSbU1CZUtwU2xiTkFySEtoWTVENmoxMGFoWTZkNkhZVEh3?oc=5
-2. 繊細な子の明日への“不安”を“楽しみ”に変える「ココロ科学ラボ2026」を9月1日に大阪で開催 テーマは「命よ、輝け！（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMie0FVX3lxTE5wV1dpNmd6ME1iVlBFUGh0ajhZcS1nSmJjRHRCR1FHQkh3aHRNS0V3d3p2bkpOeVpBZFNQcFhiSWV2UVlKdHlPV214eDVKa21hT2VmZ0I0SDBacXdBRXpaUG5fczhieGtSWnR0ZGxSRG1ObGY0MWE0c3Q2SQ?oc=5
-3. 六ケ所に核融合試験施設 国内初、2027年度着工目指す（47NEWS）
-   https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KdDhTWDI2enk0VW1HUWtDdmpoSHJmR0ZQQThwajlRazlMSF9XRU1hT3BHTjd0SzJJWlJQMDFGS3RKT1JIalFnMG5jcw?oc=5
-
-■ 倉庫・工場・物流
-1. 東芝、ホンダの三重・鈴鹿物流センターに提携先の中国ムシニー製物流自動化システムを納入（LOGI-BIZ online）
-   https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WUHBPbS14Mmw5eHZrN3R3TS1Bdi1yOUVJXzFHbllFZWN2a3U5VkVmSTRmVzhRYjQ3aEo2bjBjRjRQYW5VTDFUbWN5MA?oc=5
-2. キオクシアとサンディスク、国内に5兆円投資 29年度に北上で新棟稼働（Impress Watch）
-   https://news.google.com/rss/articles/CBMiZEFVX3lxTE43MTlsTHF2dnNybktDaWJJUE1rWDNUZ0lxUDZSUDljTDNRS3NPa3MxVjZIc3BlZmtyX3pfNVg1bVNnTHJUNWhobUpkdVV6TExqTkZtVnYwbE1mNVI5OE1OM21HVEM?oc=5
-3. ＜期間限定＞紅あずまのフィリングとチーズのコクが重なる『チーズパフ 焼き芋』が【東京ミルクチーズ工場 】より9月1日（火）から発売開始！（PR TIMES）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTE9hRjZEV0QwQkc1ei1vZHhVTlpueE1JcmJSNXB2ZmFQbFp0RzhIYUR1aVExRy1TODhOU0pZdHg4RWJ3Tl9fZ1hOanhBTkdOWW9Ic2Y3cThYSlBRY2UxdnlGMUlKT1FMcFA0UXc?oc=5
-
-■ WMS・WES・WCS・RFID
-1. WES選定、見るべきは「誰が決めるか」（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTFA0MldSVGZzYS1uYUxaXzB5NVVhT0YtRzEyV3pwQ2E5Nlk0SWFWZXYtbU82bDRtSF9pemNQaFVwMTBRWDhXMnBObw?oc=5
-2. ブライセン、WESを「考える物流の頭脳」へ（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiSE1WU3lfVlpVUWZxLTY3cDdJOHBMZGtWUmxFT3BzMkw4NVlYYlhaVkRDZEpsMWxxNV9Ha1JhdzhMUC04eHVJaA?oc=5
-3. セイノー情報サービス、物流自動化を1日で診断（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zMXdFMnJpdmxaakliNHhqMzJnaUllWmR5UllaSTM4RjloTXkyVVdWTDJ6dF9sZm5qVl96M084Z3lXSjhfX2JxSg?oc=5
-
-■ 日本の社会
-1. 峯岸みなみ、愛猫2匹の自宅ショットに“写り込んだもの”に「事件現場あるw」「扉のところ…」の声続出（ハフポスト日本版）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE1aVnNjTWFNQkhJT3JFLU95bzhZQUtJTnVMMS1oR01ELS1xc1l6X2VRY1hlU1dJNmpmbUU5bnJWOHY1bGhLSTVMcUJvWFBCNXJfVmtzVGRTdklXVnc4dUg3UDgxU3puOFpOR25YSXRnMkFFQzZ2a3JqMVEzYTh6c1k?oc=5
-2. 雇用関連統計2026年７月－就業者数は減少したが、振れが大きい（nli-research.co.jp）
-   https://news.google.com/rss/articles/CBMid0FVX3lxTE9HWFp2Sy1QV3ZQRmN1Y1dPaVl0UlRuX2xfNXZGd19LaGhtNS1LM2dKekNMVFZYdkQtOVZTM0NvVU8zS1J3eFpVUlA0MDNJYlBCX05rQ09UX2l3RElfUUVURGJ5RDBvYXBKTDdON083VlZrMVd3aTZV0gGHAUFVX3lxTE45Tm50MzItallRYy1NY0VqOXdLN0FZenF5NVgwWTQ5VnM5Z05jMm1wZHB0WnV1YTZwQVRfWHpJbTI2QjlDOFVVM0ZGWWxkMXVnZEtjT2FmeThFQ2dlLThXVWJGWER0R0Eta0pqYUhpOGpRNHNFYW9kUm9wb1ZJdnNxODZXbXNOcw?oc=5
-3. ウーバーに3億2100万レアル請求、労働検察庁が提訴（brasilnippou.com）
-   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zdnN2TGJYNk95dG5VeW1PNEpfYUNKWkJXUUU3N1FQeFNxODk3cTFOd0tHbDdiYU1INXVDLTVGWWdSbFNuRGQ3d0RpX2VvMDJJTnh4MU1UV2F4UVRNUEM2eUl3?oc=5
-
-■ 政治
-1. 県知事選挙 きょうから期日前投票始まる（QAB 琉球朝日放送）
-   https://news.google.com/rss/articles/CBMiWkFVX3lxTE01YU5mb1l0dUh6RUtpX0tPUW05cGhkX2drOWpBSUtzQ3JHTjBlNDNuQ042RFFReFdudzNuRnlsOUZPVTlVMVEwWEVZZHdwb1BKbmprWDNpTUctdw?oc=5
-2. 内閣府、戦略19分野でバーティカルAIの共通基盤構築（日刊工業新聞）
-   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VVE9NV3BKQk9qcmhQZDlUaXNoQ3JHaEY3OVFhOVVMa2xmVzZtb2Z1OURteFNkMWExZ21PU2k5VjRCWl9WTERhdnMzTDNxZHBKbVJ4dDRVeUU?oc=5
-3. 沖縄県知事選挙 期日前投票始まる（TBS NEWS DIG）
-   https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RUFRvQy0zYm5zMWpmekM0UFNTbzlyMk1oNHZVMTRqQmpYMHJCNlNoX1Q2VGpwZGVaZU9SYkJORkFBanJ5NUJsNjRMdTY2LThuRFdidV82Z1hDbXBORXVWS0dQUWk?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-28.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-08-28.mp3" length="1561392" type="audio/mpeg"/><pubDate>Fri, 28 Aug 2026 12:37:14 +0900</pubDate></item><item><title>8月29日のニュースブリーフィング</title><description>8月29日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 10 Sep 2026 21:44:24 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>8月29日のニュースブリーフィング</title><description>8月29日 ニュースブリーフィング
 
 ■ 世界情勢
 1. インドネシアとニュージーランドは食料安全保障協力強化、スーギョノ外相:若者と若者たちのために（VOI.ID）
@@ -633,4 +584,49 @@
    https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWkt6d0haUjQ4QXI5eGlhYVZPSl9oNUJEa04wYnBvdlJZTlpDbTdOaWVicTgteXFnUmQzQkpCb1V6LXNCZ1JDSkVNYmJCNU9FT3h0RUpCYm4xRGpQNnZ1Yw?oc=5
 3. トランプ大統領 イランとの戦闘終結も石油価格下落も「中間選挙の後」（TBS NEWS DIG）
    https://news.google.com/rss/articles/CBMiV0FVX3lxTE14MGZDWHBzNGh6SHBTZUhUWm5XZ0YtZVU4UnBhTmRPMjQ1MnY2TElmOHlmeC1ybTZ2R3JXa2RwWHVHNEpBRm1fMWpUMGhVcWxIM05oUF9NYw?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-10.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-10.mp3" length="1561968" type="audio/mpeg"/><pubDate>Thu, 10 Sep 2026 06:46:25 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-10.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-10.mp3" length="1561968" type="audio/mpeg"/><pubDate>Thu, 10 Sep 2026 06:46:25 +0900</pubDate></item><item><title>9月11日のニュースブリーフィング</title><description>9月11日 ニュースブリーフィング
+
+■ 世界情勢
+1. モンゴル、ユニセフ、議員外交（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JWDZtYVdlS1I1Ri05Z0drNmN0QkoyQ1puMDBsek5McHBYY19ZeUQ4TUZvS1BieXZfYmxpMGs1QmRZdlczR3FiUHVrSXhZT1JCRGk4dGpXRDRWRi1rZUZF?oc=5
+2. 日本での緊急旅券発給が急増 年間3千件に迫る＝韓国（聯合ニュース）
+   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5veGVCZXU2TnZLOVM5bm1uV1AxMVZiVV8xaGhaZ2dJbUxMaEcxZWlpX19mMFFNZWJYc2gtUko1a2ZzYU1BWkdIcVJLaE92TjEyaGJxV3NQd1p4UQ?oc=5
+3. フィリピン･ミンダナオ和平が自治政府選挙実施で歴史的な節目に…緒方貞子の｢人間の安全保障｣は道筋をつけられるか（toyokeizai.net）
+   https://news.google.com/rss/articles/CBMiUkFVX3lxTE95bW9VamMwekdWSXo2X0JZVC1BNmZURHhzVk80NmJCYzhrRkVnaHNCSDZtbHQ3WWc4UHpwcU9TaldoeU1INjNkSE84WllQOHh4UlE?oc=5
+
+■ 学校教育
+1. ＡＩ活用授業 教員ら視察 牧之原・相良中 限定利用の工夫も（静岡新聞DIGITAL）
+   https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtd08ySGhBMkJmZHI3Wmg1MzRWWXc2eFdDZEl2LTVQUkdhSFhSX1BzS3pRREhIcmpRcjNIMmcwbDFKcWYwOEgzc0FZUFRfdw?oc=5
+2. サーカスの技に棗小中生が挑戦 公演とワークショップ | 学校・教育,学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nUUJoZGdlc0h3cTNnT0x0ZkFXblVYbnU0aXZ0a3hqdTBSbWlaa1daUEFacjlqS1ppRnNLRHp4MW9BUnFKMnZ2QjdGY2RpWWpKS2hMeFY0V3psTW1jaWc?oc=5
+3. 「スマホ回収しない」「野球部“ムラ”作らない」甲子園強豪・浦和学院の35歳監督が語る、“野球部を特別視させない”方法「進路指導は現実を伝える」（樫本ゆき）（number.bunshun.jp）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvWVN2aWhCNXRxMjlBVVJTSmVaeEV0MlRqWHVPcWF4S3kzQkFSdnU4Q2ktSUdhY0tSN1hOakd5c2syeWZhN1lzbVhpY2J4UUpLZnpGZHM3eWNxM3ZKdjFZ?oc=5
+
+■ 倉庫・工場・物流
+1. デクセリアルズ、300億円を投じたACF新工場が完成 生産能力を1.5倍へ（マイナビニュース）
+   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PTGVpYzd2TUVDWnhfS0F2Z0ZpNTA3NUNpa0hjbFkwMDdWb1pmVHMyaWlaSHdFY1N2NS1jeDVTV0I5LXcxSndsQzRGaHVTb0M2SDBqZDlGYnZ4ZEVEbnF5bVhDa3ZweHJV?oc=5
+2. 「乃木坂配信中」にて「【工場見学】一ノ瀬が大好きなめんべい工場に潜入してみた！」を公開！（nogizaka46.com）
+   https://news.google.com/rss/articles/CBMifEFVX3lxTE5vbEpZb0k0cVExa3JjdHhld0cweC0zcGg0bU5MMGJidnhNaGFpYjYzSWJqa2U3ZkFha2VvX3JJcXY2aEdXdHNjNEN2V1ZyRi1WcVNJWTBrRDJXSHRzWndJcXp3ZFNJV09RZnhfdm5NTl91YlpFZFRoNGFTbmw?oc=5
+3. フォード、ケンタッキー工場に1500億円投資 米国生産重視をアピール（日本経済新聞）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTE1tOElmWDVCTTBQaHN1Wmw2N2laeEdrbHhVb1l6R2JRUFFHQks2czJ3aU81bUYxdnN1SXJ2ZVMtcXpGUzBtenFiTUtPN1Yxc3VYSHl1STBGdjF0WEJaM2J6QnhkcE1FUEREZGZVZg?oc=5
+
+■ WMS・WES・WCS・RFID
+1. AI標準搭載のクラウド型WMS「W-KEEPER AX」、2026年10月提供開始予定（LOGI-BIZ online）
+   https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UX3lGcXR3QjBEY3pXdk02V0pfN1B5M3YwRlJEeWx1Ym5LYWtyNnF3NElPSVV0dGRHSWFoQ2FLSE8zQS1HYmNuZ20zYw?oc=5
+
+■ 日本の社会
+1. 米同時多発テロ事件から25年 政治 社会への影響検証する動きも（NHKニュース）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE00YllLYndxS3VYTDVXTEM2OWNYa2dkSnZQSUJIMHFhZ0tqbjktVFZuM1JZV0R3MHF5VWRvSnRjMy0wZ3hqSWVENVI4aV9ETDJDOXNNbS14T2R5OTQxZnlZ?oc=5
+2. 【世界遺産】『佐渡島の金山』追悼式 韓国側は3年連続の欠席「日本側と協議も相互合意に至らず」（新潟ニュース NST）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBycDgtYU1BSzRsOHZrTzZlemhveW9OT1BCNlNCMUg4YkNOb3g0WTBlRGFRbzRLS1h0TkdCdjhNa3pjQmxzZnpiOXAtQzhIVzh4alJnUGgxNVk3VDFCNHFV?oc=5
+3. 献血バス、移動や準備「10～12時間勤務、日常」 過酷な労働環境 [宮崎県]（朝日新聞）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UdWdDUjAxZHRpdENkRWlUb3dXUDZNX21FWmh5dzd2RkhreWFNUC1iQnp6a1FsOW84dF9za2tubE56LXU0TDUzTks3LTFBcVp0SGtOczhTVTNmVE9XMHhua1BFQ0ctbEk?oc=5
+
+■ 政治
+1. 今日の注目スケジュール：英鉱工業生産、露中央銀行が政策金利発表、米ミシガン大学消費者マインド指数など(フィスコ)（finance.yahoo.co.jp）
+   https://news.google.com/rss/articles/CBMihwFBVV95cUxNZkxYNTcwZDRLa0tBaEkwMWRvUWpDN3lENllvWVR2UDNvRWE3OTRScm9OTS1sUzR6WlUtVnZNQzF1eVBnNC1MUTN0cjczV2JrQ0NUT2JJdUJQeGlCS3pxMnZ3WUh3V08tajNvZzg4cng5dTVrQTJGRE5rTWhuV1gyODlITnlnVUU?oc=5
+2. 今日の注目スケジュール：英鉱工業生産、露中央銀行が政策金利発表、米ミシガン大学消費者マインド指数など（株探）
+   https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCNmhmUjYxbTk2cjhHLUt3c2xTYXpBY3pwWVFRZG41a3JmdHVzRlQxZXlJRThCdEVhUVA3MjRJSXJ5NFRVbXZiWUVNYmdlZXVpMmVHanhfRmtOWFRNWnR5cw?oc=5
+3. 中道改革連合はなぜ行き詰まったのか､議員の離合集散を超え野党再生に必須の｢政策の結集軸｣とは（toyokeizai.net）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmU21GTFY2dW9DRU1TYTRudGVCMFNNNVFBOWJyaFlrWl9xakNnSS1ObUM0ZnVFZURtYzA0cWpHd2hyTXNKOW9GUHEtUllIenVFbnVkVGxYekZKX3NwanlJ?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-11.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-11.mp3" length="1499184" type="audio/mpeg"/><pubDate>Fri, 11 Sep 2026 06:42:38 +0900</pubDate></item></channel></rss>
