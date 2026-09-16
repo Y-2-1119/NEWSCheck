@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 15 Sep 2026 22:22:55 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>9月3日のニュースブリーフィング</title><description>9月3日 ニュースブリーフィング
-
-■ 世界情勢
-1. ［政策比較］（中） 安全保障 南西シフト 考えに差（沖縄タイムス社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sb2RRdzg3dUhRb2l6T1NjTEhLQjhKTUstY0F2TGNUeURXb0dCNHB2UVpzTi1UeWw5QXFjSUtVOUhTS2F0TUN0YXl2cDhnZ1REcDBCdEw5TVVZOXdLb1E?oc=5
-2. インドネシアで「22人死亡事故」／徳重「テラドローン」に安全保障上の問題は（月刊FACTA）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qZ0F1RHlkanBsUEg2WXI0TURER3pRVzM4THMtenFMNm44NEdGdDdWbTBNZ1hDSWVzZUJjUkN6ckVzY25XeW5QZVE0UllNRU1tUmR4Sg?oc=5
-3. 混迷の国際情勢を読み解くヒントがここに！豊富なビジュアルで古代ギリシアの歴史を一望。『図鑑 古代ギリシア』8月31日発売。（ラブすぽ）
-   https://news.google.com/rss/articles/CBMizAJBVV95cUxPb2pSUDltMEthb1BRUzN3YzBEbzNTSkhFVzVnN1BRZUlKamw0RmF6WmJ2c2xDVDNxWWJwb1NnZVd5ZERSTHlEdVBsSmFkUTVfZ3hiMlA3OHhiaWszMVhxdENiMDFQbmZYdWhNeWprTkp1OWhtdkc0ZnppaFdVQ2NEZUMwYVFxbVFhc0FxZFlNNTRYRWVRSFhfZGQyMW95TGg2UjdCT2h5dXIxU3FkNkEyVmZuNU9KVE12T2dGRGJPSmNqLU5UaWZSeUZxdVV0U180SGFtQ05KbzNxdGZEMk16eGJrbXEwbl9hSFo0bndRUU1FOWhLQ3VBMUV3WGRIdHhZZk92bUxUZlRFOE4tOGd1b1Q1ejB4NHVoM0NTRmpjMDF6U1VvbUs1NHNyU0ZncVdDZHpXSVVGVjFGMkx0Q2M5NkMzd1BqOFExOGZNYg?oc=5
-
-■ 学校教育
-1. 【岡山大学】文部科学省・JST「先端研究基盤刷新事業（EPOCH）」の岡山大学の取り組みをアジア最大級の分析機器・科学機器総合展「JASIS 2026」で紹介します（PR TIMES）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTE1QQkFHemh4eV80V0lxODhsT2JZTEowSTVMV01JQ29OaWE1WEs0blpPaXc0YlFaYmUweUxJdTloZDFiM29oZ3l0c2pIS2ttUldSRFFXQmVmenBvaUpJdU1wZ0dBWTVXMmRyV0E?oc=5
-2. 北大、3薬開発拠点に 文科省選定 感染症予防・治療・診断（北海道新聞デジタル）
-   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uNmpyTlY5SXNmY3NYbXpNRENfLTRtRTR5NU9VTnQ4TDNlS1I0bHZ5LVhxNmFIc0R2NmFvUDdTaWZ0TUlpbmR6dzRXVGhWalhBVlBJOF9aVDFmQQ?oc=5
-3. 【岡山大学】文部科学省・JST「先端研究基盤刷新事業（EPOCH）」に採択～人的資本による知と技の共創の場が切り拓く、我が国の研究環境・基盤の刷新の実現へ～（PR TIMES）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTE5BU2NWNklRX3Q3bi1kYXJoQmJhTld2OTZRT0c1NDRlN2c1dXVESGtkc1ZmZWZCelRndTE2cXNNNlJtZVdkZW50cDJ1Mk9CUUNERkhVZTBPTlJ2QTlMSW85Q0t3SmFoRXkzX3c?oc=5
-
-■ 倉庫・工場・物流
-1. 門真市で工場などを解体／敷地面積は４２００平方㍍／１１月下旬に完了（建設ニュース）
-   https://news.google.com/rss/articles/CBMiS0FVX3lxTE43N0dQbnlnVkVCdDNvemZ5N2lFbzdNU2ExWlV3clVvblhoUE00THdEQnF1TlpWZ25ubEFfd3Z2VFAwNmt6bUh1MGE4UQ?oc=5
-2. 霞ヶ関キャピタル 千葉・習志野の冷凍冷蔵倉庫が竣工（カーゴニュースオンライン）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ScUdESnZSZEFTemZucXFMalBBNmlobUhLLW15MndWampTekthdzg4SWw0bm56aEhjRl9OMUpxbFAwc3J1RVluM21ad243a3h1XzVBQXdzaWpvcUZkUlZ3?oc=5
-3. 佐川急便 スタートアップ企業を物流面から支援（カーゴニュースオンライン）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vckNHWTVsZlQwaTZ0RDhFZ0lGMDlBZmlJWFV5S0dtcWY1cFM4eDZ0cXotcFRfWkpPTTZ5RmtqZXQxTVVPWEhjM0E1VTRtN3JwSnRKY1RHTmdVemJhSnJv?oc=5
-
-■ WMS・WES・WCS・RFID
-1. デカルト、3PL向けWMSベンダーを買収（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iWEFuLTYtTURNcUg5YkpoWnZaM0NudVAxay1fS0liVU9qbGhvaU9VeFE2dnhURUxjbzFHd25xcVBWUFNTVFJsNQ?oc=5
-2. タカヤ、RFIDで入出庫検品の省力化を提案（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tdlZhOGNQQzBiYWU4bktUMUVObHE4YkRxcDJNU1pBSjFSam14SlJ4UlRsdHEzUXpGTENEcUpjaDRfQ2hlVzRsMw?oc=5
-3. 米Iconex、RFIDと台紙レスラベルを一体化（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE84STl1VmtfdGhzaksxWm02b01KRzF5QkUySTNJOUp5ZXdHUi1TODNWQ3lYNDBKN1RsX0Ewa05aWnM2S0Y2QjBQbA?oc=5
-
-■ 日本の社会
-1. 賞金先渡しクイズ SAVE MONEY 9月2日(水)放送分 ＃２０【風船破裂するまで何回空気が入る？】【日本一大きいドアの高さは何ｍ？】大事件勃発！鄭大世賞金欲しさに大暴走！MCひとり「過去一ヒドイです」｜バラエティ｜見逃し無料配信はTVer！人気の動画見放題（TVer）
-   https://news.google.com/rss/articles/CBMiS0FVX3lxTE9haS1iWHZHUGp1NUVrN2NOeVV4d255NWxLcFBNZlhkMDA3aTRlLTVHbVQ1VTc5TkNUMVhuUjNEYjhoZEFIVmY0UzVZbw?oc=5
-2. 国道１号で倒れている男性発見…ひき逃げ事件か 横断歩道で車にひかれ肋骨折る重傷も車は逃走 静岡・沼津市（Excite エキサイト）
-   https://news.google.com/rss/articles/CBMib0FVX3lxTFA0aU13eHctZV9qTE1LaVVIRWVLd1VEQmppSGg2UUE1Sk5CZlRKYmhERXhlOTJrc2tPTDVhRTE3aDhVM2IzdE9SX1VjLUtITVZnTHo4S0cxQmRnb0Z1YnRsQlNBZkxhRC1yQ0NTa1A5SQ?oc=5
-3. 「父は殺され損か」介護施設殺人事件から1年 入居者同士トラブル防ぐ取り組みも進む（ライブドアニュース）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PMHItNXMwNjk4N25iMHB2VjZ5NkxiM1ZqZ2FWVDhkRzhQWkFuUnUwUG1RaVJnV0s4cTM4RDJpbWZXMW83VG1EOTcwSktFZTlIalhjUjNxdWVXaDNqLWg4?oc=5
-
-■ 政治
-1. G20財務相・中央銀行総裁会議後に記者会見する日銀の植田総裁。政策金利の引き上げについて、次回金融政策決定会合で検討する意向を表明した＝1日、米アッシュビル（共同） - 利上げ検討の日銀、物価上昇加速を警戒 円安進行阻止へ透ける狙い - 写真・画像(2/2)｜【西（nishinippon.co.jp）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE56SUd5Y2VJc2FQYnIyRGhtRVk0LTNTUjVZclk0WmxCQmxJbmtDZEJZY25WQ3E0VHg5NzF4amsxRC1TZ2xZcE9mOEYzWEJrMVpJdVM5aG40MA?oc=5
-2. 支持率上向いた直後に「土産」で失速、低空飛行に 動き始めた高市氏 [高市早苗首相 自民党総裁]（朝日新聞）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uWV9XVWFGNWlKbmtPZk5FNlMxZklxdGRjTF9yT2xxV2hGeVhjQV9zdW9qQ3pnWGVGQlpVVGlKSEJjTXRHUlRkcmNJejI5MWxBSTJLQVVYNVlSQ2w3Q2tSVHB2MDRxcDg?oc=5
-3. 自民党の奄美振興特別委、野村参院議員（鹿児島選挙区）が委員長に就任（南日本新聞）
-   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lOEx5R21ZVUphbHFKM1d6YTducXNVOEdBeEhSXzVSQUdvUlVpSVUwU2p2Q3B0MDNZX2otbjlkakhyV21fUHZOZkMyOVh4QnR0UnRlNjZ3a2w?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-03.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-03.mp3" length="1825344" type="audio/mpeg"/><pubDate>Thu, 03 Sep 2026 06:53:37 +0900</pubDate></item><item><title>9月4日のニュースブリーフィング</title><description>9月4日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 16 Sep 2026 22:16:56 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>9月4日のニュースブリーフィング</title><description>9月4日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 元カナダ軍高官、ウクライナはＮＡＴＯとつながる欧州安全保障体制に加わるべきだと訴え（Межа. Новини України.）
@@ -635,4 +586,53 @@
    https://news.google.com/rss/articles/CBMif0FVX3lxTE9WNkpKbnk5cjFYaTZWaktrSGpDcXlqdHhlWU8xLXFOUldtYllubkRITEplOFVfZWpBWG85N1lYbFhQVGRpZ3M1OXdSa3AxOXdENmdIb3d5TmF0VUNYNTVVM1RTMWlqYkJKOVhZaVplTm5zVXJndDlmT3BadVNZbEE?oc=5
 3. 高市総理大臣 きょう午前に自民党役員人事 あす内閣改造へ（khb東日本放送）
    https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtUTBNenVtZ3RyYjZzZnhMN3VhTDdvX2ZubWEzTEhnT3piNF9DR2FoY1U5QWZfdlYxaDBaZWNmOFdXQ3RVVWRlcndNTU9EaGs?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-16.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-16.mp3" length="1548576" type="audio/mpeg"/><pubDate>Wed, 16 Sep 2026 07:21:03 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-16.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-16.mp3" length="1548576" type="audio/mpeg"/><pubDate>Wed, 16 Sep 2026 07:21:03 +0900</pubDate></item><item><title>9月17日のニュースブリーフィング</title><description>9月17日 ニュースブリーフィング
+
+■ 世界情勢
+1. 穴の開いた「安全保障の傘」、信頼して良いか…アラブ７カ国、米以と非公開会合 : 日本•国際（ハンギョレ新聞）
+   https://news.google.com/rss/articles/CBMiY0FVX3lxTE02dXpocnViUTN0RXNxN0dQcWxCLWtBUnhiU1ZlWEwyT0FsYUcyM3FfM3hJcWNUUU5TalhSbGIwSDFGMFNORzh6OTUyZWhzejE5LXVYemlmWk9vZEUtYUlTMGJrTQ?oc=5
+2. ウクライナ、鉄道の被害拡大 ロシア無人機攻撃、外交影響も（Excite エキサイト）
+   https://news.google.com/rss/articles/CBMicEFVX3lxTE1XN3prZjB5b2FYSXhlWF93ejFmZ3FBWnRvZG9DUjZCSU4wXzZJYnZQSk4yd2hhalR1T0xsSWI5LV9YNXVLd0NOWGtzN0FzRHQ2V2N3MTNOcUFSdVZPVXBTZXNDQU1IbURFV1lwVGJ4dlg?oc=5
+3. ウクライナ、鉄道の被害拡大 ロシア無人機攻撃、外交影響も |（佐賀新聞）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmLVczdFRZbVdVcDRQSXlyMHozNWg3OGRHVWo3WXEzRC02cVFMZUVvR1VjSWNCZUd5Z3I3N2ZqdUgtSFB1Y0tzTFFwb3c4VG5KTGJOSTN3?oc=5
+
+■ 学校教育
+1. ［佐賀県］文科省の高校教育改革事業 3高校1機関 拠点に（西日本新聞me）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhWWJ2dWYzNUZOaDhodE1YUVdRbVNwQlVFVWRNTWhXS0c4MENMY2RORFZfWnh4MUxGbmc2Ni1vWm9RVFVLQzY4XzNoa2pGbnA4eGI0VVln?oc=5
+2. 岩屋梨、もぎたて「甘い！」 若狭町 児童が収穫、試食 | 学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TbjJyOGRhcG5nTFBPcU1yUDhldHFyZHJ2ZHQ2SHEyWGJCU2pHdEN5WWNJVHpYQm9XRTZ2QzhWcUNRUV9KNF8zMDV2QWRZSTJkNUVNN3QxSXlTMmh3WUE?oc=5
+3. 福井大学医学部生、学習塾を起業 中高生を個別指導 「受験のノウハウ伝えたい」 福井市（福井新聞社）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZeGFSQ0RfTHkzMlVZeUltdG9mMXJ2YUFDOUczeVJkN3Bhc2lFUWZDSnpKeE5EZk9hcEFTLV9ScG5jdlpXZkdIeGdpSy1zTC11YXF6X2RJNzg2bEhIWTZ1SWZ4eFQ5eFhBb0d5Mw?oc=5
+
+■ 倉庫・工場・物流
+1. 老舗みそ店、再建模索 工場被災で廃業も検討 中小企業の被害1300億円・熊本地震（時事通信）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE5XVXZTS0NvM0dyUEs3ME5wQ1hrM3BDbzhzbTA1UVJDekd1bEgya0RXODlKa040LV9HRU1ZWGQ0dHVjd1FHeEZDdHZJc01HUmFGRW5iVkhQYVNWNFR5ZHA2dklfbFJjWXk4aWpzUmFHWHIzQWlqVTJqbEpCQ3o2bnM?oc=5
+2. SK hynixが米国でメモリ生産へ？ Intelオハイオ工場を活用する「異例の構想」｜Semiconductor Geek（note）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Ra1NMWlJYdUxBc0hvLWdxRHBjRzhHYzRuQWZaZE5aa3NSbFpRZ29ETGxTbWp1XzlfMXF2WXhvSlhlN0Yybjg3LTJUa2xNR3JxZXR1Y2luQ3VGdXlsMlE?oc=5
+3. 国産セミヒューマノイド『ugo Nova』発表 2027年量産開始、工場や倉庫での作業を想定（リアルサウンド）
+   https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1MkZUVDBSaXVka21uSlZYNXVMQnJYSnE2Q1pBeEx0enVrbTJlQ19GSE5OcjZWR3lVOUNBMW1kQ0oxUEROU21JRmVLSTktckVOUUh1OW9HZjZpczhwbTVTaNIBZkFVX3lxTE0xdzdfSEk1REhKcFJiemRTdVZhMWNLbE90OFpfTV9DaWdybjBzeWJDUWR1bUZQZzQyYVQ2V2g5MlRTMk5nOVJ0bUhqeUdWeHhYNGRhV3RsNVo4UldQRWJhT1dUR010QQ?oc=5
+
+■ WMS・WES・WCS・RFID
+1. ロジザード／OrbiFlowに共同出資、WES・マテハンの提供を強化（物流ニュースのLNEWS）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QaGZpMGNwV1dvU094bnh5VldrMXRRVC1YVlpzMnh6OUhkWGt4TXplUjVsRzYydHhUdEhBaVpid2NuXzg2M3V4TDdQaFJlTmVYTXB5Xw?oc=5
+2. キビテク、複数メーカーの物流ロボを一元管理（logi-today.com）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rY2RCTkpFZUFuNzlmMVFyWmMxYjd6NUFZWC00enRJM2J6RFpoSWFyY0h4OXFUXzVUQ296OXlNREhoT0VBM3NsMlV3?oc=5
+3. T5、ロジザードとともにOrbiFlow株式会社へ共同出資（ニコニコニュース）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTE4weThvOEZDZzZEa3l6YUhkUFNWMWZDc2EtNkRXNjlMa0U0a09uOHJHcko5ak1mZFcwTnExZXV2UnU5M25xLUVWWE1rNmpleUhIZWV3Ug?oc=5
+
+■ 日本の社会
+1. 新作『続ポートピア連続殺人事件』発表にゲームファン騒然…「日本一有名な犯人」の行方に興味津々（ふたまん＋）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZbDZmWEQxZHFVWE1nNGdoVFhpRWxPLVRXclNoWEZDdjg3bHlEcHUtZXIzS1o2MUFOdjA2VmRtS3VKSk94SW1fRDYxYTE5N0VHTUphTnk2aFJMM2xNclc0OU9HTzRSeGY1MW9aekFsY0VuRlJkZDJ6RVBueFhNYjA?oc=5
+2. 【社会問題】日本の本当の自殺者数は年間18万人！？（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qanRKeW9IaVp5dEplckxlMm9tQkd5eGJ0LXN5cWpDb2RvQXBQWEF5MklEZTBKSmhMZ3V6bU40VUlUZGhEbGJhZFh4N1czeXVEMDFLTk1sTUdqWWJQSXI4?oc=5
+3. 赤木志郎容疑者死亡の情報 よど号事件で国際手配（Infoseek）
+   https://news.google.com/rss/articles/CBMidEFVX3lxTE1SWXdMbWFHWDlwSXpPZ3FaaklzdUVqbEpNMjItMS10a2RnY09vdGhaa3dWX0xQaURyek9rRHFUQVE0Sm9oc3NuSXNnVGFDelZhMkRCODc1bWt4N3ppNWhVdDJNSDdEZ0RReTNzeHFjYm9VaURK0gF0QVVfeXFMTVJZd0xtYUdYOXBJek9ncVpqSXN1RWpsSk0yMi0xLXRrZGdjT290aFprd1ZfTFBpRHJ6T2tEcVRBUTRKb2hzc25Jc2dUYUN6VmEyREI4NzVta3g3emk1aFV0Mk1IN0RnRFF5M3N4cWNib1VpREo?oc=5
+
+■ 政治
+1. FRB、政策金利0.25％引き上げ インフレ抑制へ全会一致 3年2カ月ぶり（nikkinonline.com）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PdHFnSHlSS0k0TVZlYmlqYzdHX0dfNFhlWWpSYWN3ajJqYldCdE1kS3dVU2NaZ1ZwS1Zkd1JSVEd0TlRIcmxyMVZlODZ4bHZoZ3E5VDJB?oc=5
+2. 9/17▶きょう内閣改造▶FRB利上げ決定▶日ハム新庄監督に続投要請へ ほか（smartnews.com）
+   https://news.google.com/rss/articles/CBMi4wNBVV95cUxPOUlvNU41eTNmUjk4SFNCeUstWkkyRDZaTmg3UXhqTk9HeDc0QmpfQjZGTzBqN2FiVFlWLWVZbDNDMUhnSUNRenRtMVNpVXAyd3AxMEhEZVBTU1VCcFpPbE5wZFVFSXpIdGwzSGdjMnVyVklUaDVfclRPYkg4WkY0QlpfbGZKS2tjYWZ0Ykp5RVhWbkh2eUV6aWJpcjhxMmdsYjNfdVBvLWwtMkMyaTZsTlpTMndJY3Jhd1NRUGRzOXhCTUU5cUs3ZU1ULTNTdXVweWhlbmlnVWlZTW1mWFNZN1o0UVdDWkhwTFJvWVFwSXJwTmI3ZkpHR0xwSjhhalNuRmNHaHpQY3BUZ2dFT19DSXpKamtpcGYzNldxdG4zV2xRYV9LX2FqT3p3bDEzQzQ2MlJvR29nbmxlVnJDa1FiMG9La25KSFNLb2JkWmVBUFQ4RlcxNVM3RG5LcnpuT3FncFZkN21MYTBjbmhoYXU5RzJWRUJpVThQTExJMmo5TXozZkN1RkxIZHp4UjE1c2JKWUZqQTU5R2UwWDJoQ1U5OVRTMG1oVVdDdFo4OFJ3WkFRbnpMUTVsNi1BSjFuM3N1Q0lDdV9IZEhBX3dYdHBVM2sxSXdLX21EcThBYjJ2QVktdUk?oc=5
+3. FRBが政策金利0.25%利上げ 3年2カ月ぶり（smartnews.com）
+   https://news.google.com/rss/articles/CBMimwJBVV95cUxNUktEcFpReldMYjZzYTM3RnhNZkdndDY1ek1BcjNhdDJHSXBPUXh3WWtKQ2Mzb2tONFZYZlJYUEVKZWJJUTZORG9XT1haRTVmNzQ0eHdEaENTdHdpNzVNd001THQzbXhhV0N2a3BHMXNmMV9UX3hlcFg5MHUxRVB3TmhjY0dFV29COUk5Nk8yQVJiQzVFZ0x3dGRUQVhRUmxLbjJtUTRQSHM2OEY2RnVMSmdueEhsTGE4ZnByWmVMZGFaajlaR3JvWmFSbU45UEhQektMMlJUMGlJSHpVTEtyMlNSNTRlcWwzb0VMN1dXZGF4OU5DVGVzVXVUU2FyVzJrbkZBNWZxV2tjaW8wejJQSDZ1WkFQR1hvVHVZ?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-17.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-17.mp3" length="1532160" type="audio/mpeg"/><pubDate>Thu, 17 Sep 2026 07:14:13 +0900</pubDate></item></channel></rss>
