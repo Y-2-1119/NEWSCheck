@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 16 Sep 2026 22:16:56 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>9月4日のニュースブリーフィング</title><description>9月4日 ニュースブリーフィング
-
-■ 世界情勢
-1. 元カナダ軍高官、ウクライナはＮＡＴＯとつながる欧州安全保障体制に加わるべきだと訴え（Межа. Новини України.）
-   https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wdGx0emZEVk94Y1dWWXljcGNidXpqS09hNXU1aWpVVkl4RW1pdnM0c3lIVXNoZVdkWmFEWHdPMkR2RUx1WG1CdHJxYmY5S2dKT1pIS0lsX21venZKb2RlWjFDd3BpVlgw?oc=5
-2. 台湾有事は自動的に「日本有事」なのか、日本が選ぶべき二つの安全保障戦略（JBpress）
-   https://news.google.com/rss/articles/CBMiVkFVX3lxTE15aXNpWFBCaGtidk53VXJEN1RYMVVRSGRyeGR3TFhJakRtbDdWWU1SdEhUeHlWX1MyajVVLUpiam9lUFd6VUsxSW40bGhWQ2dwZlVPbWNn?oc=5
-3. 【佐藤優の世界史講座】「プーチン大統領の柔道外交」編 プーチン大統領の戦略とは──北方領土初訪問を読み解く（ピンズバNEWS）
-   https://news.google.com/rss/articles/CBMiTkFVX3lxTE56a29hcllvS094VXJ4ZG5ySUZjVkduRDg2MlVzd0U2NFZkOGRRVWhlX3ZkWUdkRU9tUzRmQVBRSHFIMzJ1R1RGTnJ6aWt6QQ?oc=5
-
-■ 学校教育
-1. 約20年前の教え子への性加害で「都立高教諭が懲戒免職処分」も…“刑事も民事も難しい”弁護士が明かす“時効の壁”（news.nicovideo.jp）
-   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SUzM4aUUwWlB2clRmQ1ZYdG5hVzV1LWsyNGRWQlQ3UXY5S1pXeW1oMFBaQnhHT2V6bkxabU13N1FqbzhWbVk3RFR6Sl9sVzBnOE1tcnl1VUFSb1Jwb0puand1Q2syU3JH?oc=5
-2. 文科省概算要求 過去最大8兆7750億円 研究力向上へ人材育成本腰（科学新聞 The Science News）
-   https://news.google.com/rss/articles/CBMiTEFVX3lxTE03cEdFVkdLN1B5aGx5Z29ybk8zbnRiNjY0MW03R1NFdnpYeEtqdHhoMHlBNnhlVWYxaTR2dEtyTG85WnJiTS0zZTZvU1Q?oc=5
-3. 「学校行きたくない」夏休み明けの“不登校”増加…親も子も焦らず“心身の充電期間”に 親が取るべき対応は「否定的に捉えず見守って」（Excite エキサイト）
-   https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2YzNGNm4wTE9renBQXy01bWpqSy10ZE5kY1VpSkpIRHNZTWNGNHlkalptVHJOUlRzaWVCVkZYSjR2a3dkWnRaZTRCTHV2RHV6clNjQjJvWVhvbE1U?oc=5
-
-■ 倉庫・工場・物流
-1. キーウ近郊のコカ・コーラ工場にロ軍攻撃、ゼレンスキー氏「対米シグナル」（ロイター）
-   https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDRPNndDcXdkUGNZd3hmUG9rLXVsLWMzUzhOM2NtVzdSb2RyZTczclRrWlFBSWlJU0JLekdNS3lWTFZtckJaLURrclpaYWZGWnJaNkZsblgzRlVlM2FpaGc2MXRDM0JqN1R2WUtEQ2hiSUhRU0R0UWZSeWpHRU1oZg?oc=5
-2. 画像・写真：日本製紙八代工場で火災：時事ドットコム（時事ドットコム）
-   https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZV3ZfSVNzTVFubmVBcFJTbXAxa3BkbTVKZXRaZUdZcU5XMjRzQXZYNmthMUQzdEpob3QtMVFadmdkRHNXcmpFdDhiZkJweW1nemg2eUZISGdTQVNkT25DVmxYUDU?oc=5
-3. 熊本・日本製紙八代工場で火事 “通報”した人「いつもと違って油のようなにおいが強かった」（日テレNEWS NNN）（ｄメニューニュース）
-   https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXVHY0RkeHE5RWV2bldQMXlOUWh6aXVOSzVqRFFHcUFrTURpWDhyWXVZR0FYcDJqX1g2SmtQQ3JrTnN0UDJqUV9TM21hVnJtUzdiUDFHN2pSb3dwcmdlanFvZ1VUYTQxQ19Mcms5dk1LMFhrNl9COV93dGVRcnE3emhBc0l2dGszcDlXMXdCTFB5TktBM205WUN6anV0LVZi?oc=5
-
-■ WMS・WES・WCS・RFID
-1. 【ホワイトペーパー公開】物流システム刷新を「後発の強み」に変える現場ファーストDX（news.nicovideo.jp）
-   https://news.google.com/rss/articles/CBMie0FVX3lxTE1oV21ZWXFIcDVJZUNVUXVlaEc2MmVHM2QyZmdhNzl4dGU5b2F0ZG56MUZhWVktejhzb1Zrdy0zblBuUjZtQi1BcjJsdDU4ZzhnY1lTNm5mdGc3aW95eXZtNU5oOWptbXhLM05IT3A2aWpXYmFHS0wxR2M5aw?oc=5
-2. ヤハタが挑む物流DXの内製化、AGVとWMSで生産性150%向上の真実（ニュースメディアVOIX）
-   https://news.google.com/rss/articles/CBMidkFVX3lxTE43eDJLT1pBVWhEUmN5cS1hYjBBOW83TkdjT2RpQnZYWDdlSk15RGVlNnRuV1JNRElMUV92dW5DNHRpUjJnMDRFWHgyN3FPTURMcGxVREZYZ3dhSTZsbjJTMlRUb1pQV1JHZy1lYUg2V3NXXy0tU2c?oc=5
-3. シーネット、システム停止時も物流業務を継続する保険型待機系WMS「ci.Himalayas/Standby」提供開始（コマースピック）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HVWZkTkk5YlcxaDA4eDR0UENtc2h6QmVCaUJSNUJLNkZ5V2xyZnRZajZnLWxwQ1BSNDMxMk54bnlmd3FhN1A3QTR0OVRLU3htV0FaaWlYSQ?oc=5
-
-■ 日本の社会
-1. ［論説］外国人材の受け入れ 人権と安全は経営責任（日本農業新聞）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rdFIyeDBrRGdFc3BURU05ZmMyYTVOZWt4d2drQkNaMVNPbGNHTlpHb2xUakpZOHotajNrWjJDSDRnakJyZXEzbFZYNFhXRzdQZkZ5LTE2V0lOY0k?oc=5
-2. エリクソン、東京大学とのコラボレーションで、日本の未来を探る「Enter New Horizons」を始動（news.nicovideo.jp）
-   https://news.google.com/rss/articles/CBMie0FVX3lxTFBiMXBNM0RmUEllVE4wYzljamZmeFVYYzFJYmZiSldZT04wdGZybnhvSXZqWE5JUHpzWkRqeVkzc3g3Z3c3UjlKczNqbU9vRlFoTkJlLUJKcEN5YU8tbzVGUW8zSkVGRlV5d2kzUDMzRHBHLUJhNlBhdXcwSQ?oc=5
-3. オンラインカジノ事件…収益は海外の運営拠点に上納 そこから報酬得ていたか 静岡県警（Excite エキサイト）
-   https://news.google.com/rss/articles/CBMib0FVX3lxTFAxdEtUMlVjSEstVGFQckI5YUo2ZjllZlh2ajBWRmxhSmVSX01pdHJpbUZjOVBfSlBxX1dGUzgyUkZ5a0V6ZXkxb29UY2N4OEVQWS02NmhQR0lkRGI3WlVxSTRTUlFoWUNsS0JBc3lmUQ?oc=5
-
-■ 政治
-1. 内閣改造 片山さつき財務相留任へ（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBMGhia1hjWk9DTkptM0xpQUh5ckpTTzVSWVg3ZFVNSUZzLVNaMHRIb1A1ekVnTENMNUVnUy1IRmF6RFVON3B4aHE3UjNsbVRO?oc=5
-2. 新しいリベラル02（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vNzNST3VXazZlX2ppRTVfT3c0cDFMNGEzeWY4NXNYdjZtS0hVR3VuWW51LWotWVVyQkNnVXVtUmRZRFo3ekdqRFY4Z2JhVEF1cEI2X1A1c0QxeGNjS2xn?oc=5
-3. 高市首相、内閣改造で鈴木幹事長続投へ 木原官房長官も留任 16日にも人事（北海道新聞）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE96NGlwV0h1NGFCaDFMbnNhbUpWQUIxS0QwRW4zdG1rU2JWcGdYanR4YmhHS2pRTmhlTlU5aVQ3VGl0NUl2UTZabU1NQ3VNem1IbHdQLTdYSlhBai1WTWNvN2tiSk5XMVQzS1BRckYwLTlfbFFEOWdlSDdGWGNmR1E?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-04.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-04.mp3" length="1617120" type="audio/mpeg"/><pubDate>Fri, 04 Sep 2026 06:46:06 +0900</pubDate></item><item><title>9月5日のニュースブリーフィング</title><description>9月5日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 17 Sep 2026 22:19:46 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>9月5日のニュースブリーフィング</title><description>9月5日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 各国の若手外交官向けの被爆講話を務めた三瀬清一朗さん - ［長崎県］軍縮専門家育成へ平和講習 各国若手外交官、長崎市で研修 91歳三瀬さん講話「核なき世界を」（nishinippon.co.jp）
@@ -635,4 +586,53 @@
    https://news.google.com/rss/articles/CBMi4wNBVV95cUxPOUlvNU41eTNmUjk4SFNCeUstWkkyRDZaTmg3UXhqTk9HeDc0QmpfQjZGTzBqN2FiVFlWLWVZbDNDMUhnSUNRenRtMVNpVXAyd3AxMEhEZVBTU1VCcFpPbE5wZFVFSXpIdGwzSGdjMnVyVklUaDVfclRPYkg4WkY0QlpfbGZKS2tjYWZ0Ykp5RVhWbkh2eUV6aWJpcjhxMmdsYjNfdVBvLWwtMkMyaTZsTlpTMndJY3Jhd1NRUGRzOXhCTUU5cUs3ZU1ULTNTdXVweWhlbmlnVWlZTW1mWFNZN1o0UVdDWkhwTFJvWVFwSXJwTmI3ZkpHR0xwSjhhalNuRmNHaHpQY3BUZ2dFT19DSXpKamtpcGYzNldxdG4zV2xRYV9LX2FqT3p3bDEzQzQ2MlJvR29nbmxlVnJDa1FiMG9La25KSFNLb2JkWmVBUFQ4RlcxNVM3RG5LcnpuT3FncFZkN21MYTBjbmhoYXU5RzJWRUJpVThQTExJMmo5TXozZkN1RkxIZHp4UjE1c2JKWUZqQTU5R2UwWDJoQ1U5OVRTMG1oVVdDdFo4OFJ3WkFRbnpMUTVsNi1BSjFuM3N1Q0lDdV9IZEhBX3dYdHBVM2sxSXdLX21EcThBYjJ2QVktdUk?oc=5
 3. FRBが政策金利0.25%利上げ 3年2カ月ぶり（smartnews.com）
    https://news.google.com/rss/articles/CBMimwJBVV95cUxNUktEcFpReldMYjZzYTM3RnhNZkdndDY1ek1BcjNhdDJHSXBPUXh3WWtKQ2Mzb2tONFZYZlJYUEVKZWJJUTZORG9XT1haRTVmNzQ0eHdEaENTdHdpNzVNd001THQzbXhhV0N2a3BHMXNmMV9UX3hlcFg5MHUxRVB3TmhjY0dFV29COUk5Nk8yQVJiQzVFZ0x3dGRUQVhRUmxLbjJtUTRQSHM2OEY2RnVMSmdueEhsTGE4ZnByWmVMZGFaajlaR3JvWmFSbU45UEhQektMMlJUMGlJSHpVTEtyMlNSNTRlcWwzb0VMN1dXZGF4OU5DVGVzVXVUU2FyVzJrbkZBNWZxV2tjaW8wejJQSDZ1WkFQR1hvVHVZ?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-17.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-17.mp3" length="1532160" type="audio/mpeg"/><pubDate>Thu, 17 Sep 2026 07:14:13 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-17.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-17.mp3" length="1532160" type="audio/mpeg"/><pubDate>Thu, 17 Sep 2026 07:14:13 +0900</pubDate></item><item><title>9月18日のニュースブリーフィング</title><description>9月18日 ニュースブリーフィング
+
+■ 世界情勢
+1. 米主導の演習が朝鮮半島緊張の「主因」、核抑止力強化に変更なし＝金与正氏（Reuters）
+   https://news.google.com/rss/articles/CBMihwFBVV95cUxOVjZVWGRpeWxOZEtjTnJrMHJMd2JHU0FJaVdxT0NucU91R2d0OTVEb2R1QjVLMG9iUGQ0SElnU3VXRnFCNVVGTXJZMmpmdFVhRUhIREdZLS0zZVBzUkt2ZXRfQnRjR2xCZWUwcmE5ZEM5MDQwRVE1REFvYl9sdk9XZF9ZX09ZTmc?oc=5
+2. 標的は欧州外交団か、ウクライナ西部で旅客列車にロシア軍のドローン攻撃（東京報道新聞）
+   https://news.google.com/rss/articles/CBMiU0FVX3lxTE85MmwzQ09TbjZTZC10bWNtNjlTalpWc3RCVVJxQmNQdXpROVkzNHh4UVNraXA4b3Y4OHY1WHU0RV9qX3R5MlFpTV9fQWRxZmViLU9v?oc=5
+3. トランプ大統領「戦争終結へ向かうことを願う」…イランとの「終戦外交」再開か（ハンギョレ新聞）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE13M2V5QnZDU1ZoS1JKYzZYa05DTmJlamxOdUp5bFNDejFwTkxhcWFReFhmWWtxekJKNTkzR0U5a3FJVHlXYkpwd3VmTXRBU1gwejlBbklNNkhNTW5HOUlGdlRiUUQ1QWpLdHpRSjVuenE3RlliSmtqdXdMVFlhbmc?oc=5
+
+■ 学校教育
+1. 相生市 非核の訴え、学校教育で継承 「核兵器廃絶都市」宣言40年 造船、ペーロン…長崎と縁深く|西播（神戸新聞）
+   https://news.google.com/rss/articles/CBMibkFVX3lxTFBzRm8xNk0yYTBrSWRScnYzdDROU2V3Z1NobmZmZmJqVnBNbVBVd3MzZldacGxNS0NyOUJybXo0c2pGUW01MHQzd3lsWGo5eTJ2OWg1SUdscEVLS21KOHA1MTdTNk4tR2ozeHlfdWh3?oc=5
+2. 学び方の多様化が進むいま、わが子に合う進路を考える一日に 中学生向け進学相談会を10月3日、池袋で開催（ニコニコニュース）
+   https://news.google.com/rss/articles/CBMidkFVX3lxTE5TNmZZOWFvY0RBdlJvN2lGM0k5WHlud2FmckpRbFVSMWZFcWdfR3hLb0phZGRjckNGQVl3WmUxc2JhNVl0YkdyWmVaX2VNNjZfR2VSSVB2bjJtZzJQS3N6ZmFHRjFIeFJqRi1VS0VKcTV2N0V6ZHc?oc=5
+3. 高校生、プロの現場体験 福井農林２０人 「丁張」や側溝設置 | 学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZTmRaRi1JNjJGdWpDa2k2NkFkelFsRDRBQ1dIVjgyZDgzQ1ZqVHJLMzZ3eXJ3TlM4VDFtT29xRDJsRVppdmZnZDk5YVN1MUZuVFJnaHh1RHdrZkVWcmc?oc=5
+
+■ 倉庫・工場・物流
+1. Ｃｕｅｂｕｓ 200kgまで保管可能な自動倉庫システム発売｜製品・IT（物流ウィークリー）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MME5fM3QtTGVGcXRXSHRTcWtaVTRXWlVGeUtVbURuQ180Q1VPLUhRV1EwZ1BIemR6UFBlSHRkaFBpNnFCYktqb21ZZTFfUHhuckRaeA?oc=5
+2. 英国工場でHV「キックスｅパワー」生産…日産、約355億円投資の背景（ニュースイッチ by 日刊工業新聞社）
+   https://news.google.com/rss/articles/CBMiQkFVX3lxTFA5bnV5YXU4YzRmUVRQSHBGd1VYYk54N09xZnVOLVFaSXdlREJWSXZPRC1KUG5SVUNhWENDMWNFZXA0QQ?oc=5
+3. 三井物産系など4社、物流施設の「遊休屋根」を再エネ供給拠点に活用へ（LOGI-BIZ online）
+   https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBZnFfNHJvRnZuUi01a0FXM3BFMWxOd3VSS2MwLXNKbGJwS0NPSXFQWGVCVThyRXhUdWdNNVk3cThUYWhUZ0hFYXIzZw?oc=5
+
+■ WMS・WES・WCS・RFID
+1. インフォセンス、倉庫管理から請求処理まで一元化（logi-today.com）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pNGJjNmNpSk1mMzlFTzNIY244dndBUkFkU0R0VnVER2oyQWNzSTZ1NTdqSFR0UXBaN1phQ0RCaGJMRXhad0ZvbDJR?oc=5
+2. インフォセンスの「ZIZAIA WMS 2.0」に新たに追加された請求機能の全貌（ニュースメディアVOIX）
+   https://news.google.com/rss/articles/CBMib0FVX3lxTE43VUFQaW1RYU9qWFJzdGZNTEJKSnZEeVdZQWRGbW5nWUItYnV1bllpaUI0WWdmREdMT2N2ZDhJeTd2ODhCM0JiQy01eG9aaks4LXJfUmpEZ2dnUl9uVnUzOXdMYXNhZWdEazJzYWtLZw?oc=5
+3. インフォセンスの在庫管理システム「ZIZAIA WMS 2.0」に請求機能が登場！（西日本新聞me）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uOEVWZGdndWNTaG1tS2VlNVVRczJ2Uk5YeV9Tc0NqcldXVVhfWjhyeEI4YVQ5U2JTSG45WkJaa2M5dXVEWDlVZzVFVmpLUGYwOFNpN2x3?oc=5
+
+■ 日本の社会
+1. 中国、柳条湖事件から９５年 邦人社会は対日感情悪化を警戒（中日新聞Web）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hNk9HNTdDTXVGMWlWNlFRT2E1NkFDdG1LaGJWLUZHaGxNdGhpbzFvajF1d09SZGhwMzl3WmJhQkw1RU9Ka05tRHhSRDdvSW5CU2wwMA?oc=5
+2. 中国・深圳の男児刺殺事件から2年、日本人学校では登下校など不安を抱え… 日中関係の悪化も影を落とす（東京新聞）
+   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HSzhKMXUxNTNEaVozaTMwbmgySjlyWE9vbVM3WURDbWNwS29Ea3VONHR0Z3habUhjQjc2bUp4V2s2Y0ctMTFxRDM3TlhwVXRXQmpZ?oc=5
+3. ７８歳の赤軍派「よど号ハイジャック犯」…「最近、平壌で死亡したもよう」 : 日本•国際（ハンギョレ新聞）
+   https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WamQ5Mm9FcXY0ZTdKNnNHODlPOEhpZm0zaHE1dHdkd1ByN0pFLXpYZWJVNEc4UjhLUHp0NmtOUnZrXzlWendRTmI3bkFYOC1ObjJFMy03R2gyUVVwdXJ6NzFiUQ?oc=5
+
+■ 政治
+1. ＜内閣改造＞与党、信頼関係構築に意欲 野党、裏金議員起用を批判 佐賀県内各政界、反応さまざま（佐賀新聞）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yMFhCQmtzRWswTlZMOGw3VFp6UjZCczlWT2x6RndTWHFETWNsUWlhOGxrZlN6YU9CVDJwYV9KTllKOXprLTFKZk9HOHI2bU02NzdDR3R3?oc=5
+2. スウェーデン総選挙 中道左派が過半数制す 4年ぶり政権交代へ（NHKニュース）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WT3Jsc1pUd1NPQVlmNDM5OE1RTUdRYTg3UmFjMmx5UExkckhrLXBjNHJIVFJSRVZPSVpicUt5TEZzeTZDWUZQODMtcU5QS3EyTkNYNk5EX0pzUWVWM2NF?oc=5
+3. 第2次高市改造内閣「本格始動」副大臣・政務官を18日午後決定、政策実現へ取り組み推進（産経ニュース）
+   https://news.google.com/rss/articles/CBMidkFVX3lxTFBpRFl4UVZmVTgyZkIxTzdmOHIyMHpGenpSelZ3bVFlZk8zY1VmbHNQMmpXcEZiM2Y2OEZGcllvekJWQkxuWXFscXFKbkJKdWNfQ3ZkemJ3cThfZWV1QzJUb3BTN21GZUtoUHVwODViMGRTaGVTS0E?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-18.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-18.mp3" length="1639728" type="audio/mpeg"/><pubDate>Fri, 18 Sep 2026 07:17:05 +0900</pubDate></item></channel></rss>
