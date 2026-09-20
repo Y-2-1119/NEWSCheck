@@ -1,46 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 19 Sep 2026 21:32:37 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>9月7日のニュースブリーフィング</title><description>9月7日 ニュースブリーフィング
-
-■ 世界情勢
-1. なぜ私はMAGA帽子をかぶりトランプ氏と撮影したのか…｢格下外交｣と批判された赤澤氏が語る交渉の全内幕（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTFBEM2RMdDRONjVDNVE1eGR3TjhQZHo5SlZWV1Axck5idDEwdkpzWEhsWW1HM3pnNkhibVZCOHdsUFpJUVJEVE5TUFVkcHRoN2hrdHRCLWo5RFBwX2JqOXdjY0FrekpELW5FV1luZzllOUs1Sk1HSkxyNF9wblBjQXc?oc=5
-2. AIが変える日本の安全保障：パランティア活用と同時に、独自システム開発を―自民党の平将明氏に聞く（nippon.com）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JcDZyT3ZaU0tPdUFwbVg3cnZNSUNnUnJpU2FkSzZqYWlGOEtzeVdOa1BpSTluVkkyNS0wWVVNX0JlajJtc3RnTkxjR0M0THg3Q2dLWg?oc=5
-3. 米エネ省長官「核合意不成立も」 対イラン、外交交渉停滞（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwN0QtSlZrLW1vRkh0Vzh0Ym55akpGZGZtakpuaC1pZHR4bVplYi1iOUdNX2FQbkN3VWNhOGYyU05oam12T2JKWWNKbU9OQkJNYnFYQnlvOUxQb29kV1E?oc=5
-
-■ 学校教育
-1. 文科省／ロードマップ暫定版策定／先端分野研究後押し（日刊建設工業新聞）
-   https://news.google.com/rss/articles/CBMiR0FVX3lxTE5XVWRmQ1FWTWdLYnZINGJFR0RFb3czaUphdzk0cFJoSHN0NG1TYzJlR1d6d1dSRmFLNjlhYzRLSjVuYVUta0dB?oc=5
-2. 次期学習指導要領案の審議まとめ、学力テスト指導改善動画公開…教育業界ニュースまとめ読み（リセマム）
-   https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ySWNwUnVKeXA5QjhpN1cxUTJOWm9wYXJKeTdfbWV6eDFXdmFPVUM4cm1EZ1dmUno0T0NlbHBweXplb0pGalJiR0VZTWlmd01nVzQ1dzJTSDBtdUpyVFBZUjJpZ1hGZw?oc=5
-3. 部活選手の動作 アプリで解析開始 郡女大付高（47NEWS）
-   https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JZ1FWaFp5NTJOcy1ncFBUSjNEXzN5dGlIS3EzbXVraTRueXc1clBxeE9iX1pKRVhiaW50U2o3ejRpTFFZTHhuV0k4UQ?oc=5
-
-■ 倉庫・工場・物流
-1. 霞ケ関キャピタル、神奈川・綾瀬に危険物自動倉庫27年８月しゅん工（ye-live.com）
-   https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqTVFRQWxHZjBOS2IxWGdCWG5sWlNQZWxzNml4UEVjNE1YXzRDUHNrZ00zV1lFdERQS0pUcm1qd0NIN1RCWW1KX2ZUcHo?oc=5
-2. Ｔ２、エスビー・オタフクと自動運転トラック×貨物鉄道で共同輸送実証（ye-live.com）
-   https://news.google.com/rss/articles/CBMiTEFVX3lxTFBERDZKOVA3QlQ2U1pueTVrV3dBMkE2OGUtSzlZSExnNTZXQ3NJQXF3YVpkOHowempNMUZXaUdvejlOU2hwbGdsNHNZU1A?oc=5
-3. シャープと豊田自動織機、自動倉庫の最適出庫計画算出時間を5分の1に短縮可能な基盤技術を確立（LOGI-BIZ online）
-   https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tQ052LWpYcURKeVA4VlI4VjdVQnduX0xMQXVzcXgwTHBidS1xQUM3VWhlcW5LcTdOaVd6WVp6ZTc3eWlVdzhUYVh0dw?oc=5
-
-■ 日本の社会
-1. 仁村紗和×佐藤大樹『ダウト -15年目の復讐-』追加キャスト9名解禁 細田善彦、髙松アロハ、松田好花ら出演（au Webポータル）
-   https://news.google.com/rss/articles/CBMibkFVX3lxTE5NTTBIU0R3ZkJBajYwZkhSdWpqWTdHM3VMWHd2LWFtbXQwQUpOZGpsaVh1cklNQXA3bEFXb0VxbWRnbGhEbzJXNVlIS2lBZGpIOWhySzNGTHNsOEFqWXdkSGRxdEkzanlGTlVXTm9R?oc=5
-2. 日本製鉄の40代後半・班長級の年収は？【1万件の口コミ情報データ】（ダイヤモンド・オンライン）
-   https://news.google.com/rss/articles/CBMiTEFVX3lxTE11eDBLZXN5Q3I3UHpMQWVWa21OQW42V2lWZXdfbkM1WXBkVXQ0ZFdvSWZhYnpvOGZKUWFONGhUUGYyWmdfM3FyUmNxembSAU9BVV95cUxOTDJVdjMwcVpSZmM0MGhlSUFtWU1tenhrWjgzVEwtSXowbDg4eUU0QnZsVU5KV3dCb2o4a2JYc1Z0MkFwNWtsMUNZRnJKcnhV?oc=5
-3. 移動献血、過酷な労働環境 ３６協定超える時間外労働、宮崎・血液センターに是正勧告（朝日新聞）
-   https://news.google.com/rss/articles/CBMiXEFVX3lxTE01MUlBUy04UGtxc0JsU0ZvcHlKd3hQVkx3MXk2UnV0ZlV5TFpPQjB0NnJEbTk1cmx6Y0tHUnpVYmFNemNRajRqSzNmM0FJRFR5YWVacFE1bkxJU3NU?oc=5
-
-■ 政治
-1. 新しいリベラル03（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tWjByX1RkNHZaM0p3N24xMnV0UmdrY0JxNVdqeGxlTnlxUHU0dVFhRVV1UUw0RUUwWmwxUmpmaVViVHZmZGhXM09sVlNEbkhqUlFfTnlpSklZWmNDTHJB?oc=5
-2. なぜAIブームが選挙問題になったのか（Business Insider Japan）
-   https://news.google.com/rss/articles/CBMipgFBVV95cUxNWWFwcERDVU51d040ME1HZlJqX2U4R1FaRkgxTHBwY0RLVHBrZ0VvYzRVbUhGYl94cHN2VVd4R2FPdTR6bGFBM2ctVmVqa1hiS2NqN18yMlJxTDZMdnBIMFZSVTVCajVBTm9ZLXdkMEZDaVBGSkdRTVBkQ2lvNk5DeDNwY3pkT0VYUGNsVEFqamh1Wnl5UHQ5b0NGNnRTNXlrWlFEbC1n?oc=5
-3. 「沖縄県知事選挙」で新人「古謝玄太氏」が現職「玉城デニー氏」をリードの声も…古謝氏に囁かれる“弱点”と、選挙戦のカギを握る「妻の熱すぎる応援演説」（デイリー新潮）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTFBZWHZkbG9tNTdISEhuRVhRYkY1MURjdXlJaFI0YmhuT0dLLUNCWldYVWNqcDZxbFk0dWE2blc3dXBtSzkzMlBXU21HbnVHM0w0QnBYTUJZOVhvTE1TVVhoWkZ5a1hpS0x3c1lnZDBBUTViNUpfMXZNZGIwYkNNWE0?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-07.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-07.mp3" length="1338192" type="audio/mpeg"/><pubDate>Mon, 07 Sep 2026 06:28:27 +0900</pubDate></item><item><title>9月8日のニュースブリーフィング</title><description>9月8日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 20 Sep 2026 21:41:13 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>9月8日のニュースブリーフィング</title><description>9月8日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 最先端AI「安全保障を左右する時代に」米中二極化、日本はどうする [AIの時代]（朝日新聞）
@@ -645,4 +604,49 @@
    https://news.google.com/rss/articles/CBMiV0FVX3lxTE96Q3hYRjhJMWIydXFfeFFkUXFQd05obk92ZHp6VjlxanNJN0NZQWRRNTNzMjRtOTZxSnY0My1qVXdpZmxLNS0wQ2lBMHY1S0lwTDVkV1ByTQ?oc=5
 3. 【国会報告】 玉木雄一郎さん（衆院・国民民主）「外食産業を支える実効性のある政策が必要」食料品の消費税減税に対して（newsdig.tbs.co.jp）
    https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mRkhMRnUwZUxTNDFFOTZNQklnMW95T3RBYVZGTU0tcjFkNWJfRUxFblZseHZWM3hSOFozaUl4cFJlRGRRa0RKcWdMQ2U3UTVtUmNGMm8tWQ?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-20.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-20.mp3" length="1559376" type="audio/mpeg"/><pubDate>Sun, 20 Sep 2026 06:31:01 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-20.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-20.mp3" length="1559376" type="audio/mpeg"/><pubDate>Sun, 20 Sep 2026 06:31:01 +0900</pubDate></item><item><title>9月21日のニュースブリーフィング</title><description>9月21日 ニュースブリーフィング
+
+■ 世界情勢
+1. グリーンランド合意で見えた米国の本音、欧州に迫る「自分の国は自分で守れ」（JBpress）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CcjlrNVhfdjJjNE1hb0JKZUdRS2pkM3NPOE41YTF2SGhzeElobEItQUM0S0V1RWM2bE9qZVMtcFR6X0ZBSG9IdmZkUkVMOXNlcW9FZ3Bn?oc=5
+2. 明治のトンネルで音楽外交 日シンガポール関係樹立６０周年 駿河区、未来へ通じる演奏会－静岡（静岡新聞DIGITAL）
+   https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MWkMzWU1uVG5tanNiUm93WkNDU2ZpekttRlIxOUdwbmVXY0c2ZWxBSVk3NFBNMkF0eDV4eW9YMTFfYTdxOFltOWxjZnZtdw?oc=5
+3. フーシ派の攻撃に対するサウジアラビアへの支持、アラブ諸国が結集（アラブニュース）
+   https://news.google.com/rss/articles/CBMivwNBVV95cUxNX2RRci1tLURNSjNwVlZkN25pc2x5cnktdTI5WmJYd3BXUUdaOGF4SkkwX3d1U2J5TFRINjRKYkZ1NDJmcFppeTdyWldmLXdfTTNmZkZfWHpuSUYxSS1sVkRIaHMwWkoxQ3V6T1F5eW9xV3M0NEZxVnJDY2w3ZkZOc3BLMkFqLWFaLU1Uc0VIRVdRQlNYQlpaWEMzOEFjZlp0STh1MGxKdmhTcHhtQ1J2S1lDWFdieS1paVZzUUlhQmgyZzdobXV2VVA5SXgzZE9FWkhuQ21wNEY0dFpUZEp0akVhUDFDeU5ncWFMaENDTS0zY0pHaHYxTjdBV3JkejVtd2xSOUpZVm5rUDZNUzBUZnZ3Q0RzaW5CNmJURXhVel9ObndBSXVvWjJqR0FzajlZZWhVRFFDZ0ZVTXpEcVZwMFM1Q2gtMlFXX1hjY1liM1JhOUxQVmEyTlRKVkNwSFB4TVEydkJwMzNPQ1NoZGhhdEdGY0Z6d1czX0ZzUGJFTXBEU2FwQmdRMjFmUkdyMU5vTXM2c2JJWWR0SHJpbEJlTmRfaHNnZ2k2WEVGdWhPNlpmdXlRdDRKUHdENlhxQVE?oc=5
+
+■ 学校教育
+1. 2026年熊本地震＞宇土高生が防災研究を発表 東京の文科省主催イベント 「つまようじ」で耐震性調査（熊本日日新聞社）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zX1M3SEhnU2ZJVFcya25PbjJaYWI3R3VSblRCR2s4dE54Uk90bGNOMlFJWi1UR2RvUUs3aHo0a0duaWp6aFdiTl95RHhpMWs?oc=5
+2. 10月法改正で企業並みの｢カスハラ対策｣が学校にも…どこからアウト？文科省指針に見る境界線と学校ならではの難しさ（東洋経済オンライン）
+   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NNmtnMTg5QnJvV200alpzbWhRaU00bUUtdW1VN2pmUjFZT3kySXpuUnhIQkJkRzB3VjZ5bEFXbTVjbWJTcm5jLTRyRnluVXI3VEE?oc=5
+3. 教員の在学中の奨学金、返還免除を検討…３０年ぶりの制度復活で「なり手不足」解消狙う（読売新聞オンライン）（news.yahoo.co.jp）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE1uXzNxeUVzMk9KM2NLRDdyX2hrdkRhMlRtVk5PSVh5Z3l2NWVrZmN0QkVLdUV1Z1FmMzg1S1RyWUJhd2Z1eE1JVWNQV09ibkRPWThmaFpRdlUweEFYSmNpZ2NWdFlRaHhSU3lueXpBUlZSYkVVS3VGeGtYTTJOSUU?oc=5
+
+■ 倉庫・工場・物流
+1. K&amp;D Technology、AG/AR/AF対応カバーガラスの製造ラインを蚌埠（ボンブ）1期工場内に新設（PR TIMES）
+   https://news.google.com/rss/articles/CBMiakFVX3lxTE1OaXRCZFlDWUJhOTNfTHBoUFc2NDVoaF91cTh4YjNVUzRWUURpZ0JYRHZxMm04d0NVcFEyeTNjM2RCWnQxQm9ER1l1Y3o4Sy04QmsyYmZ1T2hIT2FKc3hpOHdKendOdWJ3aHc?oc=5
+2. 日立プラントサービスら3社、工場排ガスからのCO2回収・液化・販売の実証試験へ（EnterpriseZine）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vTXdiNlVpQjJwLV8yR2w3UGVGbVVrSnlCZ0prUWxDT0NjdUNxMENKLUJTOTBPbGZJSWNoNE8yQkhMZ28wRzZIb0N4cGxXRWpFU2ZpbDZn?oc=5
+3. 福留ハム、北九州市の旧小倉工場の土地・建物を譲渡（日本経済新聞）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTFB6T2xWYVFSUVBFZjcwaS11NFhJcnkwWVNFMENjY2lndTRuWjhvQzhhWjdxc0VDN2hlUWpSNGJNYk9FSTI3YjBTOWxlZk1ieTkzUEtNU1VUMVNaZ2M4Y2V2X2lSb2VJWHZJaDg1ag?oc=5
+
+■ WMS・WES・WCS・RFID
+1. 世界のスマートパレット四方向シャトル市場動向、年平均成長率6.5%で拡大継続2026-2032（Newscast.jp）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTE53NzFLT0xfTGR3V2Nta1dBMDdzeV9ScDd4MWZmR2JxTE04LUVOeUVlOVVBS0Jqa09rNEpidkx4aC1jeEF1bG81eF81YUF3c00?oc=5
+
+■ 日本の社会
+1. 【バスケ】「悪条件打ち破った」韓国が金メダル、複数メディアが“バスの送迎トラブル”に触れる（nikkansports.com）
+   https://news.google.com/rss/articles/CBMidkFVX3lxTFBDZ1pKTU55SXBNZ1pReXM5VHM3RFVncnlRZ1M1Y2xZbk9UUWNrRVVzcmlBaldqT3Q3a1owbFdUNTFwSXFjTVBlaWIwNHVXM0tsM2M3LVJEbE53Zk1iclNJVGZYNTZUTVpzeVhXLVBEb0JIZzJwOVHSAXZBVV95cUxQQ2daSk1OeUlwTWdaUXlzOVRzN0RVZ3J5UWdTNWNsWW5PVFFja0VVc3JpQWpXak90N2taMGxXVDUxcElxY01QZWliMDR1VzNLbDNjNy1SRGxOd2ZNYnJTSVRmWDU2VE1ac3lYVy1QRG9CSGcycDlR?oc=5
+2. timelesz猪俣周杜容疑者 事件3日前に新作映画撮影済みだった 関係各所が対応追われる（Infoseek）
+   https://news.google.com/rss/articles/CBMickFVX3lxTFB4bnhCRnpOd245OHQ1TjF4MEc4cjZOcVJ6cHJJYU1kcnptc3lBYTcybVRvNkJVS1dxZFNLbl9UR0xQZDlGRWxacl9OVnlXeDZUbmoyVmFLSTRyTXdjUmNEeFhQd3JfWkZlSk9Vb3ZvdVdWUdIBckFVX3lxTFB4bnhCRnpOd245OHQ1TjF4MEc4cjZOcVJ6cHJJYU1kcnptc3lBYTcybVRvNkJVS1dxZFNLbl9UR0xQZDlGRWxacl9OVnlXeDZUbmoyVmFLSTRyTXdjUmNEeFhQd3JfWkZlSk9Vb3ZvdVdWUQ?oc=5
+3. timelesz猪俣周杜容疑者 事件3日前に新作映画撮影済みだった 関係各所が対応追われる (2026年9月21日掲載)（ライブドアニュース）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE94cy04TnRaV2xTSVBBN1BjdXRRMjhhMlJLanljd211WTRrVDYxUVc3eGEtYS1yZ2I5WVF2UklfTllXTmRRVHk4MXJtMFFRaHZFVzdZR0hGRS1HYVJodUE?oc=5
+
+■ 政治
+1. モスクワに過去最大規模攻撃「選挙妨害」と非難 ゼレンスキー氏「和平選べ」と訴え（テレ朝NEWS）
+   https://news.google.com/rss/articles/CBMiekFVX3lxTFB3TFhpUW1kUlhqUHJ3WTJtUTdQTkdBb0VJZU1SZThPNDRNcEVabm9JOVdMR0VlOWVTZUFBcENmdlJ2ZzNvVzltY2pYNEVla3BVQ09NQVpTbWExRzEyWnAtVmFtSzdZNlhEekJoaGU0XzA3Y0RQZkpDVFd3?oc=5
+2. 高市内閣、「自動運転大臣」ポストの設置見送り（自動運転ラボ）
+   https://news.google.com/rss/articles/CBMiSEFVX3lxTFBERWdGZnkxcHFMWUVlTUxzRDNOVlJnYlgxM3MzemY4dXlJS09meVlIS29MWDRVNmtaaWd5YlF0NTEwVmZvYnV0Nw?oc=5
+3. “革命的人事”第2次高市改造内閣発足の舞台裏 人事アンケート「白紙回答」の林芳正氏は閣外へ… 要職には“主流派” 残る派閥の影（TBS NEWS DIG Powered by JNN）（news.yahoo.co.jp）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE9WeXNjQnB1NGJmNmMtOXNvRHRBMFBXMTFoU3Q3eTMxNjQ4QnlXLWp5UC1kLUt0WDBYRWl3MTNBYVdMN3E5ZDJic2Etb1k3OG9nWWtFQXlFdUN6VXBpdEFUd2dHZVVIdHZCRUZfYl9LUmxxdndZQ0RUcEtLY09nSUk?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-21.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-21.mp3" length="1584864" type="audio/mpeg"/><pubDate>Mon, 21 Sep 2026 06:39:25 +0900</pubDate></item></channel></rss>
