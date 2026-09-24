@@ -1,50 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 23 Sep 2026 22:24:27 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>9月11日のニュースブリーフィング</title><description>9月11日 ニュースブリーフィング
-
-■ 世界情勢
-1. モンゴル、ユニセフ、議員外交（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JWDZtYVdlS1I1Ri05Z0drNmN0QkoyQ1puMDBsek5McHBYY19ZeUQ4TUZvS1BieXZfYmxpMGs1QmRZdlczR3FiUHVrSXhZT1JCRGk4dGpXRDRWRi1rZUZF?oc=5
-2. 日本での緊急旅券発給が急増 年間3千件に迫る＝韓国（聯合ニュース）
-   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5veGVCZXU2TnZLOVM5bm1uV1AxMVZiVV8xaGhaZ2dJbUxMaEcxZWlpX19mMFFNZWJYc2gtUko1a2ZzYU1BWkdIcVJLaE92TjEyaGJxV3NQd1p4UQ?oc=5
-3. フィリピン･ミンダナオ和平が自治政府選挙実施で歴史的な節目に…緒方貞子の｢人間の安全保障｣は道筋をつけられるか（toyokeizai.net）
-   https://news.google.com/rss/articles/CBMiUkFVX3lxTE95bW9VamMwekdWSXo2X0JZVC1BNmZURHhzVk80NmJCYzhrRkVnaHNCSDZtbHQ3WWc4UHpwcU9TaldoeU1INjNkSE84WllQOHh4UlE?oc=5
-
-■ 学校教育
-1. ＡＩ活用授業 教員ら視察 牧之原・相良中 限定利用の工夫も（静岡新聞DIGITAL）
-   https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtd08ySGhBMkJmZHI3Wmg1MzRWWXc2eFdDZEl2LTVQUkdhSFhSX1BzS3pRREhIcmpRcjNIMmcwbDFKcWYwOEgzc0FZUFRfdw?oc=5
-2. サーカスの技に棗小中生が挑戦 公演とワークショップ | 学校・教育,学校・教育（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nUUJoZGdlc0h3cTNnT0x0ZkFXblVYbnU0aXZ0a3hqdTBSbWlaa1daUEFacjlqS1ppRnNLRHp4MW9BUnFKMnZ2QjdGY2RpWWpKS2hMeFY0V3psTW1jaWc?oc=5
-3. 「スマホ回収しない」「野球部“ムラ”作らない」甲子園強豪・浦和学院の35歳監督が語る、“野球部を特別視させない”方法「進路指導は現実を伝える」（樫本ゆき）（number.bunshun.jp）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvWVN2aWhCNXRxMjlBVVJTSmVaeEV0MlRqWHVPcWF4S3kzQkFSdnU4Q2ktSUdhY0tSN1hOakd5c2syeWZhN1lzbVhpY2J4UUpLZnpGZHM3eWNxM3ZKdjFZ?oc=5
-
-■ 倉庫・工場・物流
-1. デクセリアルズ、300億円を投じたACF新工場が完成 生産能力を1.5倍へ（マイナビニュース）
-   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PTGVpYzd2TUVDWnhfS0F2Z0ZpNTA3NUNpa0hjbFkwMDdWb1pmVHMyaWlaSHdFY1N2NS1jeDVTV0I5LXcxSndsQzRGaHVTb0M2SDBqZDlGYnZ4ZEVEbnF5bVhDa3ZweHJV?oc=5
-2. 「乃木坂配信中」にて「【工場見学】一ノ瀬が大好きなめんべい工場に潜入してみた！」を公開！（nogizaka46.com）
-   https://news.google.com/rss/articles/CBMifEFVX3lxTE5vbEpZb0k0cVExa3JjdHhld0cweC0zcGg0bU5MMGJidnhNaGFpYjYzSWJqa2U3ZkFha2VvX3JJcXY2aEdXdHNjNEN2V1ZyRi1WcVNJWTBrRDJXSHRzWndJcXp3ZFNJV09RZnhfdm5NTl91YlpFZFRoNGFTbmw?oc=5
-3. フォード、ケンタッキー工場に1500億円投資 米国生産重視をアピール（日本経済新聞）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE1tOElmWDVCTTBQaHN1Wmw2N2laeEdrbHhVb1l6R2JRUFFHQks2czJ3aU81bUYxdnN1SXJ2ZVMtcXpGUzBtenFiTUtPN1Yxc3VYSHl1STBGdjF0WEJaM2J6QnhkcE1FUEREZGZVZg?oc=5
-
-■ WMS・WES・WCS・RFID
-1. AI標準搭載のクラウド型WMS「W-KEEPER AX」、2026年10月提供開始予定（LOGI-BIZ online）
-   https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UX3lGcXR3QjBEY3pXdk02V0pfN1B5M3YwRlJEeWx1Ym5LYWtyNnF3NElPSVV0dGRHSWFoQ2FLSE8zQS1HYmNuZ20zYw?oc=5
-
-■ 日本の社会
-1. 米同時多発テロ事件から25年 政治 社会への影響検証する動きも（NHKニュース）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE00YllLYndxS3VYTDVXTEM2OWNYa2dkSnZQSUJIMHFhZ0tqbjktVFZuM1JZV0R3MHF5VWRvSnRjMy0wZ3hqSWVENVI4aV9ETDJDOXNNbS14T2R5OTQxZnlZ?oc=5
-2. 【世界遺産】『佐渡島の金山』追悼式 韓国側は3年連続の欠席「日本側と協議も相互合意に至らず」（新潟ニュース NST）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBycDgtYU1BSzRsOHZrTzZlemhveW9OT1BCNlNCMUg4YkNOb3g0WTBlRGFRbzRLS1h0TkdCdjhNa3pjQmxzZnpiOXAtQzhIVzh4alJnUGgxNVk3VDFCNHFV?oc=5
-3. 献血バス、移動や準備「10～12時間勤務、日常」 過酷な労働環境 [宮崎県]（朝日新聞）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UdWdDUjAxZHRpdENkRWlUb3dXUDZNX21FWmh5dzd2RkhreWFNUC1iQnp6a1FsOW84dF9za2tubE56LXU0TDUzTks3LTFBcVp0SGtOczhTVTNmVE9XMHhua1BFQ0ctbEk?oc=5
-
-■ 政治
-1. 今日の注目スケジュール：英鉱工業生産、露中央銀行が政策金利発表、米ミシガン大学消費者マインド指数など(フィスコ)（finance.yahoo.co.jp）
-   https://news.google.com/rss/articles/CBMihwFBVV95cUxNZkxYNTcwZDRLa0tBaEkwMWRvUWpDN3lENllvWVR2UDNvRWE3OTRScm9OTS1sUzR6WlUtVnZNQzF1eVBnNC1MUTN0cjczV2JrQ0NUT2JJdUJQeGlCS3pxMnZ3WUh3V08tajNvZzg4cng5dTVrQTJGRE5rTWhuV1gyODlITnlnVUU?oc=5
-2. 今日の注目スケジュール：英鉱工業生産、露中央銀行が政策金利発表、米ミシガン大学消費者マインド指数など（株探）
-   https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCNmhmUjYxbTk2cjhHLUt3c2xTYXpBY3pwWVFRZG41a3JmdHVzRlQxZXlJRThCdEVhUVA3MjRJSXJ5NFRVbXZiWUVNYmdlZXVpMmVHanhfRmtOWFRNWnR5cw?oc=5
-3. 中道改革連合はなぜ行き詰まったのか､議員の離合集散を超え野党再生に必須の｢政策の結集軸｣とは（toyokeizai.net）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmU21GTFY2dW9DRU1TYTRudGVCMFNNNVFBOWJyaFlrWl9xakNnSS1ObUM0ZnVFZURtYzA0cWpHd2hyTXNKOW9GUHEtUllIenVFbnVkVGxYekZKX3NwanlJ?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-11.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-11.mp3" length="1499184" type="audio/mpeg"/><pubDate>Fri, 11 Sep 2026 06:42:38 +0900</pubDate></item><item><title>9月12日のニュースブリーフィング</title><description>9月12日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 24 Sep 2026 22:35:21 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>9月12日のニュースブリーフィング</title><description>9月12日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 米国が同盟国に重要鉱物の安全保障プレミアム支払いを要請（Межа. Новини України.）
@@ -637,4 +592,53 @@
    https://news.google.com/rss/articles/CBMipgFBVV95cUxOTVVkWnpJcGI0Vkx4WUJzaTNBdVJNQkppVndocE1xdEQ4SDBUc05vaUd6aW9mV2xxWXo3ZUNyZ2J4M1V2NzVGSnJjRWoyTUhMYXZJN1ZxWnJhZVY5VWxjUjM4dnV4ZE9MSkVncVg5cnNmdnpKTXVDUTBqekFqVVNOaXppRy00NlNrZ2NlcmZ4MHU1VlRQNVBaUm5tZGVXWGFoOWs1WUhR?oc=5
 3. 商工会にて活動報告・政策報告をさせていただきました。（選挙ドットコム）
    https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xZXVmWThscnNnSmd6YTdFNzZ2RE4wcmFpbG5aUXlRU1VHOUw3WFZVRWtjWUtRN3N6dkZNN0UxWWF3VjFzbm1YZ2pRNzlRZm9tOU9ZT3o2ZVlWcGtaRXpB?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-24.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-24.mp3" length="1415376" type="audio/mpeg"/><pubDate>Thu, 24 Sep 2026 07:22:43 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-24.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-24.mp3" length="1415376" type="audio/mpeg"/><pubDate>Thu, 24 Sep 2026 07:22:43 +0900</pubDate></item><item><title>9月25日のニュースブリーフィング</title><description>9月25日 ニュースブリーフィング
+
+■ 世界情勢
+1. ［社説］高市外交とICC 米政権へなぜ反論せぬ（47NEWS）
+   https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XSDcwRG9salEtcFJieFNWNzBGTEpPNmI0OERTYVh1cE9hS2VqT1RHTHdTay1EUVF2dmhoakZXajdmTU9PZEpmYnZBcw?oc=5
+2. 茂木外相 「二国家解決」実現目指し 積極外交を強調（NHKニュース）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZT2hSTWhnT21LWXM2WnBUcmZjMDdDc0FsLUNYLWUtT3g1MkJYSnhLR1o3aldFSk02UzRldlozTDJIb2g3QUxMdU9RdHRicjl1RUpvazByei15elppU0o4?oc=5
+3. 米中首脳会談が開始 AIや安全保障めぐり主張（smartnews.com）
+   https://news.google.com/rss/articles/CBMi1gJBVV95cUxQYlIzZTltVk1qa0JHcW0xcU9paVBxOERfSWtKLU95NUUtdFYyOUxhajQ0Yk9QT3JHcXhsYVB4eEZLSFNyNVFxc3NGSHBOZTg4WU5Uc1NxNTFlUjd5bWZPWkNMRzdwNFJQb2R6QjEwTEl6QzRoa3pRc25uN0M0VWpMalNUSmh0TzBJaUNEd0txQkVGWUd6VjhkWlNhcjROc2hPeWowcEdPVERGZGNCajVEZE5xQ1c4N1YwaWpmb29HRE5GYWNPR3RzVzU0QWxCT19EMlBrWVhWbV9WalRVQ3YyNENIUllEMFRPV0Q3cFAtUmZjLUJXRzMxWFRmWHJ2ZkdjdV9TU0V6YmtJVmxIdkp4NWVGSVlULUZSTmQyWXVkeDFMeHUyTGFFai1mNGtfNXBVSlcxMlMxY1pOaFFtQW1kLXhQVS1lQ0Q5NElnMVV4UEYyNmtiMGc?oc=5
+
+■ 学校教育
+1. 文科省概算要求、感染症研究と合成生物学で新規事業立ち上げへ（日経バイオテクONLINE）
+   https://news.google.com/rss/articles/CBMiZkFVX3lxTE13QnNObG1iYVZmRHhGVjExVXAtMjRmcHBwUDV1QUkwR3JmMmVsRFBSX1NIczZHeGxPSVE3TVRCZy1MWFBzQVItTGI1SXVQYUhseU4xb1BLdExhV3JOUEROWFM4dGtUUQ?oc=5
+2. 教員の「やりがい」を担保せよ！（アゴラ 言論プラットフォーム）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GZmNKQU5zclhCZmdfdXF5bXRYbFhDZnBFdlhFeV9SdkxaZS0tYWFZbGtXSzFpUk5xdzFidG0ySUlVbmlhSkxCX0wxREZnd0JCQ2xaei1wOEtLZmc?oc=5
+3. 私立K-12教育市場レポート：2026年から2033年にかけての予測成長率8.30％、人（pando.life）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE93UVhfcU9reEUtY0pfaEgtand5N0F0TzlreTU0ZWR4RjZab2pmQ3dGY1RGV0hSd1hEN0ZBWS04eTFnWjFneFRwcTlR?oc=5
+
+■ 倉庫・工場・物流
+1. 【太陽光発電】ちゅうぎんエナジー：加見商事の冷蔵冷凍倉庫に383kW太陽光、オンサイトPPAで年間184トンのCO2削減へ（みんなの広報宣伝部）
+   https://news.google.com/rss/articles/CBMickFVX3lxTE16U2NncXI4M3ljZGZFeXJLaU9KWWZDanVndENCanNxMnFXOGhEb2lkWDVmTTNubHl6cWE3Y2w2RXFfVUdVV0V0N2lRSUFQdnN2OVU0SUVXQjZqOTlxRGJRWjdfX2x5NzJYN09OOG4zY1p6dw?oc=5
+2. ベトナム工場のスマート化｜三菱電機・デンソー・リコーのAI＆FA活用事例（access-online.net）
+   https://news.google.com/rss/articles/CBMia0FVX3lxTE5PVUw1cTRQOFF3WENMN2dPWUZoMndmYUhJRThLdkVrUE1JN0tMZ2lydEVJOFIwVm5mOS03WlRUMDU4UC11MnowdE9ZTzJaZ3B4TmZTdERoOEtfRzUxLXVWMHFaZEp5UDRUMWow?oc=5
+3. ホンダ、米オハイオ州にHVの新工場建設で最終調整［新聞ウォッチ］（レスポンス（Response.jp））
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vRXpzQlR3dGVwdEVQT2lyLUdRTWk2TTFiVGtjTjAyeWdtUDlUNWhseXYzWVY5TUVGaFVCV01UOHRRVmEzNVJwMFpOR2oyRXBKdFVhdy0wZnVhSFNEbTJN?oc=5
+
+■ WMS・WES・WCS・RFID
+1. 「CLOコンパス」に、最適な拠点ネットワークを検討できる「拠点ネットワーク最適化機能」を追加（ニコニコニュース）
+   https://news.google.com/rss/articles/CBMie0FVX3lxTE1nY3lVYVBMVi1mMFU1czU2ZGhralhGVnJLcEtvWjdNdmN4WTAtQ1o3bHV3LWR6LU85REJTbm1KSk83Z2laWFRYa0x6ODFSTGVhV3lWMFlOMno3NU9MT183amgxVnFuUWhaRndOTng2R3V1VEdVMkxfd0l3Zw?oc=5
+2. 組み込みRFIDリーダー市場レポート：2026年から2033年にかけての詳細分析と年平均（pando.life）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE5jME1zU0haTzlQZ0JIejNyNDY4ZEJHV3UtVkY4LWF1T1pJMWZtSWN3algwQ0FGQ2xJeElBTk9XREpXV2R1V2VSVElR?oc=5
+3. 材料処理の統合の市場の傾向、将来の成長（Spherical Insights）
+   https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa0FQZ0hzLW9NcGd1ejM3b3hYcGZkNEROTHJxYTZDZzdhVWhaRThTTHBxX2NEVmtleGo3R3F1LWpEQmY5OEpwSDBaRDRFTElGWFRhVnZDM3NmeG4xMEZCQVllUkI5dkNPajBmNlNJR0Y3Q016MHM2MnFhaUxRc3BqRjFpYlhwaWxD?oc=5
+
+■ 日本の社会
+1. 「九・一八を忘れるな」日中関係冷え込むなか迎えた柳条湖事件から95年 その時、中国では（ｄメニューニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTFBmRG1TRFNka1lyMUFwaWJvSFlKV1NhNVRFVnVSR0dmY1ZGUjhaRTRwTklrNGxNOU91ZjB1MF9jalVVZXdIaXo3bklKQ29zcnFBTFlkRHNiUmJ4X3p3V3YwZFFlTU14M2tPNXpTS0VOaDZUcUxRT3FIQzd2TElSc2_SAYQBQVVfeXFMTkJaY2IwbHN3cGY0U2hfTHIzTFVuZEt1bVZCMXY4MUdrNjY0T1pUS0Z0ZVJiRDBNZEp3Y05UUUtabWhPRGpNZWw1c0ZESFdlSW1MSWkzWHRqcFMzSEFpako1ZWNkQlprNlVNSFFPVGlJS3d2SkwxemRhTjZOeWQxMG9FQWs2?oc=5
+2. 二宮和也、池田エライザらが実在事件を考察！「金曜ミステリークラブ!!!」天樹征丸からの“挑戦状”も（TVガイドWeb）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwMll4WkRVM0JhM1NOQXRYTmxtMkNfb05CZWhLYzJJZWN4azlUWWVkRE5tbV9VMnEteFVyaHg4NlZmZUFGNi1mb3QwWENyQjA3eUZpbUlPYw?oc=5
+3. 総額15億円の保険金、首謀者の男は200回超会見で無実を主張…1999年本庄市の連続殺人事件、共犯女性が突然“完全自白”した理由に『金曜ミステリークラブ!!!』が迫る（マイナビニュース）
+   https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YLXBGV3RmaFIzY2NaMDFCV0FraHdseDUxNE95ZWRZOVcta0wtUEtaQVlvYnlPaWhTWHBxVTZqRUJwdGNEcF9tZ2RaZ01UdWlzQlhYSTNtWkw5eGZi?oc=5
+
+■ 政治
+1. 世田谷区・民泊条例改正の動き（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE94ZG4xZ1NGdzhha3FUci0wa05OSzRFTzU5UGxwbEhtNXFOMGctUU1fNnI4bjZickhNc2dEUFhuR3RvTXJtdmJtRUNMN2dXUUtyU2VzV3ZET3pGOXFFQjF3?oc=5
+2. 【政策】経済産業省：GX戦略地域の第1弾を認定、データセンター9地域・脱炭素電源活用型8地域など選定（みんなの広報宣伝部）
+   https://news.google.com/rss/articles/CBMickFVX3lxTE1YX2FKUnowVUt5UXJzOTdSLWdua2luWnI1UGJIMDBCUmstYzRuRDBYZzBmOFQ3Y0xYQmRqQk05U2F6dV9zREJpUVhBYWtXbTE1cVBFdlk3ZU1PNVJDQTdKQ1dmR1Z2MlA0ZjVZVTNXaGV4dw?oc=5
+3. 【政策】東京電力パワーグリッド：系統連系受電サービス料金を見直し、11月1日から新単価を適用予定（みんなの広報宣伝部）
+   https://news.google.com/rss/articles/CBMickFVX3lxTE1LTnUyMzNkY05FWGNHWkp6RGd0UnBTbFZyeUVhSldmTlBWZkJiMlRxeUptZVY0RC1aOUZEZlAyV0dDVklQUGFCSEFVN0lOcnJTYjBHcWlWeHlpdW1NMHNhdk1sRll0NUJ6RXMydElTWDM5dw?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-25.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-25.mp3" length="1602144" type="audio/mpeg"/><pubDate>Fri, 25 Sep 2026 07:33:32 +0900</pubDate></item></channel></rss>
