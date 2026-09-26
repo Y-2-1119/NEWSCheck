@@ -1,46 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 25 Sep 2026 22:34:53 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>9月13日のニュースブリーフィング</title><description>9月13日 ニュースブリーフィング
-
-■ 世界情勢
-1. 『食の属国日本―命を守る農業再生』鈴木宣弘 著 読書会開催のお知らせ（news.infoseek.co.jp）
-   https://news.google.com/rss/articles/CBMickFVX3lxTE9WRVF4THFUbmw0Y21pc3VjdGJndU5seTVwQXU3TUpqejlPdUpLNlhaYW00eFR1S0RxVmVnNHZhSGM0cUx3WG1NYmhiendNc0dMNTVQM2dFdU85SmhJY0VUTlJ1Y3g1YzNndUoyMkQ1T2FGdw?oc=5
-2. フランス、ウスマノフの制裁除外を支持 国家安全保障と国際的要請を理由に説明（Межа. Новини України.）
-   https://news.google.com/rss/articles/CBMiaEFVX3lxTE84bS1IS0xSV0hVWkFLcGZLWWItM3hWS290My1QZ1dxbmwyNnJfTnRVM2pJc3ZoUTlaUzRsSmdoWndGUnp0VGZVMXlJZERuRnRnOXZxTTl0QnVma2NGS3hzWWh1NlByTmh3?oc=5
-3. 元外交官が指摘、ウクライナの勝利はトルコの安全と経済を安定させる（Межа. Новини України.）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94UmxnZkIyYWNCOGc5RjJ0U2JDTHFJSjZWa3hRQUxNYUZ4ZU9OXzdRZUNaQlZXeFp2amZSZWNqQXJUN2tBOHV6aFVRX3VzZzEwTTJveGRyTHUyMUhQRTJ1QVdFb0ZBMkE?oc=5
-
-■ 学校教育
-1. 生成AI時代だからこそ新聞を！ 新聞で育てる情報リテラシー【未来の先生フォーラム2026公募企画】（朝日新聞）
-   https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMYXY4aVlJV2FIUll4d1RHeW5RV3FJV0ZBcE9HeW5oNHg1OHpLUzZwaXJUSGgtZHBRZFM0VEVSZ3pMaXFMZVY1RXJkRnFQYVh0cVM0ZVJVWlFvb3pWZzUtVnoySnA?oc=5
-2. 社会課題解決 学生プレゼン 「未来国会」県大会 | 社会,政治・行政,学校・教育（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WMXZBWmZ5QjBaQ0FnV0FNT0M2dUlmdFRjXzd0dEpkVG1xWXNJSzhLNFA5d25Xd2JOaTZmSWtiMVFrWF9QazdJQTAxQkF3NVdXbG5xWE9oM0ZGV1Q2UGc?oc=5
-3. 教職の魅力向上 自治体を支援へ 文科省 なり手確保向け（沖縄タイムス社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE13N3pkZVhtdm0zMVNPaWRDTFM4OFBpWW5WYXlmTWw3UThPSjJaeGVOTVhYN0JHUGEyQ2JBTXZOS2dpYnk1MjJGbHhRZEE4TGl3MVVkUnRuZ2U3NWFTbFE?oc=5
-
-■ 倉庫・工場・物流
-1. 防災力強化へ新たに倉庫、井戸 藤枝・高洲第四自治会（静岡新聞DIGITAL）
-   https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jOXR6dS03U2J4WkhjSVpndFoybmkzcW8yaENFSU1pdGVWSHliSEtkc1AtQXhmVXQ5QVRSbzNrdVkyTUFRaHY3XzRHWnU3UQ?oc=5
-2. 画像13 / 14＞サーティワン アイスクリームが取り組むSDGsは「つくる責任、つかう責任」に準じた“熱のこもった”取り組みだった（ウォーカープラス）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE1LVlFZdkgxRXBhZGktNXZwY0pkSUs2aHdJWEhmLWNydi1UWTVRMnBsby01NGI4S0d5ZTlGQ2VYVnMzZUJCOFNDSVF5YVdRSkZNMk55NFFobU5nNnpKdC1vSVRSVjE0WEZsX1l0UHNCTmR5ak9FYVBiUVhwX29HZ1U?oc=5
-3. いすゞと藤沢北署が交通や防犯で連携 市内に主力工場、地域の安全確保へ（kanaloco.jp）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43d0lmRG9HSmEzUU51cWxiS2paVmw0ZDlSOXoxb3JGMkJvWkEyV202YzlfNm1yYlpZQkp2YVo0UkZvWmNFVHAxQmt2UkQtZEpwUURaNkcwVTJaOS1IM3AzdmRFaWFtQzg?oc=5
-
-■ 日本の社会
-1. 《労働力不足は賃上げ不足》人口減の日本で「高い賃金を払えない企業」が淘汰されたら…労働者＆日本経済が得るすごいメリット【経済評論家が解説】（gentosha-go.com）
-   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xR3V4VV9hY0FoY1ZjU2txZkxXZU12T3VDMElYQXEyV2gxanBDNml3dUl0V2ozZFhGbGcxMENUTVhTcDhFT0gzQm5GbVBGdUdpSUE?oc=5
-2. (画像7/9) 土ドラ「告白」25年前の事件の真相明らかに 知られざる繋がりも発覚（モデルプレス）
-   https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXWno1UjFIYUNhV0dKTTlrNjBIeFJ3SWlVY0RYTkNxTVZFRGlYdFVqMDU5M1RORGRBZmJ6ZWFGVkp3SkMxVVE2dXY0UHUtdw?oc=5
-3. 土ドラ「告白」25年前の事件の真相明らかに 知られざる繋がりも発覚（モデルプレス）
-   https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ya1oyN19icTllZDBBdGowRGJkYkR3T1pDZFlFVFRGRXRONHMySUJYZUhPNUhZbkNHSmRsRjM4cVB2VWFoSlAydWFwamTSAUhBVV95cUxOYWYtU3V3TGp4Rl9ERzF1QW1OTjF5SEF4cHBqcURidEtQOUhSbk9xMk5xY2paWFFyQUNubHJWMV84dWxydTNnZGY?oc=5
-
-■ 政治
-1. 日銀の政策金利が上がっても変動金利で大丈夫？住宅ローン1億円を借りた場合の意外な結末（東洋経済オンライン）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE8tcF9wUlRQZ1pXSTVKVmFGd0ZhWVNaWFNZUXBwRlJEQUlTa1FtU2RCbE45aDFyRUR4WHNIdmNOTWVHZzVDUERxdkNLcVhXcWxxOG4yYzY1anU2dF9uc1l2dlZxeGw4cnlxR0Q4Q2FoOXBFdEh0aUxkQ19TSmhuUXc?oc=5
-2. 来週のドル円相場はどうなる？9/14週のイベント予定 2026年9月13日（外為どっとコム）
-   https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iaVN6bDBsd1RVUUh3Y2hib2pZbEJPeFNiWFNxRWlrRXUwWVZabXNZOTZOSXV3eWd2cUl5bGxxWnNCeHBVM3gyZVNJQnFZdWlqWmllYXlPbDNwWm1hekdEZVF6aw?oc=5
-3. 187票差だった「杉並区長選挙」 ペヤンヌマキ監督がドキュメンタリー映画を盛岡で振り返った（河北新報オンライン）
-   https://news.google.com/rss/articles/CBMiYEFVX3lxTE04Mnl0N2tFQW1nbkxselJhQlMyZ21aQk1BeWRwSXJUd2F3NkhrM3l5N1JvekhMbFZIMWZyWHdQMnNIek01VUJ0ZFQxWWNaOVllNUZEZ0ZBR1JTSmE5bXZRdQ?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-13.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-13.mp3" length="1418112" type="audio/mpeg"/><pubDate>Sun, 13 Sep 2026 06:29:47 +0900</pubDate></item><item><title>9月14日のニュースブリーフィング</title><description>9月14日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 26 Sep 2026 22:02:41 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>9月14日のニュースブリーフィング</title><description>9月14日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 〝金融〟が安全保障上の抑止力となる時代へ…カナダ・カーニー首相が推進役の「防衛安全保障強化銀行」構想とは？（Wedge ONLINE(ウェッジ・オンライン)）
@@ -643,4 +602,51 @@
    https://news.google.com/rss/articles/CBMif0FVX3lxTE40ckJVR1lfU1ZSZTdwUVF0azl4dHdoU1NmSmx2RjFOUTRLbHYtNnJnRkRnLW9ZLUF5YmFtMGdSempuNTUyNjZNeW5xQVlrUUdxZm9qbkRkajRNS1RFa1NPbUFDQ2NEZGJvV0hjYlRpR0E2MXNYRHdmS3NQZTMwTFU?oc=5
 3. 11.3アメリカ中間選挙は本当に｢トランプ共和党敗北｣か？（四季報オンライン）
    https://news.google.com/rss/articles/CBMiV0FVX3lxTE13MDdONThZclFKeWFMTm5MSXZLU010b05OcnR0ZC1zcnhuR2lxUkROLUJLaVlqcURxc1hNSEVmcnJsSUlwTnhqTmV3d2ltUWgydEEwLV9VRQ?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-26.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-26.mp3" length="1550304" type="audio/mpeg"/><pubDate>Sat, 26 Sep 2026 07:32:48 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-26.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-26.mp3" length="1550304" type="audio/mpeg"/><pubDate>Sat, 26 Sep 2026 07:32:48 +0900</pubDate></item><item><title>9月27日のニュースブリーフィング</title><description>9月27日 ニュースブリーフィング
+
+■ 世界情勢
+1. 独ロ外相が侵攻後初会談（埼玉新聞）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fUFlhb3QwNUpBd25nakZOdTkzWmoxUXh0SXZWWmMyRDFEVnBxQ1NHQVlYYmtxbGlpVy00Tk9Ib245ckNvelg0Y3kwTlVZZHVCYXRvVkxOWQ?oc=5
+2. 米中首脳会談で見えたトランプ外交の限界、レアアース握る中国に強硬策を取れず、浮かび上がる「中国優位」の構図（JBpress）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TQ3VxWmlGMnBCQkV3WGdVZG1xSllOMzNLTTlZMEdBdkdYMUdOdXE1Q216M0djUndUd1pZb1JYMVJDaVo4bGRHdktZdUV4elhMLXVrNzJR?oc=5
+3. 「高校生外交官」に県内２人 米で奮闘 伝え方工夫 文化を理解 弘崎智華さん（高志高） 視点さまざま 議論白熱 大橋奏斗さん（若狭高）（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Jcy1VWjdrLWpHVGtKREx0dy1uLTRMcWJ5MHlmeU45VDJBTjJEN2hBSkhNb3ExSFBsMlMxZEliRkNHemVaMkp4SHh4TTQySGNud21OOHpmMEZuRlR2SUE?oc=5
+
+■ 学校教育
+1. 県内の宇宙開発 知る 高校生２０人 大学、企業が説明 あわら | 学校・教育,学校・教育,経済（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE14bjF1MWFwbktFV1pOOXVFSjlYY0QtXzY5TkhDWkt4V0dieUtpb2pZREJkY2FsSnpEVm1mZm1IWlNyUk5EQ2ZiZU1RS1ZXQ29NZWdyblZNNENybFpqemc?oc=5
+2. 全国ＳＳＨ発表に藤島高 「ラングトンのアリ」テーマ 分析を発展 ポスター賞 ３年の橋本さんと三寺さん 通過数を数え、規則性発見（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BQnh0dGk3QjN1MHUyRk1uT1N5ZU5pOXlaaTZwVmlYak5QMTJRQnM5TFBvcnVzVjVVSlZua3ZURUtGTFBnaWh2bXhaWmxXMll6VGJ2cXpnZS1PT1hEcmc?oc=5
+3. NGコンテンツ例示 文科省 デジタル教科書巡り（沖縄タイムス社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ST3J0LVRXNzhnaHRnZ3F6RzZlTnBaV2lzTE8tSGdtU2w0dU5aWXpueUIyUnJzeERydUtqOUhDZ0FSSGt1VGV2elJvM2lITnZTdzNIX3BncGxtRUx0Z0E?oc=5
+
+■ 倉庫・工場・物流
+1. 令和８年熊本地震義援金／民報教育福祉事業団（２５日） ▼いわき市の品川リフラ湯本工場が５万３千円（福島民報デジタル）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTYWxXUEVXQUhqZkFLNjBaMm53cjdXVmdyTS1IcUxBVmZSNWx6ZE11Y1BSdmlONnVIaFBlcDY3dlBqbjZTV3VzUXpkWW5SSXc?oc=5
+2. 9月25日（金）ホンダが米国にHV新工場 オハイオ州で最終調整、サウジアラムコCEO「原油の供給止めず」 日本での共同備蓄拡大｜ながら日経・ヤング日経（ラジオNIKKEI）（テレ東BIZ）
+   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mb2hleVFacnBaeDlFLTRFaXpWMDJmazZRM0JBTl80TWlHWW95SzN4OC1kOWFsNEQwUjJzcWlUMHJoY2JfQWJWRF9XUDdfMHg0cTdybmduV1dBS0Q4dEpEMjlwVQ?oc=5
+3. 画像4 / 11＞工場や廃墟に佇む少年少女たち。想像力を掻き立てる、モノクロトーンのイラストを描き続ける理由とは（ウォーカープラス）
+   https://news.google.com/rss/articles/CBMibkFVX3lxTE1RbmxZYzNzWkVfV1RzbWxyX01qcFFfNEk0d3NCcldpdkNTdU5xbno2dDh2N1hLaTZNRmhBU3VmSFRQT1ZUWkZPYlFYTUttQjQtdnU3WTdLMHZTWklpcm9tUVJpZjlvbjBDbUkwUXR3?oc=5
+
+■ WMS・WES・WCS・RFID
+1. キャプティブロジスティクス市場の成長予測：2026年から2033年にかけて年平均成長率（（pando.life）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDUUNLelNBMDBXMVkyQmx1UFN5clJqOFh3OHNrMFF6akE2RkI2Y2Nxd0lleU1aQkhFSGRZWC1LblNXN1R0d3FlMnJR?oc=5
+2. 日本のクロスドッキング市場規模と動向（pando.life）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xS0Y5Y2Jrd0RLWGNOQ0s1STR1SFF6YllWUXJWaUhPSGRhTHJQT3lWR3hjZUdMM0RkcjdaaVBLTFZ6S2JtVmtYekZ3?oc=5
+
+■ 日本の社会
+1. USJ過酷労働告発で現場は大混乱か「誰が文春にリークしたんだ」 (2026年9月26日掲載)（news.livedoor.com）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xcXN1WFh5NWtUaExNNGhFalB6b25wYlZEXzBXd2NCSURPSlJZV1lNd01EQW45VnVuM3pJTEdoV1FtRllMNk5rVHpHXzA3OTRscEY4SndyaGx6N1hqY0E?oc=5
+2. 「誰が文春にリークしたんだ」ユニバ“過酷労働”告発で犯人探しが活発化…USJ敷地拡張には「そんなお金があるの？」の声《酷暑労働の訴えも》（news.livedoor.com）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fcGg2VlRManZGcWdEeTZUYU9DOGdMOUdRb3JWU0RMcGhWNEx4aW1Ocm10WlpJeUYxdVM2eEJWaXhGT1BZS0hjT3BzN25IQW5OdjRDaThTMVR5UWxNNlIw?oc=5
+3. 「ザ・ボーイズ」ジェンセン・アクレス、新スリラードラマでAmazonと再タッグ ─ 不可解な連続殺人事件の謎を解く捜査官、究極の心理ゲームにすべてを賭けろ (2026年9月26日掲載)（news.livedoor.com）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UdUROTlo0cTZkSUZlM2pMaHpYVTBWYWFkaFE0T2JfQ3VINUt1ZzhqeDdTd1ZMSzNfOExNbmFkTEd4OXlxQ3ZJX19BMXVyb1hEWmFHRzZ2eXotTHNiTWc?oc=5
+
+■ 政治
+1. 9月6日〈摂津市へ〉（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE02NDhEblY1aWpOeUZzUXYzTHpLaFdYemFaeWhTRU1EWmtQci1ZOFJXbTJrS19EdXEtZnJYZ1U3cjY5dVUyem5QMmZkbWpxeUhUcW1tQm9HMjJ3Nk4xbmFj?oc=5
+2. 【無所属連合】【みのうらみき】（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ibldCX3lNNWdqc2FCenNMODVzVFVScEQyZ0lzLVRxaHFzV1c0RXVrdDV2a3Z2UFBQemNTSTRseGhnMHhvQ3hsQUhsYmtqSGVkUWRta2RoTjZWLVJDNGdV?oc=5
+3. 池上彰氏「米中間選挙って何？ 与党が負けたらどうなるの？」（毎日新聞）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE9rMXZBRDN2cGp3UVpuMVpzUGZQRkM2a0JodTVNR0Q2NVBtTDBrLVVvWFZPdFF4OHlOc0VrdzZ3ck03Mm1JVnZRYjF4MmJrV0R2X3FjNWVpSTdIaVpJQkViSHNWSll6STFKNm1DREFmOFBwMlV1ZHFsZ2s0UERpelE?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-27.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-27.mp3" length="1610352" type="audio/mpeg"/><pubDate>Sun, 27 Sep 2026 07:00:49 +0900</pubDate></item></channel></rss>
