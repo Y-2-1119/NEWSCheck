@@ -1,46 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 26 Sep 2026 22:02:41 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>9月14日のニュースブリーフィング</title><description>9月14日 ニュースブリーフィング
-
-■ 世界情勢
-1. 〝金融〟が安全保障上の抑止力となる時代へ…カナダ・カーニー首相が推進役の「防衛安全保障強化銀行」構想とは？（Wedge ONLINE(ウェッジ・オンライン)）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3aHlHMEtBVFVCLW9XNlVvUFJBV2lHSlhTU2hIWV9yMk54RXBIbDQtU1pNODlTckZvYTNiOERxcWY3OTlMQklxREwtekVyam0wS21KQ1NPODgxMUVtZUVN?oc=5
-2. ニクショル・ダン大統領はロバニエミで開催された北極サミットに出席し、欧州の安全保障は共通の懸念事項だと表明した（Informat.ro）
-   https://news.google.com/rss/articles/CBMiugFBVV95cUxPUFZ4TjY4NDJfaG9ocWNGTFVUVlIzcXZIYV9RZlozOHpaRVpiN3BIRUM5Y3BlQlkyVkVGaC1PZ2J3Q1VaVjgxV3lnWHJ0bmREblhrM2tveEotSDItSEpLVm43dTd6ei1LRUhDRmxxck51UDV3bGVLX0I4eHBBaVNBYTNJaHZHMmVDbi1sYngzQVpJVWRYYjljVklTX2gzMmNuVzZJa0pDWHNuUWpGYlJRZjgtTnhjdGpVQ2c?oc=5
-3. ポーランドが緊急会議を招集、ウクライナへのロシア攻撃を受け安全保障を協議（Межа. Новини України.）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTE9zSGhJX25fc3dIUElKOTVOYlNXUXRETkh3SzR5Q29FNnF6RVpDRjdlS2l2Zmw2SFFvYWVFRlc0WGZraVl4Q3FWR3hUSUkzeXlrUnY0cC1UNnZzVXhNR0o3TnV3dTg2MWpuVXc?oc=5
-
-■ 学校教育
-1. PISA3分野でOECD平均上回る、国立大協会が文科省へ要望書…教育業界ニュースまとめ読み（リセマム）
-   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrX01RamdlcTVYN1JkZGpmTjBVSzBKSGlCa1N5Vkx0VHZBS1dDZzlTdGpLckRiSEpWVWxIV1VwWF9LTkZoTnlkRzlkTU1CZnVsU2xkdlRVMlREbFBjS0wtS2xaR29GUQ?oc=5
-2. 福井で学ぶ高校生が必要な教育環境とは 福井駅で「フェス」 パネル討論や音楽ステージ | 学校・教育（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GbmtRbnZyaXBveG02c2h0RW5VM1FmbUhBckRkcGxsRnhNXzdPNHZfczI0blNqUzNXNlh3T3BkMXFTdjlpd3R5NS1iTGdOMlV3NjF5eTE1WXpYOUNuWVE?oc=5
-3. 【解説】詰め込み型・ゆとり教育…日本の授業の変遷 時代とともに変わる教育基準、10年ぶり改訂へ『バンキシャ！』（ｄメニューニュース）
-   https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkk4NnFyeThPSV82b1pMVjN0azVnUHY4Ym5FSmhWVUIya0l2bTYxVmdPX3pHNFgtTjF3dXNsaTQ4WndwVFdBU1dIenBRb1l3dTJRWmhnaG4xNTZscFVzWHB4TGZ3SzZVZ0UwRXVxTnVRX0FHck12ZDE0ME5Tdy1fXzdvWEs0S21IMWphb2VR?oc=5
-
-■ 倉庫・工場・物流
-1. 韓国・坡州の冷凍倉庫殺人、容疑者が事件1週間前に設備注文…警察は計画的犯行とみて捜査（KOREA WAVE）
-   https://news.google.com/rss/articles/CBMiwwJBVV95cUxPMm1EWHJ3cHF2Z0lrU3RnckhXVE0yV0RKX2VtYkJLdDZRUTR3WG1MM2pjQjNIOVdqQ2t2QjZkRDZaR0J5bHY2QVJ2M0o5c3Q5VXA5WV9lVE9EMUlrRXlzWGVuNndaZU5nazh3eHJNOUNvbkxPRVd2SkNSb0t0aUpoRGlud2Jpdlpra2FfdnlVTDdnUjFCYURaZGpGUmd2WlNaZW9vVS1HRVNWVU9RU2lMajBjOG5abnFpS21GUlRYanVIM1ZWMF9RWkd3b2lITTZ1YTV1N2tMUFJzVE9tMWVwRVp4ZEVPWVR3WnJESTlybjB1SWZDU1NYa0ZURVh2dW1vYlpXZ1NGLVdMeWxBUC1qM3JEb2tRbjRPVWozbXd1Q3Jkblg4NDB4UWlYeHNJRXZvXzl1M1cwSXRZdHJveFBTRU04aw?oc=5
-2. 川重、坂出工場で約450億円の設備投資 政府が最大156 億円の助成金で支援（- 神戸経済ニュース）
-   https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FcHRERWFWOWlTS01lcUtvamV5SW0yQVN0LVFjQlRPVWZVNzh0dDdvVUhZbkd5Q3JSNUVLdlhENDVCLTJGdnBPSXN4M0RwNVFGXzB4eHkzTDZKdmx6?oc=5
-3. ミニバン「セレナ」「エルグランド」生産、日産が九州から栃木に移管する狙い（newswitch.jp）
-   https://news.google.com/rss/articles/CBMiQkFVX3lxTE15QXZFWkpBNDd0UmxwOEdoc1hBdWgtTlA2MWZvaVNRaF9wcjgtRTBsY1lqeE82NVBqWGx6bTlQVEs5QQ?oc=5
-
-■ 日本の社会
-1. 韓日首脳は和気あいあいも…韓国人出席者のイスもない「佐渡鉱山追悼式」 : 政治•社会（ハンギョレ新聞）
-   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZSHJIeXZ1amZsZ3NUT2lhQ0tXSTlBek9aYTUxbDZ2ZDRsYVZNb0lSU0c2LXpROEdZQ2JPOVhJcFBIT1cwNDk1eWgzRUwwcC1RUVFndGZSMDc?oc=5
-2. ミャンマー女性を奴隷労働で搾取し、日本の信用を失墜させた「三ツ矢堂製麺」の罪深さ（coki.jp）
-   https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yd1g3REVGVGtXZWwxYTZ2djNBZnFhdjZCQnR1c1NZWDh1cHNJWHF2RXBRUXBuU0xyRzBIXzROQk92RUNBaU5NVVk3YjB2Zw?oc=5
-3. 日本で韓国人の「緊急旅券」発給が急増＝韓国ネット「本当に盗まれた？」「売り飛ばしてる？」（ｄメニューニュース）
-   https://news.google.com/rss/articles/CBMijwFBVV95cUxOc05MWFJXMFVyVWxraGN5Z24xcHFCR1ZZMUNuci0yODB4T2Z2Rjh2ZGNzUWtpWVhZamVZdWo5UnV4dlloYVlnRGJtWGQ1dFVnR0E4SHZWcmJMVmctQ0p1T2duXzVVUUhPSEkydjFXQ2RRYTdySUZ1M0U0TzlUVEZnS19CWTMtaGZSNEY2c1JEZ9IBjwFBVV95cUxOc05MWFJXMFVyVWxraGN5Z24xcHFCR1ZZMUNuci0yODB4T2Z2Rjh2ZGNzUWtpWVhZamVZdWo5UnV4dlloYVlnRGJtWGQ1dFVnR0E4SHZWcmJMVmctQ0p1T2duXzVVUUhPSEkydjFXQ2RRYTdySUZ1M0U0TzlUVEZnS19CWTMtaGZSNEY2c1JEZw?oc=5
-
-■ 政治
-1. 電力取引、政策提言へ事業者組織／中長期市場の設計など（電気新聞ウェブサイト）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jNzFkZ2czNlNxbmprUm1zRTNNOHRwbFp0UGs1MzZhbFZQZ1U4ZnIyazhIRUF2dDJ1bGcxQmRGcHA4YUZfdDJsRG0xWEhZczVFOWdQNk1DNA?oc=5
-2. 内閣改造、女性の起用は？ 「機会の平等」にこだわる首相の価値観 [高市早苗首相 自民党総裁]（朝日新聞）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hRzRnNW5tLWZGWml1MEVseWNfRl9IZjUwQ0c3ZTR2T3ZuNm5RUGl2LVNLS1JBdUhoY1lZVXN3VkxvbkJ4STZiekdCaTBQblc3UDZ6MV9PbGxCdzdIY29xdjFaeHkteDQ?oc=5
-3. 経済政策は誰のために 政権維持装置としての経済と「ゆたかな社会」 [高市早苗首相 自民党総裁]（朝日新聞）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jQkFMV1FmNE50ZTdkUnZtUXM0MFRuMUVyeTl5U0E4bjRKYTZjTDhIS1ZFNVh2WXUtd09fX2lXUG5GM2lEYkxGTGZSd0M0NzlJSUlFNE02MjBIdmR2ajhvQUFaOXl5MTg?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-14.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-14.mp3" length="1464480" type="audio/mpeg"/><pubDate>Mon, 14 Sep 2026 06:29:28 +0900</pubDate></item><item><title>9月15日のニュースブリーフィング</title><description>9月15日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 27 Sep 2026 22:24:45 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>9月15日のニュースブリーフィング</title><description>9月15日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 「対米投資第1号」の発表に合わせ…韓国外交部長官、訪米しルビオ氏と会談へ（中央日報日本語版）（Yahoo!ニュース）
@@ -649,4 +608,45 @@
    https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ibldCX3lNNWdqc2FCenNMODVzVFVScEQyZ0lzLVRxaHFzV1c0RXVrdDV2a3Z2UFBQemNTSTRseGhnMHhvQ3hsQUhsYmtqSGVkUWRta2RoTjZWLVJDNGdV?oc=5
 3. 池上彰氏「米中間選挙って何？ 与党が負けたらどうなるの？」（毎日新聞）
    https://news.google.com/rss/articles/CBMif0FVX3lxTE9rMXZBRDN2cGp3UVpuMVpzUGZQRkM2a0JodTVNR0Q2NVBtTDBrLVVvWFZPdFF4OHlOc0VrdzZ3ck03Mm1JVnZRYjF4MmJrV0R2X3FjNWVpSTdIaVpJQkViSHNWSll6STFKNm1DREFmOFBwMlV1ZHFsZ2s0UERpelE?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-27.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-27.mp3" length="1610352" type="audio/mpeg"/><pubDate>Sun, 27 Sep 2026 07:00:49 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-27.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-27.mp3" length="1610352" type="audio/mpeg"/><pubDate>Sun, 27 Sep 2026 07:00:49 +0900</pubDate></item><item><title>9月28日のニュースブリーフィング</title><description>9月28日 ニュースブリーフィング
+
+■ 世界情勢
+1. スイス国民投票、中立厳格化を否決 ＮＡＴＯ協力の制限回避（Reuters）
+   https://news.google.com/rss/articles/CBMihwFBVV95cUxNSGZWY0ZyN0t6bWFnaVNLUVNtbWRfdDlveXo2aVRvVUZITGZMQndtQXlMMWVIWmh1ZVlUVC02S29YWVpwTGdwSHFPRDgxcEFoLXB1bTIzT2dROWtuYnlhM29FZEQyQTRMTGNSekthTnJmWGZrclZEdUtOLUxMLTZidUl1UDFrWm8?oc=5
+2. オランダ外交官の特権取り消し イスラエル、対抗措置で（excite.co.jp）
+   https://news.google.com/rss/articles/CBMicEFVX3lxTE1TeGV2VGJnNms3OXlnYk5UeDY5TjVpRlMwSkx4OHpjVTRHNldIUVVQdUJZTEt6eGRiQkVyYTllT2FqSEVjRzJ2UnktRm8yWjZZcTdxQnJ1QW92TzVpV3lIMlhhTUZLQXhwX2s3VUVCU3E?oc=5
+3. オランダ外交官の特権取り消し イスラエル、対抗措置で |（saga-s.co.jp）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IWjFCMzZRVzVRZ29LZG1ZbTdiV1NkV0hoMFdwQXFJWjhMVVY0SFVQTDJmYWp6UVlOaTBkd0pWR3NKeklSZGNJM3ROblc4NzBwZ1Fockd3?oc=5
+
+■ 学校教育
+1. イタリア・メローニ政権 学校教育で外国人とムスリムを制限 それでも極右としてはマイルドである理由 #エキスパートトピ（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUThLdnpoeGUyTGxxa3VLRUU2S1hBUGxQcl9ZbFdNYTJWYUF6aWtmREFuQWZOeDdUNE9Md3ptNDVuVXFMYzJpRVJxR3JGcUdTaDI1ZHZUcWVXTnZPT3J4bENSM2dwcXV0YTJVaUhuVGFfNHAxMHdQcFZPR0IybGF4ekozLVNraXFt?oc=5
+2. 高校教育改革の拠点校、広島・山口・鳥取の7校が追加採択 国の支援上限額は計100億円（au Webポータル）
+   https://news.google.com/rss/articles/CBMibkFVX3lxTE1nWmJoMjMtZHE1a3o4MTNjd0pCQTN0dEVDNmZBQmlPWEU3TFhUVFpNU1RxTXdqdTJwcVhJSjFGejFzZ0trNmxHZEF4OTFxZWJVVjRHYjZtOE1PTmx6c3o0ZUQtTkxhdVc1Sjl6OWFR?oc=5
+3. 「日本語能力試験」の応募者急増 文部科学省が代替試験活用を初要請 (2026年9月27日掲載)（ライブドアニュース）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1feE95RGROTEhpQzVQamZ4X1M5eWtzOVJ2MWxxeTdhTG5wOW5BQ3VBeUdzRXZPSXA1SjVPSk8wTjd1ZFo3LWdnTFBOSmxhRWtVTFpscUtTWVp2Z0h3aGc?oc=5
+
+■ 倉庫・工場・物流
+1. 日産・SUBARUが語る「MES」の凄い実力、工場を強くする“5つの本質” ｜Seizo Trend（ビジネス+IT）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zdVNhTXZjVmhaalRzMWpiSHFDVXdXTEJsa3JpeWtKVFF2RTNNeFZ4STkza0VyU2twOFpDbVc4ZUZORWktbGtvTTVVUUIxZzQ?oc=5
+2. 自分で組み立てたパソコンが起動！ 小6親子が飯山工場で夏のものづくり体験（こどもとIT）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTFA3YjNjX18wVDRpemF0SFZtdF9sNjkxd3JsVEpRVnp6aHJtWHFsR2FXUVo3TG1fMUhYX1lBTFNjQzQyX3hUdlFWQTFkUS1kN0lSaG9TRmVrSzlnaWRGZ2dFR2NzZVNPaWxtS3lDWUdNTVBqNm01aDVsc3RvOExKczA?oc=5
+3. 東洋紡 中東向け生地販売を吸収 庄川工場と一体で効率化（繊研新聞）
+   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GQnlmQWJmNFNjai13WDJJXzAtampxT05zdDJ5T3dEQzZhbTVQNHpzeXhnUWFUQ3lnOFBSUDhsRXF4UVVYZUdIekN6R3FEM2t1WGc?oc=5
+
+■ 日本の社会
+1. 日本病のカルテ(13) 雇用慣行を変えないと「経済氷河期」がやってくる（アゴラ 言論プラットフォーム）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5QmhhVlhCMGV4bDZfZXlQY0FvbmlzcW9fV2tmVG5RMHFmNG14Rml0T1AzTUZ1YUpHLURYdGxaZTFfNEtycG9qRzJxMGJWZlpHcjRMU2hpbUo4S0U?oc=5
+2. 学者が斬る・視点争点：残業月45時間の指導見直しが問うもの 首藤若菜（週刊エコノミスト Online）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE1PaWtublk5VnpDQjlCamxzR1M0aWVuQ18yQlBOaGFXNmV3aW85M2R0RmFTR25RTlVJb09zU25hMzMyNm43X2UxVmFZY3FNM1pfeXhjSy1qTDMtVDk4OFNwQmJlalRSbTZ4OW1rSkpFc1Exa1VMZkVzNkxCOFdPVTg?oc=5
+3. 【外国人政策】外国人労働者が急増、日本は「移民社会」へ？ 人手不足の現場と受け入れ政策の現在地（北海道新聞デジタル）
+   https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nX0RaaXZEaDNUUWEtRmhUSHJpWml3QWU0QVRfYmpkSmdiYk00aVdBOHg3SnZ3aDB6WmFiejV5T0JrUkVhckVpakIyM09JdkR5ZDdJSFRERS1NQQ?oc=5
+
+■ 政治
+1. 【東京地裁が違憲判断】未成年者の選挙運動禁止が74年間放置された理由―政治が拾わない「小さな声」（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MMWU0VFdJMnotZFQ2eF9Ld1hqWnB1aUpvU283RV91SE9zbVpLMHdKTkZIbHd3TElQTFQzTUpmWFpGdXZDOFZ3ZkY3NXFtLVdhUzlINDBkRjZqWDV6R2pJ?oc=5
+2. 高市改造内閣の目玉、細野豪志・復興相に不透明融資問題 2017年の総選挙でJC証券から5000万円資金提供も各種収支報告書に不記載、同社は親会社とともに経営破綻（NEWSポストセブン）
+   https://news.google.com/rss/articles/CBMibkFVX3lxTE4tdlpCOHdzaWtwQXlMVEMtTjdkZldhNFBwbVlsTHF1VldPU2RHUVlXZUtBWmd1SkYyczdUUUMwU0Yza3VrUVdZR2VnRS1vUTlCNW4yeFYtUHNDOXMxWE5HcDJYMy1oRUVpU1VhNnJn?oc=5
+3. おかげさまで週末もフル回転。（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzb2NtRFBRTFRXQWVGRk9JRHQ4VEo1NkUyanZiMW11clNBdmpMdGp6dDJwN0NCRzh0VXpEY196bC1kZW5yREhoSjhZN21pWlJVR0lEeEZZUk1RYU5Ybnc?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-28.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-28.mp3" length="1383552" type="audio/mpeg"/><pubDate>Mon, 28 Sep 2026 07:23:17 +0900</pubDate></item></channel></rss>
