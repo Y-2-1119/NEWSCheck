@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 27 Sep 2026 22:24:45 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>9月15日のニュースブリーフィング</title><description>9月15日 ニュースブリーフィング
-
-■ 世界情勢
-1. 「対米投資第1号」の発表に合わせ…韓国外交部長官、訪米しルビオ氏と会談へ（中央日報日本語版）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE5qd2dLVWMzU3JoRFJkUy01dWhRUVVyczdJLUZqZEZQSmNpLV9KVVNUd290TDdld1l1RHZleUtaNUN1WDRDREdEUF9LX1hQTzE2b1BGbDNDUEdqRkRfcWk5OVZ5QVZhYk9nbDl5Ui05dWlRb2VZaU53YnF1dzFRd28?oc=5
-2. 「伝説の外交官」岡本行夫の「現場主義」は先例なき混迷の現代における羅針盤たり得るか？｜政治学者 北岡伸一インタビュー（新潮QUE）
-   https://news.google.com/rss/articles/CBMiUEFVX3lxTE93Mlk3eXJJTExhRXRoS2dCV2NsTFl3Qy1BaDM0Y2Q1eWpMeTJITlhaejd4OWlUOUktYVUyNEtxY3ZESTFVT2FCeXo2QkxzSmx5?oc=5
-3. 中国、「一つの中国」支持見返りにミクロネシアに100万人民元 資金援助でWHAから台湾締め出し（rti.org.tw）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GU1pMRm9OWmVDX0FOUDF0VDNWRl92VW92eVNvYWdGd1hkSm9nUU1aWkc5VXFEcHZjT2NuMVdlMXc0OGVoVnQtYldkMU1YR09LeVYzNTdzSW82dnc?oc=5
-
-■ 学校教育
-1. 政府／建築物・土木構造物に木質材料利用促進／設計基準整備や規格化検討（日刊建設工業新聞）
-   https://news.google.com/rss/articles/CBMiR0FVX3lxTE9XOVBzUkhHLVMwdkN6dTJobVNMLXNtNXh0MmU0SjNBajRoT216czYyUmVScWtBX2k2SW5mZHQwcnl0VGJTU1Bj?oc=5
-2. 宇野千代の資料調査報告 お宝紹介など/岩国市で１０月に「やまぐちの文学」再発見（山口新聞 電子版）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTE5sT2V6V005Z0Z4aVZheFNUdXBmbVFYUkt1OFMwQU1STEZoSUxCRGtuMXh5QUtRbmZWM3VSTzJYc2t6ZmRLZGVVWEUyVTlfWEdOeUtIdDZjcUNZSkE3VVJ5aW5Oa0NqUnNJMUE?oc=5
-3. 香川県内 小中学生の数が過去最少 文科省の「学校基本調査」（NHKニュース）
-   https://news.google.com/rss/articles/CBMiWEFVX3lxTE55NW1ZTzhKd3JrSk5MTFNDLWQyd0NFM29MYUxJZDgxWlZiZ2xiVVU3VFdBSUppOUtacHVSdFZCVGlUOURqYnFjZGpBMHBBaXF4b1ZvSXBxck8?oc=5
-
-■ 倉庫・工場・物流
-1. ニッコン、栃木県さくら市に新倉庫しゅん工（ye-live.com）
-   https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ZaWMtUnNoNEhOVDhKZDh4c3hpMUxLMFRFRDNVZGNKbGpVbDBtc3BuSl9xR2NpbHFYak5LTjV0YVM0SWktUmhLd2ZFNjA?oc=5
-2. 2028年の適正原価義務化を見据えた物流の契約・運賃条件を一元管理するAIクラウド基盤（ASCII.jp）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qNW9IRF9CaGp6SkZldFhOVlhzX3VTbU5pTzRBa2VfZjRFUTRfcTROWTlkSGZXUElfWFJBbTJ4WkFnRjAyQS1ZdU9TZFpVSjdnelBNWQ?oc=5
-3. フルヤ金属、新千歳工場竣工。半導体装置向け温度センサー増産（鉄鋼新聞）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE9xS3AxZFNvQzZmQVdtRXRlVm12OFNMeEQxZ3pNNW5UUE5TemZMNUNNd25EUGpYejBfRTlzQUNuLVBIaEpBTXNNTFpnVTJPUUFMX3R1dHpXdEFoeEFPWmtXVUhwNUk0a2N1Z2lCejZsdFBxd2dNVHRzWVNnUFBpLUE?oc=5
-
-■ WMS・WES・WCS・RFID
-1. NTTロジスコ／画像認識×AGVで返却通信機器を自動仕分け、静脈物流を効率化（物流ニュースのLNEWS）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiVTJCZ1BCelVUbXVySjcwU1JsQTcwV2FjcUVjT203Tk9scmU5aWZIRDd6bWFjQXhMYWRlenUxbkJ4aGlnZ2RyejhIZ0ZyUXpmMVBFMA?oc=5
-2. 浜松の営業倉庫・神谷商店、月額基本料無料のEC物流サービスを本格展開（ecnomikata.com）
-   https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tTk4yMkpQQ09xQ2RjSmFJa0RhUzItakxIb3VMTnRmVVRPU2wzZGtIa09hSy1JTGw1YURza1ZBbFI4WTBIQ0RJ?oc=5
-3. NES、物流拠点向け車両入退場システム（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzTHdnR2FzdUlLeTU5My01N1YxaUFvVVJoRThsME5SMU1nVm9pbTJXQU9jX0VFeDN4d2pfcGtrRUlOV1I2NVVCQg?oc=5
-
-■ 日本の社会
-1. 「死亡事件への挑発」史上最大級の論争、直接の謝罪もないとは··· 日本列島が騒然「ご心配をおかけして申し訳ありません」（starnewskorea.com）
-   https://news.google.com/rss/articles/CBMiekFVX3lxTE1CRmVXQU9tbXpUQldnZ1RkUFRjNlVLTk82S212bnF5ZG1fMVUxTnJYYUcxdnptNUhSMGxxX3ExWDlBbk1zRTdFdTJKWUJLb3VMUnU1ZXRwTzBrU09vQkMtMmhZNDQtRHVmQTk4RVRUa2l0SjdURFI4Skln?oc=5
-2. ケニア観察官ら来日、保護司学ぶ 若年層の薬物犯罪が社会問題（沖縄タイムス社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RckFFOW1Pa3N5N1hJeUtXOGhERzNabzBYWTYtYjNIMWVWQ2c3dVpvOV9ScUtIZ0o5ZFJkX3o1X0RBSUlGWEhVa1p6dVdSNHNDOW8tVjJORHVCTlFXRHc?oc=5
-3. 立川の９３０万円窃盗事件の「案件屋」、京都や大阪の匿流事件にも関与…住居侵入容疑で逮捕へ（ｄメニューニュース）
-   https://news.google.com/rss/articles/CBMiigFBVV95cUxPcF9IU2ZZd0J1dkd5TkppSXlqbHV2RmdTVXdWcXdKeVZLRmhxMGIza05SSzQtUjV2NXhISnVPNWQ4VkdMb2JmNk5UWGwzS0Y4eXVsY05WV1dXRkZQUTRoR2RiMU14YWhvaG53VWhiRmpKS01oczRWNXZtY2p2LXhIdjFqeEJFMWZyVmfSAYoBQVVfeXFMT3BfSFNmWXdCdXZHeU5KaUl5amx1dkZnU1V3VnF3SnlWS0ZocTBiM2tOUks0LVI1djV4SEp1TzVkOFZHTG9iZjZOVFhsM0tGOHl1bGNOVldXV0ZGUFE0aEdkYjFNeGFob2hud1VoYkZqSktNaHM0VjV2bWNqdi14SHYxanhCRTFmclZn?oc=5
-
-■ 政治
-1. 母乳バンク認知度向上へ（go2senkyo.com）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mVUlpYWJsRWtYdVk1cVBqSjZsRkhJb0dzNHBZQnZYd05vdjNsclU2NFJMOXdwblFBRFUwdUlGYUw4OVdiNWpfYzFCMVhYX2JkelQ4akw4d0FlRzJtSXZZ?oc=5
-2. 「なぜドラえもん空港にしなかったのか」前富山市長・森雅志さん 交通政策を熱弁 ハイパーカミオカンデへの広域アクセス重要性を提言（チューリップテレビ）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE1DLXIwVEdMUHVGQ0NGRkt1MWpER3JTZ2FRQW5UYzJ1S2pybHpuTXAwR25ESDVfRklKdHo2dXMwSHJ4Y21aVnQ2ZWw2X3BGTEF0M2xJNkh6UlV5ZmlNYWZVVGFVUmpKY2xOWmd4NVhfTGRubHJsLU9MZ2U4Z0xvNEE?oc=5
-3. 「なぜドラえもん空港にしなかったのか」前富山市長・森雅志さん 交通政策を熱弁 ハイパーカミオカンデへの広域アクセス重要性を提言（TBS NEWS DIG）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByZ2pub3MyX1BfenNjT2Z0X3dsbDBReTdLVkJhSmJCVFhINldYLW50aFdCQm1TeVFFZkZYRnl4bEMwWFNZTHBwRmZSVUUwNTQxeDRUYTl6N3VCUS1BNWZLSkdKamJRMEU?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-15.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-15.mp3" length="1635552" type="audio/mpeg"/><pubDate>Tue, 15 Sep 2026 07:35:50 +0900</pubDate></item><item><title>9月16日のニュースブリーフィング</title><description>9月16日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 28 Sep 2026 23:53:17 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>9月16日のニュースブリーフィング</title><description>9月16日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 危機の時代に学ぶべき「軍事学」とは何か 安全保障研究者が基礎から解説（中央公論）（news.yahoo.co.jp）
@@ -649,4 +600,53 @@
    https://news.google.com/rss/articles/CBMibkFVX3lxTE4tdlpCOHdzaWtwQXlMVEMtTjdkZldhNFBwbVlsTHF1VldPU2RHUVlXZUtBWmd1SkYyczdUUUMwU0Yza3VrUVdZR2VnRS1vUTlCNW4yeFYtUHNDOXMxWE5HcDJYMy1oRUVpU1VhNnJn?oc=5
 3. おかげさまで週末もフル回転。（選挙ドットコム）
    https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzb2NtRFBRTFRXQWVGRk9JRHQ4VEo1NkUyanZiMW11clNBdmpMdGp6dDJwN0NCRzh0VXpEY196bC1kZW5yREhoSjhZN21pWlJVR0lEeEZZUk1RYU5Ybnc?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-28.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-28.mp3" length="1383552" type="audio/mpeg"/><pubDate>Mon, 28 Sep 2026 07:23:17 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-28.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-28.mp3" length="1383552" type="audio/mpeg"/><pubDate>Mon, 28 Sep 2026 07:23:17 +0900</pubDate></item><item><title>9月29日のニュースブリーフィング</title><description>9月29日 ニュースブリーフィング
+
+■ 世界情勢
+1. イスラエル首相の国連演説で各国外交団が抗議の一斉退席 ガザ・イラン攻撃を正当化し強硬姿勢を固持（東京報道新聞）
+   https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4cnU3N3g2dklmQ3c2YVlZeUNmam9xNWxxcy1Kd3pJQTh1VllLbEotcHVSc1pybHJncm8tdDdrOEtKYl9SMFpCbVhCcGRIUkJwNXJz?oc=5
+2. 【米国最新情報：161】米中首脳会談：安全保障より経済優先、トランプ大統領の米国第一の武器輸出政策（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX2thLTlLeV9zdGhJYVdUTy1KZjl6WVpTUnNRYTZsaXZvOEFPQ3NRYW9xNE5Cc051YlhpYmdYYUxPdVRLVWwwV3NiTVZLLUliZDFsejdUSk5fbUJNcGpQUGlILVlWeXloYVFickk0cl93bkZKOGRsZVFtSUxHMmZWZ2U0WDNScVA0?oc=5
+3. イラン、和平案巡り協議 カタールが米の回答伝達へ＝国営通信（Reuters）
+   https://news.google.com/rss/articles/CBMihwFBVV95cUxQalV6dTh2TkZDSV9tdmlUTHctTjNsNnVVWGoyYVVIVHBOdTFlNE51Y1hmSHVKYW5fRHI0eHlCQ0VtbmFhQVgzWWVlSnozSnBBajYzMkx1b1B0ZmpKT0NzYzM2QndUbTRScGJBTlBiNzRxXzFya1p1c2VqTGc1NTJpbWNzZUpnd2M?oc=5
+
+■ 学校教育
+1. 甘かったです…〈世帯年収750万円〉娘を私立高校へ進学させた45歳母。制服17万円・海外研修50万円…入学後に実感した（ニコニコニュース）
+   https://news.google.com/rss/articles/CBMie0FVX3lxTE1VTVE3blBYWW5STDVLRVlfU0V0M21FVGxNRm5YTlRrZTRPVklSV0dLSjV4OVFzd1pwcUdkSFdxeDIzSWU2TVE2Sm1zclZfQV9jV3pXa1FDSG9uMXFicmQwQ1R2cWdZLVZJM2ZLSlRETWZCYUo3SXFEVE0tWQ?oc=5
+2. 次期学習指導要領の審議まとめ案 文科省が10月５日に教育課程部会（月刊私塾界）
+   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDSW9IcUctQmtuWkQyRF85RVV3ZF8xM1VmUWFXdy04LWo2WERiUzZ6QlRNTnA1YlI1WER2dE9wVloyWWtNZlVoLXpVUmJfWXZwV0E?oc=5
+3. 高田一中に文科大臣賞 時事通信社教育奨励賞 「つなぐ」復興・防災教育評価【岩手】（iwanichi.co.jp）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMczZpbE9EQlJ2UzBOanlnUnl2WjlvWG9CZ2pNeldiOVp2NjRhUjUyZExDRmQwQ3ZLdGotUlE1RXl1QnNXWTItRGd3WFNpSnExWG01ZlhFZ3lWeUk?oc=5
+
+■ 倉庫・工場・物流
+1. 平和島自動運転協議会11社加入で60会員 保険、データ、トラックEV改造など 物流レベル4自動化で業界横断（LIGARE（リガーレ））
+   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aMHFFd1hEVVUyN0tWNXZhdGx6WGVUa0VlTHJRNG1URkx5aHJsVWRhOWVsX0pURFRvU3JrTWI3SE12T3prdDRIMHNtYndBMjZMZDZv?oc=5
+2. 【神戸市灘区】「皇蘭」工場特売会が10月3日開催！ 豚まん・餃子など“訳あり商品”がお買い得♪ 今回はオンラインも同時開催（地域ニュースサイト号外NET）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oZ185bjhiZWtfSXZ4UFlkcW9QdUJacFNqNDNhcWpFRkk3QlBoVHFuTElRWnE0ZkQzVlRUcHdibTZyLU1ISjFOQjFWMmZaRm9FMmkzNTgwUE5odkNqejljWVJLLUZQY1k?oc=5
+3. 韓国の物流現場で「フィジカルAI」導入加速…ロボットが運搬からピッキング、包装まで（AFPBB News）
+   https://news.google.com/rss/articles/CBMickFVX3lxTFBRcUNkQnJZdVc5d3hPeVM3VzR3VHd3N21zYzNFc2JOM21GU2VvUlQ1ZjZ2UXlVNHJacVRJc2hMdS1jcVVKRERCN01WZUxONzVVYXJxOWE4UUxOMHEzUFRFWm5faU9zaWpnZExMSlJ5d1dQd9IBVEFVX3lxTE1hUndOc2dVWEYta2JpdnAzUzgyOVR1aDZrSGlITUNqX09VTENUNjZNdGpyd2YxZWVaRS1fOThDOW9kTVl3bmtiUzVxUi1xMlVHcFZrcw?oc=5
+
+■ WMS・WES・WCS・RFID
+1. 日本の3PL市場規模と動向（pando.life）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIQ2JrQU1lSktaYWhYcHFOXzJoV01sY3BpdHlLUVpyaXVNcThPajhTZmF0YWFyeEpISVp3Vl9URkxaYUVHRnRiV0JB?oc=5
+2. 日野コンピューターシステム、50万台のビッグデータサービス「Logita」など紹介へ…物流DX EXPO 2026（Infoseek）
+   https://news.google.com/rss/articles/CBMiYkFVX3lxTE54UHlJNDFjeVBzSUFhaDB5RUxDSXFXVlAxMzY1LWVzMXRIanEydUVhSWt1eEthbWFwX2RnVkVEdW1CZ19WOUJXQ0JqN3VDSUdIR1o0b1JFWmpreHJXWnZLNGNB?oc=5
+3. 自動化設備が増えるほど倉庫は止まりやすくなる（LOGISTICS TODAY）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE5zbFI1SEdVcXFBNG4yX2F3d1NTODYzUG9OWV9GM09IaUpKbVEtQ3g3bW9uQnprc3BudkQwNTk5dkJrd0ltdHh0cDFn?oc=5
+
+■ 日本の社会
+1. カスハラ対策を商工団体に要請 労働局と県（nnn.co.jp）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTE01MGJOdGFEQVJfbjE2N09wWkRPckMtUEdqREVMQmdyc2owSFRVR1JGSEJ6RTE3SjRVaWNrLXZndG4wMm9aTUpFMk5GQUZqOTRF?oc=5
+2. 中野2億円腕時計窃盗事件 チリ国籍の男2人再逮捕 「日本は刑罰が緩いと聞いた」と供述（khb東日本放送）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTE83LW5lYTMwWmhwWGZ2c0l6WHd0bl9JeWY3UzlGaGxxUFV6d2ZLaXVXT3ZHXzF1RHZ3Y0NIWkFMMVNQOVZTMlVzMTA3bUtlenc?oc=5
+3. 「日本には泥棒目的で来た」 中野腕時計窃盗事件・チリ国籍の男2人を再逮捕（TOKYO MX）
+   https://news.google.com/rss/articles/CBMiakFVX3lxTFBLQ1JYVjExUW1HTHZGNXhFYzVtVUtDdDNISHg3NWdjRFVIRHBGNkhMUzlpV2YwckxKY0EzWkM1Ul96SE1LTDBoWm9lZW84TzF0RGtSMVU4T1Y0blk0X1ZpRGFBRnREUE5qWUHSAWpBVV95cUxQS0NSWFYxMVFtR0x2RjV4RWM1bVVLQ3QzSEh4NzVnY0RVSERwRjZITFM5aVdmMHJMSmNBM1pDNVJfekhNS0wwaFpvZWVvOE8xdERrUjFVOE9WNG5ZNF9WaURhQUZ0RFBOallB?oc=5
+
+■ 政治
+1. 政策資料の配布が始まりました、昨日はチラシ🆖の方から丁寧なご連絡を頂き、お詫びと再配布しない様...（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWRnBXVFJlcnA0Y3lTLTh6UkV4d0NjdjRCdHdNYkVEeFdtNHZTV25qdmdJQ0lxNXNmUVhna0xFd2NNRlAxMGFYOHNzWWJad09KcEFMZm5samlfNm1ScVNr?oc=5
+2. 【初めて選挙に出てみた話。政治活動準備編】１．基本用語を抑えよう（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE02N1NtOVdwVFplWW5sNnRXajM2dTFoQTl4QmZ3X2dtd0p3WHlDeWtmWFBIZWxkcG54UGl2d09HNzRLcDhIY0pOMExUSWp3WE9hbmFzWEE4Sl9xSXZYTVZ3?oc=5
+3. 大東ユニバーサル運動会 実行委員会（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wenpiN2JjWXNaem9FRUc2dkJfR1JwdGxpSE40MHQ5ZkQ2dXd6OXJfVktXcVhWU1htMXphQXUtbnZTaFhPdXdRMjEzZEFtVjlUTTdqUGQ5ZWZFaUY1LWNN?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-29.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-29.mp3" length="1591776" type="audio/mpeg"/><pubDate>Tue, 29 Sep 2026 08:51:27 +0900</pubDate></item></channel></rss>
