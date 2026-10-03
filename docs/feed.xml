@@ -1,50 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 02 Oct 2026 23:07:57 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>9月20日のニュースブリーフィング</title><description>9月20日 ニュースブリーフィング
-
-■ 世界情勢
-1. イラン、米に交渉再開条件を伝達（カナロコ）
-   https://news.google.com/rss/articles/CBMicEFVX3lxTE1CS0dnbzRQTjJoMjdreUhvX2lzUUZvdERTMVY1Um02UkVxOFNOSHJ4dDM0WUpoLWcxdTlTUnBoMzVoLTNmN2lNZVYybmlyYWZoQVE0QVVVY1VBSmFjMnJ1cXBaUU9weXR6V3paQjhHbWw?oc=5
-2. 中国外相王毅称印度尼西亚在北京外交中发挥重要作用（VOI.ID）
-   https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1rSV9PeXpnWFc5VzZDSFo4WjBGWGlnbzBWWG4yRFdacnJiRUxkYlBENV9CSVVlNXo1cElKbzZyZFVvLUnSAUJBVV95cUxQcjJPdzBhbGRVUkZtYllsOEEtSDdpa0lRMEF5Ymd5M1gzYm5ZQXZVWEJWMV9Vd08tMUNtWmpSUDlzZUE?oc=5
-3. 国連安全保障理事会、サウジアラビアへのフーシ派攻撃を非難し、リヤドの自衛権を支持（アラブニュース）
-   https://news.google.com/rss/articles/CBMioARBVV95cUxNOGoyTTdyY2JnbVE1M1phdWROVk9lVXVOU0pIUVJpNFlBTTd3RXhCWVlaWXJDd3ROSmhkZ2ZqUnZrTTZlZW5VekhfbGN3S0JmQTdnMkRqVVJHSGxvRnZDWGRMUzlRSUpOanVnOVFQMmg2Smt1SnRZeVRHcG4xYnNTNUJGV19OTzQ0TTkzTWNwc1RZeXFxZ2xVT1VyZ1E4V0lKdHpNNjB1NURlQW9OcDZJOG1tejJXdDdMWjM1S00xa3ctdkx5Y0dqMDdJaVJyWXlKVWVLRXpTc2hta0JVN2hZWS1hZGllQUdTWXRuNlVPeDFrTHpYR1NqdWlhZ2wtdFhQdllPTUxOamFxVXdBbV9GVE13dERFNklEZW9tYUliVFBkU0hoell0SUNKY3RlcUlNcElkVlFyU1ZQZTdFcEZfaThpMGZKeVFYUGd5RnZycElicTFxdFEtQWgxa1o5a055Vy1xaENEcnNCa292SW9xbWYtV2RBM3hmZWw4UXQ5N00zS21tUjdscmJlNExTOUlUY256MmdzYjByTTV2a2RGSi13Q2dQRFN5NzQ0YnppX3p2THZCanRLSjFFc2Y3ZmN5V2htUVhNdDhyUHloSnJUSDNKSVZyampvdHJCNi1MbmlyUGNrazVxcjctZjdROVlyanp4eHJnb1hfMHBhYVU2LXRIWnIyeFl3cTJuZ2MtSkg5M1JLdXJoN080ZWY0aDM5?oc=5
-
-■ 学校教育
-1. 情報教育拡充へ足りぬ専門教員 オンライン免許講習、動画…急ぐ対応（asahi.com）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wLV9tRHhDdVg4SGdnTllsZTFwaEYxQnVYamZoSkw2ZXpuMnJmZG1VeU0zTUFIZXp0VkZ3YlEtNndTU18xMnpuckk2ZGJsNTdCaWx1OGtOMk1kbkRBLUVGcU9DZTlkVXc?oc=5
-2. 私立大削減検討（毎日新聞）
-   https://news.google.com/rss/articles/CBMicEFVX3lxTE9xdlVRalVSYVRwazY3YWhOR1lOM2NoZm9fU2VvMDBSVEhxS1paSU5HV3hpek8tQ01zRHpzWjIwNEQ5UnI2eUZnR0hBeU5pSkY4aGhlcjFoVnNMbnAybVZSVndTSjRMVXAtam1oMUFHTVg?oc=5
-3. 小浜放生祭開幕 多彩担い手伝統つなぐ ４児童、１０年ぶり「中獅子」 ４姉妹、最初で最後の共演 多賀区 大人太鼓に初の女性 鈴鹿区 滋賀から助っ人３兄弟 塩竃区（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rODNIWXkwUkM4YUJncDlueTVzdnlBZFJMUHZGLWcwWGJucm94cXRVcS00MzJTQ0hFMk5kYTRkOVBwLU54VTBYRy13cGhFMTZuWEt6TVNrRzlZMnhRb2c?oc=5
-
-■ 倉庫・工場・物流
-1. 物流、作業者の負担減らす…補助スーツ・荷役機脚光の背景（ニュースイッチ by 日刊工業新聞社）
-   https://news.google.com/rss/articles/CBMiQkFVX3lxTE94UEM0OW1nYXROdHFaY1VXelNiT0RiZHBXUV9sSG1sbTdXQnhXZzJtb182Z2g1b25vU0ZQTERNdVdNQQ?oc=5
-2. 日産の英国工場で「中国車」生産へ!? 空いたラインをチェリーが活用か！ 中国メーカーが欧州進出を加速（bestcarweb.jp）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBteW5PbXlydlo3X1ozMklBb2E5R1FqY2t5bXlyeUUwVU5EV2VUcHdkUkh5OUVNeE5CaGY1eUtfc3Z4UDFYUHljSWtTT1RSN0dXU0xmVl83UQ?oc=5
-3. 言い訳に使われた規制委 廃液処理でさらに遅れる再処理工場の完成（日本経済新聞）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE1IbXhPeTRYbFozYUs3b2ctbkpiNlB1OE9RZDlmVU9EcEZZQjlWZVhTeWZoVjZyRkhpcUR3RTJyLW4yRWVDblk1OFNZb016ekp4cGYwVl9SVV9ndXhGZ0xnaE5OVThYdWk0dFdQRQ?oc=5
-
-■ WMS・WES・WCS・RFID
-1. データセンター用RFIDの世界市場（2026年～2032年）、市場規模（タグ、リーダー、アンテナのハードウェア、ソフトウェア）・分析レポートを発表（Newscast.jp）
-   https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SQkJTeVlwY0w2ME5vaHZvNjZKTVh1akhaeW8tbHpoUGExSTc1Z0xVSnF0VHpBcW9LOVNoYnJpSVpHRDBIMWVEbEN0STRJZTQ?oc=5
-
-■ 日本の社会
-1. 人工知能の安全性が社会課題に、偽情報や個人情報流出への備えが問われる | ウクライナニュース（Межа. Новини України.）
-   https://news.google.com/rss/articles/CBMiXEFVX3lxTE12N3RHY2hrMGV6Mi13SWVXR09JbWJzYVI5RWd4d2N5V1BuRGZPLWNEMU9LancyaVNHYm5ERVA4a0dlRGZQRHJzT0t1VlRjR3Q5OG4tS0xzVVhvZ2J2?oc=5
-2. パタヤ郊外の国道36号線高架下で男性の遺体。不審な点もあり事件・事故両面で捜査。（タイニュース・クロスボンバー）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTE82aXRkbzJIOXQ4V1IxdHZXMzlzV2VkOXBRcEtPdzAwN1BlZkhtdlpkQ1E3NFRkSDZOTlpDbWlFS1NULThaYzU3VE5jS3Y3STdqa2NkZw?oc=5
-3. 松村北斗＆岡崎紗絵、事件から4年後の“関係”は？『告白－25年目の秘密－』Huluオリジナルで最後の証言者に（au Webポータル）
-   https://news.google.com/rss/articles/CBMieEFVX3lxTE9tS2ZuNmN6ZE9QY0l0NVpuU0VwNllYM183UE50a1N4TDVZRWFCRlR4Q0ZzQnJBeXdBZHd0R0JpaWpIaV9IMDgzc29Fdzlsdlk1QzBaOGRNWnFvaXJBdFNNazFmZ0tBT2s1VXp2MnJWWW1FeEE4V05oWQ?oc=5
-
-■ 政治
-1. 「レベル5大雨特別警報」が発表されたら車移動はどうする？注意点を内閣府防災のSNSが解説「冠水した道路への侵入は命に関わる危険があります」（オリコン）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE9RNzE0YXhFRUo1clVJb1NlTUZuMWJfZXRYWE1YTUxiZFl5STAwYmVrQTdaZlNNUmlFenpodFhkRDZKejU1SmdHMDdHcmpKcS1NWjQtVXk1eVBoQ2ZUMFRmRTcxY0ZNeVdId2xXV1owcl9jOEIwUWUyR1N3RXdDLVk?oc=5
-2. 選挙（キービジュアル） - ［長崎県］来春の県議選1次公認30人 自民県連候補決定（西日本新聞me）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE96Q3hYRjhJMWIydXFfeFFkUXFQd05obk92ZHp6VjlxanNJN0NZQWRRNTNzMjRtOTZxSnY0My1qVXdpZmxLNS0wQ2lBMHY1S0lwTDVkV1ByTQ?oc=5
-3. 【国会報告】 玉木雄一郎さん（衆院・国民民主）「外食産業を支える実効性のある政策が必要」食料品の消費税減税に対して（newsdig.tbs.co.jp）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mRkhMRnUwZUxTNDFFOTZNQklnMW95T3RBYVZGTU0tcjFkNWJfRUxFblZseHZWM3hSOFozaUl4cFJlRGRRa0RKcWdMQ2U3UTVtUmNGMm8tWQ?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-20.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-20.mp3" length="1559376" type="audio/mpeg"/><pubDate>Sun, 20 Sep 2026 06:31:01 +0900</pubDate></item><item><title>9月21日のニュースブリーフィング</title><description>9月21日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 03 Oct 2026 22:16:08 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>9月21日のニュースブリーフィング</title><description>9月21日 ニュースブリーフィング
 
 ■ 世界情勢
 1. グリーンランド合意で見えた米国の本音、欧州に迫る「自分の国は自分で守れ」（JBpress）
@@ -649,4 +604,45 @@
    https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fX1ZlUmt1b3dRU1ZRZDVTV1pjMHotQ1RjUFFqMTUxZG9lWEVzZUlVcFVuZnFSYm5XckFuZ1NlbURSZEVWTGl3YUFsdEw1UQ?oc=5
 3. ガソリン高騰、物価懸念 生活改善狙うも効果薄 トランプ政権・米中間選挙（時事通信）（Yahoo!ニュース）
    https://news.google.com/rss/articles/CBMif0FVX3lxTE5QRnBVeC03bmE5ck8zSEp1Q2tRb2xyd2Q2VTA3Q2hEbEFvejVjNzhqRXl3cGktakU1SElodlBHRWpfVXJQQ2FVVHZSQjM0MTJqMi15enJmOEc1aG9adERESHdiRExiR09vWjk3V3BaNGRRemxXa3dJczVkeDNGLVk?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-03.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-03.mp3" length="1584000" type="audio/mpeg"/><pubDate>Sat, 03 Oct 2026 08:05:30 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-03.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-03.mp3" length="1584000" type="audio/mpeg"/><pubDate>Sat, 03 Oct 2026 08:05:30 +0900</pubDate></item><item><title>10月4日のニュースブリーフィング</title><description>10月4日 ニュースブリーフィング
+
+■ 世界情勢
+1. フーシ派、リヤドのアラムコ施設攻撃と発表 サウジの攻撃に報復（ロイター）
+   https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2h6WE1WNWxoTlZzekR0MXJBeDVtOG1PQjJ1SGRQM09kV3pyMmFPOVEtdkNvYVhyUWY4VGNNX0R4TVp1SGtWb21NZmhXbHR4ZU9oaHVoWTFuZUtCSUlld2d6QnBIVGRpaFB6S1lQRnNzUF9hQk9ZYVV5TS1qeDBZbFhzV2hkQQ?oc=5
+2. 浜田靖一・安全保障調査会長が続投へ…自民、３文書改定へ与党内調整進める狙い（読売新聞オンライン）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE14S3hKY1p2YUZ1b0RRLV9tc0g5M2REcTBRbnVrbG83VGFLQWhCV3NMUjR3bFJ5dktjT2dQTm1Pc1VsWEh2X0JweTlGOXZ1b1o2bjBKQUk3MHRwR1BzS0dfVHg2ZjNiYUI5QkdoS0JKdmd4Yl9yZWJadDlwS1VZeUU?oc=5
+3. ロシア ウクライナ駐在外交官らに報復攻撃巻き添えを警告（NHKニュース）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wUTFUMkVMUXJHSG9JYno0MXNYcDZ2YWI1ZXBpLXFDV1lpNnFNdnlCdlZhOTJJeWVwUWZ6RjFWTC10WE03Q3dRQ25lUVVfR1k1OFpBZEpSVkxBMEhNUFRj?oc=5
+
+■ 学校教育
+1. 課題掘り下げ方若狭高生に学ぶ 小浜・内外海小児童 探究学習深化へ | 学校・教育,学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HNzZMSmsxTUFFTGN5X2puMklsWldUbWFoZWZ3bnpCM0RzZzZ5NVV3eFBQMDJxZmxIcTAxaFotT2N6elphNU5RdmxadDZtQVhVOHB0ZDJHWnNRaHNJTmc?oc=5
+2. 特支学級３０人心ひとつ 伝統楽器を演奏、交流 若狭町内９小中学校 | 学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE53Y3pIUGdFMlBhSGJCOU1jOHRWZDBETXVaRVVva1BGUU0zQ3llZ08yTDZEallmaXoyLXVEbU53TGwxZzlwZTU0SFRrdnRYVzNaMlVtZHQ0TzJfeV9rR0E?oc=5
+3. 第２回、中３生１２３４人挑む 福井新聞模擬テスト ２０２７春へ向けて | 学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IOGxrcF9VenllRUVHRHFEXzZZN09FWGFJUTQzYl95N3hmTE5sbUNRN1gyRGZuWlM1UTRHejN6X0ZqeUg0eEFfMVhPTkc4ei1hV2VucThWZ2YtVU9VdUE?oc=5
+
+■ 倉庫・工場・物流
+1. GM、次世代「LMR電池」を2028年量産へ LFPより33％高密度、コスト低減狙う（XenoSpectrum）
+   https://news.google.com/rss/articles/CBMiakFVX3lxTE9sYWI1c2R3c0NuWkhOU0RoYXlBV09ndURUM2xSTXNVYnByOUFjVDJXa3MyTHdlRjE3NmVoRGt4azR6Z2VNSHhKN0lJZmRweURZV2ZsYW5lQXlCVk02eldyeDhCMEhLaVRoc2c?oc=5
+2. マスク氏の「Terafab」にTSMC参画案 ロジック・メモリ・先端実装を集約する巨大計画（XenoSpectrum）
+   https://news.google.com/rss/articles/CBMiakFVX3lxTE0xSEZxejFmSEljQTdrM3ZLRDdMUEhtQW1oQkpnNEJ4UDFkdXpNSHE2Vk5OYVl5by1QSFNzeWY3VGtSa3M0NGlEaThsMF9fX0dFNHY3UTNhQXZDMC1KRk1IM2RGQkNRS2V3WlE?oc=5
+3. 清涼飲料水で食品ロス削減や物流負荷軽減に取り組むための指針 業界団体が自主行動宣言を策定（食品新聞）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE5aeXhGeUVndWkzTVpUbGJoZzRlUUFXUmFTMkJBdHo3X1lEYThkRlA2X2ZtUGhDRXMyWmRla3ZVenAtU205S1VlNmNWc1o0SnctbklFNVlIdFhsY0lGOEk4LWlYR0hxNi14SUZiVUJDQWVWWWdDU1ZjTGRMLU02c1E?oc=5
+
+■ 日本の社会
+1. 『ビブリア古書堂の事件手帖』アニメ来年4月放送 PV公開で追加キャスト4人発表（オリコンニュース）
+   https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ER2VZQmIwVElQZVd1TW0xcUZ4RERUZ1RxM2FMTnlKczN0aVM4X1U3Q3lNcXRKOWxOUkxjZk42d181cnBxdE9KQ2FDcTg1TThMV2JaLThnWW1zdw?oc=5
+2. トムソン・ロイター対ロス事件控訴審判決をAuthors Allianceは批判など 日刊出版ニュースまとめ 2026.10.04（HON.jp）
+   https://news.google.com/rss/articles/CBMiRkFVX3lxTE5yNnhnLVVNQ3RTUjRGV0l3cDhKUUhpSGo1VE45LXppbjhHbGFwbWJMdkJwRl9tMjdNU3BRWG4wbXVoNHhGc2c?oc=5
+3. 『ダウト』開始5分で爆破事件が発生 怒とうの幕開けに視聴者困惑「これ初回？」【ネタバレあり】（山陽新聞）
+   https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IbmtyOHY3WU51clU4aG1KcXdRam45aXlYOVN0ekloZThWMEdCU2lTeHEwbmU2NWV5NzJRUDZ1bkhtMWhHLTNSYkhhTVFWX0Y4UlVjNUVhbC1HUEl4?oc=5
+
+■ 政治
+1. 開成町スポレク（スポーツフェスティバル）ご案内（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE91TGxlU1dOcTRZZzl6cmtUWFBKYlVHSG80a0QxYVBUVDJGeGxibE5UNGZQSzhUc2VBOVEtdkZXMGRaNHA4ZEtDUTRkOXFNbXNEdHN1SV9kc2t3bmRzVm8w?oc=5
+2. 市内を駆け巡ります！（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRTGE4aDRhMUQyTzVEa0dPd3c3UWVNR3kxYUttbXcyaG9hUmpVcTZ4VXh2STFIS0RXOHpEdHpuTlVkal9XU1RSSHFLbnh1b3BmMEdGclo1RnpDMUItRFRB?oc=5
+3. 金沢マラソンについて：その⑥（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CaFp0SzA2dFgtaU9Callpd1h0d181TEpTMVlkVFlQdkxEN2pIaGJFRlJQWTZVNmE3TzlLWFY3QjhFbW5BUlN3OEJuY0N2QkdkT3d6VXlVVTMzLU1kODdB?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-04.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-04.mp3" length="1298448" type="audio/mpeg"/><pubDate>Sun, 04 Oct 2026 07:14:27 +0900</pubDate></item></channel></rss>
