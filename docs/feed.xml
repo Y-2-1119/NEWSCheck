@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 13 Oct 2026 23:22:08 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>9月30日のニュースブリーフィング</title><description>9月30日 ニュースブリーフィング
-
-■ 世界情勢
-1. 「人体が肉塊に…」北朝鮮”外交官処刑”の生々しい現場（ｄメニューニュース）
-   https://news.google.com/rss/articles/CBMifEFVX3lxTE93Z0psTExKRFlIUE5wMnJQTnBUbjdiQTVXQkprckNrRkU4S3h1YUM3WmtLcTczWWRJY2pPZVRLeUdLczhOa19MeDN1WHhlSUEydk94Wk8yNkhYMnFNOW1HekFweTNhZ3BoYmxnaUN3S1VCbWkzcWJjRnVJZk_SAXxBVV95cUxPd2dKbExMSkRZSFBOcDJyUE5wVG43YkE1V0JKa3JDa0ZFOEt4dWFDN1prS3E3M1lkSWNqT2VUS3lHS3M4TmtfTHgzdVh4ZUlBMnZPeFpPMjZIWDJxTTltR3pBcHkzYWdwaGJsZ2lDd0tVQm1pM3FiY0Z1SWZP?oc=5
-2. 画像 | 高市首相｢NY外交｣は本当に成功だったのか？ ｢旧敵国条項｣で中国を刺激し｢無人の空港｣で手を振る｢国内向け外交｣の限界（東洋経済オンライン）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZNkRBeEU5UzEzZndRendaMDZuMzRqaU9uTHpMVXFIS3VZd3poMzRIenRVbVZZWTJMdWcyb2VJZEVCMUN2dzNKbVhBTkRFQkpuUFJJcW1yaHJtVDctVkE?oc=5
-3. 米外交官と英語で交流 高松中央高生、建国２５０年の出張授業｜四国新聞WEB朝刊（四国新聞）
-   https://news.google.com/rss/articles/CBMid0FVX3lxTE9SajNZV0FicnhfRVlKX1pRT3hUeUMyZUc5R3NEdmZvNmZSR09aOG55ckRvTGs1dVdBQXlDVTZ4TEoxNV9sV241c3RfZVNPcFU0UjRLX0VxOWp4LTRHd21vQnhQYWU5VWFIRHZ3dWFKbEcxVmluUlVN0gF8QVVfeXFMT2hBb2NvSGtSVDNscm9uNnFfSFl6Tm1SaG5vY0ZnNFRaTVdhQkdXbDN3SzFBd3hGMWhkVV9RdDREZVhmQjZiTUJUM21YYkRHck9JbmlkZHFKemhSMnBPclNlcE9fNEk2NloyMTN4a1BDNXhwenNpY0owN0gwUg?oc=5
-
-■ 学校教育
-1. 文部科学省、「木材を活用した学校施設づくり講習会」を11/6に千葉・昭和学院で開催（kknews.co.jp）
-   https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uVnZ2RkhRcGxaQXZOeTBnNGQwM2ZJdUNDZ095dGpYS2hoYlQxOFAxRWo2c19TR0lPTzRFQzVsQ1JvbTk5ZnVUaG1TZ1ZxQ1FvaVV3?oc=5
-2. 茂原の就学時健診は10/5から12校で順番に｜所要2時間半〜3時間半、茂原小だけ車で行けません（ジモはる）
-   https://news.google.com/rss/articles/CBMibkFVX3lxTE00SWMyRExSZTRiTlJOVTFhRDVaUTBEZzRkUUlXbkZacUxwUTcxMU9BbHlMRXlzZlVHTnpwZURFU3EyQ3I3dFpJZGxER2t2aEZBQVdBTk12UzZudHV3MndvdzhtQ3E1azBQQldNa0ZR?oc=5
-3. ライフセービングに親しみ 高浜・青郷小 ＷＭＧへ機運高め | 学校・教育（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZczVodzMwb0J0cGdPakxVVERTdlpPZXZ3VWFfbkdUbGdLTlIzbElHMG1TcUhpam9tazBHVGM2bzQyQU1qaEJqY0RQdVEwZWpMc3JhWUVfQVJRVG9YeFE?oc=5
-
-■ 倉庫・工場・物流
-1. 【海外】日立エナジー：米国に5.28億ドル投資、ミシシッピで変圧器工場新設し生産能力2倍超へ（xn--q9ji3c6d676qnnlo0fgmgrr6k.com）
-   https://news.google.com/rss/articles/CBMickFVX3lxTFBUTlhmV1V0cFVISHRReFpVUDMxWUIxbUJVUnVKX3lFa3BlaThYTmtwM3Z3elRqYUdmWl9vTlY4amRYVWFvalBTd2liRUV1aTE2MU41ZnZUZkU5LUZfLXFRQTJUTTVWNnY5R05yX0ZMYUZfdw?oc=5
-2. 工場立地法を見直しへ ペロブスカイト太陽電池の壁面設置は鉛直投影面積で算定（ITmedia）
-   https://news.google.com/rss/articles/CBMidEFVX3lxTE9sQ2wzNkhONTRlWGlEQ0o2d3hvR0pLZVdKZk43SWJOWHgtRmZaM2YxQklVZE5tc3I1NWxiT2VRcHJfbEluX3BuUmE5WHRXMG16MS1xOW85SS1QREZsbEhNaU9MWUNBZGtiUGJ1N3NSRG12aUVS?oc=5
-3. 神鋼環境ソリューション 清掃工場由来のＣＯ２循環モデル構築へ 回収ＣＯ２供給網構築調査に採択（kankyo-news.co.jp）
-   https://news.google.com/rss/articles/CBMie0FVX3lxTE5SYTFxMnRNekhwUWVhT21ydFpiOGpDZE9yWUpRdVRVUWtVc3VqRTMzanBDZU5Lb0VHNEpteVRpQXY0NTFGV3hYRHU4aUNzeHNmTXRfdlJDeGMwWWxKc3NIN0lkLXVhOEd4eWlOb3hUbWNFb2ZBR09qRnVkZw?oc=5
-
-■ WMS・WES・WCS・RFID
-1. マップル、業務特化型カーナビ「ルートナビゲータープラス」など紹介…産業DX総合展2026（Infoseek）
-   https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pdTQxcmNMdFk5RUV2UFBqQV81QTh6QVNvNzNIUUFiRVJXUmlDa2x4ZlFBc0JZbFE4UkpuQjlYdjI4REpzVWU5YWRHb3FNbnBIc29YUG5lVGRRNXlOeGlnUWpB?oc=5
-2. 日本サプライチェーンマネジメント市場の主要10社まとめ（pando.life）
-   https://news.google.com/rss/articles/CBMiSkFVX3lxTE1USmtWWTZ2ZE12SGRBYUxaaWc2RWhKRGtFWkNWcWg3WHFvVlhUMXJVMkh0N1hJaWRIMmFxRG1hNU5qeWtoVktRZ2Nn?oc=5
-3. 三協、アパレル物流改善の実務ポイントを公開（logi-today.com）
-   https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOTWhyTG4xN3puY2EyTHA4SmJKY1RNQktIbkxoYkJsY1NrLWdtdjZDc0xaVU5nRGhaNkE4X1hYV3FBbnhFaHExdk1B?oc=5
-
-■ 日本の社会
-1. 穏やかなることを学べ：第39回利益相反による不正行為、中小企業はガイドラインの徹底を ～東大病院汚職事件を看過するな（innovations-i.com）
-   https://news.google.com/rss/articles/CBMiYkFVX3lxTE53TEV1SFlLSl9GMHhmY01ER1VKb19wcTh1S1cySDMzWjlhVnVzR1E2YXNTN194M245OGxhcTI1RFNMYjNJcnRFRHV5dWRDNUc1Yno4dndwMW9JWlI3Slh6c0tR?oc=5
-2. 計画犯罪の罪、元夫「すべて争う」 日本人女性、ハンガリーで昨年死亡 子どもと帰国向け、手続き進む中（朝日新聞）
-   https://news.google.com/rss/articles/CBMiXEFVX3lxTE85R0RBUlhqUDViQ3UtODdWOXg1dlAxWG9GQzd4UmlKUlN2ejYyLXRxX0ZSSGc4ZEttWEJMU1QxR0pDc05oRk1WZEhhYlNoSTJMMVFQRXlXS0ZzSDhN?oc=5
-3. 視る日経！ニュースNEXT▼高市政権「裁量労働制の拡大」労使の溝は埋まるのか？（tv-tokyo.co.jp）
-   https://news.google.com/rss/articles/CBMikgFBVV95cUxNMnMxOURWNXdFbko2YjVhM2lKVE4xNlRQYzhXcXAxcFNiNW9UZVF5UkdhS0w4cEczakcxUHZ1cGdvNmNNZU1nclpHQUR1Rk5SS3l5Y0R1SkQ2dG1BYzdoRkpaSy1wN1I3c1k5Zk9mQkVpZ05sdDlnSUE1aVE2dUtnWjF6ZGxSNHh2OVc5SUZJR21aZw?oc=5
-
-■ 政治
-1. 【政策】自然エネルギー財団：鉄鋼脱炭素政策を供給・需要両面から整理、電炉活用やGX-ETSなど現状と課題を分析（xn--q9ji3c6d676qnnlo0fgmgrr6k.com）
-   https://news.google.com/rss/articles/CBMickFVX3lxTE5Ud3psQnJYMkZPQjJJcmNVUTdUMmxoN2cxY2sxRndKVmtXZzByd3lqUzdseU01U1huOFNybVZtRGN6MFI2NGdPd3VXSGN6VHp4Z2ZYMjZwTGN3OE1VbDktWlN5VUhXalp5VDFhV05sNUpFUQ?oc=5
-2. 【政策】環境省：9年間45件のナッジ実証を横断分析、135件の比較試験から脱炭素行動を促す条件を整理（xn--q9ji3c6d676qnnlo0fgmgrr6k.com）
-   https://news.google.com/rss/articles/CBMickFVX3lxTE5CTWNLbzJENWtxMnp4akpScTliWVdMa2FrVi1TLXBpUS1MdE1MTzBoVVZkSjNoaUplNFFndGg4ZFNJWXpCT2pFVXFVb3RjRmpIT0lXSEhTNzN2UThVTmhIWXVRSE5wc3RfbGNPUHlYZUdtZw?oc=5
-3. 高市改造内閣で閣外に去った林芳正・前総務相が睨む“次期総裁選”へ向けた動き 高市首相は林支持派議員の切り崩しを開始、林氏も反主流派のパーティに参加しアピール（NEWSポストセブン）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE1EVnVJdjZucXN2M0hkTWpWOGJmRTA3YjF2dHg5WVNzZ1c4aWRfZ3NmdVkyY3k1ZDJYX2dtR3QzaTF5YTVQVEJ0QlBxQmtqSk1LZnExNGVmZ0p4ZmFWZ2pmdy01S3N6b1RVSklkMUZjZlpYNndRSHdDbXZYNy11QW8?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-30.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-09-30.mp3" length="1787616" type="audio/mpeg"/><pubDate>Wed, 30 Sep 2026 08:02:48 +0900</pubDate></item><item><title>10月1日のニュースブリーフィング</title><description>10月1日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 14 Oct 2026 22:27:04 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>10月1日のニュースブリーフィング</title><description>10月1日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 「新ユーラシア外交」の再起動？ 米国が揺らぐ今、日本が動く余地は（朝日新聞）
@@ -659,4 +610,53 @@
    https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSYmpOck1NbUtQV3VUWERSUDB5ek4zX0VoV0NHekFLcHJVbk5MdDZSNUtwcENQUzBLUXFFVVctc3ZjaGg0clZSNEVVUTV3M2tUOTZCRklvazZiQmg1ZHItdjVpbVM?oc=5
 3. 福島県知事選の選挙公報、84万部を発送（47NEWS）
    https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZRVpHVzBXdHdNcHo1cy1RMFNLZ0g0NS1tYnAtcjJzRGVfd1ExczJVWjd3VjAwQ19WUGJxcUxyOVFkT190WlJOWmRxRQ?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-14.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-14.mp3" length="1704096" type="audio/mpeg"/><pubDate>Wed, 14 Oct 2026 08:19:38 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-14.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-14.mp3" length="1704096" type="audio/mpeg"/><pubDate>Wed, 14 Oct 2026 08:19:38 +0900</pubDate></item><item><title>10月15日のニュースブリーフィング</title><description>10月15日 ニュースブリーフィング
+
+■ 世界情勢
+1. 中国の軍民融合戦略の構造と日本への影響：経済安全保障と技術覇権競争の視点から（藤谷 昌敏）（アゴラ 言論プラットフォーム）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE11cy02X1MzdXBEdE5VRDc3VXV4eDJ1cEFfVEJrcjl5Ynhucm1xQVFxam1FNjd3dGkzd0FhUEkwQUd5dTlhTjBjTTFEUm55N1RTTWpGTkp1dkVqUnM?oc=5
+2. “ラクダ外交”で観光誘客を強化 アゼルバイジャン大使鳥取初訪問 ＶＩＶＡＮＴロケ地の縁（www.nnn.co.jp）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTE16cHhGMmhrbVppVl9Jd1I5MGNQUEhvaU8wRlk3YXlMenpoZ2Fla1ZOY3pGR3lPc2xQbUdMU285UE8wYVU4a2VMajhoUGU1VV9k?oc=5
+3. 安全保障の緊張が続く中、日本とロシアの関係においてエネルギー協力が依然として重要（アラブニュース）
+   https://news.google.com/rss/articles/CBMiowRBVV95cUxNZzMzMHhPRkVDZFdEeEFKNERLc2ZfUS1EOU1qbGJFdF9ONk4xMTkxZW13N0ZNU2xxRk51U09PTUxSbUlVR01RZnBMVy1oWkMxeU1ZR0FYWUdRMmk0RWhpeW5lZEtIbXctQlhJNlRSWDIwd2Y0el9BbVRIbTJ4WjVPdFRoeDkzQzJ1clVxR3lvUXpVTmZDeE5yWEJtOTl2N3d3VGpXUlhuVW5QbFM1UWdsZGhkOGY2SHFSN1JoUHZaRVAzQWlJSThFQ3ltdGg3WGY5TVlmQTJhYTdiZGYzQi1haFI5RVZRbVNTaUc0SHZwWDNhS2ZLOXhFeTZLQ2pJdG9fSXB3NG5RVHNtdy1WVGJJNFBmcHlMQzF0dGNFa09IdlZSa3lyaWRac2pveE5FVXVGckVVWXVzSndUazlrbEFQcnFySU1wT3JNa3FIX3JtYk1sUGJKZWVwbGMzRUdMd1QtYlhuelVXOHRUYUVjNWNfRFBXdWxxSFM4amlfMFJnd2xuUG9VNHBNYXYyRkFwODVQSmE1ekp2eVlwXy1QNlZHMk9mLVViQmdlSzJXTDV4aE16djYwRE1rcmtUYVFvMzdBcGFsbmhQOW1fRzJCOWg4MEtYNU9rWW5lY2xiUmdrMklUcnkxSjVQb0hVREQ3ZWhFTGY4UmlXZDk0ZUI0WFM3WDh4a0ZNd1F2bWIyTkhpTWp0QXRrSk9XaHgyX3RKNV9qQjBv?oc=5
+
+■ 学校教育
+1. 県内奨学生 高金利に悲鳴 借入時から千倍超も 返済重荷「将来に不安」 | 学校・教育,経済（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oZDdWaUtGWHZVQ1ZZOFdHNDdsTTd2UUo4QnNFZDJNMUNSM085bTJZbFBVMjA2NWZKNWwyV01USnlWLVFrYW4xMHNlZGh3Qi14SkhkZi1WT3o4UmNEUlE?oc=5
+2. 来年からCBTの全国学力調査 文科省がサンプル問題公開（教育新聞）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YTktUNVA0cENVRFk5VU1TbTQ0WjFNcENwR3hXRlExWmtxZEJPSG5tUktPT3BMQWRxajRHRUZVZFdnVFhtSU1ReUQ4WGtHbEpaWWVTN2ln?oc=5
+3. コスト数千万ドルの削減事例も！日本マイクロソフトのAI教育支援で広がる「スキル習得＆教育改革」（DXマガジン）
+   https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nSms1TG1JTFdUV09NMnM0TGQzT3JXcWxQczZFeWs1STFDUUJIaHNhZEZXcE9BcEJab2NPYXBNWFVPSjVnTGJUVHgwbEw?oc=5
+
+■ 倉庫・工場・物流
+1. 対米投資第３弾で半導体工場建設 東京エレ装置供給、ルネサスは調達（時事ドットコム）
+   https://news.google.com/rss/articles/CBMiY0FVX3lxTE05N2plWjhOYnJhd2ZQSkw5RG9oMVlqZVh0a25PM1o4WU5mS3ZCX0VmUGZJUXNhRHBzMHpUVVRFV01hWTNFZ05rUU9TNnRveGFLemdrSUY2dlI4U2E1RmdreEUtOA?oc=5
+2. 米半導体企業 最大3兆円規模で新工場建設へ 日米合意に基づき（NHKニュース）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fczNNRzVBZWVRMjM1UmxGVk95aUlrdGlKT1FxMms0emVyMjNjV2h5czRnckU1dF9FYXdrYWdLeGtsZmRQOGZOSUVVdWJTUFRfWUlkSko5NjRTVXlrQTEw?oc=5
+3. 【太陽光発電】東北ヒロセ電機：宮古工場にオフサイトPPA導入、6カ所267.3kWの太陽光から20年間電力供給（みんなの広報宣伝部）
+   https://news.google.com/rss/articles/CBMickFVX3lxTE51VXlneDJJYnZzS1ZJbDRiVXJral91cUNfMElFSGhhLU83RVpUWWFENE9VYkluX1d0R050eUNtcFZqYk1DQ2Y1MXlTODh5SmRDVEFSR21MVElSQWVpSGNzN0RTNVBUVjB5Z05EdG43TFZkUQ?oc=5
+
+■ WMS・WES・WCS・RFID
+1. 宮城県仙台市にコクヨの物流拠点「東北IDC」が新設 仙台市内全域で当日配送が可能に（AMP[アンプ]）
+   https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vR3p0ZjE0c1l5b1AtUDhDclRvRnNHSHlnQ2J6MnZPVUtSQ2NjcVhTeXEwS0R5T2N3U1ZkX0MweGZDSHFrWC1nYUhpVE1FZ045TDBNR3VNcUlOa3Rq?oc=5
+2. シーオス、物流システム開発へのAI活用で注意喚起（LOGISTICS TODAY）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WM0gyOGtxd19BcGtscjlQSzVkQU5kS3NqcjMwOWxwWWxhX2dmLVFrcVNlamJMNF8tTE9GQ0FDZC0yZVZkbUZSVXJR?oc=5
+3. トーヨーカネツ／小林専務に聞く、物流分野での機械化・自動化の課題と展望（物流ニュースのLNEWS）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yRWhsZFFEWXR2SkgxakFhWW14bU84Z2p2bGdUc095TU5qUzNkYXJwZWdhazUzOWR5Z3d4QTgxV1RJTUJSNGxWUTVoRFpmTVB4QTRqZA?oc=5
+
+■ 日本の社会
+1. BJイム・アニ、仁川刃物事件やゆ謝罪（조선일보）
+   https://news.google.com/rss/articles/CBMihwFBVV95cUxPQU4zWkVFQjk5NUhyXzhkOTQtWFBVcFdPQ0k5WG1kWVBqVlhSMzI1bGI4VDBJN0R1cVFQNEVJSXlZeF9scS1LUXd2NlVpaHJJRDdQa2h3eEFTdkNWVmxwbE5nUkU3ZHJOMVM2Y3JTeVBaNWVmM3huTE4ya3pMT2JPMFhiekxPM2c?oc=5
+2. 使用者認定、企業4割「法・指針に合わず」（조선일보）
+   https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkt4aHN4T0YxV2dtdFRWQk5wUnM2VEFTY1JMQXAyV2VVcGJSdnItenFaaGRJcXNzdFNIbUhWbDc0MkRSbU9LbWtJS05LZ19xRUxpd0w4NEJKMjFfYnlEelI1bHgzeFFRTUp1S0xaYUdZSVdvNHI5LUVKczdHRmlwNA?oc=5
+3. 早稲田ゆき議員が浦野厚生労働副大臣室を訪問されました。（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NeGF6aVFDMjkwZWtWdTdOYXJlbmJGbE5ZZ1E2T1JEeTdpSmNXSlRteU04VUktNWphcElDTWc4Z1pOVlN1a1Q3WmRvdENqaGNUTG9CcHBXLUhLLVlpclE?oc=5
+
+■ 政治
+1. 県議補選あす告示 福島市、郡山市、いわき市選挙区 ２５日投開票、知事選と同時選（福島民報デジタル）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wTWtDcnVFSGZka3UwajhnZERGMUpaQkxaZ19qc3Y4amJpN2pTd0VjNXpXNS13ak1GVTNuNmxTSFNxTlEtWXNldmItWkM2Zzg?oc=5
+2. 「沖縄の選挙は県外の人のエンタメではない」 知事選で飛び交うSNSのデマや過激妨害、記者の葛藤【現場発 秋の新聞週間】（沖縄タイムス社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WVk9HV1JfZkFtc09CQVA1S09JUmlYenNNQU1MWkdRYXUzZGtyeXoyVUhEMl9sXzkzUFFoaTIwVUh2UTB1YlF6N3ZMeFVfVTdwZlAzc3FVSDZxWWt5Zmc?oc=5
+3. あなたの選挙 - 福岡・みやま市長選、立候補者アンケート（西日本新聞me）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtX2RUU056dkxrcWNiWEhpRUY2bkFmYU9uVXlhbWQ5TlRlYTBVTFRkckljQWdDRWN4VEhqTm9IeXp1TFhlUHhHelQ4d0swcGdKQVJIbUx1cw?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-15.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-15.mp3" length="1590912" type="audio/mpeg"/><pubDate>Thu, 15 Oct 2026 07:24:41 +0900</pubDate></item></channel></rss>
