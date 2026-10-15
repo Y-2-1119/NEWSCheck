@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 14 Oct 2026 22:27:04 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>10月1日のニュースブリーフィング</title><description>10月1日 ニュースブリーフィング
-
-■ 世界情勢
-1. 「新ユーラシア外交」の再起動？ 米国が揺らぐ今、日本が動く余地は（朝日新聞）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QYXJaN19NaVY0RmhOMk0wYUc0V2NjU1RJWDRyWEJ3dWptaUFXWDl4NFRZZ0hDclBrN29mb0pRTnBpSGU4Y0tRSHhqdTJBVXdvdE1ITElyZ0pRTkF0S3NhaUUwX2NkMkE?oc=5
-2. 際立つ進次郎防衛相の外交オンチ…「高市総理に軍拡フリーハンド」で日中対話ますます遠のく（日刊ゲンダイDIGITAL）
-   https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TWDdkNmtEeTJ4enBsZWF4bjNkdlNoOVgwbUM0ZEtja2VoYVRFSkh5OFZOOXZsbGp4OXMwSE1ISkJBSFZJcThCMkNZaEl0OEFaVnZOd2lteFFHMkFmOFY0RDJWZ2JEQQ?oc=5
-3. シャオシャオ＆レイレイ「９・２９一般公開」で透けて見える中国のしたたかな〝パンダ外交〟（tokyo-sports.co.jp）
-   https://news.google.com/rss/articles/CBMiXEFVX3lxTE12UzNHSkFYbFh2ZDdPVWwxTjBPNlZ6NnVLVDd3MEFhemx2Mkx4cldTdWFDY1NzcG8wZ0Z4S0VJRnlLdVNjTlFVVUVCUFpza1lrRnZyVHhZMWhoZVNY?oc=5
-
-■ 学校教育
-1. 専門高校の生徒減対策 県学校教育審が方策議論 福島（47NEWS）
-   https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKR1ZldkNER3JOdjdkeHRPcWp3X0tPbkpibmgwa0tsU1BPVGc4VERYdFJYXzZRU2pIMjBHZnJlLXFrMmhEMEVZRDlsWQ?oc=5
-2. 山内かぶら種まき 鳥羽小児童が体験 若狭町 | 学校・教育（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE43UjF6M3hlemFNa1B5VWxqSnVQeG1fRmNlUUZ1Z2lnYUx2NFlYQTRITV92NUp1MFlSOEVobjVKTTlONktEWXNFTHRxbkk4eFFxR29oQ3c0V0hYWW13N1E?oc=5
-3. 文部科学省人事（1日）=関係分（hokkaido-np.co.jp）
-   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sUG9DTTRwVjBLdDBsbDNIZ1N3NWZjV1RQQTFndktXMFNaWmVqT2tZVEJnOUtkM0JyVG9vR2VVcHpPOTQ5dmRWc0FncUJPZ1B1dVd6WXAwcEwtZw?oc=5
-
-■ 倉庫・工場・物流
-1. Meta、再生PETの環境属性証書を複数年購入 MacroCycleの米国初商用工場を支援（ESG Journal）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE95eVVEUkcyaFVOZ0pOdS1sdXY1eV9DVTVDT29RVDN3TkEtQWFoM1A4WmdUMDQtb1RidGo5b3BoQlI0WEljb0h4bVd1NTNzMWJOY01GWlR1TQ?oc=5
-2. 【太陽光発電】ちゅうぎんエナジー：ベストデリカ大野原工場に323.96kWの太陽光PPA、年間156トンのCO2削減見込む（みんなの広報宣伝部）
-   https://news.google.com/rss/articles/CBMickFVX3lxTE1OOTBERkdLaFo4TzJUTWlVS2J3V3dhQTZfbnF3LWVyVmRnQU5pMl9iZHhlUTBrd3g0LUF5VG1HZm5zdy1WcHJjSHViS2o0amdEWi1OS3MxQ3JnUGVkdW03ZmdENEdXOXdBMlZYTHJhYzk2Zw?oc=5
-3. 世界モデルは「巨大化」しなくていい？ 中国新興、工場や家庭の「小さな世界」から学習（36Kr Japan）
-   https://news.google.com/rss/articles/CBMiO0FVX3lxTE93RkVnNnJUUjhGRmlnMTZHTjVYYnpubTJvaVBhUzNJbFI3bnhJUzVYclAxZzNBQnBlbEs4?oc=5
-
-■ WMS・WES・WCS・RFID
-1. 株式会社コマースロボティクス、楽天市場の受注・在庫・出荷をShopifyに自動連携する「コマースロボ Shopify connect」を提供開始（PR TIMES）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZUERUaVpfUVlfOGJPbkpsR2pYQTlyVzVTalYwT29KRWFSd2RXX2ZjemtFSENKelRDQ19tLTdZcmY0aFdSYnh1am8zdnVBakhKeFRvcVFMS3BTVGhTaVZsajZIeEk4b3MwSGc?oc=5
-2. 在庫管理システムに「請求機能」を追加（cargo-news.online）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aENBWTlleHBhR1RhTkZHcHlUdzVzZm5vMXQ0ckpHUUVCQWo3U3JzcFNhQ0hOOWVSdVZpbzJxN19fVlZlS1BYUTJhR1BJemg2UGk3RUM2OU0tWkttd1R3?oc=5
-3. MonoLu、物流倉庫DXの新サービス「Warehouse OS」を開発に着手（PR TIMES）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTE9ieklxeDRvVlpIdEZWQm5LRzk5N0JBelB6SnVDSERxVExIMGxRMjVnQ1d6alVPRUl0dERYcDRrQ21ZZ2xFR2NDVXpDempIdmVLdnNYQ1NmajNwakFkN3prLXZwbnlLZmZjMkE?oc=5
-
-■ 日本の社会
-1. ロッキード事件50年 元首相逮捕が日本を変えた日【ビジュアルニュース】（沖縄タイムス社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE81RDdrdy1kdy1OZ1lFSmkzQUcyWGVnbjdiTm5XS1owa3pBQlJGaFl1cHJlU0dVNGM1WDZuWVFxRHR6VlFNSEpoSktzTW5OdEQ1YkhteUw0YTRYRVI0Nmc?oc=5
-2. ｢子供が将来製鉄所で働くと言っている!｣日本製鉄のUSスチール買収で一変した｢瀕死だった鉄鋼町｣の現在地（finance.yahoo.co.jp）
-   https://news.google.com/rss/articles/CBMihwFBVV95cUxNRi15SURVY2F5RHpic1h1U3NENjVfOFdmai1ZeEFJZFhoc1BHcjBZdUs3V25NVU9rTGpnRkxBMzExNGREcHVqNWdQVEhTZWdldWh4U2hiWEcxdXhiQzh1cUNrUXVKVGxnbUE0MFctbktSeVk0cGNfV05MS05venEwaEtIaFhKQk0?oc=5
-3. 仁村紗和＆佐藤大樹、爆破事件に巻き込まれる 『ダウト』今夜スタート【第1話あらすじ】（オリコンニュース）
-   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tS0dFR3dzazFTcmJmeFdwSlpUS1NHZ3BCUTdwVDBDcHBob05jcGYwWFcxYUZWVk4xTXB6YmxpVXpEQ1hvYnRJcE5PMHdZWWZvWXVFSUVB?oc=5
-
-■ 政治
-1. 10月3日公明党大会（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1cTV1TF9LMUxZOEZxYThUN0tCajRGN0o2X2k1V2xmMHhTQy14RTV6ZGRsMzE5X0x4Y2wzN3hyMmlQaV9aS3ZhbkpVUGQ4OFNaWU5fM09IMjMyTGdwZXdB?oc=5
-2. トランプ氏 韓国の2000億ドルの対米投資を発表 中間選挙見すえ巨額投資をアピール（テレ朝NEWS）
-   https://news.google.com/rss/articles/CBMiekFVX3lxTFBhbUt3aGhIOVVxckFmalVzMHRIaGJpWVBjdmVxdmotUHlEMUNCMDY5cHcwa3VIU29nMlU5QVF1UnNzdkNBSl92MS16TTBTVVNMWnpXdHNiU3NDakZPOGNVZDdkeUFWckhxOVdpcXBnS3Y4ZVI4Y2VhR1ZB?oc=5
-3. 9月度 公明党半田支部会✨️（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FaEJvd2hic0lUYklTOG5tZFZyZmlZWUotcmd4RDYzXzgtRDhNX3ZfQjhMV1pYOWYxdENWVC1neThVM2o1a3g2YkUtQjJEWFBFaTBXcTV0YUNNdDEtR3dz?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-01.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-01.mp3" length="1509120" type="audio/mpeg"/><pubDate>Thu, 01 Oct 2026 08:05:46 +0900</pubDate></item><item><title>10月2日のニュースブリーフィング</title><description>10月2日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 15 Oct 2026 22:31:53 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>10月2日のニュースブリーフィング</title><description>10月2日 ニュースブリーフィング
 
 ■ 世界情勢
 1. ハンガリー外交官を追放 ロシアが対抗措置（時事通信）（Yahoo!ニュース）
@@ -659,4 +610,53 @@
    https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WVk9HV1JfZkFtc09CQVA1S09JUmlYenNNQU1MWkdRYXUzZGtyeXoyVUhEMl9sXzkzUFFoaTIwVUh2UTB1YlF6N3ZMeFVfVTdwZlAzc3FVSDZxWWt5Zmc?oc=5
 3. あなたの選挙 - 福岡・みやま市長選、立候補者アンケート（西日本新聞me）
    https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtX2RUU056dkxrcWNiWEhpRUY2bkFmYU9uVXlhbWQ5TlRlYTBVTFRkckljQWdDRWN4VEhqTm9IeXp1TFhlUHhHelQ4d0swcGdKQVJIbUx1cw?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-15.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-15.mp3" length="1590912" type="audio/mpeg"/><pubDate>Thu, 15 Oct 2026 07:24:41 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-15.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-15.mp3" length="1590912" type="audio/mpeg"/><pubDate>Thu, 15 Oct 2026 07:24:41 +0900</pubDate></item><item><title>10月16日のニュースブリーフィング</title><description>10月16日 ニュースブリーフィング
+
+■ 世界情勢
+1. ミャンマーと酷似する権力構造 海外で邦人記者が狙われる時代の危機（ニコニコニュース）
+   https://news.google.com/rss/articles/CBMic0FVX3lxTE9INEZ0d3N1bjRVdVJBRE5CT3hQUExUbE9NdzNGMXV6cjNVS2FyTW9IcmstWVYyNHdOUkNJUElxTThKcXZqM0tWc0xpSHM4V0FFUHVZaEFCOTQ4RFR5UkZZTk5GZ2RUU01Xdm04UzJWUzBQUEk?oc=5
+2. 元外交官の飲食経営者が企画・開発した、地域・自治体が旅行者に贈る食のおもてなしサービス「HOST-PAAN」を提供開始（ニコニコニュース）
+   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nLTl6bW4xS3FvZzJNUEk2SjRxcFg2Qmdndi1MLUlHVGVtZ191RmpxWGROTnM1Ri1RZFl3VDROT3Q2djJGTmpNd3JnOURVbWdFbWZQakFJSHF4WEFublZEa29yX2ZNYUxP?oc=5
+3. 米国の医薬品関税「安全保障への脅威」盾に【薬の地政学 #3】（Answers（アンサーズ））
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTE11dGhnOHNHbUtFZllxTWhQNkpRQ3BsOC1reHlKYkhqZFBfQXNmRzIwQm43YWc1TDk3QlJSUjgxNWk0NktyRjRtSkhTbzB5N2dQMWFvNU03SQ?oc=5
+
+■ 学校教育
+1. 大学生は部活サークル離れ? 調査（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTE41LVVoRlZWMTlBeXZHTndTZGE5TFRIZGlyUVJ6d01oSUZfSUthMDhYZHAxM1BPVlFGamVSTFB6MW1DNUtaMUFQRXBzZlRCeVRm?oc=5
+2. ＜高校再編 教育改革＞魅力向上へ１１月アンケート 生徒１．５万人と企業２万社対象（北日本新聞webunプラス）
+   https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DWjVvYjN0OVY2N252ZHdLTFlSLU9FalpTelFnXzZ5aGNZVmpDaFN0ZzcxTlV6VGttT09RV1ZmekJCWm1ZaGlLd3plNA?oc=5
+3. 地元企業の戦略 学生触発 県立大 経営者らの講義始まる | 経済,学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NeE94cXB2MkF6dGpLckZIdXZEOTU2clBVa2JYMURHUnVJQS1wSEs1TmN3d0RkX2J2bE5rZmZMZS1RemNwUGVWQnNPNUFLRDFSMUdOckVZbEE2QVgtbkE?oc=5
+
+■ 倉庫・工場・物流
+1. 鹿児島港本港区北ふ頭エリアの利活用 「三菱倉庫・南国殖産」グループがに事業予定者に決定（南日本新聞）
+   https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qUUNNWGxGUE81WjVkTC05c3A3TEV3TWNocnM0NmxTZDFQWVBXdUEwR1VtcGdnLW1KVnppSmRpTVp2NjlnNnBpbUY0aHJHNUl5SmYxVG1rMi0?oc=5
+2. きょうの気になる企業ニュース（2026/10/16）｜池田伸太郎（note）
+   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qNTdlTU91RmV5ZzZkRDBoZ0doejFNNWNPSktPMXdOcmtib0Y3eFdfWTBOd3RDazJBNUV5eHAyajE3alp2ZjNUZ1pJQVIzVjVIQkE?oc=5
+3. ｢東海太田川まちづくり･物流セミナー｣ 11/6本誌共催（LOGISTICS TODAY）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xMUZ5TndZTVNQTm9yeW5xUzlfd0JhT0l3QVVGZXVSQkV6eXJNVjY3VUZ0LXoxeU9sMmFSVFdsQ2JFcHF2bTlFVmNn?oc=5
+
+■ WMS・WES・WCS・RFID
+1. [活躍するロボジョ vol.46]WESの世界展開を目指して／Mujin Japan 中澤香織さん（robot digest）
+   https://news.google.com/rss/articles/CBMia0FVX3lxTE91bC1md2RCQXk2R3ZUem5lTlJKcTQtUi1WQy1GZW5GMTM3X2dMQ3I4MUNjVmp1Tm5hWWFfNmVyY01jTU8taEt2ZTZ3SlROZ2F4X0VxYWhjWm1zMnRaZzdWcS1GRktMSF9uUFU0?oc=5
+2. 関通HD中間、増収も物流固定費重く赤字転落（LOGISTICS TODAY）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE1GLXlGVlc1RTB6VUdPYWZJQnNiUEc1U0MxV2loVWlSVVdXNGFTcVNURnRwMl8wZmZyUndtd211TGZNXzhQWnNaWEtB?oc=5
+3. ヤマト運輸／岡山県早島町に3.8万m2の統合型拠点、物流と仕分け・輸配送を集約（物流ニュースのLNEWS）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHTEFaSXUyUFQ0Njk5WkZMSzBSQU40REczWjJ1SS1mcXYzalhtMlptMTVybDRHbnBIZnFsN21MTHF0SzdXWkFrMmttdjJxYnM5LXlyVw?oc=5
+
+■ 日本の社会
+1. 孤独を「需要」として発見する中国、「社会問題」にする日本（アゴラ 言論プラットフォーム）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kRHp0UkREQWg4YzM4clRZUWxTMHRyRWFubmhpWlRTWm1aemJRNWU0b1Vua2NUcVFzMC1IMkN4eUpnblRMb3cwTDFTam9HQjctQkR3cTFVMC0wN3c?oc=5
+2. 二宮和也も絶賛！西野七瀬が『金曜ミステリークラブ!!!』で鋭い推理 韓国映画『殺人の追憶』のモデルとなった事件の真相に迫る（ニコニコニュース）
+   https://news.google.com/rss/articles/CBMie0FVX3lxTE0xQVhRYU1SRlhWdGtxR3dxNEduSk95Q0tpMTBlMmtBSTJ3Nmo2TzJRZ3BhMWtfM1F6Y3plVWtmVmppdHJXZEdkWVZ5VS1MZkRiSlFOTDJMQmpMcGxhbHJhSGFUUGJBV0UyM2p0Y0F2ZVN1S09SVnBoY0FKdw?oc=5
+3. 韓国史上最悪の連続殺人事件、33年後に判明した衝撃の真実…映画『殺人の追憶』では描かれなかった真相に『金曜ミステリークラブ!!!』が迫る｜Infoseekニュース（Infoseek）
+   https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HdGJTa0thUU5VYlA2V3FJaER4T0hINGpKVkRPZjB6bmNRTlNBeUI3ZC1qNWhUOFlqWmpEdUsybnRPeTVmZ1pHNHg5TXJ6VzlmVHFTN2F1bFoxVzl6eFQzYg?oc=5
+
+■ 政治
+1. 【日本】IEA、日本のエネルギー政策に10の改善提言。技術中立性や炭素価格強化、DR必要 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs（Sustainable Japan）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE1fVkQ1cHhNakpHVXlTdEhWYkFLMUptV0s2eF82VDJMU2JSLU9RT0JITEJfYTEyTUpHQm9YS0h6cHlTSm1HVkM2ejB5OXNzbnk5dzNISU0xNnFxdHo0bFVjaWtMaVFJRmhZNk9QZGZSU2Z5QUpHYkFPV0FJYzU4Q0HSAYQBQVVfeXFMUFpRLVdaWDFreTF4QkFaOGZhcEhtb1ZaZ0h0YUJjZkptUFFwVHdEMkhOZk9qdUVmVzhnVldBLVlmX3RWVnNYLUhKWDZ2NTFEeXl3Ni04ajlQVWY3Y25GeWYzeDR5Ml82LXpXU3RoclBDZy1tcEpHY0Z0STlISzZRWVBLMnlp?oc=5
+2. 揺れる内閣、立て直し急ぐ 簗氏後任人事、高市流崩さず 首相、国会戦略に狂い（時事通信）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE5uN2lrdGJPMUJmOXRFcVRkU1Y3ZnpCTThRSTJoWElIa1JjdnhEbUJpXzdPN2gyM0lCNjJJaVFJOFA5R0ZjVDMycGxPTjBfWFUyOWJTMmM3ME5iSUpYQzcwV0UxbG5BV191QklTRWlveTNKQ2t5bkVydDkyMjV5OFE?oc=5
+3. 野田政権（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE90WDZlekhES0lyT2xtRTN3SHp2amJQZkk0eXJxcFFyVEEyeWkxYnNOYWlBTlBjWHlUWjhud1pTRmk3TkQ1eWxSeG83eXF6UGZYU2FLM25Ucm82TUYyUGlB?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-16.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-16.mp3" length="1663200" type="audio/mpeg"/><pubDate>Fri, 16 Oct 2026 07:29:41 +0900</pubDate></item></channel></rss>
