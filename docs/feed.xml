@@ -1,50 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 18 Oct 2026 21:38:26 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>10月5日のニュースブリーフィング</title><description>10月5日 ニュースブリーフィング
-
-■ 世界情勢
-1. 日本都市安全保障スクリーニング市場予測2026年〜2033年：CAGR 7.10%で拡大（pando.life）
-   https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YWnByYTAybWRwSWlvR210eFlkWVAxTURvQTlJeEx5Y0laMTd1ZUF0MjdTY0RkMlRRWWhUcy13emhRSG1UM1loVGRB?oc=5
-2. JTBとマレーシア政府観光局が観光促進で協力 外交70周年見据え（訪日ラボ）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wT0ZlNkRJeDN1UXRXZ2hMZzVGN0F1REZFT08yakRHRmc2dUM0MG5JaFBpVVZ6N2lJd19NcTJtLVE0a3M3aVFZQWFFX0lCemhfZm5HU21sVDNXT2Ztc0E?oc=5
-3. ロシア外務省、キーウからの退避呼びかけ 外国人や外交官に（日本経済新聞）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE9FbHlSVDE4Z044NnQ3bzhPMkV1bU1FdFJFQjFNNzlCdGlEQ0J4ZzhmTjNMdVJSRGRRdkNDaFY2MTZldU02SmJvZTJ3Y0dfalNOYUJrdzMxY3JEeHJKWThqQTdLWTVzRGkzeTJ6MA?oc=5
-
-■ 学校教育
-1. 【男性に聞いた】東大・京大以外で就職力が高いと思う「国立大学」ランキング！ 2位は「大阪大学」、1位は？（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMie0FVX3lxTFBsc3AycXphZHUybWhsNVJtT2Q0b3d5Rm1qRURTYjFXcTd3a1hJVUNNaUV2LW04LVJOc3p1UjlrTkVrWFR4a2ZzWS1UUGx6UzVmLW9yMmhuWTVBVElwLTR5TldwcUNUWFFZRVNXVUVNU1UteUpMRDNsLXJOWQ?oc=5
-2. 【府中市】府中市立小・中学校の教員公募のお知らせ（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SS2JwU0tvb1FwVFNoRGJtazlDMVgtcXNsdExpZElNRjFpeERKbHdiUmFjMi1ncVlmZU9sR29Bb0Jjc3g4VG9IZDFqZGpGM2l0NEV0Sjd6eDFPdjFZbmNV?oc=5
-3. THE世界大学ランキング東大27位、学力テスト都道府県別の結果公表…教育業界ニュースまとめ読み（リセマム）
-   https://news.google.com/rss/articles/CBMiZkFVX3lxTE1icXF2ZFIyZFZEZzRPeHNqMVRZdmptYXk2SV96TkpZd3B6QjFTOUFpeHFNVFBmZzJNSTFsTmJrbkJpNFZMWVowX0VSTTJfejhVN1lxNGYxRk04R1RvdUgtX1c1aDZlUQ?oc=5
-
-■ 倉庫・工場・物流
-1. 「工場視察」が外資系企業幹部の訪中時の「定番コース」に（ｄメニューニュース）
-   https://news.google.com/rss/articles/CBMiigFBVV95cUxNanllaWNGX1JIUU9XMHFKbGVZcEJ5anpScktqSk5UUzdmWXpmbHMyXzlqc0NxckF5TjFHQTFwaGlnOHhzN1F0THNiLVBKbDhDNW5BaklFYUhRNy1LajlaWjdvQkFlaDhHWGZjNHhQbHlWSWNrUm5vLU1LeXhjWjIxOUJRcHUza21XREHSAY8BQVVfeXFMTkNld3d4V0lEb2dhV21rR3QwcV9ieWNHaEhfNlUyU2xEUFpldFdiZWs3R1A4d1NFd0JhRDJWYjEwSU94c1RWc0g4SU9VbWNBamlkblFxazJKSDVsM01DR0EwMEVDTy1IR25KVW45Z1B5NV9hRmstTi0zSER5SXllcjZRYTJsMlk1MzQxUWJUdVE?oc=5
-2. キリン工場で高出力Wi-Fiを検証 6GHz帯SPモードなら600メートルでも200Mbps（businessnetwork.jp）
-   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ta3JWbjM1cENxS3ItbjZqZ0lNRXFEUlU4RGYwaGJkMUhHQ29qS1ZTZFZMUHU1eUhqSVljc1k4OWlzTENJMU9tX0FKU2w1R0pZTEM4?oc=5
-3. トランプ氏が最後通告：外資系企業、1年半以内に米国へ工場移転なければ最大300%関税（BigGo ファイナンス）
-   https://news.google.com/rss/articles/CBMidEFVX3lxTE0zWE4xV2xOVWF4ZjEydnNjQkVTZWZDaUNfTzQzTGtxNFppV3NMOGZXWThUTVJiZEpUVGdCQ1R1NVlsVHZjeVZFelQ5ak5zcWlmRVZabWZFeTl3RVpnMldLbEpxNTlXRUU2TzBYNGsxT1Fvczhl?oc=5
-
-■ WMS・WES・WCS・RFID
-1. 日本のRFID市場2026年版（pando.life）
-   https://news.google.com/rss/articles/CBMiSkFVX3lxTE1PcmZTRWFRNHQwYlQybTFOUXpvbXRsNEVWTEZfVlNZMXJXeWxwdVB3dnZpNThaeFpKUERESnBydVZkVUJsdC1LSEJB?oc=5
-
-■ 日本の社会
-1. 【解説】「作家としての復活」を告げる作品――『アムステルダム運河殺人事件 新装版』松本清張【文庫巻末解説：酒井 信】（kadobun.jp）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1amJhc3kyRXQzUDlKVzQ3RDBfa0M5T0JYUVZwaTQ3ejJ4VS0wSEpPMERiTkNnX0MwaWxTS0FLbVJSRkNmWk5sakM2bE01aEYxLXpCVnUzZ0ZzdlM2QlZr?oc=5
-2. 船木誠勝の新日本プロレス入門テストは藤原喜明が事件を起こして不在だった…山崎一夫氏とＹｏｕＴｕｂｅ対決で明かす（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE5MeU1sbjJWU0FsYTZ5MlEwRTdSZDE2Ums1bXJ0YUN6U2R4bEZybUs4X1REWmNOSjlublhjTHMybGYwNWJnUkRMWnRuazNuMG5Rd3FtRnJ5YkJ6Y0NlUXkzdlBVbmpxWU82bGRNc09wbmxWUkJxcjBhcDdTSU81VHM?oc=5
-3. UAE、機長刺傷事件でテロとの関連性を捜査（jomo-news.co.jp）
-   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxOEJRTXYyNjVZWkZuNlZZUzVfZXlIWHdybkNYejlwbWNLTV9LTnI5cnR4N29hY3JvbXJpQTBKVWUxb3NvNi1LUTFBcDdXN04yZ2pLUlc2WFk4Zw?oc=5
-
-■ 政治
-1. 臨時国会召集へ 消費減税など焦点（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VWEs0Tm1NMlNGd2JCRFRiZVhESDV3SDVLTTFBNzYwUnpScTdNY3Q4QnF2cmNqanNUR2M2SksyOFM3QkJ5X1NQVEdQS1l4c2R6?oc=5
-2. 山口朝日放送のオフィシャルサイト（yab｜山口朝日放送）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZdDBOalZ2THlyR0FWXzFhTTRUZFpXMUhFaEQ5SS1feVlIMHRFUzNBR1poSGROUWhPNUJWUlQ3YndodEkzdzJQT3hPSTgzTndHTmMxaE9KSQ?oc=5
-3. 10/5▶臨時国会きょう召集▶沖縄知事が抗議へ▶アジア大会メダル最多 ほか（SmartNews）
-   https://news.google.com/rss/articles/CBMi9wNBVV95cUxNYzFtRks4ZXFqTkh0VWlLeGdXeVU5M1phZ2pzWjB4bmYyMkVaZnBsOEFndGVoSDFCMVlOR3pGYW1CTHJJdzNWWXdnUEtRMU4wWHp1VlViU3hDMXFocWRrRThGQ2w2eDVTUmYtN01uRFJhRHhpNzFUc3R1ejg5Qkk5dHNLYUUzQ2NTanY3a2dCN0t6eEpPbXNFeHc1YkxzY1AtdG9lY1ZBNDdsUWNvQ1lfVmZvTUhuR0xxT0NuSUlMeXc3QVl1YzZLQnNzX1dUSHZNUHB3MHhBYkluaVFpaTlGRF9LdGpkOHdGSG90UFZRMkVEaDAzZUpQQUkxRlhJSnRwRXB2UnZUSGtwemNqR2N2YkN0M3RvcUd6cmU0U0s3aTFyOWx3RG83UG5JeUJlaTNKbDV1RnpLd0xIay1sUlViYzd0ZWFJQXBWbkd3OWhKaEZDWW5ULVZvakhwaGFaVE5EVV9qbzF1OU15VDZwR2pJNmtRTEtLMjFwRmdldmYzZHlublZQcmMyV2FjYjVRSzhmUjJYT0NmaHU1TFd1allPSDYyLVlqUzZycUE0WFVHRmd4V09Idjl0cWlQdGlPYWpMbXFKRFA3N1VhcEszaW9vaDMxbGdUeTNkSVdqSzRmZmFIRGFMQU5zZ1VCQUdFSFM0TTZiRm9rZw?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-05.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-05.mp3" length="1374480" type="audio/mpeg"/><pubDate>Mon, 05 Oct 2026 07:23:02 +0900</pubDate></item><item><title>10月6日のニュースブリーフィング</title><description>10月6日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 19 Oct 2026 22:58:21 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>10月6日のニュースブリーフィング</title><description>10月6日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 韓国統一部が変更の脱北者呼称「北郷民」 外交部などは「反対」（聯合ニュース）
@@ -653,4 +608,53 @@
    https://news.google.com/rss/articles/CBMijwFBVV95cUxOcEtiWm5nTEE1NU1fZTBnNXJDaEFhQ3RTY1EyTlJpSVpOUlJMUzdMYlQweGVwTUhGenZkV1V4eXU3SWR6S3lMdHZDSkMwYVdUdjVUa1JtOHhvQU9oSDc0S3JPNmZJRlUwVnZScmt5UklqZ2t3NHFJOGVMY0tBY1VMcWtsRXJLM1hkamxUaTI4dw?oc=5
 3. 【福岡市長選・立候補予定者の政策】南部に新交通インフラ 阿部秀樹氏（31）（西日本新聞me）
    https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VdE1wUnZQeDB5UjZ5REt2QWhKSlphcDhrNU84WFI5TS1sUm43UktkR19FcHk1VW92U0NBZnlVbFlBQktmeU0tMHFQb3l3ZzBZOWhBNGJB?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-19.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-19.mp3" length="1392912" type="audio/mpeg"/><pubDate>Mon, 19 Oct 2026 06:36:58 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-19.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-19.mp3" length="1392912" type="audio/mpeg"/><pubDate>Mon, 19 Oct 2026 06:36:58 +0900</pubDate></item><item><title>10月20日のニュースブリーフィング</title><description>10月20日 ニュースブリーフィング
+
+■ 世界情勢
+1. 米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令（ITmedia）
+   https://news.google.com/rss/articles/CBMiakFVX3lxTE1Zb2gzM0E4Q2Z1MG02UE0ybGQ1bXJxVjdnWVlmcWFtX3RuN1ppUTluc2dpSTNUVnlBdS1rcEloNnV3LW5qaG9UNlVDU3U2b2FrWXI3UmhzU09KZ1laUE1EdkRSQnRwdkZLSEE?oc=5
+2. 【日本人記者拘束に見るロシア外交の「二重構造」】（新潮QUE）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NcE9fdmEtVkRzMXVTWmFicHl1c05vb2llQXl4bkRSRFZFa0ZsbHhaUnBZMEZwbm1sMnIyWk5qRlV2SW1MUkZWc3F5NUJqYmJL?oc=5
+3. ユダヤ人入植者、欧州外交官襲撃 西岸で暴徒化、負傷者も（山陽新聞）
+   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rbGRFVk5lRkRvUnAxNkxWUDZvcXBuRDdHSXpMTmZEM3pxNGtjdTd2ZVF3ZnkxbDJGWlJLNWM2dzEtamcxU1Z5U2ZjU1dqS2dQc3c?oc=5
+
+■ 学校教育
+1. 「子どもを性犯罪の当事者にしない」教育とは 文科省教材の活用は15％未満の現実（AERA DIGITAL）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE5PcFhqMUtKMUFCZDhhWVd2ZkR3WGtKUG5jUkx4S1Z2aUN3bXZYR0g4ZzBjLUJ2OGs5RWk5ZzFyX0VLY3h5ZF9BTjhmamFxODlmcUY3M1EwZVV5cnUxWkRfcWpZZkV5U05iM3Z0UXZKVTgzb3BQVzNHaFFZd0M4R3c?oc=5
+2. デジタル教科書、動画上限９０分 文科省検定対象、量抑え質確保へ（山陽新聞）
+   https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyTWFwLVpFQl84LVM1NWp6ZGpZUnZYZnBTYzlTWjBaM1RBWkh3QkIzakltQ2ZYc0txTFpFcVNFSzVrR0pURlU3Y1MyV1hzSW5SRXo0WElLUWxtZw?oc=5
+3. 新教科書、紙中心の併用型 文科省指針案 デジタルは「補完」（四国新聞）
+   https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWp4cWpDWXlmTmNIaVRnLWFlUWZSX0VlYUU3a2VHaVNLamNHdHRjN05laHZLTFM1Ymh5RVl3aW4weENuNnYwb3pKTkQ0dXBmeUJIdjhLLUNsQ1NDaHI2cDZyX2laVlk2RkdRWTkzRWUtSmQ4dFkwQzBISzFtUndWQko2a1JaUHBO?oc=5
+
+■ 倉庫・工場・物流
+1. ANAのボーイング 737-8が生まれる、ボーイング・レントン工場で見た2・3号機の製造現場（AIRLINE web）
+   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UY0hmMXZrNkJUeTR3c3J3YjlLRld1MEtoM2oyRFRNcG5HZ3NmcFVYbDVhSzZxUjkxY2RLMDd3ejhzTHFncE5CRjJMa0MzekdSVmIw?oc=5
+2. ふっ素樹脂チューブ／ケーブル事業の成長を加速する拠点を開所：工場ニュース（MONOist）
+   https://news.google.com/rss/articles/CBMib0FVX3lxTFA0SVRYRTJfdlg5b0I2M3lIbjVxN2hvUXpYM3U3Rl9WUmV0aGhrQWcyVTgyZ25LUnNQUjZvNWctQTJ5c2NsajlaWTZNenNWZGtfSmFESW1sT0RkdGNRajdjbzV2R1dSbGM0VjZsNmhVUQ?oc=5
+3. 英スコットランドで日本メーカーの海底ケーブル工場の開所式（NHKニュース）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IcGxOMDZkMVpENVktX2piTFNyM1hEWThBVnlPY3JyYlExbVpndDlvdEdOVjh1dzhsTmMtY3NLRjlMMWlLTVNkMjRUUGJZdVp3NkdhVU9YWWRlZ2ExekZV?oc=5
+
+■ WMS・WES・WCS・RFID
+1. SHEIN／大阪に返品倉庫を設置、埼玉倉庫と分散させ返金処理迅速に（物流ニュースのLNEWS）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEc2g4SHZ2TzVLd3E1dnBPSlpiMElnb0d5RkQtWElCem53QkctRVZqcUwxV2M2dzE0alBWUUVZTU51UjBRcDVNSkg5UXZpTVM4azktbw?oc=5
+2. クラウドロジスティクスの大手10社と各社の特徴（pando.life）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE96OHZkVW1ZVkxBbVlBY3VnNEl6eGhnempkdk4yaWZBa3N2Y2Y0dzZxMW9zYzQxbmxmdVlnalphSnZ2U283ejJmSXJR?oc=5
+3. 三菱地所物流リート／印西の物流施設を52.2億円で譲渡、3回に分け実施（物流ニュースのLNEWS）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SZ3FDa0w3T1lIVHZNam91STFSQ1poeWRZX3hmRWJ3YVI5ZU9UU2toR2ZHNmNCSWU2eTlkb2V3TGxZU293c1RlQ3p3empfWTBiZllnZw?oc=5
+
+■ 日本の社会
+1. かっこ、リンクと共同で「キャッシュレスセキュリティレポート2026」公開（日本ネット経済新聞）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zUFRtLUN1ekJ3ckxoLWVPT3ZRRGNaX25FOXkwcmJtMnVzelBvcE1SbjB6cWxqOE1qaTF6bHhjbDJUS0FaWHEzUGlmMjJWLWpTYlU2UktR?oc=5
+2. そもそも「白梅軒」とは？ 2026/10/19 | 日本の名探偵、はじまりの地｜乱歩『D坂の殺人事件』白梅軒再現PJ（乱歩と名張 辻孝信（クラウドファンディング - READYFOR）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xaG5fR0JidW1LVllmNnZOU1kyTDRRdXMybzM2Wl9Ib2k4cnpXUVdWWVlTeFM0N3ZZZ3ByeFNnMmxDclBCU1ZvNzh2NTVoVVdoRV84bHp0aUc2cVgyUEdYTTRranF2bW8?oc=5
+3. 日本の名探偵、はじまりの地｜乱歩『D坂の殺人事件』白梅軒再現PJ（クラウドファンディング - READYFOR）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnLXY5QWN1Qjl3V1BvU2hCbTlSa3VaZEJycGN1OVF6WUY2bFlrY1dTcjFtX0kxVTVybF9Ha0NsNmhNdjIzWFRFTEpaY2dXamM?oc=5
+
+■ 政治
+1. 〈社説〉首相の経済政策 非リフレ派、行動で示せ（東京新聞）
+   https://news.google.com/rss/articles/CBMiU0FVX3lxTE43VTUxMTN5MFZCTEtNRVpJSlB3SHpDenlTX3VpR0tFeEoxZTU0UmhTcnNzOGVEdlVzN2xRNmd0VjlHVkoyU2xEX2VpZ2RTUzNUanJB?oc=5
+2. トランプ大統領と距離置く共和党の候補相次ぐ いったいなぜ？（NHKニュース）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCX203ODA3cnRpcnBnTHVjQWpwNkJlMXFVbW9fV2ZqQVRQUTNVeVRkbjVSeE43OTlKTy1rNUM2MllGREtoNnlxS0RhaXRTV1huRS0xMTljWE1YSElEaTIw?oc=5
+3. 主要各国の政策金利-10／19(トレーダーズ・ウェブ)（Yahoo!ファイナンス）
+   https://news.google.com/rss/articles/CBMihwFBVV95cUxQWGlqa2FRY0ctMVdOeHREU0JCa2RjUlRGbm5KeGNONkFKaVJnQzlPclEzc1gwM2RPQ2JiNW11SlZta1lxNjhkYW03cURSUnNZWUN6c1lvWWNFcTFPX0VNaU9LV2w1d2EwdFQ5S2pzRkNja3lpYVpYVUx6RUpvNjFTdWlQSlJjWGM?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-20.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-20.mp3" length="1470096" type="audio/mpeg"/><pubDate>Tue, 20 Oct 2026 07:56:20 +0900</pubDate></item></channel></rss>
