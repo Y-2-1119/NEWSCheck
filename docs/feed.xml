@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 23 Oct 2026 22:25:47 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>10月10日のニュースブリーフィング</title><description>10月10日 ニュースブリーフィング
-
-■ 世界情勢
-1. ロシア軍事メディア創設者拘束 モンテネグロ「国家安全保障上の理由」、国外追放へ（産経ニュース）
-   https://news.google.com/rss/articles/CBMidkFVX3lxTE5yNWVsZVlRYVBoX3VBd0JtTFhXNHZ2MmxlTEFzQWwwaXNUUGxlVnltQVpHX3hZdFpNMGFuZFVVdENRTkxsRl9BdVlVYk4tcnVfVkVTVjVPZ09rREZlR0pNTHlYNkptWHdlZ0lyU0ZrSEo5Ym1YZ2c?oc=5
-2. ドラマ「VIVANT」をきっかけに新たな友好関係構築へロケ地「鳥取砂丘」でラクダ外交も！～駐日アゼルバイジャン共和国特命全権大使 鳥取県訪問～（山陽新聞）
-   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMSW1BdERFc1Z3RjhNb2lSVjVWcHhjc0FHZFV4UmVQaUxLVVM2cTZBNmEzbHdtR0I3b1I2ZU9yVjJOb2M3WnZwaXpiQ2Z3MjhXeWc?oc=5
-3. ニュースワード「パンダ外交」（時事通信）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE1FR0luMkhzYXMxZ0ZDMTI4ZFNQMjR3Vko2TFdiUUhaV0h5UGJZZmY2ekNTLUdrWGk4a3ZyT1hLSWw4eWJFQlJZQWc0ZmJ3UjlWeDZjeGY2Q3hOdzhXZFJqU2tqNllORk0xakhQVjJHU1luVXdFZGVOdnhoNm52UVk?oc=5
-
-■ 学校教育
-1. 国立大学等のキャンパスづくりを支援する「CAM-PASS PLATFORM」始動。共創拠点・防災拠点の実装へ、知見・専門家・ネットワークをつなぐ（Infoseek）
-   https://news.google.com/rss/articles/CBMickFVX3lxTE55RW5OMDRRMFJWZy1LSHdYYVUwQTBkNHhpOGh5SExmekYwak9UcUNXckVjdFc1bTN2UG42by1wSlRSRUM0NVdmWWVmMWx2cDk1SXB6TlpRNDZ0NXgwQ2FNTElkOWNfVGg1V1J0aS0yZnVXUQ?oc=5
-2. 愛子さまの会見を分析した学術論文が示した"魅力"…島田裕巳｢悠仁さまではなく愛子さまに人気が集まる理由｣（PRESIDENT Online（プレジデントオンライン））
-   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpN1pOUG9UYklzRjNrejRodGZQVVdSRGJxS3lGU3gwcDZ4VDJkM3dZd0RMVFF5UERtb0t4LXlHZTd6SDRSUnRSbjNVVWFmV0RpMlpDeWdyT2w?oc=5
-3. 県立高全日制１００人減 ４４２０人 ２７年度定員 武生、鯖江各３０人減 一般入試 来年２月１８、１９日（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBONVJJUF9TU0VBcV83ZWNva0ZNMVFpMHo0RHBKbGhfMzhSOThjQnJZUTFSb21IeE5ZVjM4cTJoaFotVjVDMjVybHVVNENranA5ZmJHUjV6SmNGbWljX1E?oc=5
-
-■ 倉庫・工場・物流
-1. 阪神電鉄ら、兵庫・西宮市の物流施設4.4万㎡着工 淺沼組の設計施工で（建設通信新聞Digital）
-   https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUjBLTy1rSUV1ZURkT0x5dmxRQ0k0Ukpfb3FZakJPa3FuYVF5V0h6V3N2eHdubF9VUVQzdGtGZTh5elRIUmp1ejFtT3p3cThRZXd3OWFR?oc=5
-2. フィジカルAI連載 - 球体の「足」で工場変革 トライオーブ（北九州市）の最高経営責任者（CEO）・石田秀一氏（西日本新聞me）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWTlJlallaMlhnbzRlRDdpOWo3QXJESDF3dTk4Z2c2OHZHLU9kbEppWWhWN3BGUmR5bExaWHVKMnY2NnNHUEFaRDRTNDdpVTZwaWFfYTFxdw?oc=5
-3. 球体の「足」で工場変革 トライオーブ（北九州市）の最高経営責任者（CEO）・石田秀一氏（西日本新聞me）
-   https://news.google.com/rss/articles/CBMiVkFVX3lxTE05YlRvTS1QQ0RCYnlnMC15U0MtRVAySGxQcy1tZFlBTWNRZTI2OWZCYUNTSGNzNmJILXpLNjZvSV9YMDcyeno1bUpBY1ZoR3g3Mk5yeHh3?oc=5
-
-■ WMS・WES・WCS・RFID
-1. ニッスイ／日水物流のシステム障害第2報、一部入出荷を9日から再開（物流ニュースのLNEWS）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nREVnQjlUNFFoRVgxQ1poZ0dRbXdQc1lTUGZpNGU4RUtsdlpvaVlQMVh1SW5GWTRrdnRWV1VaeVZqcXlrVWhBVjREbmNSSGJucU9MWQ?oc=5
-2. ロジザード、『国際物流総合展 2026』出展のお知らせ（朝日新聞）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oN2pUQnh1cWoweWZPbGxMdEFnSld0QWdYamlVMnlSQ1dfd3lXazk1LXJfOXgxQmlkT1lSM1pzTlZWRVZYcG52dFZEREx4clFwZ3ZFTnhXMkJicW8?oc=5
-3. 関通HD／中国のスマート物流企業STORINと提携、「動くショールーム」戦略を展開（物流ニュースのLNEWS）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6XzJYS3VjNC1lZjJwdlU5VkJ0UWZzS2ExR25Udm5yeUEySXp6M1dMT0lRQS1VYWhNbFFEOElOandVWGUycmlEYmhvWnB1Y1FUcDR5Xw?oc=5
-
-■ 日本の社会
-1. 韓国で大問題化する「個人情報流出事件」が教える「デジタル後進国」日本への教訓（現代ビジネス）
-   https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNMVFSUXUxaXNPbTQwM3RDVVVpNUdFX0sxY2xXUy1RNUJZVk53dTdQU2U1cDBnVDM4NVlnVlFrY2xqMndXQmpmWThJdTdvMU0?oc=5
-2. オーストラリアから日本を思って（７３）沖縄で米兵による女性の絞殺事件～豪州若者たちの性的問題から〜今滝美紀（SAMEJIMA TIMES）
-   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pbWEwT3RtcWFLSFJ1MVdNVjZXUC1WODA3Mmd0dUY4MDQwWUJuR3NUNW1LandvT2hITm5PcmZIUHlXOWJjck53TDhZUmhNVjZTNHVBUWNFZEtMbGJtYTFwN1FR?oc=5
-3. 沖縄県議会 抗議決議 米兵事件 日本政府への意見書も（読売新聞）
-   https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1X2paRnlHZkdXTE1VZDhFYVlQNXRnSF9iY1pqYzBpX25pZm5LVDBNTTJxdHplUXZnOFpNMXYzbkxHTGhhS0RoTEpreUJPWEx6cmxYS2Myb0FUUExoVVdMalktcw?oc=5
-
-■ 政治
-1. トランプ氏が「足かせ」 11月中間選挙で共和党支持者に認識拡大、米世論調査結果（産経ニュース）
-   https://news.google.com/rss/articles/CBMidkFVX3lxTE5MbHJvZEZHN1gyUkZEQU1UOFluLURBemhBZ0hKZzVONTRFNUFRblVteUtuWlYzclNRRTNqRXI5SVBfLWlzS0pEWkY5SlZocEVFQ0REeGtXUXp1VEFPWFZjQzVJOUFWNXNHbkZsckhiQnJnZTVHMkE?oc=5
-2. [KWレポート] 政治と性差別の現場(下)…発言すれば、政策より性別や容姿が標的に（KOREA WAVE）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE1tZ2ZPS0J6Vk1CWFhSSVBmVjVqMGxINnBoajdNbjQwYW5sUEFCVURYRmU5bklZWkFZTlFxSHQ2UE9vSzV4TTFFbkk4Z0tRQnJjTHFKZ3RPNDBETzNmTDN6QkttTTRELXpkNUp2d3dYVnlzWHdkMjlka1pyMDZwSEk?oc=5
-3. 【充実した国会の活動に向けて】国会がはじまり、各委員会の質疑に向けた準備を進めています。（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hYW1DTlhuR1FTeXRTS0NCYUhZcXJqeDhQWkNJQkI2UElIbE80a1E4X2N0RzhIaHdGV3F5OTdaNUpQU25jOWRWaTRZYl9yUnl4dWhpaE5HS1JhVXBKekY4?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-10.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-10.mp3" length="1721808" type="audio/mpeg"/><pubDate>Sat, 10 Oct 2026 08:20:44 +0900</pubDate></item><item><title>10月11日のニュースブリーフィング</title><description>10月11日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 24 Oct 2026 21:43:23 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>10月11日のニュースブリーフィング</title><description>10月11日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 〈著者は語る〉想定外にも動じず 『知られざるアメリカ外交儀礼』 米国務省儀典官・大久保泉さん（東京新聞）
@@ -659,4 +610,53 @@
    https://news.google.com/rss/articles/CBMiX0FVX3lxTE1odkM5bEl1elFzRFBJT0NqZjRLeUotaDZvNFNSTmk1cUVHYTVxX2FEYTFWRnY1bFlYX00tVXpHUnJoU3BXdE5RN0NfMkxWa2dQYk93bmpUTFhtMjdrMHpN?oc=5
 3. なぜ高市内閣は女性の支持が低いのか カギは「好感度」ではなく… [高市早苗首相 自民党総裁]（朝日新聞）
    https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NdnhVMjVfeE5pc3B2ODduYnppR2cxX3dtalBWbUNLb3Vkc1dsMzJDdkp5TU9HNlZSU3FzOXM3eDFGeDE3bENCQ282TnZEWU9NVS1vR1plb2RiSWExN0JqQWpHeExld3M?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-24.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-24.mp3" length="1928304" type="audio/mpeg"/><pubDate>Sat, 24 Oct 2026 07:24:00 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-24.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-24.mp3" length="1928304" type="audio/mpeg"/><pubDate>Sat, 24 Oct 2026 07:24:00 +0900</pubDate></item><item><title>10月25日のニュースブリーフィング</title><description>10月25日 ニュースブリーフィング
+
+■ 世界情勢
+1. 日ソ共同宣言70年 日本とロシアの外交の起点、制約になった現実（日本経済新聞）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTFBmbThTUGxzb2FuamFQT2FYY0FZanRIR3VjVWtvNVljemRFQS16MnRRbXNvS1NxTUdjZFltZDVXT3hyWEd1NGVOYWEyZ29Wbm0tT0tIaDV5Q1JvY2VPWUxGQ0RJdENvVzlkWGhjeQ?oc=5
+2. 「停戦」誇示、にらむ中間選挙 トランプ氏、ウクライナ巡り外交成果強調（朝日新聞）
+   https://news.google.com/rss/articles/CBMiXEFVX3lxTE5faEZpZ0k1QXZ5TC1iY01aUzQ0d1oyUGtGNTE2ZG1MNzdCOGdQUHBiSHp3SENvZkdON3ZZNjlNZHJVdjhFclR0VWNId0RUQ0lxT2xWeHE2QXZDV1M4?oc=5
+3. ヘグセス米国防長官が孔子学院を国家安全保障上の脅威に指定すると発表 (2026年10月25日掲載)（ライブドアニュース）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GcnNRU0JHeFd1SVhlQnJGdGhnLTRoMkZVOVltbms3NHc1ZmVQeElPXzN4VnNPbEZSRFRVNnNpY2IxYmFyOVdJaTc3OVVzSGk1TW8tRlB5dmRIQVltTmc?oc=5
+
+■ 学校教育
+1. 【記者のつぶやき】悩み多き青春時代 報道部・堀英彦 | 社会,学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE83dzFKOWl4ZVJ4bzNfU2pWdVg4NHp0TWlfMVZiLW9IakEtZm0zTUtWZ1JwRmdxa2RkZ0NkZ0FCcF9nZlJITHpSY041WnJTcmRhUHM5Y3ZTMjdsaHVGVUE?oc=5
+2. 教科の枠超え学び広げ 大野高で「Ｄタイム」１４講座 催し企画や脳トレ挑戦（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZdDhrN204Y0RfN3FETC1sMmZpQXdQeUdoRVhhR0l2WUtPa3JKTDEyTmNTbzlvYnVFMzJWM3A2S240MVJ5NVFkMkJNaDBxV0tBQjNnN1Q1Y3lpQjRESXc?oc=5
+3. 教科書に動画 ２０～９０分 文科省 デジタル、１冊の上限案（琉球新報デジタル）
+   https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EaFBha3NRSzNlN3dVaDZUTk1WWlhON3ROMDdlOV9pbkFHbGdwR3BReFZkN211OG9SY2pnRVBhYl9fU2l6bWtyQWdGTnItbHpzeU8tTzdoZEo0LTBuQV9rZ3FR?oc=5
+
+■ 倉庫・工場・物流
+1. Volkswagen AG、ジョージア州にアウディ工場建設・サウスカロライナ州でも拡張へ 執筆（Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース）
+   https://news.google.com/rss/articles/CBMiakFVX3lxTE0wOG42M3loUy05bjVWTFpsdWFzZXBPM21GM2hscEpFazlFQWh2Qm0zQUxSVE43SFZ1X1ZyM0dIbFFicVd2WnhDQzBLSXYyT1VZN3hEbU5XdWJWN0Nia0tSY3BUTXE2bUtpOEE?oc=5
+2. 【枚方市】11月1日（日）穂谷川清掃工場で「ひらエコまつり」が開催されます！（地域ニュースサイト号外NET）
+   https://news.google.com/rss/articles/CBMiXEFVX3lxTE00cmVaYVNCWk5oSWVKSWdISlY0dzU5NzNid212MmhWaXBQT3VETEgtdEFpOU5fREZqcVA4OHRGdTdRZHJYSkFPN0JVVDVhN0xSX0hyY2M0Q3p3cDJl?oc=5
+3. トラック・物流Ｇメンなど３機関 山口市、宇部市、防府市、山陽小野田市、周南市の５市で荷主へのパトロール（山口新聞 電子版）
+   https://news.google.com/rss/articles/CBMiakFVX3lxTE1EMWh0ZE9aWTNFLVBfeEtxb2FYMGtiVTNJMzZma2gzMWM1WnlEd3ZVV191dURGUzI5ZU92UUk5WlFQZVVEV2diM191RmpuU0ZXUmtEUUZ6ZmlNMXlvLU9Fb0dlUzRQZkI0Z0E?oc=5
+
+■ WMS・WES・WCS・RFID
+1. RFID衣類ハングタグの国内調達先と供給企業（pando.life）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vaElrV0g0UmloZlc2QTdwZWh1bTNPUGJZZTFnb2pleTBfZkhVZUlrYWtZcURmMmNHYnRxNUVNQWdHSE04SmpxQXl3?oc=5
+2. 自動識別およびデータキャプチャ (AIDC)市場をリードする10社（pando.life）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE12aE1tcDg4SHFzS3RiNWQyWjdkT2Yzc2ZSS29YOGVRUTJmTXNmcWFQWnA1QzVYTEF2LWprbzlHQXZpVEcxc1pIaWt3?oc=5
+3. 製薬プラント向け自動倉庫・物流システムの世界市場（2026年～2032年）、市場規模（自動倉庫システム、自動搬送・ハンドリングシステム、自動仕分け・ピッキングシステム、電気制御・情報管理システム）・分析レポートを発表（アットプレス）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jaVV1UHRLb3VWZWdfeDJadmdvZTU2aVpYSG9PSmZBSk16WERuU1llYzNrMTFjY25MZXRrRFV3ajl1V1JWMHZRTlMxbnpsTG8?oc=5
+
+■ 日本の社会
+1. 視る日経！ニュースNEXT▼働き方改革・企業はどう向き合う？／日経平均AIの懸念は（テレビ東京）
+   https://news.google.com/rss/articles/CBMikgFBVV95cUxONTlxUEdlSEJPRUlnZ0RObU54VG1kemk3RVEyaGpQT04wYWtyQjVLeWd6T21pbC1haXJNaWdOY284UGgtaDFicmhLV1dvQkhzNG8yT29DalBTLS1OekZxd0RmeVF0bkhqdlc5YnU3V0FVcHg1TS1tTVlXd3pqMktjcmRSeEw2S2Y3LVVrUHBRSXl2dw?oc=5
+2. 日本のホテル従業員に性的な不適切行為か…アジアパラ大会参加のインド元世界1位選手、『永久追放』を勧告される（Qoly）
+   https://news.google.com/rss/articles/CBMiQEFVX3lxTE1JbVVxU3lqVURIR1dQNFF6aUdpbnh5blpub1NRUXhvYy1lQ2pCTDZrbTVxQUxzMm9aZGN2S0hhY2c?oc=5
+3. 【速報】熱海市で殺人未遂事件 同居人を刺した無職の30代の男を逮捕＝熱海警察署（TBS NEWS DIG）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xdTRlMkh6Y2RIcXl4RHB0dGk0b012TTBEQ2Z2aWsyVllQZ3pQWWFSOWQyLU5Bb0p3U3JZQTI4S1JwUzZGSHV0b3RpTWZ6cFFyQWUtT095YTJwMXhLbzAyaFJXeTNsblE?oc=5
+
+■ 政治
+1. 兵庫元副知事と自民系前市議が争う兵庫県議補選 きょう投開票 [兵庫県]（朝日新聞）
+   https://news.google.com/rss/articles/CBMihgFBVV95cUxOWEVIZ0VzUXA3RVhOQWc4VEFScnpteTlXRjJGMUlYRjQtUmF2Mm5ENDdIcklGc3JWV2ZtVmZnSUlKWGtIMHdtZXlHWUFoQ0U1YkhJQUZqV2RQcXNQVVBvRnBuRXJIZTlld28xbC12NXl4TUJUMkg2QzZpdENmRF84Nk9wODduQQ?oc=5
+2. 【選挙】田布施町長選挙、きょう投開票/開票状況を速報予定（山口新聞 電子版）
+   https://news.google.com/rss/articles/CBMiakFVX3lxTE5vNkpYdHdqOEhPaU44alN5RzBabkFLT0hMSE81RnhseGUyekZvZFVUQ0JDVmRhYXpkOGFNTmtVdnVxWm90ME5ZaXktRURpQ2ZFWlU2NXAxa25iSHNyMzI3U3ZUdGhwRDdDenc?oc=5
+3. 【選挙】岩国市議選挙、きょう投開票/開票状況を速報予定（山口新聞 電子版）
+   https://news.google.com/rss/articles/CBMiakFVX3lxTE5kMkZfYnpaRTlhYW1aUjI3RTF3a2Q5bDU0aWJUajl5ajNlUlI5ZEJvTFFqWllMaDY4emNKNUtBek9UbnUzVWV4dWdLV2RBeERNQUhrRms4MnU4OUZ2V3BBUDZxWEJVM0d5RVE?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-25.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-25.mp3" length="1641600" type="audio/mpeg"/><pubDate>Sun, 25 Oct 2026 06:41:26 +0900</pubDate></item></channel></rss>
