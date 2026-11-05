@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 04 Nov 2026 00:03:35 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>10月22日のニュースブリーフィング</title><description>10月22日 ニュースブリーフィング
-
-■ 世界情勢
-1. 中国製の太陽光発電はエネルギー安全保障のリスクなのか？（日経BP）
-   https://news.google.com/rss/articles/CBMiekFVX3lxTE9BVmxhWDVpczJTUFZfaTBlemZIeVYzSDJza2EzVFZ5MkdqdEUyRm5FUUdEcTBkQWZXbklVYkVNczBkMW04bEhQVkU2OTNGbGJEdmNnZE5xNjZwS0M4ZHRScVMzUGVobGpyUTg2SmdXZVZqUzhCaXdDMU13?oc=5
-2. 米、サウジ駐在の外交官・家族に退避命令 フーシ派攻撃受け（ロイター）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE0taWphdFhEX1plamZ5LU1BeExORFRQT29VUHdvLTVCZ2daR1hnREI3dk01dFh5TGQtd2ppbS1BV3dZMGVMVFFIeWxSVU1FMmZfUE45Q1BmUWd6eXp6SmpvOGdwSXJkMTlTVmhOUHF5SHE4dFNHdk5ieHV1WGdWNWs?oc=5
-3. 米、サウジ駐在の外交官・家族に退避命令 フーシ派攻撃受け（Reuters）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE0tbzlCVDZoa0tZMWp2cFY0akYzYm1yME5HX0d0RmtsV3hxaWU2V3YtcnBna1V5RHRTVndneXRRYU1oVTFPZ1h2QVlkTm1KejRFM2lVQkdGcVVwX3dvRmFRU0I1Q2FjY09EaVl2X2ExQUlEUkxLYXFIX1JaQnM2T3M?oc=5
-
-■ 学校教育
-1. 社会人が最短1年で免許取得へ 学びながら学校勤務も 文科省が方針（朝日新聞）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1waE1pSVRRd2UyY2ROX3dUbkljUU0tWHdibFV0OWVucnA5NWRlSk51X20xLVNNWXo0RjNQdUozaFM3NGw1SDZaZ2FKeFg2R0FaY1RlOXJnRmowY2lVTjZ5ZWUzcEpPeFk?oc=5
-2. 議論にＡＩどう使う あわら 細呂木小で公開授業 | 学校・教育（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IUGhJNXpmeXQ4Y2hmaWZSbWJjRGpQNjQxRGE0MGpyT083VHV4bVFETFVobmYta0pVSURNVENsc2N3a0dwLUY1Snp4MUNGTkhrVzlGUS1sU29qeVZDRlE?oc=5
-3. 大学院1年で教員免許取得可能に 教職未履修の社会人対象（北海道新聞デジタル）
-   https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2gwbmx3VzEyRWF3a003VzVXa0VlaEFHaS1aMHZfS085R2pyMDRkdjlGVWIzSTVaaW9UWGllTUYtRzRlX3RMUVY1YTZGc0VlMmV4Q2dtSHJBR19DRElMeFpmYWFWSU1xZlBFbENyUFp0cHpVVzg5Y1VQVkZCNDZwOFdjZ0ZHMVZx?oc=5
-
-■ 倉庫・工場・物流
-1. 国交省／自動物流道路実証実験を１０月２８日に開始／成田空港などで無人搬送技術検証（日刊建設工業新聞）
-   https://news.google.com/rss/articles/CBMiR0FVX3lxTE9icFhFYjhMTVJ5a09vbXY0Q1l1QUcydWhZTXNfTTJMV3EzcmdlTURfVlU5RGZRYnJUeXZpU2pnU1dPZlFNNFJn?oc=5
-2. 日本ストライカー 大型医療機器の物流拠点を横浜に開設（カーゴニュースオンライン）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ueXpyUWpMVmYyWGVtbG9JaUplczRkcEhfRk9RRDhvSlhDWnp0LVlLcHZMZXJQZThEUWZ0RWJyX1BjR0hfQ3o4M0ZoOWpFbmFxR0dNR0p2SXlfNElPRExJ?oc=5
-3. 霞ヶ関キャピタル 本田圭佑さん起用の物流施設ＣＭを公開（カーゴニュースオンライン）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4enhnTjV3Si1Kb0xTcEJrdVBXVS1kX2ZBcWo2UGJFS3ZRMTVyVnUwWV9TclVBZlIxSjRVdzV5TnBkZDZfTmF5SG56dDJEQ3gtdTliNjVIQlQ1Y0NyczJn?oc=5
-
-■ WMS・WES・WCS・RFID
-1. ラピュタロボティクス、NXグループの2つの物流拠点で自在型自動倉庫「ラピュタASRS」を稼働開始（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMie0FVX3lxTE4wbk03MG5rOGw5Z00wN3Z6VGtJRkJ4anZKMmxsSnVqd2dvcHpCSTAzS2lFV0Y4eU1ISk9oNGhYREZqcjRWZGI4dVpuNkVIOHY5OEJJZHdpUTZwOEROQmoyRzBYNE5VWFhKaTdRMmU5UDB6VFk2UlM3NWpfSQ?oc=5
-2. 共通デジタル荷札「Bit Waybill®」正式提供開始 フィジカルインターネット実現に向け、参加企業を募集（PR TIMES）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTE1qeDRwY2V2WTl6cDZlNC1PaEVvQ2VjTFRuVjRQWGhQeTBhOUZ0RzdNWW9zczlZemhXRGRPdERPYmdOTE13RXo3NC1ydmNPWnZnb0NEMm1kUDFIT3ZZYzdRbEh6YW1kcUh4bHc?oc=5
-3. 倉庫の請求書づくり、人の作業を約7割自動化。コマースロボティクスが15荷主の物流拠点での取り組みを解説する無料オンラインセミナーを10月30日に開催（PR TIMES）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTE5YM0VLSFFObFhjRkd2Tmh1RmxjSi1xV3VORGI0SGVMTDVXM2RZQThEWUkzYmhmcmlyMEVNQnY5d29FVGd5SGZLQWZNRTh6bGhzaTBxOTBJQ2FEM2I0U1JYZnpnbmFWdVROcEE?oc=5
-
-■ 日本の社会
-1. 《日大事件で逮捕・起訴》「検察が描いたシナリオは理不尽」「私にも言いたいことは…」“安倍晋三の親友”籔本雅巳被告がメディア初告白（文春オンライン）
-   https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tSGdXazhIaWJ5NXpZOThGR0s1NExsRXdhc1VCV0wwMGJscWFUMjZNcmpFSTBPNHJOUENDQ29HUDViYTlpei1VT256VQ?oc=5
-2. 『京都ALS患者嘱託殺人事件』を観た（au Webポータル）
-   https://news.google.com/rss/articles/CBMibkFVX3lxTE9GNURZeF9oWDQ0SFJOZVBTaFlfN2wzZXl5OURUN1FsVWhKZEN6ekZWWEFlZ0ZUY09weklaM1l5djJPZWNtVjB5bERDTml5Q0tkTm5rT092QVgxSkhBX0hLSzhzQnpSN0ppdll1bWV3?oc=5
-3. ウ・ヨンウの日本版 芦田愛菜主演『南田南弁護士は天才肌』幕開け…第1話の担当事件【ゲストキャスト発表】（山陽新聞デジタル｜さんデジ）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YMHVmeVNtbUo3RVdFNHVQZXcxaERvOEdOcW4xdHV4UDhTNHFnNkIwVTB0ZlA1RzFuSzQ2M1lhVUVKcWxmSE1NWnA5YjhyNm91TXNSZS1kVmZDMzg?oc=5
-
-■ 政治
-1. 主要各国の政策金利-10／21(トレーダーズ・ウェブ)（Yahoo!ファイナンス）
-   https://news.google.com/rss/articles/CBMihwFBVV95cUxPenBuY1Rja0FzemE4aXpPbXZsanJmSlhqam5ReUJVbjBFay1YNmY3SDAxZFg3QjJnLWZzUUMtOGFnY09JbWJUc25Kb01XLTRzX1N6THZGOWQ0N1k0cDdYZUJ6T3kxY3ZRUy1uX2tsZlh5N0wtM2JuVmluTDFReGxIeTE4a0gtQWM?oc=5
-2. 米中間選挙、区割りは共和有利 逆風打破の決め手にはならず―民主と「ゲリマンダー」戦争（時事ドットコム）
-   https://news.google.com/rss/articles/CBMiY0FVX3lxTE85UDctMGx3Z0dudE45R0ljT0V5blRBZmtUMGI1WVJLa1hOMEREYVJlTURobXlidWJpYnQtaEZoc19ma0JuOXNzVmVtb0JyTk5qUXZYVnZGaGZkRUVSalVSXzlSQQ?oc=5
-3. イラン、対米交渉急がず 中間選挙でトランプ氏への打撃狙う（時事ドットコム）
-   https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aTVhhaXN6d2c1SHZnSS1GS3dhblJVTzJiZHVKNTc0OW5sX2MtWTdqbGlsMmtiLUUwSEYyV3FFcF9hWkFFMXFZYjd6NS1MV2hxMkk1Rnc3SUZLc01ZRHR3OGJSMA?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-22.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-22.mp3" length="1527696" type="audio/mpeg"/><pubDate>Thu, 22 Oct 2026 07:30:24 +0900</pubDate></item><item><title>10月23日のニュースブリーフィング</title><description>10月23日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 05 Nov 2026 00:28:45 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>10月23日のニュースブリーフィング</title><description>10月23日 ニュースブリーフィング
 
 ■ 世界情勢
 1. トランプ氏、石油生産は国防に不可欠と認定 国防生産法発動（Reuters）
@@ -655,4 +606,53 @@
    https://news.google.com/rss/articles/CBMif0FVX3lxTE5kWGhadEViMDRWcV9SRElkQWxEYnRGeU1xVU9oWmZ2eEtMZ1JvV1pSelNwNHR0ajdmakNqMVdhb2pHYkx0OUFNV1ZQbmF2Sy1kZVN4YzRCQVJ1OFJOX3BWa2I4OF9hQjNxcFRrRDZyRHJwcnNKSmpHMDl3SjZZSkE?oc=5
 3. 前場に注目すべき3つのポイント～米中間選挙の開票結果を受けて思惑的な動き～(フィスコ)（Yahoo!ファイナンス）
    https://news.google.com/rss/articles/CBMihwFBVV95cUxOY0lYNnBFNEFuaEI1V3hMdV9CdndMWlhWMXE1VjdUaVp2cDZZaFRqaWhKNzJkdGwwaTA4TFdkTWhDLUhZclhDa1Nta3ZrNHRnU2E4d2YzWndlWVMxU2lZcmdjMnp5aE5najF6aVkwbzhLRmZKNWJheWhrVkt5TUNHVERVQ3FPTmc?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-04.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-04.mp3" length="1327104" type="audio/mpeg"/><pubDate>Wed, 04 Nov 2026 09:01:37 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-04.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-04.mp3" length="1327104" type="audio/mpeg"/><pubDate>Wed, 04 Nov 2026 09:01:37 +0900</pubDate></item><item><title>11月5日のニュースブリーフィング</title><description>11月5日 ニュースブリーフィング
+
+■ 世界情勢
+1. 中間選挙後、トランプ外交はどう動く？米中接近と日本外交の課題を小谷哲男・明海大教授に訊く（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Camt1N1FweHBxNnppd1RyTGlKREc2RkZGSThZcF9FUW9tZU5EeE9WSm9kd09uX01MemFjUTlNWGJRSzFBNjJHTGpNYVZqaGFUV2EtLTBvOGlkVnIybWZkWWlFcw?oc=5
+2. 米中間選挙で「歴史的大敗」、トランプ政権の弱体化で中国の「戦狼外交」激化か…尖閣諸島に迫るリスク（JBpress）
+   https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3poLW1TaWNGWHJ5RWRhWjRWZW4zOFFDOXlNbmplYURJSHlZQk5qVkk5Q3pBMU9mcllhbW5ndzlUYW9pdm8yVEZWa2J6V29WMzRBU3FBdGNfQ2ppV0FBbHBETjk3aS11VVdOaWhmb3dFc29ISXJWZV9JZHNjSmlUbEVLaXZFSmhxVTFrSThmMk5JQlRodXRLN05QNFdXcDJXd3NJRlBKUC12QTViMUE?oc=5
+3. トランプ共和大敗 外交の強硬化に懸念募る（47NEWS）
+   https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pcF9LZjJaNEtocnJOWGRvWEdWMFhXQ1Uwcmd3TlBCeURCb0tyU2FyVTYyMjlZbkxwb2RTbXlVSnhiQWdJR3BaNU1LUQ?oc=5
+
+■ 学校教育
+1. 自転車盗対策高校生が提案 坂井市長に | 社会,学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xWEplamo4T002ZFZaamtjSWJ4c21nMGxndUZMamUzZXd0ZTlnWjZ3TjFReFF5WGRXdHZLRzVQb19fM1Z5cElJbkFKYnN1Ym1PNzg0UDdMbm9qZ2h5S0E?oc=5
+2. 中３生６４００人、受験腕試し 県校長会テスト きょうまで | 学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Hems2dkd6TTFQbk9ZYndweF8tVl82MzFkTEtpUFNJYThOQklWa2R3M2FRYmVjaGVqWWFEM2c4V3BxSU1zQ3M2QUlHb0Jxb3dYQ3pWZXo4Z05GSzAweXc?oc=5
+3. 塾に頼る日本はOECDで学力1位､では塾を潰した中国は…日中に共通する｢頭のいい子が育つ家庭｣の不都合な真実（PRESIDENT Online（プレジデントオンライン））
+   https://news.google.com/rss/articles/CBMiWEFVX3lxTE4ya1JFd3VhaDdUeHRhbkZ2ZjdSN2M5a0dWTExFeFlnQndKTzNhdFU1eS1fQUVQMzY1ZE1aZkFQOFVtb0dEeUdfNDhiZlVQSV93b1BrRGJJZ2c?oc=5
+
+■ 倉庫・工場・物流
+1. 工場・物流現場の情報分断にメス、2社協業（LOGISTICS TODAY）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UclAtbUoyZUl4eVlqOElPelN1SlJyN3ZTcnJuZVVyYXNfOUtYNUJqRHZOblFuRGI4WUhoUFo3LU52SWs5ZVZRRVRB?oc=5
+2. Expo Paraguay Brasil＝「買い物天国」から「南米の工場」へ＝パラグアイ国境で産業地殻変動＝投資殺到でメガ国境経済の誕生（ブラジル日報）
+   https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LYV9va2c2elI4ck1sMDZIN2ViY3Zac2N6VnZ1Y0t4SVBpQjdFem5NVjhsRlpXYm5XWGhYMThrZE9VR1haX09Sdy1kbTV6c1hiNjBFUXQ5RkFNZ3N4MWJJMXJB?oc=5
+3. 工場を止めずに拡張せよ！ パナソニック アビオニクス門真工場の挑戦：モノづくり最前線レポート（1/2 ページ）（MONOist）
+   https://news.google.com/rss/articles/CBMib0FVX3lxTE1mbndOZnMtS3BSdzZkekZGYUV4RExjSDdSZTN6N01LUjlid1hUODF1b3A3dHU5QzhXbmFMT0ltc2hycU82aXVVWWVqN2FzOVI1b3NiWnNZMHhkYnpSQnRhOXJNWVhyWUZCczRiSjFlbw?oc=5
+
+■ WMS・WES・WCS・RFID
+1. 物流DXの死角を診断、ロジエンスが新サービス（LOGISTICS TODAY）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Gdk5CaUllc1Fsbko5aGkwUWMwTi00VTNDWnl0M08zUWlIWHNUVkpOUmEwVDNSWlk1NTJrQ09SWXdhdGxsLXItbWRn?oc=5
+2. GoQSystem、はぴロジ接続で出荷効率化（LOGISTICS TODAY）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZVFh2OG5SaGxsRFY4bElLNnJRcld6V2F4OTNJNDdGZzVJeWFXZkwyMGFNa0pxa1I4VG5WZElZUndjVzNhOGsxWDR3?oc=5
+3. 自動認識とデータ収集市場分析レポート（2026年）：2032年111330百万米ドル到達予測（ドリームニュース）
+   https://news.google.com/rss/articles/CBMiU0FVX3lxTE44enFNU0p0bXlFY0didW5ST2hBUDBweFRod1Q5eHBKVU9CUHpGUGtadVlmSVg2ZDZvOUhDM2VoQ3Nub3BuZVo3NlpqV0hiV1hsTmpz?oc=5
+
+■ 日本の社会
+1. 日本郵政グループ労働組合に不正アクセス、4万件以上の組合員情報が漏えい（ScanNetSecurity）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTE5TNXRZRU42aWM5cFlmN2VLODRyNHJVeWdTTkczN09qRFJYSzg0OTcyUE5Ud0Rsd3Y4RUhTczlRSkcyN3prdlJndDluN1pYYi1hTVQ5dERRTUVsSU9ZOGxxdi00TUhWc0ZPeU1JcQ?oc=5
+2. 米国はトランプにうんざり…「ウォーターゲート事件以来最悪の惨敗」（1）（中央日報日本語版）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE9wX3Q2cGxpQmR3RW42OG1kbjhhNG41ak0xc19yV2dCWkRuY08wXy1lX1BiVENqeUwwNGhkMlZJUGVOa003dFgtTDVLYzZZNTNBc21LWDdVeWZ6aGZQc0hSeVM1bWtoX2I2ck1EdHFramRuMUI1RTk1V3JHb1V2VU0?oc=5
+3. 米国はトランプにうんざり…「ウォーターゲート事件以来最悪の惨敗」（2）（中央日報日本語版）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE0wUlhzckdXRnhpQ0gzZWpXdFpMVkpCeUNuY2QwQ2wzaEp6SEpVRWdZYkZfTXZOcFJQclRfMnpPOXU0SGFxYzhGUXpHSHR1MzNSMnVjblNNRXpFTmNWSEQ1aFNsN1JvMGRWX0Z3TTFPVWg2UGxzQjFDQ0lkUDc2SkU?oc=5
+
+■ 政治
+1. 米中間選挙で民主党が上下両院の過半数を奪還する見通し（SmartNews）
+   https://news.google.com/rss/articles/CBMiowNBVV95cUxPTV80dXQ0SC1WMHpuYTJqTlg1MHE5M0FzeTZrYWZvQVdsS2F4QVU5VGFCWVk0bmkxa3gzRVE3YTEzS0ZVay1pMEVqcllGMDNMSGQ0QU1GbHRQUHRLNE1RdUdaelU5d2JaVjdYZm1aeGFZVkNDeUhnTVNROC03S3BmaTduZ2J3VmhvWmRsYXNwVThGeExmNW1rUi1aTm9oRVJUa2pZeXE0MVpSMEVpb012d1RjRXYwWVdiLXhDQlU2ZzdaTDAxd3BpOERqdTRxOTNhRS02ODBCNVhBV0tyN3V5cVpVVXZHMFdZa2RabE95NUk0ZkZWYmp1VURKeHV3ZmJ2V19RdFp2NV9hMDkzMV9iZDdxQnZ3akdTSFFQLUNtcU1hY2k5TEY4WlhEMTVocDhCaWdrM1pIWFlYeXhXTld1S1VBcWJaejVtSnZidnhYZ1hMRkJZYUx4U3lycndJbWx6a3E2TVlpQy1kcnBaOGZ4NHpzNGNLbHBxZ1cydXduWE5qTkpGbHItUW83Y3d5ZWcwVzVnclBEQVkwTmQxSnViSVMzQQ?oc=5
+2. トランプ米大統領、自身が出馬していたら共和党は選挙で「圧勝」していた（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE9sb1g0aVZIMGdIaWZReUVMcmVrWDc2c3RlMV9HNTNDZVg3eGxxNVR5MnA5QmJnUUpyN2VObk1DNWtvLTBMWHZ2MEpRNTRzTjdqOVFZT1pDeUNsX2M5ZkNaSFl5Z183OTNDOExGTXZHYjlRYkotX05VckxTMngwNVU?oc=5
+3. なぜトランプ氏と共和党は敗北？ 中間選挙で噴き出した有権者の不満（朝日新聞）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BOTlsT1hwMktkdGU3OVBqVmRkUTlYQ0IwM0RGYmhyaFJ3bVJEaks3VnREYUZNSGV5MXB5Zm1ZOW1GMXZpY0pudVFSQWVoTDhkNXlhNUdfQ3dWQ25VODRXUlY0aFA4VU0?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-05.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-05.mp3" length="1598976" type="audio/mpeg"/><pubDate>Thu, 05 Nov 2026 09:26:38 +0900</pubDate></item></channel></rss>
