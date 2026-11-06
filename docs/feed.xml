@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 06 Nov 2026 00:28:21 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>10月24日のニュースブリーフィング</title><description>10月24日 ニュースブリーフィング
-
-■ 世界情勢
-1. 韓国がウクライナに「妙な外交戦」 北朝鮮捕虜引き渡し、感謝どころか非難の不思議 ソウルからヨボセヨ（産経ニュース）
-   https://news.google.com/rss/articles/CBMidkFVX3lxTE5sNmxUVURDTFFEbzVPcnZ6UkdTYjZhWmNzRDk1RXcxUlBfVHBwbDdLZl9CejRJYjJEc3R6eXRUSHFua1JFVVZycVZfa3UyMXFqUHF0SzRkMTBlN3htN1d1UV93cWtObDVsTGl4cjBNclloeE9Nc3c?oc=5
-2. アメリカ中間選挙後の「内政･外交･経済」でいったい何が起きるのか、投資家は11月の「パーフェクト･ストーム」に警戒せよ（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE1RQ01mSTRKZlc0T3ZONXAyRW9LUmt3QWQ4dmo2NGl0Y2FleFd0RkRTVDNJNVN2TEpWSkFqUk9HR2VGcVFpS3hhY2s3eU5vLThVNFhZTlIwZzVza3pSZXR5aVFOY2hNZHdNM1dpWFdvV2VWSXdzc0VtZENkWFg0TDg?oc=5
-3. イスラエル占領が「地域不安定化の主因」、エジプトなど4カ国外相が声明（Reuters）
-   https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0ZySFRGY256b2VXLTJlYXlTT2Y0LWluQmZ4Sk1vM1RzM1RKLUxkZzVoRG5GU3lvMnppNkJVWDAza1ZhejV1MDBWQWJRd0RGeXQ3Y2QzYkRHYWZNcHpuQWFnTzZOQUxVbzZLcUk2alJJUEVqYnp3S2ZDemowV0JHVUdfbERKdFU?oc=5
-
-■ 学校教育
-1. 産業人材育成拠点校を採択 県内は八戸北、三農恵拓など４高校／文科省（デーリー東北）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsM1lTeGZyZmR0enY4SkljOXlXYzR5d0hJaHROUGRvbEZwV3VPWFRESENZWGlqeXl6MnNHNzdUWUpiRGxBVkhyNk1QcmswTTV3QWNFNjdoZXlfNnRGNzEwR09YTHlTMGs?oc=5
-2. 【記者のつぶやき】親より他人 報道部・堀英彦 | 社会,学校・教育（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5admcybWdTcHMyZGJCSU1fYlB2bjY5NjU5OGlaRmdmSmpEQkZ6V3lkTERKeUxUb0F4UlZjSTJJVlJINWdrUkJBbTZSVDQ1LUVBQ0R2M3JCRlJUeFExWGc?oc=5
-3. 文科省の学校健診柔軟化、負担軽減効果と質確保の検証を（MEDIFAX web）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jdWQ1U1drSDNLbUMtM2FKUUhGUVhmUDkxbGR6YUFXVVFDSk1xUTRRZVdRZWJyQlpUcXA5eC04c3ZJckcyUnJnVtIBTkFVX3lxTFBWTXRjemlXYTNmRVluZnhrQnNLVGI2ZXlQcWplNUp2U1g3U283UGRDVDA1WlBMdGRBckpEUThPOGNKazFRZzVZNzRlS0pMUQ?oc=5
-
-■ 倉庫・工場・物流
-1. SK hynix、SolidigmのIPO計画を撤回 米国の新工場建設はどうなる？（XenoSpectrum）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE41M3VySk5sZzAwZjZha1JyeGNGb1ZGYVhIZDB5V280M0hIM2RUNGhpaTFnbUhlX1FROEh4TUpLejlweGh1VlZITWMteDUwdTVlclRfVGhwTU1pXzh1VTQ4?oc=5
-2. スマートIC2か所事業化、物流・防災機能強化（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSkFVX3lxTE82bzJCUklYUmg2d2ZNRVJpdE1UQ2pCM1YycTVuckxCMEpFaElPN1ZGOWZ2RVhKX2lYRmxzQ0U1Q1dlQjI4eHMtamJB?oc=5
-3. ハコベル、トラック予約/受付システム「トラック簿」に「自動バース割り当て機能」追加（LOGI-BIZ online）
-   https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UVVh5Mi1xMDVDWEc0RTNlc2QzejRYY0l5bXUtS1h6Sm05UjdncUhxQjJjUnZKX0k0RlFzVVRrcmZLVDF6OVZyeWg4SQ?oc=5
-
-■ WMS・WES・WCS・RFID
-1. ヒガシHD 決算／4～9月の売上高12.1％増、物流拠点稼働で増収増益（物流ニュースのLNEWS）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DTU5KVlRBd3Zqc1h5bUdmc0ZCeEt2LVU4SmFzcGlJNGVzd0w0U0ZlTjJYTTk4ZnRiTXdsNGZVZWluRU40aWJJbzJmQmpMTjJzeHY4VQ?oc=5
-2. APT、CBREと共催で「失敗しない倉庫自動化セミナー」を11月6日に開催 愛知・弥富の物流施設「HUB YATOMI」で倉庫内覧会も同時実施｜Infoseekニュース（Infoseek）
-   https://news.google.com/rss/articles/CBMickFVX3lxTFBjcVRyT09GQ19VVG5TcWNpeE12NWZMWXBkd1o0VTRPbWU1T3FQUTIweDNjZDYxWE1vLTI3cmZsQTZKV3FxWUl1SXZ3cDdudHpVV3gwX0lWeXJuN0U4WHYxNkJhSk15TFBXQks4X1hNRk4ydw?oc=5
-3. 資生堂／業務効率化アプリ「カケハシ」で返品・集荷を自動化、物流最適化を推進（物流ニュースのLNEWS）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BTGlaeG1rWEVDQnEwWEs5bnJRV1RsM3R1eHhQOFlHMEQ4UWotV0xVT1V2dUVWcFBXNmFNSkFhYTZEcWJBLXJvV3dEUHZubVdNQnhsVQ?oc=5
-
-■ 日本の社会
-1. カンボジア拠点の特殊詐欺事件 かけ子の30歳の男に懲役5年と罰金150万円 拠点で拘束された日本人29人のうちの1人 名古屋地裁（2026年10月23日掲載）（日テレNEWS NNN）
-   https://news.google.com/rss/articles/CBMihwFBVV95cUxNektjU2haTlhqNzBCdEpMZEdneTdmdGFNZlF2YjVDb05ZblpMTVFaR2tNZzY3MFBjRHBXMWNjOVRwRFd3c0JUTkJUQWVIS2xXR0tsN01uY3ZXZ3l2Y2tTLXFEd2Q1a3lsczhUWE1UNE5LSUdsSjFwaTZuVHBESnhNeTdfeVdUS1k?oc=5
-2. 事件前「男にバーの開業資金を貸した」と周囲に…鹿屋飲食店経営女性殺害で男（59）逮捕 鹿児島（MBC南日本放送）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE1UZmpfZDdLNGVHUTFERXJPQk1WRU9wMGJ2aHFVOS1lUjBZRFgyZXBnanA2RVVCeU9iXzk0OEdZV3F2eUdJa1FSMHhKenZGM2hoQUQ2Nzd1QUk5aV9uanN0SFJONDlIMGZSaV9mTlp4OGZ5cmJUUldfeURMQUhtcVU?oc=5
-3. 事件前「男にバーの開業資金を貸した」と周囲に…鹿屋飲食店経営女性殺害で男(59)逮捕 鹿児島（TBS NEWS DIG）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43dVF2U0M2a3BHYzBiMld2Q29HaG5qbHkzVVotdnF5LWFBVkpvbGR2X1hKbjRyVXBfOEJhbzdVNFp6S3dydmc0M0FURVk2UlRLbGhzTmNMeTR0YkpvcDBhdFNQUVBSeEE?oc=5
-
-■ 政治
-1. ヨルダン川西岸で銃撃事件 5人死傷 総選挙目前…ネタニヤフ首相が西岸全域の封鎖指示（テレ朝NEWS）
-   https://news.google.com/rss/articles/CBMiekFVX3lxTE0tZ3RGTUtqYUMxb1A0VzY0U052LXVDcVR2c29MU2lCOHI5NmJwSlM3QzROM0pfSkxrTVhqRVYwQ2t6Tm05cnA3RHhJMThQOU5ZZHVJeThwMXhLalBOREVuRXZFeHNyNEdzdWZ3eUVjZlBHWVFrNFMxR09n?oc=5
-2. 君津市議会議員補欠選挙6日目を迎えました。（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1odkM5bEl1elFzRFBJT0NqZjRLeUotaDZvNFNSTmk1cUVHYTVxX2FEYTFWRnY1bFlYX00tVXpHUnJoU3BXdE5RN0NfMkxWa2dQYk93bmpUTFhtMjdrMHpN?oc=5
-3. なぜ高市内閣は女性の支持が低いのか カギは「好感度」ではなく… [高市早苗首相 自民党総裁]（朝日新聞）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NdnhVMjVfeE5pc3B2ODduYnppR2cxX3dtalBWbUNLb3Vkc1dsMzJDdkp5TU9HNlZSU3FzOXM3eDFGeDE3bENCQ282TnZEWU9NVS1vR1plb2RiSWExN0JqQWpHeExld3M?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-24.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-24.mp3" length="1928304" type="audio/mpeg"/><pubDate>Sat, 24 Oct 2026 07:24:00 +0900</pubDate></item><item><title>10月25日のニュースブリーフィング</title><description>10月25日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 06 Nov 2026 23:47:06 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>10月25日のニュースブリーフィング</title><description>10月25日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 日ソ共同宣言70年 日本とロシアの外交の起点、制約になった現実（日本経済新聞）
@@ -655,4 +606,49 @@
    https://news.google.com/rss/articles/CBMif0FVX3lxTE9HWkJ3RFpFbjlialVWYnBiZkM4bkNpdmNKN1pmczViQmVQMkg0ejdfcWFDczNvaHRfVnh6eXAta1dDLXZqMi1KTkVHNVg3TkRfeDJHektSX0JJX3l5ZV9DajlGRHhUZGdnUEZVd2gzMEliRTlpakFTREx0R2drTzg?oc=5
 3. 最新情報：[総合政策学部] 久保教授とゼミ生が小学生プログラミング大会の運営を支援（千葉商科大学）
    https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2a0pFT0lzLVJnYTBIeXF2eHViUEdwV1RYSURBRjNrcG1QaEpTVmZqMWU3UFMyQ01ZNkRyQVdvTktFQTJfSmpZSlNRYXBnTnpXaHVoYVlab3hKbE1xZzNJMWZ1Yw?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-06.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-06.mp3" length="1725696" type="audio/mpeg"/><pubDate>Fri, 06 Nov 2026 09:26:22 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-06.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-06.mp3" length="1725696" type="audio/mpeg"/><pubDate>Fri, 06 Nov 2026 09:26:22 +0900</pubDate></item><item><title>11月7日のニュースブリーフィング</title><description>11月7日 ニュースブリーフィング
+
+■ 世界情勢
+1. 「頼りになる兄貴」はもういない…アメリカに依存し続ける日本が直視すべき外交の現実（ダイヤモンド・オンライン）
+   https://news.google.com/rss/articles/CBMiTEFVX3lxTE56bGxYU2xyR3RCelRYVk9qVTFrd1VaRjV5bkNDNmJRZVFsRFFfcWdIZk5IRDYxNDFWRWVSQ2dDODFWck5CMGpZQWtDT2k?oc=5
+2. 米中間選挙で共和党大敗 政治学者が今後を予測、日本への影響は？高市首相の「トランプ依存外交」を懸念（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE43b25LaGU0SVpwTWhqazdVSmRGNlZFQzJ2NVZYVGpVQ3ZiOEo1WmFWNWdJMEZmTVU2TVY2dVVNeW1XRVpLYzBnU2trTjRWYm5vSERsdGMzYUJlTFRsaFJNYlV0QU4xRjlZRWE1UGlpdklzMzc0RzdROVl5OE5nX2c?oc=5
+3. 高市早苗首相、トランプ大統領大敗も「協力」発言で「外交恐怖症」小沢一郎氏が「即刻辞めるべき」と強烈批判（週刊女性PRIME）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTE80MmUxYWwtZ3FJdF9Ob2p6dF9Ed2pTd1N0NXdYdnRSSk80Nmp5YmRLcFA1QU9ueThoOGNNU0gxdURxdm43eHlSZXJzMEpCenM?oc=5
+
+■ 学校教育
+1. 【会見要旨】「いじめ後遺症」を学習指導要領に 文科省やこども家庭庁へ要望 パブリックコメントも提出（theLetter）
+   https://news.google.com/rss/articles/CBMifkFVX3lxTE1kUFA3LXdaQnM5dXJnMEM1SElxX3drNGZsLW1MZHZVYXlLSzk0OGotXzAzNVh3QlhNRlo3MlFBQU9xLTZpUHRhUlpOQ1JJTHl5em1vNmE2SGsxMURYRFdlbjZzODNkLVkyaHhLSHRUa21nLTNDaXhFQ1hHeW1nZw?oc=5
+2. １０代の摂食症外来開設 早期発見と治療大切 福井大病院 心と体、両面から支える ニュース教えて！ 中学生タイムズ（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JRnJQd0NHMEx3SnRwY0lLWE9OdWpmLXFZaXZ1WXlGSjNLMWk4dDB4QzBvVk9aNmltUi1kcXFmWFd4WFNXMjQtaU5rZ1N5QTZpbTdYYXAxUm9UNndlMEE?oc=5
+3. 書くことが遺産になる あなたは筆を持ったことがありますか（あらたにす）
+   https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRUk5vUjM3a3dCbXlka0Zid3ZwNXZJeXUtaVJ3V0xTVHpZc2RaZlFNVkdfQkg5dm5JQkxiSWlZZFMtdUZOWndHcA?oc=5
+
+■ 倉庫・工場・物流
+1. 「煙突は街のシンボルだった」日本製紙八代工場が新聞用紙・パルプ事業を終了 震災被害甚大で復旧断念 熊本（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTE82MTB0Q1FPem5KYmw4V04yWDVpWHNDaWtCVXJJblZzYW1WNGZKZWI2bGJWSVNaenVVWDhxRlpsRmZqamhuand4MjFSYk0zUUta?oc=5
+2. 日本製紙、製紙工場跡地にデータセンター建設へ 北海道釧路市で（朝日新聞）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE1ubjBvQ3lmd0NkSjNJaG0xSERUUnlzUjA1Vk1TUGdZYjZqTmIxSzVNUkI1dmdZU3ljdkFoWXAtWl9qc3JQZlRfR0pTQWkyb1NQcmlDU0tjcHlza1RjV19vOFlNdzdLejRsSWRxM19RNVpQWlowOXZTYWFRclRCa00?oc=5
+3. ノリタケ、伊万里工場閉鎖へ 2027年4月末までで 生産体制見直しで | 経済（佐賀新聞）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwVjhXTlFwZFJSblNNWU5udXY0eE9abmJrbmZBa0l0TS1YeFpxRDVlUjZaY18tdnZmaE8yaWdWekw3LWo2Q1JBYkV1Wk9nc2NnU0Joc0JR?oc=5
+
+■ WMS・WES・WCS・RFID
+1. 株式会社三協が「KANSAI DX AWARD 2026」で最高賞のグランプリを受賞（AGARA 紀伊民報）
+   https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqa0xnNEpwOHcxZVN6bDBSS2JLd1dWUU4zRmxVWDJBYWk0SlVwYUFjbktlZUZ6Vms5YWJBN3dkTFJCS3ZSdy1rYWpOVVg1a2xhb0FnSm9iXzZVblR0Zi02Tw?oc=5
+
+■ 日本の社会
+1. 保険金詐欺、日本人の4割「犯罪」と思わず 不正請求事件相次ぐ (毎日新聞)（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMijgFBVV95cUxOT3JXcVd4RmZWOUd3Y2NDSGE5VmRJNVd5Uzg5T0ZaNVJYbVpmcmc0VHhScDhvbkRVZjc2Rnp5M3hLV19LOHM2Q0o4NjZlYjdfbTR3R1QweHZ3dl94d2RVVkZUV2VKYXF5bjBSbnVYby1ja01DRGEtM2stbUJaaXpWV0doRlo0SWdHOXJadFhB?oc=5
+2. 米兵事件の再発防止策 外務省 教育制度を拡充（テレ朝NEWS）
+   https://news.google.com/rss/articles/CBMic0FVX3lxTE4yd1Y0OGI2WEo1SnBGSk1uQXFxZ3FKSXRUbkNyVnRPenpxT3I2SW53T0lXTGVpdVNSdW1oSlZKYWVkRGw4QmM0RUdBa3pMTWxFNFY1a0ZvS2tOMGtwMEhpWGpGNFR1UkloVlhhMVJkTi1xNG8?oc=5
+3. 【暴風・高波警戒】6日夜から8日にかけて低気圧が急発達、日本海側北部は大雪にも注意〈北海道〉（UHB 北海道文化放送）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nekNvUHI4M1I4d0YwVGo1UHF1eElGcV9MZVRxMkhCNElDSk1UajZLYVcwblVEdGhwcURqMTVfMlNjbUN3ZHMtXzBTWVRaYkpHTVdqSUM2QQ?oc=5
+
+■ 政治
+1. にとう泰明【新宿区】新宿区長選挙、あす11月15日告示｜20年以上続く低投票率（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWl9qRGJ3Q3ZyLUQyRGp2dVVXT19HYWNJWDdla25DdllHc21Zc210b1FTMnVjSTlkdUxWbkU1NDVmcEo0b09nOGc1NHM0bl9aUlR1Nnp1NXdmVFh4VkhJ?oc=5
+2. 【連日官邸会議へ出席】（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NbEJvU2lHaWUtZTlDai05TnMtNEFkMUlFWnc0Z0xHcTdXcUl4N29GNjF5R0U3MUQyS0Nsb1RuTXBEMGZfN09vWFBSWWJ1T05seFB0VFdKTjF6SGJ3SFpV?oc=5
+3. 【酒々井町の復旧を陳情】（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pT3Z2YUNFdEgzaEJFSElhR3Y3a3M3bGZ5Yjl2VTJhZFF3TnVCTnZHWGhqbUNudUE4aWJpTE05VnBhcndZbC1FaW9KTFRhdzRYQnVBclRfLXZqbDVVYThj?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-07.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-07.mp3" length="1458144" type="audio/mpeg"/><pubDate>Sat, 07 Nov 2026 08:45:29 +0900</pubDate></item></channel></rss>
