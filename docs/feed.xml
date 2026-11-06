@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 05 Nov 2026 00:28:45 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>10月23日のニュースブリーフィング</title><description>10月23日 ニュースブリーフィング
-
-■ 世界情勢
-1. トランプ氏、石油生産は国防に不可欠と認定 国防生産法発動（Reuters）
-   https://news.google.com/rss/articles/CBMihwFBVV95cUxNYndtZ3RsVXpRbkFBa1hsVFNiVm9hak1oV1Q4ZC1nNXZqMzNYMEd0NURteldXVVRQRFhkdEttV043S29menlaZzVfdmlSM3h2NU55SjVZb002S1c5NHFkX1hpTnBod0xkNnlaeWdfckszN0lQYXhaWkV0Sk5JQUhWaTNzQUVEcW8?oc=5
-2. 中国の統一戦略の転換点にも 元外交官が指摘する台湾地方選の重要性（朝日新聞）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKMTB5RENFWWpKYVNrd3drbFR1OFh3SFppVHZvVzBmdWRFOEhrR1VKNFZMRzRORG02SnBrc1Vzd3laSVZoM0FvbUF4azhHYm9XNVNvS1VPRFZKSFdJOHBCaExnY1pLZ28?oc=5
-3. ルビオ米長官、カタールの仲介努力に謝意 首相と電話会談＝国務省（Reuters）
-   https://news.google.com/rss/articles/CBMihwFBVV95cUxNQkx5akhTZjgzMnVrR1ZiaEhRM3JLa1lBbDZtZ2lzeW9QN3p6QjdfSG5hYVRUQ1BlcTM1Nm1DdDB5OEpESU40YVh4WFp4bjczTHlTc1NWZ0txek1hM0wtOHlSQVgyQTdTeVFMaE4zSG4wN05iNEVzSVBYdkxwZkJvX3M3Z1BLN0U?oc=5
-
-■ 学校教育
-1. デジタル教科書は紙との併用を基本とする文科省素案。小学4年以下は完全デジタル化を認めない方針｜Infoseekニュース（Infoseek）
-   https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VOTBuMmVSQm5oWk9GMVhCWjVsbjNMRDNLOHY5Tm0taGw0TU4zelNSUzYxSUF3bDBVZjBTMUc5NVpNdU1SaGhRVnh2UmFvQTZaY3h0bEJJbzlydWJza1NJMQ?oc=5
-2. 新教科書は紙中心の学びが基本、「ハイブリッド教科書」でデジタルは「補完」…文科省「大臣指針」素案公表（読売新聞）
-   https://news.google.com/rss/articles/CBMic0FVX3lxTFBFanNLYk05YXVPTFVFTTRCdWMyNzdTdGoxem5SRVdtRzhSR25JLVdleVZYZktoQ0JmNlYxMXlJUURjZUs1cE51LTZjY2J0RmVhT2xaVUtaQU8yWGNtM0VwX3Y4c3pRVUpwc2I3cndVcGw0SEU?oc=5
-3. 新教科書はハイブリッド中心で 文科省の検討会議が素案（教育新聞）
-   https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsNk5hVVJXRzlWMVZDT1lzbWJEazZSbjdHSEloYzVPLVRTdTJNWTFRUlk4ZWF2QXgtQUNEcDBNb1NTaEphQUh1VEcxTTVxSFI5ZEtWdG93?oc=5
-
-■ 倉庫・工場・物流
-1. 【八王子市】ロボットが商品を運ぶ巨大物流施設が本稼働！ 八王子CFCで見学ツアーも開始へ。地元・八王子の商品も充実（号外NET 八王子市）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE53UkhzLTZUTjFXM1c4RkRqT2xWcGdnVEg4b2JMc3pueTEtMkNlX2dtdkRxQWgtQVRwbFphYmhobU5Kb2tCQi03QjM0aVZrSTlVcWhrdWRnMzc4QW14N3pr?oc=5
-2. 黒澤フィルムスタジオの倉庫とみられる建物で火事 「事業所内でバッテリーが燃えている」と通報 神奈川・横浜市（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE40OXdtaVc5c2VxQ3hLelpXMDVGM1ZscDl5NUpxZmZycUVsdEFSbmNYUjZIS2tzU2ZnaGlfZ2h5Z2Q3aVFFYWpZcDNWVXJYZFNYRllBSE8zcTh6SFlDbHMwT2ZLYWZld2JTY044clZSazFtbVZHcHBORmV1N3hmTDg?oc=5
-3. 横浜市倉庫で火災 敷地内に黒澤フィルムスタジオ施設も（FNNプライムオンライン（フジテレビ系））（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE9EOE14ZS1tMS0xOXVDQmFiR0dzaVNESjFmNVZ2bDdHNE1BZHozUGtVV0hXZWpRR3lRTUZQYUU5TUM3a3d6Y2RTTWRtakc2Vmkyb1g5NTc2OEJNb1BZTFdSWmlYMUliWWVTUnVJM0xHZHA0U25vdGhuRnFXWmg1RGc?oc=5
-
-■ WMS・WES・WCS・RFID
-1. 積水樹脂グループ、国際物流総合展2026と自動認識総合展に出展へ（Dellows News）
-   https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zY0Z5OTRiNnhHZ0lPRTlUTS1hRmQ0Y1J5WEFaS0VaS2pLTUdONjl0TG02Zko5dkRFdTV5SzJMTUxKNlR6OHlaU0Ruczh0aEMwNHF1VGtjbDdBQi04Uno0OA?oc=5
-2. 物流各社／PHP脆弱（ぜいじゃく）性でサイト停止、緊急メンテナンス相次ぐ（物流ニュースのLNEWS）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HT2k3QlFSekFCM3BmRGx2TXBxcE1xNE5SUmEzSW1DWHlNSjFPNGpfb1ZnMUNvVEdRQk5pT3RSaUxVdEtGQTg1ZjQ3ek5ZaU5sZm1Xbw?oc=5
-3. 自律型フォークリフト市場―2026年～2032年の世界市場予測（アットプレス）
-   https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uX0NEMTkyakIybGJSTXNMRlgzZWx6cWtaV3dsUTdCQjFOYnE3MVBCN1dsWjhvNEVOd0hTaTJTbE54S21RY1lJNzBuRzF4S1U?oc=5
-
-■ 日本の社会
-1. 『黙れ、お前ら頭が高いぞ』ロシアの記者拘束事件は、日本人へのメッセージ！？ 元外交官「『戦争に負けたんだろ』と81年前の歴史カードを日本に振りかざしてる」（ABCマガジン）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xYXJ2RTJtX1pQelpIY2N6WDhjSFZHNmt0UFpJU25aUEtmaVowMFYxTjBoWU9LXzFPNm1kNF9HXzhkNThiY2F6UHhOSk1rS1huN1FDWFpiTQ?oc=5
-2. ロンドン動画が日本で移民懸念を呼ぶ、バングラデシュ労働者受け入れへ（X）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rMFFUU3dsXzhIZ1pVcUJFV0ZXaXNWM1FrS3VLU0Q2c1ptTGlNTjJteDZrQWl4RzUxUExwZm9TeWJsaWRXUEc5aE42QkhodGVKU1JLNDBMVQ?oc=5
-3. 日本のGDPが27年に6位転落へ：円安で目減り、生産性も低迷─IMF見通し（nippon.com）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwX0lGbVJfOUxEbll3NkwwY0ZBbldObFh4RjNRVWw4eTlqZm5NbnFXN3Vyai1iQ0UzNTN5Y1ZGSlU4c2lqaVRObzVvRldKaUh1NjAxTzJqQQ?oc=5
-
-■ 政治
-1. 増税なき子育て支援（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JQkNCTUJqNWY1X3RtTWpDVTFJQ0doY2NqY3pUTF9rNE1OQmRUdTNiVElkLXNWRDdWbnNRdTFmWlpOSmhMQ2FMei1tODVBMG5lOFg3VzNLclFtTk9HMGU0?oc=5
-2. トランプ氏、イランが中間選挙前に原油価格を引き上げようとしていると発言（アラブニュース）
-   https://news.google.com/rss/articles/CBMi7wNBVV95cUxQMUs0cHJyNWk3Xzkza255UFdVVGRyNmtLVDJ5czVwT3V6TGhqdngyQmJsaHJfdk5aUXVYMGJ5MGNjTjJ1amhkdndDUTEtYV85ZklSWTR6Q2l0dFNURWViVXZwcFVDTUdJU2NvX0U5enp4MlNZZU9wX05xUHAzY0FiMDFMcW91Smo2V1l0bEUyVnBfXzdxU0tRcjNOeU0tb0ptdnNxU3pOSld3cm1FSE5QeGN6dVJCWXI5SHNhWVpwVHJ4RlZ1bnNlQ2FJVTh0SDlSa21wbk84WGNpQlpENFRFSlRmZG9VUnFfUXJRamZxajkzUWoxXzVkc1ZRTEhYMkl4LWpmVEVQVkZnVW5zN2VJbE9PeTVkU2VJal9ubU5qWFJPNmFsZ3pZdVg4Ry1mMlVIblVoMUJIOTQzaFgwTWFrQkNJa2VJNjU3R0lHRkQ2RXNMZVo2V2RFaFZEakc3bWhMZ1V4cGtveF9LdndTMjFiRHNYdWV4YkRWQlE3V3FlLUkySEQ4M0FCeVdpOTBEMVN2ZElDUTFZRkYwc3lPZ0h3c2N5WUZ1N0dBd2p2eHBlRkxyV3VOZFhNYTVuNklpQndVRDd4MjFWSFFCM01JQ1hNVFpTOUxEMkxVOURHZE13bU40djlhOGt1ei0zY2lwZUE?oc=5
-3. 衆院定数「比例31削減」 選挙制度改革で自民案提示（FNNプライムオンライン（フジテレビ系））（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTFBLejREWVlsdWsxaUtERm0zdE5nQUR5WDduQk1iOENCYjVoYkFuNHhnWC1rVEVvVEJyVVhKbGRfWTlxS3FvUVFFWExnRmNSNXRpYTZrVzVqaU9jMlpxREtGbl94SkpzRU5OeVFBNktxY3I2dy1yVEN0dmYxamo5aUU?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-23.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-23.mp3" length="1596528" type="audio/mpeg"/><pubDate>Fri, 23 Oct 2026 07:30:18 +0900</pubDate></item><item><title>10月24日のニュースブリーフィング</title><description>10月24日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 06 Nov 2026 00:28:21 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>10月24日のニュースブリーフィング</title><description>10月24日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 韓国がウクライナに「妙な外交戦」 北朝鮮捕虜引き渡し、感謝どころか非難の不思議 ソウルからヨボセヨ（産経ニュース）
@@ -655,4 +606,53 @@
    https://news.google.com/rss/articles/CBMif0FVX3lxTE9sb1g0aVZIMGdIaWZReUVMcmVrWDc2c3RlMV9HNTNDZVg3eGxxNVR5MnA5QmJnUUpyN2VObk1DNWtvLTBMWHZ2MEpRNTRzTjdqOVFZT1pDeUNsX2M5ZkNaSFl5Z183OTNDOExGTXZHYjlRYkotX05VckxTMngwNVU?oc=5
 3. なぜトランプ氏と共和党は敗北？ 中間選挙で噴き出した有権者の不満（朝日新聞）
    https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BOTlsT1hwMktkdGU3OVBqVmRkUTlYQ0IwM0RGYmhyaFJ3bVJEaks3VnREYUZNSGV5MXB5Zm1ZOW1GMXZpY0pudVFSQWVoTDhkNXlhNUdfQ3dWQ25VODRXUlY0aFA4VU0?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-05.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-05.mp3" length="1598976" type="audio/mpeg"/><pubDate>Thu, 05 Nov 2026 09:26:38 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-05.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-05.mp3" length="1598976" type="audio/mpeg"/><pubDate>Thu, 05 Nov 2026 09:26:38 +0900</pubDate></item><item><title>11月6日のニュースブリーフィング</title><description>11月6日 ニュースブリーフィング
+
+■ 世界情勢
+1. 外交部「大統領専用機の搭乗者情報、外部流出の可能性を調査」（동아일보）
+   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiR0M4aVlqaVI2anlHOGdZbk1uLVQtRk1DVVBYYXVSUGhGeWNMT29rbE1rdUJOUFBkV2pSTFlFamhfWDFQTS1rMG9BLWFzYnJ2Qmd4SDhPVDlBVzlZZnZfMGh4MzBIQQ?oc=5
+2. ウクライナ軍が活用のスターシールド、利用契約が来年満了＝外交官（Reuters）
+   https://news.google.com/rss/articles/CBMihgFBVV95cUxQTlRxSGEzTUZTeThSNjVlUFpsejdlaUFueEU1VmpMckdBU2xocEpaWjFMWFhEUVBtM0llUGlpNDVlellvODVlcFJsYXpZdW9RRkYwUHN3N3VCczhwdktlVURkMWxnMVNSSmt3NHFjNnZZSTlFaklKLTVxY3BEOHpud3BXcnc2dw?oc=5
+3. ロシアのプーチン大統領（左）と会談するイラン最高安全保障委員会のレザイ事務局長（左から2人目）＝5日、モスクワ（ロイター＝共同） - イラン、ロシア大統領に書簡 指導者、対米支援要請か（西日本新聞me）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LZ3RVaUdZcUxuNlVhNXV5ajYyaG9jUEFxbGJsZXZ5SlFTWXZBY3JlQWNCTzlZMFVTM08wVGZYT2dsQm9lRlVrSTBsQ2lxckRkZGxDSEphSQ?oc=5
+
+■ 学校教育
+1. コメ関税 英語で議論 坂井・高校生大会 藤島チーム優勝 | 学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5laHJPbWducHVsVVp5bmFJVXQyOUphWUszNXlmWTljSTZZcGM2V3JoSWI0OE9BMXotUG1yRVVxS1RtRS1JZk1ac1JxRDhTVTBGNjAyTHBJOUNDWUVrUlE?oc=5
+2. 文部科学省「フュージョンエネルギー技術開発戦略検討タスクフォース」の委員にHelical Fusion 副CTO 後藤が就任（Excite エキサイト）
+   https://news.google.com/rss/articles/CBMic0FVX3lxTE5KeW9TNlB3SjRJNnJOZlFOU0t4VVAzZDN6MXNZTnBKNUhQWWRWeVJ3eXhCdHVBWnFYN1lRRXZKdm5RWlNhOFNxa2dpRXV2NUJSYjJCS3ZGRG9TQkdYOUFOVWl5TklVSTR3akI4V1Ric3M5T28?oc=5
+3. 「いじめ後遺症」授業で指導を 被害当事者ら、文科省に署名提出（ｄメニューニュース）
+   https://news.google.com/rss/articles/CBMikwFBVV95cUxNdnJxdmkyaFRpRlcza0QwN2d1RmdKMzJwOGZUNUFCUF9PNjd1aGJTMk85YTVlSUlXMF9ueW9QaHJueVpMaTBvN0lpWFU2SkdxTl84ZWVyeUpaNk1LUzZXX1hQOEVJdUxHYVpaY05OWXlhb0VyQ21EOXZsakttbzBIMTdVMEFHangyNklaZ1V2UXFTN1HSAZgBQVVfeXFMT0RhQkdyU3RzTXpCbVNmaUFqRjhUeEFfcFJMT3ZnWUVkcjA4R0tlRzBCV0ltVDN2LUJPZkpXNnpBVGNETXFrYWFRVkxPRURDWFdmX1pzNldUUksyYzZzZXUyVktYUzloMkplVlY4WUdyNEFYbUdCM2ZTNlBLV1lNQVN0R1FCQTczT0lzUHdJaHZ2N0NpajBHbjU?oc=5
+
+■ 倉庫・工場・物流
+1. 荷主ごとに異なる倉庫作業の請求の料金計算をどう効率化する？ コマースロボティクス、物流・倉庫会社向け「見積・請求業務改善ガイド」を無料公開（PR TIMES）
+   https://news.google.com/rss/articles/CBMiakFVX3lxTE9PNGdxOEpDN0I4b2Y3YWw1alpsaXJjcU5IZ25XdzJCMHZzTFNiUFhKQW9tYUtiZ3RXQVdPRzhET21DdktFcXdSZ1FwbWV2S2ZHTDBkSU9rTmpBQ0N6cFktMmV4Sjl3Q0kyaGc?oc=5
+2. 京都・八幡市に16万㎡の物流施設、大林JVで着工（建設通信新聞Digital）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tTmdFVGhDQlZVbkNpaU9BV0pHUHBFMmJtc1JQRHNEU3FmUlpLb2lsZmRSNG9QcUdDdmtGZnBwdi1TZlBHajNyX2JDaWlKdkF5bldndlFB?oc=5
+3. 日本製紙釧路工場跡にデータセンター進出 コンテナ型、150㍋㍗目指す 土地と電力インフラ活用 北海道釧路市（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTFBYbWJMTWkzdlkzenBGaXZEalVKQmhsUE10aDZKSnNhd1k5UlNFbHNOQWlpM3JzZFdPQ3NsZU5kck8wNkdUQXA0Wi04MHQzal9mYnVWTkdFWVc4WVBQZWd4OW9pcEtXOFJMSEFUeUlJbWxFWlFlWTZwdkVUNnNoR2c?oc=5
+
+■ WMS・WES・WCS・RFID
+1. JDSC、物流最適化ソリューション「Logi-one Engine」提供開始（ニコニコニュース）
+   https://news.google.com/rss/articles/CBMie0FVX3lxTE9pc3MxdE54dXVqbkhxMy1OdzJNMlBMZHFHS1BYdzVNNVFYUXVQd2NnTkZyWHRlMzVpS2JhaElmQkxnU1pFdG8zYVhDZS1EVnowaEVjRGUtNFlXYnU2VFRYcHlwUHAzX0F3bnV5QUotNGV4MjZNMm00NXJROA?oc=5
+2. イオンとMujin、AIロボットやWESなどでフィジカルAIを構築し仕分けから混載積み付けまでを自動化（IoTNEWS AI+）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzMkdidmwyUFVCQURmcDZFYmJXZTlJZ0JGY0M0X29RMWk4X21zN0pyNG16a2t0VmpsVmV3bVVIdHp5MXBIbklPRXlyQlh6cy1Sb2hUZtIBWkFVX3lxTE5kSFhaTGhZN2NZNlhGamhTa0dCd0VFeklKNzBmekozSURJamJvaXg5QTM2alB5ZWRjc1p5c09PWGEyaVBINFdndjdoRDJFZF9SN0wxWnJnc2xEQQ?oc=5
+3. ロジザード、OBC主催『業務プロセス変革フェア 2026』に出展・セミナー登壇のお知らせ（イザ！）
+   https://news.google.com/rss/articles/CBMiekFVX3lxTE03QnZLSkMtVzVkWkJTWGM2UVFaSW9Sd1A3YUxtUkNtZGNMRVN3ZHlxUnlTcUV0T2VPcWpXOWs5aGxHbGxGYmI1YTNEWFo4U2kweVRJeWxfSDQ0Y0xWVy1BR1g3bGtLQkR6N3N3bHhDSnVmZEVNLXNtYlBn?oc=5
+
+■ 日本の社会
+1. 午後のサスペンス 西村京太郎スペシャル 亀井刑事・十津川警部トラベルサスペンス（TVO テレビ大阪）
+   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QQXQydktyMGxMVEJ2ZHZiSkdaYVN4SEphSFY1REhBWGd5M1d4OFpwVG9UaGNSNFVBSFl1ajdMQ2wwTjk3RVpMTVNhenJTdUEwclNNa3VNVnJDVVo5OW9CcGt0VQ?oc=5
+2. 愛知・東海市の立てこもり事件 容疑者は当日に違法薬物を使用していたか（TBS NEWS DIG）
+   https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tN2J6RENGa0drMl9qSmo0TFpkVWFJYmdQS2czdkg2eXVrVUxrNFNHV29Nal9jLWRyelZpczZEZUdKVXRUeFRXZk1Hb3BPRFVXeGhaNzJFTHZmdw?oc=5
+3. 【まもなく】米・7－9月期非農業部門労働生産性速報の発表です（日本時間22：30）｜FX・為替ニュース（ザイFX！）
+   https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wRDdBN1dTLThZaHN5Mk5Ebzd4bUxwa1NBVzBPSXhmcHd0N3NFMWZuT0dBcTc4cEloeEFKZERwN21vRF9EQ3NzazZZLVNwNGhvLWc?oc=5
+
+■ 政治
+1. ブルー・アウル、AI融資の収益拡大見込む－米中間選挙の影響も警戒（Bloomberg.com）
+   https://news.google.com/rss/articles/CBMijgFBVV95cUxOZTBSd1JGeWhDTFduQWpTWTJmRHRmSUhRa2pBLXd2N0xEdUFSNm5Gc012ODJSa2lTVGN6ek1GOWdjTFVOT1JqZHJPY0hmM05CRFIxNk9CaWhFOWZOSDZwS21qZExMYm5ucW4zb3BVNHlPVjZVcEJBTEdqSXkyUEg1N1dhUFlxZ0s5c2p1ZDFR?oc=5
+2. ルビオ国務長官が辞任検討か 中間選挙での共和党大敗受け ブルームバーグ通信報道（TBS NEWS DIG Powered by JNN）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE9HWkJ3RFpFbjlialVWYnBiZkM4bkNpdmNKN1pmczViQmVQMkg0ejdfcWFDczNvaHRfVnh6eXAta1dDLXZqMi1KTkVHNVg3TkRfeDJHektSX0JJX3l5ZV9DajlGRHhUZGdnUEZVd2gzMEliRTlpakFTREx0R2drTzg?oc=5
+3. 最新情報：[総合政策学部] 久保教授とゼミ生が小学生プログラミング大会の運営を支援（千葉商科大学）
+   https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2a0pFT0lzLVJnYTBIeXF2eHViUEdwV1RYSURBRjNrcG1QaEpTVmZqMWU3UFMyQ01ZNkRyQVdvTktFQTJfSmpZSlNRYXBnTnpXaHVoYVlab3hKbE1xZzNJMWZ1Yw?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-06.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-06.mp3" length="1725696" type="audio/mpeg"/><pubDate>Fri, 06 Nov 2026 09:26:22 +0900</pubDate></item></channel></rss>
