@@ -1,52 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 07 Nov 2026 22:51:52 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>10月26日のニュースブリーフィング</title><description>10月26日 ニュースブリーフィング
-
-■ 世界情勢
-1. 「金正恩は影武者なのか」元北朝鮮外交官が語った”1号俳優”の秘密｜Infoseekニュース（Infoseek）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02ZXgzazJkSDNYZ0wzWnpNbXdpSXhBa2lDa1V4ZS00WEVydmlDY0ZrVEdLaElRcFIwQ3lRZTVVUlp0blJIYkhQd0duaXo4V0ZQWkVsTUFuM3UwOU53N0hmV0dnRGRLTHM?oc=5
-2. 「中国、ロシア、米国」が異例の急接近…トランプの「手のひら返し」に問われる、高市総理の外交の失敗（現代ビジネス）
-   https://news.google.com/rss/articles/CBMiT0FVX3lxTE13VS1pcGczSTJJOS04Wm1rX1JHVjJZUVFvX3pkdFk5aURDdF9PT0FoeVpEb3JfQWl1MTc3c21CRlcyNjhKOXdFWnY4WUZFTE0?oc=5
-3. 中間選挙へ向けトランプ外交が過激化の可能性…大統領の立場を強化する「衝撃と畏怖」にどう備えるか（Wedge（ウェッジ））（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE5xR2JRVU1sOUJOd1ZPbTNOMWFnb0RWd3U0SEotRUxfaEJncFVqWTg0dFJ1YVJHRk1BUEtLQkFuQ3NnUlhGMEJJRjkyZTJua2RzOW1kWXpXdlpQblNCUkhydlJxWnlCTXU2MW1FR190VExydDI4Y0xlMXllbTFYcDQ?oc=5
-
-■ 学校教育
-1. デジタル教科書 現場の声に合致する「紙中心」（ｄメニューニュース）
-   https://news.google.com/rss/articles/CBMihAFBVV95cUxNeWVEYTNmR3p3S2F1a09BU1d1RjFnWFlwbnpJTG5jS05hWVM0VGlwcEFxWkFGaTl6aEtuamJvcjRBRl9RbUZWbEQxa1h1clotWEhKcU1VSVUzZjVGSVJGb2JTMGJXMEtzQ1dZWVZKNUVqaU1kSm5pVGh0U1QxZEE0Y1RnV3LSAYoBQVVfeXFMTzRMd2k0UzcwSTN6SVRxb0FzbmpGYVBQWlhGUU91SERnN1dNcHl6LVd4VEZSZXJpMTJHVG8xLTFCWm1hX3l6MTA5YTVHNkdpczZCNFZlb2J0RXNEQklTT3F2bjAxcVlrWFFEZUNjUDQya2doQkVWb3UzSWZnREZCeF9DVGQyT290N3pR?oc=5
-2. 発達障害の子の不登校率、全体の３．６倍 文科省調査（朝日新聞）
-   https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0R1pZSloyTXZZYmR3cWlGanZXTWpHQXM4czJya3FPLTI1SF80dmVIZ09nY3dnM3FxaXZYYmVIWVBBNVRqcktiMnAwNDJrYTR6YTJxNzdER3paX1Rh?oc=5
-3. 無知に大人がつけ込む性被害の現実…子どもを守る性教育はどうあるべきか 「生命の安全教育」導入3年（東京新聞）
-   https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvaGRybE9nbHNEa2VmUi1rQnRNcVpjX2NLbzIzUkt3ejh3UVNOemkxakdqMXhISHVvanh6VU40TExkWEY3YVdPdVNRajFrWFJvVFJv?oc=5
-
-■ 倉庫・工場・物流
-1. 製紙工場をAIで変革、エネルギー効率25％向上・生産コスト17％削減を目指す米国の新計画（XenoSpectrum）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTFAyVGlzREpFcVVRUmxvN2hlUWJCVmpUOW1Sa3B3NHBVM3otMG9VM3ZwOUl1V2huWE9QdE5NVHFIb1pOMDNfcWdxV2liRld4Q0ozZTRwTVZzZy1HSDRZSVBzcV9kLU9zOUFtQkE?oc=5
-2. 日野コンピューターシステム、物流可視化ウェビナーを10月29日開催…改正物効法への対応策を解説（レスポンス（Response.jp））
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QV0JTcndyZktubE5sbDFpU0dRQlE1SnJIRXl3S2hxOXVXYmx6UTk5UmNadGpiNXByUEpja2hkeUxTS1A5Z2lwX3JxOXNTVGY1QTFMbnNNTDNvc0x2VWVj?oc=5
-3. パナソニック アビオニクスが門真工場の拡張を完了、最新製品の生産能力は6倍に：工場ニュース（MONOist）
-   https://news.google.com/rss/articles/CBMib0FVX3lxTFBiblZqTTR6OXVnWVR1VHcyUklhZTFJSWpHUlBFWjlua0JfdVY4S19nLWZfRlg4Nmo2b3BaNXZoQUpWcGxQaDhGTkZXXy0wYWVfbjNuMFYxZHZnZTNxWEd3Qi1ETVl6MEVqa3V3RGRDQQ?oc=5
-
-■ WMS・WES・WCS・RFID
-1. DHLサプライチェーンジャパン、千葉・柏のベイクルーズ向け物流拠点にラピュタロボの自動倉庫導入（LOGI-BIZ online）
-   https://news.google.com/rss/articles/CBMiS0FVX3lxTE11RVpCTW1mRG5PeVNWR0Z0bk1vN0ZTazk5em85cC1rbkM1R28yeU93Ukh5X3dKbVdaRGdmeUtNV2h4RFV4V2haeXZGNA?oc=5
-2. 「数千万かけたのに、現場が混乱…」物流DXの失敗を防ぐ。WMS・TMS定着の鉄則を解説した実践資料を無料公開｜株式会社船井総研サプライチェーンコンサルティング（新宿経済新聞）
-   https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fZ2lDR014SUVuc3lyeHd3UW9iQmpXZWk5QUtGdDMxU2VxdnB2cnRwM0hGZUZPektfWXY0cFFSRlZfekJ3c1VSUGM3eDVWRW1xNVQ0dl93?oc=5
-
-■ 日本の社会
-1. モンゴル大火災で当初の報道と異なる事実が明らかに：なぜ「密猟疑惑」が先行したのか（アゴラ 言論プラットフォーム）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyOEhscll5RjhDakMxdVZHVmxjZ2ZKQ2FMOVltNFU1bW1EbE9tVUZ0bEwxVmoxMmppMGFPY1FicEp4enJFdHkxMzNpcHViOTJQeVdSNEdvemlQNW8?oc=5
-2. 狙われたのは「リモートデスクトップ」だった――GMO事件の盲点から浮かび上がる穴場、認証とリモートアクセスの老舗ソリトンシステムズ（3040）に今こそ注目すべき理由｜日本個別株デューデリジェンスセンター（note）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE80UlpZS0NyODd4bUhESy12ZElZNUNVbGE4YVRQYXJNMG13bHloamdlQnYtUnV6Wmh6NktMOWR3ZEdRSWNibktrYkhBSkNOV0JsV3IyYi1jTEpoTVE?oc=5
-3. FOCUS ON：トイレは社会課題を映す「リトマス試験紙」――加藤篤さん／11（週刊エコノミスト Online）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTFBtdGF3LW1nVm5HdDBFaEZaNGIwUGJDNDJVYmpHX0NiU1hUSnk5OU95Vk9fSGxSeElQT3p6cnVLRFlTUjJnOXlJbjJ6Rl9xeTJkWkw4YWVGQ0xwMk45dnFXeHVCYlc1eVdpMnZoNGdYaFJiRThnbzFCRW9hVVlidW8?oc=5
-
-■ 政治
-1. ブラジル大統領選挙 決選投票 全土で投票時間が2時間延長（NHKニュース）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJUkRqVVRGOXVWMWZTV3NXajNQeWgybVExXzNTb0k1TGFYV1BabFA3Y3VqZzIyd0xmUi1sN1V6bXMyOVFZQmRvTE02cEV5bHBSLUtqei1WWFFiNTk1eVVZ?oc=5
-2. 衆院選挙制度を巡る主な論点 - 比例31減、幅広い合意形成は難路 衆院選挙制度改革の与野党協議、大詰め（西日本新聞me）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE4waEZldVp0UlEwWmJRSkdoQ3FrMDV1TllYRFBfSVZFMmNXdWp4SWNPSlozb1cwU1dRRjNVOWx6cmFEdm52ZkRQLXlsanh1aGpJdGZ5VW1KMA?oc=5
-3. アメリカ民主党下院議員、中間選挙勝利に自信 JNNがインタビュー（TBS NEWS DIG Powered by JNN）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE9yTGdLNTlyV0M1eHpjSjhCc01HLUtJb0d0ZENFQlM1b0N0MXlveHpxS1lPcTJuZXVXNFBWMUI5TnZKNnZlNG5TZlJmelVRWHVFUWlvM3N0TVJWY0hScUZnMFp0M1EwZFE2VlpDQW9rMnh5WnN0RHNJV0RUajNyZ0k?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-26.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-10-26.mp3" length="1714032" type="audio/mpeg"/><pubDate>Mon, 26 Oct 2026 06:56:03 +0900</pubDate></item><item><title>10月27日のニュースブリーフィング</title><description>10月27日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 08 Nov 2026 22:59:47 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>10月27日のニュースブリーフィング</title><description>10月27日 ニュースブリーフィング
 
 ■ 世界情勢
 1. NY原油：続落で101.36ドル、イラン情勢の外交的解決への期待で売り優勢(フィスコ)（Yahoo!ファイナンス）
@@ -643,4 +596,45 @@
    https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kZ1dZMkxvMWF3Sy1yLUpxSnVaemtNY0VoUG5ONHBwSVp1cWpyVlR5QjJ0T0ROQnA2cmxFbDNGVGY2U1Y4Vmd0UXFuMWJWY0ZxTWFjX1d1SGJpYnlsdks4?oc=5
 3. 【編集長コラム】中間選挙直後のテキサス、変化の風を目の当たり（sports.pen-and.co.jp）
    https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6NzhkTWFiT2NrSVFWTzJFbXU5emRrUll4M0F5b0hyYU5pMnVaOFRxa3N4eW9XQ212dDB6RkdfbDZSWDMtM1VvWDkzVjhTUklLbnc?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-08.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-08.mp3" length="1284048" type="audio/mpeg"/><pubDate>Sun, 08 Nov 2026 07:50:04 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-08.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-08.mp3" length="1284048" type="audio/mpeg"/><pubDate>Sun, 08 Nov 2026 07:50:04 +0900</pubDate></item><item><title>11月9日のニュースブリーフィング</title><description>11月9日 ニュースブリーフィング
+
+■ 世界情勢
+1. 「頼りになる兄貴」はもういない…アメリカに依存し続ける日本が直視すべき外交の現実（オリコンニュース）
+   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kU3pnWHZUbGpHRnNxMWdkN3BjY2lfRnBBU25iSExPYTZlLWdVSmVueDhfZDVoSklrMUxZMEZEd3ppbTU2RlNUS1hYUXItczI5V2NJ?oc=5
+2. ルビオ米国務長官 イラン問題の外交的解決が不可能な場合もある（みんかぶ FX/為替）
+   https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Pb1k4dlYxNjZIVXdRZnR5WkpPS1F3MHpfRHlwalRTenowRm14MjNDLWN1LTZGdmFvWDZxcUMyZ1RLRDRSTDRTZg?oc=5
+3. 苦境に立つトランプ大統領が外交レガシーづくりで「高市斬り」悪夢のシナリオ 北朝鮮の核容認、「米中ロ対日包囲網」形成なら日本の安全保障政策は根底から崩れる（マネーポストWEB）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE9fUTJUWUFMbXJXd1diZ0d1Rl9KZzJMZ3B5LS1PNV9rRFFmZndkdE44dHJPTjZiNXp1N2lrbkxIaWtjSEhZN0hfS2I3ODloeUlnczBWLUdHVGpBWFlIZng1UldKWnFmR2VEM1l4T1Z2cVdTaGNZMGVlY0RCMUF4Nmc?oc=5
+
+■ 学校教育
+1. 立命館大学の宇宙事業 文科省「次世代イノベーション事業」に（大学ジャーナルオンライン）
+   https://news.google.com/rss/articles/CBMiR0FVX3lxTE8xbV9QTml2V1RSc0JHZG9sclJjOWxFTlVsYlZEVmFwcXRldU1pUVA0UWsyeDllcE1fdUIweEJfTUhBYmNsSG1n?oc=5
+2. 文部科学省 - 授業外学習「週6時間未満」6割 大学2年、人文系で短い傾向（西日本新聞me）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEN1k2Z3JtSGFCdThoaDlpLS1hMl90bnVZYXhHSXpaelBoaEsyMmxQcy01dXFvUmJReXQxYWxpOHdVLWwzVnE5cUY1a01iREl4ZkpCUGg4cw?oc=5
+3. 授業外学習「週６時間未満」６割（デイリースポーツ）
+   https://news.google.com/rss/articles/CBMid0FVX3lxTE40bEpzamNIZ2NwTGdyb21jdXFyelpRTnhUM0phYmJDeWt5OU9WSXFuYkRmT0FPT2lGT1hZMlZQbi1tRnpldVlDbjJaeEk5Yi02cTJlcHpfVG5velN2T1pvUko3VzlxY1FMRjNiazFGdlBocnZ6VUZ3?oc=5
+
+■ 倉庫・工場・物流
+1. モーリタニア向け漁業調査船「MASAAKI NAKAMURA」、常石三保造船 新潟工場で進水 元JICA専門家にちなみ命名（Funeco）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hYmNWWTNoNE5uSlhhaUNGdDJHM2h2QjJ1OWYtRkxCQW1Ec3VKbDltNnRPQTdPUGtEVWxURmNXczNHSUl3RURodXNn?oc=5
+2. 大阪・港区の倉庫火災 54時間後に鎮火 7500平方メートル焼ける 近隣住民が軽傷（ｄメニューニュース）
+   https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnk2LWFpNm90c096N2FheGRESUtaNFBUX0VxTmVOb2tja1Nrc2NYMGk5OVl5bUxmZkFOZFlERXR0emNxN1NhN3liWWlWY1llT1ZQVGZDcmc2NmJyb0doTy1mNmFDckFuVVVwemZ6dWVJbnROSGFFR2xCMDd4M1pXOWhqNUNYdGlaQ3FHWWk4cFF2elhkRVhhU0tpODFpMEVtelZHbUJRRGrSAa4BQVVfeXFMTzVOb0ZMNUxnU0tNc3FBZ3QycmtpQ0xsSFJ5Uy1mLTFDR1N6N2pmX3dISkw2YnFabk11Z0o1QllQZmVaNmc4SEpRenBRSU9MX1RyX08zRUVKV3ZfRVBMdVl3X204blQtejFzYzJxNG9jV2VpcUg2bXRRR1VaQUJHTlEwcjNkTDJvNkZkR2ZtMGttWlZtcjFfbzJTWVVqT3VIdEgtR1pWSVVxcDlqaUhB?oc=5
+3. 3DスキャンからCADデータへ自動変換、工場設備のレイアウト検討を効率化（ASCII.jp）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWS0RvcmhObVd4RUxKWFNZcW9WSGlHd3J0QzdfY1d0bGhfN2RrdXZ0dmgzRmVTTlRZRnFFcm5FZ21jWUZfZFk5UmhUZk5rMTFDYmpNeg?oc=5
+
+■ 日本の社会
+1. 日本の建設市場、インフラ整備や都市再開発を背景に2034年までに9413億米ドル規模へ到達する見通し（Newscast.jp）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LZWo0ZEE1S2UxWkJqYm0weF9UaVMzbThfRzN0d0VZRHRMOW14c1I2LXNsTWllYy13VkF2UlFxa3JkWllRZVVBcTV6RVI1YUk?oc=5
+2. 「日本行きは自粛を」中国呼びかけから1年 習氏が唱えた交流のいま（朝日新聞）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fd2N6THlzM2ZNbHBOSmdFU3BabkZMczU1QXVtQml5cW5ZMGxEM2RfcS1tT0dOUEdlamt4clVIWXo0TDhDbV9oN3F1UkRLQmhjNHJmUTJNYTVEOV9nRjNkUnlUZ2dqYXc?oc=5
+3. 技能実習生の逸失利益「67歳まで日本水準」判決 専門家「画期的」 [千葉県] [外国人]（朝日新聞）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13bi1RU2hnbWlyN3pBcGpnVjBiQ3RNVWJEMm1EdVlsaDRhYm13eVZZZzJwT2JoZXlMUFRXYkNWVXVQekFEYXRQSm1UY0hNOU1kR1hPSkFzOUpxRlRva01lTXFiTE5XTXM?oc=5
+
+■ 政治
+1. 松山市長選挙2026候補者｜田中エリナ 物価高対策 なぜ商品券でなく水道基本料金か（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZcHo3RjMtMTI4TWpibHBSSG0zUUMxaVZ6V09wMTFTZEx6a2VUc2lPV3YyS0lNWm9BbElfVWFyU0o2RzNSM2k4M2tLd21HSHhyVF95Y2RwSmRZWjE1dVdz?oc=5
+2. 米民主党、マスク・ミラー両氏の調査視野 中間選挙圧勝で（ロイター）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTFB6TTUxVU5rT001UFVuR1VHdlNnMjA1RG8wR1NNY1BuUVR0LS1CUGk3Z2M3Z3VUYnowelZkTkVnOUl6dmZQVWNDcXJuaW5aeTlDTjJZR0ltRkk5NlZYZnpGeldqUUtuc3pYcTRLZUtKSHZnbDB1dUNtNWl2MVZYNkE?oc=5
+3. 週明けNZドルは上昇して始まる、総選挙で与党が僅差でリード（みんかぶ FX/為替）
+   https://news.google.com/rss/articles/CBMiSEFVX3lxTE05MVRpVUNSZFJjOWJwZUI1SHJQaXE1SVlwLTM0aVJydVd2M3JwMlVWWmVJQjg1dVhjckdRV3BBZU16RXlsWjYxYQ?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-09.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-09.mp3" length="1376784" type="audio/mpeg"/><pubDate>Mon, 09 Nov 2026 07:58:13 +0900</pubDate></item></channel></rss>
