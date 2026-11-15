@@ -1,52 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 14 Nov 2026 23:13:21 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>11月2日のニュースブリーフィング</title><description>11月2日 ニュースブリーフィング
-
-■ 世界情勢
-1. スイス外相が２９日訪朝 平壌で外交拠点再開記念（山陽新聞）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BNzJBRUg0bzBnV3NjQnByWExDM0o5YVVEM3h0a0k0UF95b1F5OWVOUFNPZXdYZkR2WFlULXBPNFNEUTV5eWYtYnlOT2pSVHhrQmVhdENzd05uVUk?oc=5
-2. 習近平、トランプ、プーチンが「反・ICC」で悪魔同盟か ノーベル平和賞を逃したICCに外務省関係者は安堵…高市政権に問われる国際司法への支援（au Webポータル）
-   https://news.google.com/rss/articles/CBMibkFVX3lxTE04Wk00UkNUWmtuSkRoMGNab09Lb2hCYnJSTzY2cVNXNmpqcnhjWHVxQkRHNmdybi03Sk9MU1NyQW1VR0lFTVNlYmFrTFN5QzNaajRyc2M5WU5QV0ZSTkMzMWJWUzdaTU94cEJTWkdn?oc=5
-3. 日本のハイブリッド車も､中国EVも補助対象から除外…"自由な貿易"を掲げるEUが懲りずに続ける二枚舌外交（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE5memRQb3p1SnhlOHZZbXlIeXgtSUw0OHlYbGhlczBaVlZob29GQUsyenJaZ3RoZ0tTQWNzeGludUtNQVE0LXJPVXNTU3FoLXAyZS1tQkIxXzVyWnp5ZHZ5MElNYUZGYVZUOUJKOV9rR0QtTVZZcFFTVGNCcDBJMzg?oc=5
-
-■ 学校教育
-1. 高校生の7割超が裸眼視力1.0未満、医師が語る「子供のうちに近視の進行を抑える方法」（ｄメニューニュース）
-   https://news.google.com/rss/articles/CBMinAFBVV95cUxPYXFUSUQ4Y1BBZ3I2WXhtZ1ZPVGp2WVNHVGZ0LXg4MFZuTzlLYUdzU0Jmb0RoUnExVDBabWpwWUg0SzlScVhGZ0JYa1Fyd1puQlJGNUhlOHN1UVlGYWF1LWFUZG1GRDdEclgtR3V6c1owbGFIeTZjdWNnZWZQN0FweVpxUXpYbmpscTl1OTlZNWUtYlF0aXVTQ3JWdEPSAaIBQVVfeXFMT3FOT01Mckpaa29VUDhkNVU5b2M4WkNjNHVyUFM0cVJlUFhOaVRUaS0yVnJoUFQ0MWNpNTlWOUJINFJkdWZwRUVLU1loTlhOZFZybWpfaXlaYmItNHVlT1JDTExTZnhXT1lqbExQdnpLSjhDUkZTZGF3QUxDWUphZHRhdmRZanpQLVN6SmI1OXZpRHlqSFVYRXpKWU1CUlBHdGh3?oc=5
-2. 中学の「情報・技術」が週2コマに？総授業時数を増やさないなら、他教科の時間はどこから（ライブドアニュース）
-   https://news.google.com/rss/articles/CBMiekFVX3lxTE1vaExkVU1COG9YaVBia1p6LTc0VlNwckFDVFVRX0lxeVZ0UllHVlhMVnZYOTFPZTJKS3c3OUNzeEZsd1Zrc1BoYVoxU3h4Vl9nLVRYN0Jick9ucmU2OGdTdVRqOHJRbkZQNHR5cExtSkdlTXBhMUxabVVB?oc=5
-3. 学生が集まる福岡県は、流入超過率13.7％で4位。自県残留率でも3位（フクリパ）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VNEhRbm9DeFRuSlJjN1FGQmNWUHlqYTJXSUhZWnF5WWViWWgtVUVQcGFWd0VNUkdONmE0RklYNzFxdWw0eUpPTWVGUzlYVjZiYjMzNw?oc=5
-
-■ 倉庫・工場・物流
-1. 大和ハウス 新潟東港至近に物流施設着工、27年11月竣工へ | ロジスティクス（Daily Cargo電子版）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTFBVcy03bEhMNHlZYXF6M2FMWXJqWnhGSVNRdWNUd1ZvWHprOGRsaEkwaU05aDdiR01sdklaOFNxakZfeDB4NlJOUFB5NzdMUkJqUWJMN3dmX09fbmRpN2h0Qi1md3VTdFFmZ0E?oc=5
-2. プロロジス 岩手の物流施設にイオングローバルSCMが入居 | ロジスティクス（Daily Cargo電子版）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTE5nQzM3V1JLV0I0aW9HNk5GczgtVWI4RThhRHBDRXNxVkM1WEJEbTQ2dTluNllnaDJyTWw0MmtZOWxqNmdtdnhLWEhaTi1oUFlEemJTbURKMWllTHRhYUNUMmFiRkdzbzZRVnc?oc=5
-3. 三重運送会社の日硝ハイウエー 北九州に新物流センター | ロジスティクス（Daily Cargo電子版）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTFAzN196SzNsNDd2SlhZRl9yQll0MmVnaVJmOV9Gb1Z4c2o0ZVFRRVBWT0hsdzdKdkV4WmJDd0xtTjl2SkVkR0lXQjdaV2NfQl9iZmk4Y1haZmFtbWw5WUdtZEZwb1UxQTQwb2c?oc=5
-
-■ WMS・WES・WCS・RFID
-1. 日本のRFID市場規模と動向（pando.life）
-   https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ncE1hd0dGMlhzMW5FeG5TS191WU9LbW03VkZ0Z1dtQ2dBejJRY3l2VGplQjdjSVFpYkpIdkhUS0d0N0JBNHJqQkl3?oc=5
-2. RFIDプリンター業界の2026年から2033年にかけての年平均成長率（CAGR）14.（pando.life）
-   https://news.google.com/rss/articles/CBMiSkFVX3lxTE9EdXpma1haeEtINFFRU1ZKVlVwU1VCb2FNemMxc25wc0lIaFY0MzVFNjQ3RUFhaGZkUDJwMWRobzlPZmwxOWxRTmlR?oc=5
-
-■ 日本の社会
-1. アメリカFBI 「北朝鮮の犯行」 暗号資産“約1兆円”被害（au Webポータル）
-   https://news.google.com/rss/articles/CBMibkFVX3lxTE16ZmpZWlBqRnhaWFVVTlJvRVo1T3Y4OWJzZXk3SGZzbmZEal9zeTJ1Vjh2SGpuVTZkSjN0bk5JbURLY2Q3RlFpaTdZTW8xallSNGRRTUNweHd6akNwQ3UycmJqNmF6cW9Tb3Uzc2p3?oc=5
-2. 「京アニ事件の主治医らも感銘」平尾誠二の言葉、なぜ影響力を持つのか（現代ビジネス）
-   https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nZHp0UzZGUHhLekh1U2pZS1h2eWFSZmRqd0huNlF6ZEtrUTQzaVVENXVxLUJFckloNFEzT1lrRkdKMGYwWklOUmNyeXo4NXc?oc=5
-3. ビットコイン、バイナンス事件と米中間選挙でどこへ向かうか──反発を見極める3つの条件【エックスウィン】(NADA NEWS)（Yahoo!ファイナンス）
-   https://news.google.com/rss/articles/CBMihwFBVV95cUxOSEk0WHJRRVA5RGxOY014dGtBT1BfMjM1RVNaTlNWRVZ3eGdEVGRmVlFGOHg0OElNNTh4Q2lWVkR2Z1o5a2xIWTRpTm85TVlVcXBjM1B4SDhhLVNZTWtyVVZ6VEhjcmpoNFlmNEwwREUxOUVXczhGSEtHS0hwdnFaU09WdUdkdkk?oc=5
-
-■ 政治
-1. 開成町 文化祭（展示発表）（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jZTN5VUZDNVVzaUt2TXFRaFdEMXd4NkhIVGxJWDlZN3BfcC1GbkwtSURlLU0yR0NodTU1SmtLekpoamVOODg1MmhlOWhNeXpURFdrMm9paEZkNnVLbjU0?oc=5
-2. にとう泰明【東京都議補選（千代田区）】林則行氏が初当選、8人の確定得票（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XMWNTYlYwSEY5NFpHelMtZjJDcVdLcHlVNUswOXlVRlBLemw3S1R3VGI0Z3pkbWxzVm90RG53aHdIVEZoQnpPcVpueHpHVnRDTUdJR3Q1aGZNLThVRnZR?oc=5
-3. NYの視点：【今週の注目イベント】米中間選挙、米10月雇用統計、英中銀、豪準備銀(フィスコ)（Yahoo!ファイナンス）
-   https://news.google.com/rss/articles/CBMihwFBVV95cUxNRWFybGFvQ2F3c2hYTmdDekdUcmQ5UXNramU4RG5vM3ctUzlCT05qOF9qMjhGRWVyeEVIX1N4YWNUbnExaGw2VVNfQWR6eE5oZWtrcTg4VmpjSC1EdGhLRmtTQVRQemdGMDF0ODNkQllOOEhORElHN2d6NllCX2lILVRPVzNUeVU?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-02.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-02.mp3" length="1535616" type="audio/mpeg"/><pubDate>Mon, 02 Nov 2026 07:55:25 +0900</pubDate></item><item><title>11月3日のニュースブリーフィング</title><description>11月3日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 15 Nov 2026 23:26:33 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>11月3日のニュースブリーフィング</title><description>11月3日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 王毅主任、イラン最高安全保障委員会のバゲリ副事務局長と会談―中国（ニコニコニュース）
@@ -637,4 +590,45 @@
    https://news.google.com/rss/articles/CBMidkFVX3lxTE10NW9JYjRXSDRqNUg5Vks5cHBvanVWQ05jcFdRdWpTOXV4V3U2WFRVb3FUNzg1YW9IaU5ZemgzbFc1ZDk2M1VNVkFGTmRaWlc0c0lUZnpIUmNjNHRDV3pPS2JpZG44dW9CTVRFVHJ0UmdMYURJVFE?oc=5
 3. 共和党支援のマスク氏逆風 中間選挙で民主党勝利「巨大IT企業を標的」規制強化か（産経ニュース）
    https://news.google.com/rss/articles/CBMidkFVX3lxTE9WbjBOZjRxZTZVNzdXTi04NXgxdU1PSEhOWmQ5eTBScWswcTB1TkluOWNVb052aVM0WmdUOXlEMDJScF84WF9NdERCcUZ5WUEtcFZ2R0ZfUDc0SWphS29CcEhuWGozRnB4NWdaYjl2dGNHYjVtRWc?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-15.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-15.mp3" length="1634976" type="audio/mpeg"/><pubDate>Sun, 15 Nov 2026 08:10:33 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-15.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-15.mp3" length="1634976" type="audio/mpeg"/><pubDate>Sun, 15 Nov 2026 08:10:33 +0900</pubDate></item><item><title>11月16日のニュースブリーフィング</title><description>11月16日 ニュースブリーフィング
+
+■ 世界情勢
+1. ウィリアム皇太子夫妻、インド首相と会談へ フェイク外交のヘンリー王子に、本物の力を見せつける？（ELLE）
+   https://news.google.com/rss/articles/CBMilAFBVV95cUxNVURtVklDMFhnNGJQak9nSk4yaEhQTDV5dE51RVMxelgwYnctTkxOS3o0UGlKOEVDU29BY242T29JajVxeTJZbXNuakk1R05GUG40RFdBZVJkVTJSaF93S3BvS2JZdThYc1doRV9kUmtBQmUwWlY0dGtPS0tVNVdUNEUwOUlkQjBuVU1Oc3Vhcy1qekJ5?oc=5
+2. TSMC、現・元従業員の情報が外部公開 「4万6,000件・3BTC」での売却を主張、経済安全保障に懸念（合同会社ロケットボーイズ）
+   https://news.google.com/rss/articles/CBMioAFBVV95cUxNWUVlLWhKVDFTdTJuMm45V2pSZzRaUXlCYkdIM3ZkOTBPOEExdlpWNFJKMDd5cC01Nmw3RDZxNlNmT0tfaHdUYVgtWVB3M1FCak5PbmsydV9uOC04ZFZUVjlIOU1IZUcySjVCTmg0WldYT28xZTh5Q0FPR2Q1OEVIekYzSkhWbHdzY3o5WmRobWV3QmY2VFduZi1aY2psVVF0?oc=5
+3. 偽情報だけではない「認知戦」 人の判断を変えるナラティブの脅威 [高市政権の安保見直し][安全保障関連3文書]（朝日新聞）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOUXo2MmJuVXZjRUhpUExsaVZmamhGRW5YeU9WMUFxdWJfRDFaQ0JkdnNqN0V6YUxlVTh1YnJQQkJDVXBYWTgxYV9TcnY4NUpwbkhINThEZlpXUWdncTFkN19qSzBlTk0?oc=5
+
+■ 学校教育
+1. 鳴門教育大、次世代の教員養成を考えるシンポジウムを12/5にハイブリッド開催（教育家庭新聞社）
+   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IN256N0VSWnlZU010UnFiN2RrbWkyUjFKeWp0TjBsd3lzQ2JteXJjUHhscUVsRVpSa2Z3YWVKcnhQTzNaZmxldTZOVGRaVjBjem80?oc=5
+2. ４２大学が理工系女子枠 来春入学の国公立大入試（山陽新聞）
+   https://news.google.com/rss/articles/CBMib0FVX3lxTE5aRTRGVEYyOFh2UzE5SG1JcUUzZlZOUFY3bUR6MXFvbVZjbUFuc3hxWFhjQ0RBdHhvVHp5NXhHc0lvdVROc0VCUFdSMmNpZkhodDdKX2dscF9MaGVvdzB4S2w0NzZTZkNSOVF6d2h4VQ?oc=5
+3. 高校改革の拠点、新たに６０校 ４３道府県、計１３５校に（山陽新聞）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3MklneDM3YnBYdFBENldpSHVORVVnbHZLcjh6V21HcWNIS2N6b2Eta0x5UzZ4eWoxdmhxamtKWnhpRms2UnVYQmFkMlhCV2MzX28tTXBtNG5tTWtvaWl3?oc=5
+
+■ 倉庫・工場・物流
+1. 【EC物流最前線2026】競争力高める「中核戦略」へ 市場拡大やコスト増、法改正で構造変化（日本ネット経済新聞）
+   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fQUJxX1BwRlhOUlNjQUItUUdydG1kaDdDWk1XMjdVMDAyUGVMM1d6V0RWLU1sWnltS1FhdGxPNnRXa0lSSzVSWWxtcHAxTFlVekM5ajdn?oc=5
+2. 【独自】「業界けん引した前任の偉業を進歩につなげる」／プロロジス ダニエル・レターCEOインタビュー（LOGI-BIZ online）
+   https://news.google.com/rss/articles/CBMiS0FVX3lxTE13U2J2T1J6VFF4RXpJcjdaWF9uOWYwYWFHYW1KbWhJd1RuZ1RCRERKOXFadUJicEMxZzRDazRfRWNnT2xzbTc0VklaQQ?oc=5
+3. オムロンとNTTドコモビジネスがセキュリティで協業 「止まらない工場」を目指す：産業制御システムのセキュリティ（1/2 ページ）（MONOist）
+   https://news.google.com/rss/articles/CBMib0FVX3lxTE5rOGtKSXlLN2UxRWFhYU43V1NEZWVlVFhLano0MGUzc21mb3lJc2VkZGluY3oyOUFad1ZvMEpNYU90SlhzY05iUlA1cW8zM1VDV1JoaXA1aktYV0pmRklWYzkxRFYyNl9leVdjN1ZCMA?oc=5
+
+■ 日本の社会
+1. 外国人労働者を増やす前に、日本の人手不足を疑え（アゴラ 言論プラットフォーム）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LQmM0ZnlrNkZnQXFWYUpVNE1KeUdETEtwX1VaQWpSbklCRjkwanFUdldDX0U0ZmRQRTc5WURRdGFFTzZBUVNad1d5S2FfUzZaTW5sdF9SQVpSeTQ?oc=5
+2. 「大谷よ、大人になれ」水原一平事件で米紙記者が放った容赦ない苦言…日本メディアが作り上げた“大谷翔平の聖人像”への疑問と、背景にある日本人のコンプレックス（ｄメニューニュース）
+   https://news.google.com/rss/articles/CBMihAFBVV95cUxNZVROdEFSWlpMUkZtLU15XzJPZHRORmVtcXgwSTg1RXlJUjhXS3BKa1hOVXJWOVZTc3N6Wmt0MXc5U0hhNDl3c21qenh6QUh4cDFvT3hGa3ZmcmZvRUhiTzR4X0tJZktNTnFTeEswTko3OTJmdzF4bmlXUjF6QUZzeUh3WGTSAYABQVVfeXFMT19ROHZneWVEcWQwbFhkNGprN0ROM0VlSkxVQW1MVC1jQUJ2RnBtbzZ3MG1VaVE0Z2doakxOVFBocjFKdXljeG1MUXA3RjdEZmI1el8zMDY0SXVIYUFiVFczWHhCcU5kTUtKbGdfLVVpeFlDbmtWR2NPVHVwT3VmVy0?oc=5
+3. NNNドキュメント｜日本テレビ（日本テレビ）
+   https://news.google.com/rss/articles/CBMiRkFVX3lxTE1hMjRGYXFadmxVNDlwSVc1RXU0Q1gwZEhCS2FCd3VNQ2dIUnRITW9hdWd5bmpvUDdFX3hRYkdHUkEwSFFPWlE?oc=5
+
+■ 政治
+1. 福岡市長選は再選挙、過去7例で首位6勝 唯一の逆転は3位から…わずか6票差での決着も（産経ニュース）
+   https://news.google.com/rss/articles/CBMijAFBVV95cUxPUkU5bnNOMTQ5dUIxWDNWODZQWGxPd1hOVXdrcGlqYUlLVnN6Y3YzN3hURWRVQjB5cWEzVThIaVU0MHJtV3JBNVNDUDBqWDUwX1RHUUR1TUt2ZUQzeWR2NlN4bEZXQW0xa2x1MXhHdlY5V2UzdDU1QzN6WllOcUt5QTRLWUNKZjJxSnlfaA?oc=5
+2. 15日投開票の主な地方選の結果 福岡市長選は再選挙が確実に（朝日新聞）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5NVhqR0lqZko4d1RQLXpHTkdFVWlCVjd2OW5WYmtHRW9idjJqMXBVUlNxWGlNS0pGS2FieXRuNFY4N200RnpWWHd4RjRNT2NCaTVKbTd0U3pteFV0YXhJYnNUWm4wbkk?oc=5
+3. 再選挙の福岡市長選、各候補者どうする？「挑む」「まだ決められず」 [福岡県]（朝日新聞）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUY0YycFRVR0h2YjZfZy16UXNyRFVKemhmbUNDU2JfNjBBeE94VnQyTzVvOUxSODk0UGZsMkNxb19iYUhfcldhaEhZQ2pLZU1RWlI1eTZlel9KdXJQUHFqU0txV3V4dm8?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-16.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-16.mp3" length="1354896" type="audio/mpeg"/><pubDate>Mon, 16 Nov 2026 08:25:33 +0900</pubDate></item></channel></rss>
