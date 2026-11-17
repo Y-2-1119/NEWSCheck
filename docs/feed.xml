@@ -1,46 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 15 Nov 2026 23:26:33 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>11月3日のニュースブリーフィング</title><description>11月3日 ニュースブリーフィング
-
-■ 世界情勢
-1. 王毅主任、イラン最高安全保障委員会のバゲリ副事務局長と会談―中国（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMidkFVX3lxTE5RQUd6NFFwN2FKdndFZFg0SFA4Vko4Nmg5aERIR3g1aF9Ra0FBTl9hek9MVHc4RFh2ZllkSzctQzlhdTFzcER0c1gxWnJJWWE3VkNZQUtxZzBzY0pISW9vSkgwMEQzekVkeG9SeXJDd1lsMnp3a2c?oc=5
-2. 中国･ロシアが日本人を拘束しても抗議するだけ…世界ではありえない日本の"弱腰外交"の根本原因（プレジデントオンライン）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE50bEdCWERwc3otWVpHTTNLbENxbHFnZy01NjRPVXVVVldlSVJsUjFpNUNaem9mWWl0b2FLWEw1M3U5UktINm9UZF9nbENHYld2MHZ4d054RnpBa1Q0akFsMm5Ud1V4SUFjNXhQU2dWb2VROFhOR2E3MmNtWnZMUjg?oc=5
-3. 中国･ロシアが日本人を拘束しても抗議するだけ…世界ではありえない日本の"弱腰外交"の根本原因（PRESIDENT Online（プレジデントオンライン））
-   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iZFRNS0Y3c3VMT3FZbkZzbWxTV0RESGRCSEJxRVVZM0F6VWVkV0UxcUowaXgtdUxhdFlXblpjNm93QTJpMkthNnc4T0VKS3c?oc=5
-
-■ 学校教育
-1. 【コラム】機能不全の米高等教育、改革は学生ローンから－正しいリスク評価が進学判断変える（Bloomberg.com）
-   https://news.google.com/rss/articles/CBMijgFBVV95cUxNcHgyUUNfd1FSU0lTM1gtMDdUYjFZbm9YWDdFbkc3b2Nxek1GVjNGR0FjQ2ZJTnM4TE9hRE14MDhVVlJoTWI3TTJiUWR0SGRNU1JaYnRrVG11QjR1blJ5N043TlBOMk5BT3VmSTVEcjVtaF9lTHgtRE1zUmNsNmNDaXpFS0E3VXZIYjBObklR?oc=5
-2. デジタル教科書、動画上限90分 文科省検定対象、量抑え質確保へ（北海道新聞デジタル）
-   https://news.google.com/rss/articles/CBMiiAFBVV95cUxPakgxZjIyQVFJckpObXQ0SzdZNFF4dXotXzdNbzV6YUZEMFNHSEZVM0l3SU53V19yenl5dGdFTVBUbHhRNXJ3bFFmQ3ZnUFhYWF90S05vZGdnRFpFOE53dEIyTHBLZXI4MVNZRmM2MDZNQnpJNmtsMnFJQ2RZM0lJaWZXeHRRaVAx?oc=5
-3. 子どものSNS利用時間はどのくらい? 本「全く読まない」は44.2%も 福井県内の小6と中3対象に調査（福井新聞社）
-   https://news.google.com/rss/articles/CBMibEFVX3lxTE5XUV9WbU9CNmh6QnR4eU13TmJiRE5BQkZQekx4NndVQkxEMk1lRHQ5cUVhY1BKMi04NDZWLUFGS2ppZm83elR1eTJvM081dUZva1IwcVdRM3lHYWp4c0g1MGVMcHJIT2R1V2t4Nw?oc=5
-
-■ 倉庫・工場・物流
-1. 中国：建機の三一集団、インドネシアでダンプトラック工場着工（亜州ビジネス中国）
-   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOektKRFozMUtCc1JKekp4M1pyUmFDdTlqTEZpSF81UjNReW5DcGcxd1QxU2d4SXU4aGVqdE4xX00zblJZMEVCc0FtUHdWdUlzd2pNM3ZZYTlfSjJEM1BZN0VqenVnLTVj?oc=5
-2. 徳島刑務所で受刑者46人が食中毒 下痢などの症状を訴えるも全員快方へ 受刑者が交代で調理を担当する炊事工場を11日間営業停止に（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE9mZVlIRDVJTHBfd2VMRGJ5clE3N0hFQjExTEFXUG9TWEpxX2hvRlN6dXd3OWtUNGRUMFBPQW4wdWdxQVVrYUtXaHhuOEg1d1llVzJyUHlzWnVrUTBuOHJTM0hHaU1kcnhuM1pKVmFCdW9lNm5VQ1p0NWQxbVE2cmM?oc=5
-3. 里山も工場も、アートになる。房総半島を丸ごと旅する国際芸術祭が始動（finders.me）
-   https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YNjhQaUg2RDhESFNlNkxsNDFjUE1wY3N1T0lvWUJCMHdwbm9hWVlBLVhKeUxSd21ZWDNxUzNybk9manlTYi1oS0JxWWZjUQ?oc=5
-
-■ 日本の社会
-1. 北朝鮮「荒唐無稽」と米を非難 暗号資産のハッキングへの関与を否定（朝日新聞）
-   https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1BRUVVidUh6aXQxLWs3cVRZZlBVa3pzMnBCVTRZNml6OFZzcl9GRzdUSjhDSkY0S2xTSjlGX3pNWFJtd2hScExsem5SQVotWjZKNll5Tk40N0FsZ1hoUXR5VlBZSmoza0o5NmdXN2JsemFEbENxSWhlOXZ3eGxoLUFsNEE3UldGN1JsNDJB?oc=5
-2. 米軍の「反省期間」に違反者複数 米兵強殺疑い事件から1カ月 日米協議も抜本的解決見通せず（沖縄タイムス社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGOW9ZYUZYSl9yOHN4Vlp4UTNicWtrYWJMNHdQOGdfNnVRSU9xOTRvaGR4Y1dtTVJZYXNHRUVhNFFtS0x3ZjYzQTZEaTR5U1J1dEVZQTFuTXNyU0tmbXc?oc=5
-3. 労働生産性の国際比較を読み解く｜日本の順位と、数字を読むときの3つの前提 – SDGs特化メディア-持続可能な未来のために（mirasus.jp）
-   https://news.google.com/rss/articles/CBMiR0FVX3lxTE5nNHBwb0hOREtuVmZUOVRkbGo3dFlEaDRYV0tOYU5jS2dvckhKVm9VOFVKTnliTHA5eWZNSTdKbU1zZDNFYkJV?oc=5
-
-■ 政治
-1. 市議会議員選挙で得票数が並びくじ引きで落選、無効票を再点検したら有効投票あった…当選者の当選無効確定（読売新聞）
-   https://news.google.com/rss/articles/CBMickFVX3lxTE1SMmxNVnVRalhjTjFvYUdqU3ZIb0xjRFBzZjhfNm01TVZucTN3NVlVLXhKdzJqT2p6WldTWHpGdGd3RVZKLTcwN3htTUU5NlJoVzVtVFd3dUlZMUdkUFFiSl9YMzMzTmxKVFVvLTVrM2tFZw?oc=5
-2. 米首都の反射池改修をアピール 中間選挙投票日前日のトランプ氏（AP通信）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE5uWUoxVk9wZVRESS1jVHhQTUptN1pyb0FUTXIzU0lWaVBwLXdNRUdEbU1MRk5VUWRibk5SQllwdnlDSTBEMl85eW9LSUtCbTF1cHdkc2FLaVZQSlpUM0xVSE04NmhLUkhrZnhibnJlUGlnWFZ1S05NS3JuWUR3ejA?oc=5
-3. 青森市議会議員選挙3日目。（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jOXV0eHhzYkgyZGZuLU10bHFIRUZjZzFaSzdjVXhXSmptT1I4SzVwbU1HNUxmQlRMXzJyLXcwUTR1anJNYmxoM3JKSkJwcUpibXZSeEY5WHA0aE9SLU1V?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-03.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-03.mp3" length="1435104" type="audio/mpeg"/><pubDate>Tue, 03 Nov 2026 10:40:50 +0900</pubDate></item><item><title>11月4日のニュースブリーフィング</title><description>11月4日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 17 Nov 2026 02:32:46 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>11月4日のニュースブリーフィング</title><description>11月4日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 高市首相とトランプ氏の「世界で最も良好な関係」は日本外交最大の資産…森聡・慶大教授インタビュー（au Webポータル）
@@ -631,4 +590,29 @@
    https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5NVhqR0lqZko4d1RQLXpHTkdFVWlCVjd2OW5WYmtHRW9idjJqMXBVUlNxWGlNS0pGS2FieXRuNFY4N200RnpWWHd4RjRNT2NCaTVKbTd0U3pteFV0YXhJYnNUWm4wbkk?oc=5
 3. 再選挙の福岡市長選、各候補者どうする？「挑む」「まだ決められず」 [福岡県]（朝日新聞）
    https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUY0YycFRVR0h2YjZfZy16UXNyRFVKemhmbUNDU2JfNjBBeE94VnQyTzVvOUxSODk0UGZsMkNxb19iYUhfcldhaEhZQ2pLZU1RWlI1eTZlel9KdXJQUHFqU0txV3V4dm8?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-16.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-16.mp3" length="1354896" type="audio/mpeg"/><pubDate>Mon, 16 Nov 2026 08:25:33 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-16.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-16.mp3" length="1354896" type="audio/mpeg"/><pubDate>Mon, 16 Nov 2026 08:25:33 +0900</pubDate></item><item><title>11月17日のニュースブリーフィング</title><description>11月17日 ニュースブリーフィング
+
+■ 学校教育
+1. Helical Fusion、高温超伝導技術で文部科学省SBIRフェーズ３事業（核融合分野）のステージゲート審査を通過（PR TIMES）
+   https://news.google.com/rss/articles/CBMiakFVX3lxTE1fSTVyNXJmTnJSTE1SNG14V2FWQzRYVTFFU3dEdURVSWdvTmQ5bWVQcFBWSTF6Q3dPTmRsT1JLdTNkQkFKRXQ1bFNsRmZXcndoLVZZdGdwa0ZRUTh2OWZaN3JWdV9LUDYxeEE?oc=5
+2. ６割超、授業でAI活用 大学、指針策定も７割近く（日本教育新聞電子版 NIKKYOWEB）
+   https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDWm0xY0EyS3ZmaW80VjRacWlRNC1pQk9SNzBQTHVrVmhXRW04Tks1QkhrWV9KcnJ6OEpQejNyYXJwMFlMTW9GX3dVX1p2UGZ2TVY4?oc=5
+3. 高専、農業分野に拡大へ 公私立の新設を促進 文科省が機能強化策（山陰中央新報デジタル）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JTmRscGpMY0xwZkI5Ulltd20zdDVNdUtpQzRXMkctN2RicmZJT1NRTzVpenJPSm1Xa1dtMklXUlljd2tUamNXUVloOTYyQ3dMWjdsdlNKVjQ1RXc?oc=5
+
+■ 倉庫・工場・物流
+1. 1本36万円！ 高級ゴルフクラブの秘密に迫る 清須の金型製造工場で見学会：ニュース（中日BIZナビ）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBeXBueWNCeFhLRHJ6ZllDaV9WRGJ3aEFNRVlFUU5telZKVzJFOHNxaFY0NmIySG1yNjk1R0dXbjdKNHcyaldVamdWXy13VE5YWFFQWWZQTko5NWNsZW93?oc=5
+2. 自動運転トラック・ロボタクシーに自動充電を 物流拠点とデポで始めるワイヤレス給電実証（MRI 三菱総合研究所）
+   https://news.google.com/rss/articles/CBMibEFVX3lxTE9lSGE0YzhLSWZIQ21fbGJaTkdfVFpyT0UtckxLZVRiWEtOZ080RlJUNHFReGM4bTZyY1ZIbU4xQl90M0gxM0J4d0dVOWpKOHhlMms3bkl1Mk1ydURIaEdEZVdMQV9uNHE2Q2FBcg?oc=5
+3. 海から宇宙へ、日本郵船Gが物流力訴求（LOGISTICS TODAY）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vdW1xYUhSV19kek0wRUJ3VVZINTBSSHZNWWRkME1tRnJtQ1FKdndRd1RDRmh4cFZTa24yM2VuVW5LSUg0TWlYQXF3?oc=5
+
+■ 日本の社会
+1. 「日本にも警察の協力者」 ルフィ事件幹部が語る“組織” レンタカーでの職質回避か（ABEMA）
+   https://news.google.com/rss/articles/CBMitAFBVV95cUxNZEpjdzFiRDgwT1VkQUxrTjRPZ3lZa1FjeUgtUWg0NWQ0SW5ZN2U3YUJKQWNwSVJnTzQ1UThjYUdFM1BQcGFZN05wM1prbU9VQlpRME9DenhpR0FOSzZwcms0ZlZQYXFZbXBqaWtUVVV1a2NYRUR0NWNRcF9MUDZMS2xpbFlPS0oyNnpGSFBQV3lNc25BTGlNMy1LVFY3TUlzcGhsYU55RXphNnI4OGhLVkQtNUE?oc=5
+2. 労働者の安全、安心があってこその運輸産業ースペインCC.OO.鉄道部門から連帯メッセージ（全国労働組合総連合（全労連））
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QV0RHS1RoQUJKTEx6ZUVVUFZISmhvV2hUSklEeHBkYmhYc1EzSHhVUThQQ2F3Q1FkVFUxZVBXeWRVYXV0XzVuX2ZRMl95V0xPZE9tZ1FaVQ?oc=5
+3. 「闇バイトに応募し仙台から来た」中学生ら5人“トクリュウ”関与か 高齢女性「肺に穴」……愛知・強殺未遂事件（日テレNEWS NNN）
+   https://news.google.com/rss/articles/CBMifEFVX3lxTE5LOWowQjRnY1EzeVhZT0VhN0VOR2lwQVFCX0kxUy14bUFpNVE5QmxhMEhnR1ByTjNNUGZ6ZHlldkJwSWlGMER3M0txM202QnFvZlVEb3k5WHJ3VjFqYllEOC03X3NTWVpjLVpGRXdTNGp2QlQyUkxyTW5BMzE?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-17.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-17.mp3" length="877104" type="audio/mpeg"/><pubDate>Tue, 17 Nov 2026 11:31:19 +0900</pubDate></item></channel></rss>
