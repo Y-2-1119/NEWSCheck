@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 19 Nov 2026 01:20:10 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>11月6日のニュースブリーフィング</title><description>11月6日 ニュースブリーフィング
-
-■ 世界情勢
-1. 外交部「大統領専用機の搭乗者情報、外部流出の可能性を調査」（동아일보）
-   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiR0M4aVlqaVI2anlHOGdZbk1uLVQtRk1DVVBYYXVSUGhGeWNMT29rbE1rdUJOUFBkV2pSTFlFamhfWDFQTS1rMG9BLWFzYnJ2Qmd4SDhPVDlBVzlZZnZfMGh4MzBIQQ?oc=5
-2. ウクライナ軍が活用のスターシールド、利用契約が来年満了＝外交官（Reuters）
-   https://news.google.com/rss/articles/CBMihgFBVV95cUxQTlRxSGEzTUZTeThSNjVlUFpsejdlaUFueEU1VmpMckdBU2xocEpaWjFMWFhEUVBtM0llUGlpNDVlellvODVlcFJsYXpZdW9RRkYwUHN3N3VCczhwdktlVURkMWxnMVNSSmt3NHFjNnZZSTlFaklKLTVxY3BEOHpud3BXcnc2dw?oc=5
-3. ロシアのプーチン大統領（左）と会談するイラン最高安全保障委員会のレザイ事務局長（左から2人目）＝5日、モスクワ（ロイター＝共同） - イラン、ロシア大統領に書簡 指導者、対米支援要請か（西日本新聞me）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LZ3RVaUdZcUxuNlVhNXV5ajYyaG9jUEFxbGJsZXZ5SlFTWXZBY3JlQWNCTzlZMFVTM08wVGZYT2dsQm9lRlVrSTBsQ2lxckRkZGxDSEphSQ?oc=5
-
-■ 学校教育
-1. コメ関税 英語で議論 坂井・高校生大会 藤島チーム優勝 | 学校・教育（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5laHJPbWducHVsVVp5bmFJVXQyOUphWUszNXlmWTljSTZZcGM2V3JoSWI0OE9BMXotUG1yRVVxS1RtRS1JZk1ac1JxRDhTVTBGNjAyTHBJOUNDWUVrUlE?oc=5
-2. 文部科学省「フュージョンエネルギー技術開発戦略検討タスクフォース」の委員にHelical Fusion 副CTO 後藤が就任（Excite エキサイト）
-   https://news.google.com/rss/articles/CBMic0FVX3lxTE5KeW9TNlB3SjRJNnJOZlFOU0t4VVAzZDN6MXNZTnBKNUhQWWRWeVJ3eXhCdHVBWnFYN1lRRXZKdm5RWlNhOFNxa2dpRXV2NUJSYjJCS3ZGRG9TQkdYOUFOVWl5TklVSTR3akI4V1Ric3M5T28?oc=5
-3. 「いじめ後遺症」授業で指導を 被害当事者ら、文科省に署名提出（ｄメニューニュース）
-   https://news.google.com/rss/articles/CBMikwFBVV95cUxNdnJxdmkyaFRpRlcza0QwN2d1RmdKMzJwOGZUNUFCUF9PNjd1aGJTMk85YTVlSUlXMF9ueW9QaHJueVpMaTBvN0lpWFU2SkdxTl84ZWVyeUpaNk1LUzZXX1hQOEVJdUxHYVpaY05OWXlhb0VyQ21EOXZsakttbzBIMTdVMEFHangyNklaZ1V2UXFTN1HSAZgBQVVfeXFMT0RhQkdyU3RzTXpCbVNmaUFqRjhUeEFfcFJMT3ZnWUVkcjA4R0tlRzBCV0ltVDN2LUJPZkpXNnpBVGNETXFrYWFRVkxPRURDWFdmX1pzNldUUksyYzZzZXUyVktYUzloMkplVlY4WUdyNEFYbUdCM2ZTNlBLV1lNQVN0R1FCQTczT0lzUHdJaHZ2N0NpajBHbjU?oc=5
-
-■ 倉庫・工場・物流
-1. 荷主ごとに異なる倉庫作業の請求の料金計算をどう効率化する？ コマースロボティクス、物流・倉庫会社向け「見積・請求業務改善ガイド」を無料公開（PR TIMES）
-   https://news.google.com/rss/articles/CBMiakFVX3lxTE9PNGdxOEpDN0I4b2Y3YWw1alpsaXJjcU5IZ25XdzJCMHZzTFNiUFhKQW9tYUtiZ3RXQVdPRzhET21DdktFcXdSZ1FwbWV2S2ZHTDBkSU9rTmpBQ0N6cFktMmV4Sjl3Q0kyaGc?oc=5
-2. 京都・八幡市に16万㎡の物流施設、大林JVで着工（建設通信新聞Digital）
-   https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tTmdFVGhDQlZVbkNpaU9BV0pHUHBFMmJtc1JQRHNEU3FmUlpLb2lsZmRSNG9QcUdDdmtGZnBwdi1TZlBHajNyX2JDaWlKdkF5bldndlFB?oc=5
-3. 日本製紙釧路工場跡にデータセンター進出 コンテナ型、150㍋㍗目指す 土地と電力インフラ活用 北海道釧路市（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTFBYbWJMTWkzdlkzenBGaXZEalVKQmhsUE10aDZKSnNhd1k5UlNFbHNOQWlpM3JzZFdPQ3NsZU5kck8wNkdUQXA0Wi04MHQzal9mYnVWTkdFWVc4WVBQZWd4OW9pcEtXOFJMSEFUeUlJbWxFWlFlWTZwdkVUNnNoR2c?oc=5
-
-■ WMS・WES・WCS・RFID
-1. JDSC、物流最適化ソリューション「Logi-one Engine」提供開始（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMie0FVX3lxTE9pc3MxdE54dXVqbkhxMy1OdzJNMlBMZHFHS1BYdzVNNVFYUXVQd2NnTkZyWHRlMzVpS2JhaElmQkxnU1pFdG8zYVhDZS1EVnowaEVjRGUtNFlXYnU2VFRYcHlwUHAzX0F3bnV5QUotNGV4MjZNMm00NXJROA?oc=5
-2. イオンとMujin、AIロボットやWESなどでフィジカルAIを構築し仕分けから混載積み付けまでを自動化（IoTNEWS AI+）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzMkdidmwyUFVCQURmcDZFYmJXZTlJZ0JGY0M0X29RMWk4X21zN0pyNG16a2t0VmpsVmV3bVVIdHp5MXBIbklPRXlyQlh6cy1Sb2hUZtIBWkFVX3lxTE5kSFhaTGhZN2NZNlhGamhTa0dCd0VFeklKNzBmekozSURJamJvaXg5QTM2alB5ZWRjc1p5c09PWGEyaVBINFdndjdoRDJFZF9SN0wxWnJnc2xEQQ?oc=5
-3. ロジザード、OBC主催『業務プロセス変革フェア 2026』に出展・セミナー登壇のお知らせ（イザ！）
-   https://news.google.com/rss/articles/CBMiekFVX3lxTE03QnZLSkMtVzVkWkJTWGM2UVFaSW9Sd1A3YUxtUkNtZGNMRVN3ZHlxUnlTcUV0T2VPcWpXOWs5aGxHbGxGYmI1YTNEWFo4U2kweVRJeWxfSDQ0Y0xWVy1BR1g3bGtLQkR6N3N3bHhDSnVmZEVNLXNtYlBn?oc=5
-
-■ 日本の社会
-1. 午後のサスペンス 西村京太郎スペシャル 亀井刑事・十津川警部トラベルサスペンス（TVO テレビ大阪）
-   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QQXQydktyMGxMVEJ2ZHZiSkdaYVN4SEphSFY1REhBWGd5M1d4OFpwVG9UaGNSNFVBSFl1ajdMQ2wwTjk3RVpMTVNhenJTdUEwclNNa3VNVnJDVVo5OW9CcGt0VQ?oc=5
-2. 愛知・東海市の立てこもり事件 容疑者は当日に違法薬物を使用していたか（TBS NEWS DIG）
-   https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tN2J6RENGa0drMl9qSmo0TFpkVWFJYmdQS2czdkg2eXVrVUxrNFNHV29Nal9jLWRyelZpczZEZUdKVXRUeFRXZk1Hb3BPRFVXeGhaNzJFTHZmdw?oc=5
-3. 【まもなく】米・7－9月期非農業部門労働生産性速報の発表です（日本時間22：30）｜FX・為替ニュース（ザイFX！）
-   https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wRDdBN1dTLThZaHN5Mk5Ebzd4bUxwa1NBVzBPSXhmcHd0N3NFMWZuT0dBcTc4cEloeEFKZERwN21vRF9EQ3NzazZZLVNwNGhvLWc?oc=5
-
-■ 政治
-1. ブルー・アウル、AI融資の収益拡大見込む－米中間選挙の影響も警戒（Bloomberg.com）
-   https://news.google.com/rss/articles/CBMijgFBVV95cUxOZTBSd1JGeWhDTFduQWpTWTJmRHRmSUhRa2pBLXd2N0xEdUFSNm5Gc012ODJSa2lTVGN6ek1GOWdjTFVOT1JqZHJPY0hmM05CRFIxNk9CaWhFOWZOSDZwS21qZExMYm5ucW4zb3BVNHlPVjZVcEJBTEdqSXkyUEg1N1dhUFlxZ0s5c2p1ZDFR?oc=5
-2. ルビオ国務長官が辞任検討か 中間選挙での共和党大敗受け ブルームバーグ通信報道（TBS NEWS DIG Powered by JNN）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE9HWkJ3RFpFbjlialVWYnBiZkM4bkNpdmNKN1pmczViQmVQMkg0ejdfcWFDczNvaHRfVnh6eXAta1dDLXZqMi1KTkVHNVg3TkRfeDJHektSX0JJX3l5ZV9DajlGRHhUZGdnUEZVd2gzMEliRTlpakFTREx0R2drTzg?oc=5
-3. 最新情報：[総合政策学部] 久保教授とゼミ生が小学生プログラミング大会の運営を支援（千葉商科大学）
-   https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2a0pFT0lzLVJnYTBIeXF2eHViUEdwV1RYSURBRjNrcG1QaEpTVmZqMWU3UFMyQ01ZNkRyQVdvTktFQTJfSmpZSlNRYXBnTnpXaHVoYVlab3hKbE1xZzNJMWZ1Yw?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-06.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-06.mp3" length="1725696" type="audio/mpeg"/><pubDate>Fri, 06 Nov 2026 09:26:22 +0900</pubDate></item><item><title>11月7日のニュースブリーフィング</title><description>11月7日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 20 Nov 2026 01:23:06 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>11月7日のニュースブリーフィング</title><description>11月7日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 「頼りになる兄貴」はもういない…アメリカに依存し続ける日本が直視すべき外交の現実（ダイヤモンド・オンライン）
@@ -623,4 +574,53 @@
    https://news.google.com/rss/articles/CBMibEFVX3lxTE5Sei1UNS1vOEtGc3Q2cng2d2VPeER2QUZSNlFxaWVHVUMwWTMtMGVGRDcwRGV6QlRqT0VfQ3RpWWFWbC1WMGtrMWFCUXdpcWlDQWZENklvbzZPYlpVQ0JqUjVTUERKUUtmNkVhNA?oc=5
 3. アメリカ下院に初の黒人議長誕生へ 中間選挙で勝利した民主党下院トップ ハキーム・ジェフリーズ院内総務を議長候補に選出 大統領権限の継承順位2位（TBS NEWS DIG）
    https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RSWFjNHlBZXFHMEVUVWh6aG5FZFpIX3FMbnNnTmNUY0Nyb3VVRFQ2YjJDQTUwQnhwUkMtSjEyb1FjT3NhSWU1MTlKR0ExMjhQN2pUR0ZHdw?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-19.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-19.mp3" length="1785600" type="audio/mpeg"/><pubDate>Thu, 19 Nov 2026 10:17:55 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-19.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-19.mp3" length="1785600" type="audio/mpeg"/><pubDate>Thu, 19 Nov 2026 10:17:55 +0900</pubDate></item><item><title>11月20日のニュースブリーフィング</title><description>11月20日 ニュースブリーフィング
+
+■ 世界情勢
+1. 外交・安全保障 第31回：防衛施設が地域経済に与える効果 防衛大学校の予算に基づく分析（MRI 三菱総合研究所）
+   https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCYTJCdFNEckhyeHV3M1FoRW53TnU3TU5vaWpOT3JjNXVON1Ayd3Y1YW94bmtzUkdNclNySHBmNnk3d0VxZi1jRzlybVgzaml6Ykd3N2Q5ZXJJNVNYNHpoV1lB?oc=5
+2. 重要鉱物資源の再創出 ―経済安全保障を支える資源循環システムの俯瞰―｜報告書等｜研究開発戦略センター（CRDS）（科学技術振興機構（JST））
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Vlp6N3E4RGkyenF1NF91NEhSaUJ0cFZfSWxjQjFpbkc0b2NSMU0ycE91VHotQkxSc1FURUUxWnlSbzgzSXJEdThpb3JBUE5wc1BiTXJnV2w0aFFUTVlESF85VUtFSG8?oc=5
+3. 米国家サイバー長官が退任へ、相次ぐシステム障害の中（Reuters）
+   https://news.google.com/rss/articles/CBMihwFBVV95cUxPeXJud2F0M3J4RllaaW5aUjhxd2RzbTRMOXBXOGxtN1U3bTl6UHBEelNlNFZDYzdQc3pPVXVOakdtS3k5REFVR2pWWjBJa3k2aHZxeEpjS252RjFxb0ZUNWxwT2Y0RWQxczdnWUJkM2ttci1KSlZDYTh3VW5rZkdTbUxKVldBeFk?oc=5
+
+■ 学校教育
+1. プレスリリース：［岡山大学］文部科学省・JST「先端研究基盤刷新事業（EPOCH）」のJASISコラボレーションセミナー及びキックオフ会議で本学の取り組みを紹介（PR TIMES）（毎日新聞）
+   https://news.google.com/rss/articles/CBMiaEFVX3lxTE90dXZFcXMzcjBMR1p1OWFkOTFrM2xUeFFSbmJfMER5QmM0Z2dydkEzaXlWekNwS1dQQ2R4MVBldjdMZ0YtTnhtQU94U2M4b20tSFNFZ1BWSmtFcGNsMi1wZ1haTm9jak94?oc=5
+2. 文部科学省、小中高生の「情報活用能力調査」の結果を公表 文字入力数は全校種で増加（こどもとIT）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE1KUFRuVDlNejFSRDB2eFZVVjVYNlNrQ1RmblJUaC1QQ05sV3k1a2FVcWQwU1pMejJoT1NFU3NMZzhaX2ZVcUhIQ2xadklfbmVEeVl1d2hPd2g2WGthLThfSGVfMGRHV3R0VG9ET2o2LUlueEdGV2tEcTNXenVWWEU?oc=5
+3. 文部科学省、小中高生の「情報活用能力調査」の結果を公表 文字入力数は全校種で増加（千葉テレビ放送株式会社）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVZ3U0MmJ2T3I0bDM0OXpvTDdaaEZGQUxfamszNTkxdmw1RGJoamlfVHNjSkY5ZUVJWkFhSTNkZnhrMEY0SzNkVnVZTlpCMzdMcTNUU2xFNUUyNnZaR2lB?oc=5
+
+■ 倉庫・工場・物流
+1. ケアリーバーに食料支援 鈴鹿のＮＰＯ法人、フードバンク倉庫開設 三重（伊勢新聞）
+   https://news.google.com/rss/articles/CBMi3gJBVV95cUxQNkhRbXlpWGcyV19RR2l2bi1adTBhTXlBSFNvNVVZWE53N0hNY2owUk9qdVBuREFhN2dGVzZvaUZZNGhLaEVEWFItQUNaM2lZODNoam1scy1kZjJobXlkTzhGQk5mRUtaeDFTUHhONjZtVTdoZDd1WjdKbmtnM3dGVUpxRVl5T3BhLUNZU3F4ZHZBS2N4ZTV6QnljdlVhUXBoN1k2X04wRy1PLUloeHFvNzkyT0o1MGZ5YzJIX095QmxlR29xd0l4dER2dVpuQlBteG1XQnRBYmJZT21JcXFMZjE2X2NoV2VuTVdHdTVLN2RGS1puS004Z0N6eC1HbUhfSFlob3pEN3lJYnpPZWpUeXAySjhCVlFzNEQtVWtBUktxcXJUS1JCWHRkekVDNTZ6Y19aMy1tQkZib1pwY1hRM2k4TVJIQ2VhbTRmUnlCSGVFT2F1cXhYY1VWQzdjZw?oc=5
+2. セメント工場内道路で大型車が側壁に接触 運転手死亡 病気発症か＜新潟・糸魚川市＞（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTFBFX25zaGdTYUlGcC1oZ2pFYnNQX3FKRXZ5MHNhTTVKRi1uYldlY1pzcWFEWlNRZm1rd3YyZ0ZPZ2hxN2U4ZTNhR1pVRU1vaVFIN2tmMTYwN1BvcTB3aWpsZFFGYlRJZFAtWTZwZHI1Tk02T09oWHVqejRRT1NpVjQ?oc=5
+3. 朝日ラバー[5162]：中国子会社（東莞朝日）の新工場賃貸借契約を締結 2026年11月20日(適時開示) ：日経会社情報DIGITAL（日本経済新聞）
+   https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFU3eEFZNVhEbW1EOFNlV01NZmVVZWtlRDRaQVFKNHFCU0VjRHpUaVBhZmlseTdFM25yUGhOQW5jWFlTSUF0SzRqQmZHczZyU0FSZWRlOENNeEdNd3ByYXBfZUpBZFVuVEhlQnh4d2dodDlwSFFWcWNZUUhxc19DemxtTUt0Q2xuZ0tteUIzRXFWbjZQd3hldW81dldJXzlGOU1DR0F4WUgyLXgyanVwdVhVV2pJTFNWaGRIOXdtZVZaQzZCZjFkVmJwbmw?oc=5
+
+■ WMS・WES・WCS・RFID
+1. RFID電子ラベル市場規模分析レポート：2026年は5262百万米ドルに到達予測（アットプレス）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Db3ZqZFI0cFlGRzdnOUFicmw5SzNQaDlsZUhRZlFrcFFBTjY2U2ZZWjMteG5jbXRGX3MwRklwRFlCbi1ONGQzWkk4MWxNTnM?oc=5
+2. 埋め込まれたRFIDリーダー市場の上位10社と動向（pando.life）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UMFQ0ajFYRzBxbXlvOXlwSzVTMkc0cVBpSWZxUTNwaTlMaS1UOUtMVmcwR3FRenl2akRJekVmN3NDR2lQRTJqdklR?oc=5
+3. 『ロジザード25周年 特別編集「ロジザードZERO」活用事例特集』資料を無料公開（Excite エキサイト）
+   https://news.google.com/rss/articles/CBMidEFVX3lxTE9UdGFiWVJkS3dZRDBWVWRVbjZRVThDX3N5T1EtSUo3M0JfYkZsNVBGSmc4d1lUc1hFU3haUko3aHByb2lDU3l0Y2RDNUw5Y2tNR09MSXNzNF9RRUV5bldobmtfVTdLSmtFb2tUOWlFbC1lTzct?oc=5
+
+■ 日本の社会
+1. 「浮島丸事件」遺骨返還求める映像公開 韓国教授＝人気俳優がナレーション（聯合ニュース）
+   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nS0x2elZja0VKdlQtQlJpYk81UENDeG9qNXljWkdOWnZsc25LeXUxRkJiaHJtN1QxbTVnWHB6ME1XTVhOTlM2ZWwzd0twczNFOXRrbm16V2NEZw?oc=5
+2. 息子の事件の被害者である15歳少女を殺害した50代の男を拘束送検 : 社会 : 財経日報（재경일보）
+   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlS0tJbmg5eXhZVU5EbVRFZjd4cHRBQWR3aDFWT1ZIUi03ZDFaNHBzU1Ywa0dFeEk5S0JlemIxQWEyX1pOWUFfalhKR1ZrNURSdW5zSW5rOFEtellvVmI1M3ZuNA?oc=5
+3. ＶＷ、労組へ2年間給与据え置きや週35時間労働の見直しを提示（ニューズウィーク日本版）
+   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBURUV6dm9SSlhwWEpHUVRQcUlENlFjTmJ0dFRsOXVnQTBGUEF6ZER2dzZxLTRSazZBdVgtR0hkNnN3Y2VxeVBkWExmWDhBUk1uYkZKcThpMTBfZw?oc=5
+
+■ 政治
+1. 岩手県議選奥州選挙区 菅原亮太氏が再選出馬の意向（岩手日報）
+   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MX19yOVpSMVU1b24zcFB1TXp5SVJtSklWcDZoV3JOTjg2dG8tRldlaUtVcDNjQjlaWEswODhnaXpCaHhXclRTNDRxNnE4Uk1wZzlYZVBVWmZUaGZWYjI1YnpR?oc=5
+2. 砂川高生が市議会に政策提言 街灯増設や空き家活用など43人が課題解決を訴え（北海道新聞デジタル）
+   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uNEtuSWx1eDZUV2tuNFNKUFN5SXlWMHBzT2hKamZyV2h1b29RaFVDcjNyRlFqODEtcktjU3B4X1dWTHRScE16bERRUEYxQVNwelVuUFJMY2c4UQ?oc=5
+3. 南ア中銀が政策金利据え置き、利上げ支持派と僅差の決定（ロイター）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE9NdmdpNFZxaWR2Q280cWJKcGJkdDE1V3NNa2E2OTVqNTNWSW5nTjJQM25MMVU1MmRLdUJoSFhLRjFkVjVoTFJLMjFZV3VZM2loM3A2RGFPUnZTWDRFb1N4bURWYk44cVJSWnhNaXBzNzFBbWd4UVk1TTlFa2JpQzA?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-20.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-20.mp3" length="1722096" type="audio/mpeg"/><pubDate>Fri, 20 Nov 2026 10:21:15 +0900</pubDate></item></channel></rss>
