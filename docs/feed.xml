@@ -1,46 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 21 Nov 2026 00:53:33 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>11月8日のニュースブリーフィング</title><description>11月8日 ニュースブリーフィング
-
-■ 世界情勢
-1. 「よど号」犯が北朝鮮で死去…“外交官待遇”56年の亡命生活（現代ビジネス）
-   https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zY2dOeS1wQ2laMEE1bF9PZ1R6cm9DTUdPbDdiRzkyMXpzWEE2WVlSVmlEd0NLc3QzamxFeWxyZnM4RTRQSjBMZTVqSGFVMVE?oc=5
-2. 京都府舞鶴市にイギリス海軍の哨戒艦が入港 「平和と安全保障への決意を共有する」（京都新聞デジタル）
-   https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZOUFQeWNFbmMwV2ZEMThVSkgyUzRnMm9ZZndoTHNrMGFsd0Jra1k3bl8xVXlwb0Q0MzBQMmVWNkRydUtHTTc2Tk5qVEc4NEZHbWdabG1kUFk?oc=5
-3. プーチン氏に欧州の安全保障問題に関する拒否権はない＝ＥＵ上級代表（ウクルインフォルム通信）
-   https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc2FJTnVaMnJuRXhueVBJQ1YtcnYwU2xqdU92dW9kWEhsTFFaOF9oNkZuT2k1Nm1GQXdYWFc5VVVxX1kyQTVKVnhReTdBWER6TktET3JRN2FvNHprM2JxVVZfaDF5dGgzY3JkLVl2WkFyMUc0R1AtMExtaEVQV2ZCX1NJXy1qWmJPTlJ4Q1VtWEUxQXVONjItamdkVGJCd3d3aXVUNTd4S0w1emNSZ0lQbFNhQkptVEZ5V0ZTYTFpdkxzamtPRUhYYk13eUFSZmhEZE1maTV0NFVZblNVS0NxN9IB5gFBVV95cUxPUkFrTnBzOHcyYkVuNnZuam1uMXdsQXZEdzVuN2JCUnpwRTZ0RjgyTXkxQUh0OFlINXhhYXAzSkJZN0UxZlVUbFBkeF96SW16ZnFuUTZrZ0h6MzJpN3JQZDNjMlVsSW5ldGYtNV9reG1Mbjk1WlNhWno1UTNUUVFScVhyLTBwZDlXRFFZc3cwdFoySldpd1NkcWlEX3ljenUxRTZqaGpqZ0ZTY1NGWmVka1hUbkJtQWI4NGIyZzVUaFZodlF2cDFHd0tYSi1KLTI2TGthSXV3aEw0WVlOYVptY1FsNWRRQQ?oc=5
-
-■ 学校教育
-1. 文科省はなぜ“面接必須”というのか？かねてより「受験生全員面接」を実施する神田外語大学にみる「入試で受験生と話す」意味（マネーポストWEB）
-   https://news.google.com/rss/articles/CBMiR0FVX3lxTFBPcjRBcHhRaEFLaGJTVk1POWgtM3A2UTVUdFpmTzRxajdWX1JTZHlkQkJLM0ZkaU9pcUFSOTRsYUt5bDlnN2o4?oc=5
-2. 小山町活性化へ起業提案 北郷中 金融教育の成果発表 文科省「サキドリ研究校事業」一環（静岡新聞DIGITAL）
-   https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4bHN4akhOdE50QS1WN1JqY2ZINzE5S1o4SklyallmN2tSMWg3Z21SNjJFRXZsdFlNVlN0MWRoUDZQWmxIM2VGYzVnZ0l0Zw?oc=5
-3. マラウイに福井の教育を 教員３人、至民中を視察 生徒主体の授業に理解 | 学校・教育（福井新聞社）
-   https://news.google.com/rss/articles/CBMiXkFVX3lxTE84TlN6LThaUGFsOGhRMjFid3EzNm52X2pxX1AwdXRvckpXU29NREtmb2dtM09CQ1B3cjhqTWt6VUQ2N3dNOG9KZ3BheWpBQk1RUGc2M1A2aHlCTlJGTUE?oc=5
-
-■ 倉庫・工場・物流
-1. 倉庫には“古米の山” 販売店｢かつてない量｣ 新米より古米が高い逆転現象… 赤字覚悟で販売（TBS NEWS DIG）
-   https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LRWM0eW5VNldjOTZ4WTctUk0tblpuUllOYW51U1RTVXZOb0F0cnVBd3VzSWtQX3NhWmhJSWFDT0VrRVlaYWREOHZ4WkZJQ3RtOXcyR21qZG55cFBoVVpnZVd4U1U?oc=5
-2. 蛍光灯が照らした戦後の「一室一灯」生活 パナ最後の工場も終幕迫る（朝日新聞）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Mc19VcVJUdE9PNUh6UkFXeERoS09JNm8xY2hZRHVneG5oM3Z6SjMzZ0VpRXpOeVFNT29iNXlpS1E5TExWdmtPYmcwV0NCOVhXTk9CckdUSFhKRHhRazNFNThndnlqWVU?oc=5
-3. 【八王子市】八王子の町工場から世界へ！人気キャンプギアを生み出す小沢製作所で11月14日にオープンファクトリー開催。親子で焚き火台づくりも楽しめます（号外NET 八王子市）
-   https://news.google.com/rss/articles/CBMiaEFVX3lxTE54QkxDVnh0N2lBMjBqX3lsenhuYnJzeVFrbV9tdWdqYUQxb250V3ZkWU0yMERsYlhQcDliTXJuam9ENUE0a0JSN1pFN0JMcG0xUk1QN0dxdV9KVFRud3JlWWFpbE9QM0lC?oc=5
-
-■ 日本の社会
-1. ポーランド南部クラクフで無差別銃撃事件 6人死亡、十数人負傷（朝日新聞）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwV2pxNU5LWmFIZ1ZmOHVvUktMU3FpNlhreWZtbXNXemx5QXJvVUx0SWNoRWowQ0V5VzFpZnh5a0VYb0dvaE5jOFQxVmRvVnJQbjhhN1FGdlFRRVFWdjgtbUswemFRUlk?oc=5
-2. 歯科技工士のなり手不足問題、労働環境改善へ業界関係者らフォーラム（朝日新聞）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iUDE0VEdkT0NZUUgwZENzTHZkUTl5WlR6TEdDallEdFdoWXBTZTRwVnBFUkJMNEJOWGlpcEIzdW9IT3AyS01mV3BKRWRvV0U2ZFZQYmI0MzVjcDkwNy1nVUFRazRHQWs?oc=5
-3. 「すべてお話しします」 ルフィ事件幹部が、30回の面会と200枚超の便箋で明かした巨大詐欺組織の全貌（東京新聞）
-   https://news.google.com/rss/articles/CBMiU0FVX3lxTE52U21YN0RIR2V5TjVRU1U2a1lCU3d6ZGdIZ01vcWtjcTJjcHZHU3JkT24yRjhJQlV0Y0l0M2RvWURma215a0tSTS0xU1hBeTd5TlRn?oc=5
-
-■ 政治
-1. 熊本市長選挙7日目｜井坂たかひろ選挙戦も折り返し。（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hUEtIdnZ1M2dYN2lZbkVCeTlBQ2Ffd0R5eVRkMUVnRDZaN0xKRmFfQmxVb1RxbEtrZmM4SENVQlQ1YTE0QWs5UzJZMVNMR1NSZ01SZXZ2WWhCVDJmZjBr?oc=5
-2. 堀口明子事務所開き（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kZ1dZMkxvMWF3Sy1yLUpxSnVaemtNY0VoUG5ONHBwSVp1cWpyVlR5QjJ0T0ROQnA2cmxFbDNGVGY2U1Y4Vmd0UXFuMWJWY0ZxTWFjX1d1SGJpYnlsdks4?oc=5
-3. 【編集長コラム】中間選挙直後のテキサス、変化の風を目の当たり（sports.pen-and.co.jp）
-   https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6NzhkTWFiT2NrSVFWTzJFbXU5emRrUll4M0F5b0hyYU5pMnVaOFRxa3N4eW9XQ212dDB6RkdfbDZSWDMtM1VvWDkzVjhTUklLbnc?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-08.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-08.mp3" length="1284048" type="audio/mpeg"/><pubDate>Sun, 08 Nov 2026 07:50:04 +0900</pubDate></item><item><title>11月9日のニュースブリーフィング</title><description>11月9日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 21 Nov 2026 23:52:29 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>11月9日のニュースブリーフィング</title><description>11月9日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 「頼りになる兄貴」はもういない…アメリカに依存し続ける日本が直視すべき外交の現実（オリコンニュース）
@@ -627,4 +586,51 @@
    https://news.google.com/rss/articles/CBMif0FVX3lxTE9fdVJOSXRDXzM2UlQwVU5mMDZBeGQwY3R6aGRWQnI1V3dESS1nUmdkai13cFVEX2VKakk1bm5UNTFIUldjeWsxdTNaSTR1VFFSa1ZySlc0c3N0NDZyN0RkdzVZWUxwei1EU2VwY0FacDNFbDU5Y1kwd2pPdHF2YTA?oc=5
 3. ポスター貼り⑨（選挙ドットコム）
    https://news.google.com/rss/articles/CBMiX0FVX3lxTE80X2RHYlNubG50QW1EMWQwRDZIa29DSXdJX1QyckdKNEZkTDVocU9qZ1Y1eDJjZzM4Mzc5N0M5MU5DaFJvS19HeTk2cDVxcllwbWJ3SEZNQUdSYkxCT3I0?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-21.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-21.mp3" length="1595376" type="audio/mpeg"/><pubDate>Sat, 21 Nov 2026 09:52:32 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-21.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-21.mp3" length="1595376" type="audio/mpeg"/><pubDate>Sat, 21 Nov 2026 09:52:32 +0900</pubDate></item><item><title>11月22日のニュースブリーフィング</title><description>11月22日 ニュースブリーフィング
+
+■ 世界情勢
+1. 英国とオランダ首脳、安全保障とウクライナ支援について協議（Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース）
+   https://news.google.com/rss/articles/CBMiakFVX3lxTFA4MUNSN2g3LVJsU2k3QlNwejEwUlBtLTZ6M0RVR3ZJS3ZhQTJoN3c1WnZwUnZUb1RvNFdkN01yS0g1VG1NSGRhblpGMERlaV9HS3M0RzFzUGFST3kzWHdDRVk4VTZwRG81OWc?oc=5
+2. 金融危機が進行中？課題だらけの世界情勢をどう見る？日本への影響は？（アゴラ 言論プラットフォーム）
+   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JRE5xY1VzTGg1bWd4MUphV1lOZ3Q2ZFQyOVJ5d3RZNXN4WTBzLWZ6a2FzUlZpYncteUEyeVc3OVJIM1FrVnZ2NEJlTUhxRGpHVkpiMnpnZHpPRFk?oc=5
+3. 今後の日本の外交や安全保障において、最も懸念・重視することは何ですか？（みんなの意見）のコメント一覧（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lbkszdmhkRVctWHBkenlyakF4TGRxWVNVVTVJNmhNM0hheHlmMmdSclkzUlBFanpJdFFvY21KWnMyb0VQQjFraFo5SjNYRkdNOGhTRVNvSWE?oc=5
+
+■ 学校教育
+1. 子ども店長、復興支援 売り上げ、見舞金に 長畝小ＰＴＡがフリマ | 社会,学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE12ODBtSlI0RHJxVmU1VkpoMGRfU0Ywc3JYR0F3VmlzQklyTWw4dDFBSG0xTW1wUlgtQ09LR0lLWlhiS2ZQYjZMVURoU3NIRC1CZ2pnTGlDWVJmbmtQZVE?oc=5
+2. 東浦ならではの学び 報告 敦賀 児童生徒 住民前に | 学校・教育,学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE16V2JTcENPTzJYR0VIM2Z5MGF6Z3M2djQ0ZnRxWGZJZTNfXzgwNU5VSEowdmV5TlpFa2ZwOGVNenhob3puQmxiVk1Ccl96REJRbV82SUg2d1A3LW1rR1E?oc=5
+3. 生活の中に算数を 北陸の教員３００人県内で指導法研究 | 学校・教育（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uRE5oTXhFQ3ozNmQ0Ul83SzRkTmgwZXk4U09GNFc2X29feFBkdDd3OWlRZy1pbXBUalZyUVdJSUg4NjFQR1AtZERTYlVrVDI0MFVSOU5oQktGeE9rdFE?oc=5
+
+■ 倉庫・工場・物流
+1. 賃貸物流施設の新ブランド「LOGI QUARTER」創設、三菱倉庫が平塚で第1号開発へ（リヴプラス）
+   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlaDJtdUJZMGd2UXg5cW83YTlScDBVZ0VQZ0R1blVXenNhdVZuaUFCZThES3NaSnBVZ015c1REbVdxM3NVUHU4Yzk5WF8yVmV1cHc?oc=5
+2. 「アクセルペダルが戻らなくなった」自動車整備工場で車が暴走、7台巻き込む事故の瞬間 「被害に遭った車は全て使用不可能」 トルコ（FNNプライムオンライン（フジテレビ系））（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE9yRlNYdGhzbXl6SG1LU2NJYWJFNWRyTGRXajFMRTU4TnRJTXJLWDVIY1dYTUtYcTctSlAtZGdDMGpRd3d4NlVkSEVuNEpEazY3Nmw5TWJzSEhUcUR5bEFMRHV2NnZfU2RST2x2UFdFaTNrTTZ5cUNYRmU2MDZ2Y2s?oc=5
+3. 「アクセルペダルが戻らなくなった」自動車整備工場で車が暴走、7台巻き込む事故の瞬間 「被害に遭った車は全て使用不可能」 トルコ（FNNプライムオンライン）
+   https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLQ3FKY2pBWGVwQXVyNWlyek8td19FWmE3aVNuTnQydUJOcTJDblVYNDFxNk1rSy1RUWRKeUpZZkhwX29yODFBZm5SMjBGUQ?oc=5
+
+■ WMS・WES・WCS・RFID
+1. ロジザード、WMS活用14社の改善事例を公開（LOGISTICS TODAY）
+   https://news.google.com/rss/articles/CBMiSkFVX3lxTE1OdFViNUZsOXpzVjhWbnhJYWZOTFdnMm45Sk1oRkF1XzFjZjMtSlN0eE44Q3VmSzdHY2s2MTZ0NTRycUJ4ZDJtTzB3?oc=5
+2. 組み込み型RFIDリーダーの世界市場（2026年～2032年）、市場規模（低周波（LF）、高周波（HF）、超高周波（UHF）、マイクロ波（MW））・分析レポートを発表（Newscast.jp）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aZEM0WUFyQmdvQklaVVgwcDhSOVhCbkJXUjdJY3NUWlNLLVNSYkRjVXAzRldubl9qT285aHptWWw2NTVOVkFUYUlxOXBPdGc?oc=5
+
+■ 日本の社会
+1. 【市川市から日本を変える！】枚方市3歳女児死亡事件、児相は虐待案件の優先順位を間違えていないか？（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE41YmZHVlN4ajVPM25YN3ZJT3Z4Y0ZqR1VyMV9zQVJoRzVCZ29XRGJmT3F1YVhQRGdtc3p4V2YxRTNZTVo0ZG1SS2loR3BWYVZicHI4eGhHZWpfSFN4d2c0?oc=5
+2. 受刑者の選挙権めぐり「刑務所」から届いた賛否の声 「同じ日本国民なのに不公平」「権利を主張するなら悪いことするな」（弁護士ドットコム）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4WXQ4TEVGNHNrcTlfTnlsNHp4UzM4TlZ0SUxUVEJUMVhKLV82RUgyWEVLZllaVU55b2tMR0NIcko0aWtsWG1hdmVzQUJ3Mk0?oc=5
+3. 顔まで盗まれた日本警察 フィリピン摘発で浮上した『AI特殊詐欺帝国』の全貌（Infoseek）
+   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGQzNUbm5JX05LVVNrMmM4UncxanR4aVZSNlZyZjFxcENRcTNnVkhxdHh4QU5SYUpPUGNZMkJhNXo3MUc4UmQ2eWtyTmU3d1NsZ2djY3FNX3A1SjBmZVUwb3pKbnVyMEpq0gFuQVVfeXFMTlBtb2Z1cklnMkZ1S2RzZG1FRENmVjR2a1AtRzRzZ2JvN2E2bU9RRG84ZkNFVkdIUHc3Z3ZubHVvSjRpOWNuNFVLczNubE5xYnF6MWNSMGN0XzhTNjM2WXo0Qkc3VWo5d1o3Ym1hS2c?oc=5
+
+■ 政治
+1. 「西野だいすけを励ます会」に出席。 熊本県議会議長 内野幸喜（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5haUJpWG1zTnBqRURnUkd1UmZRZ1NIOTlxQTA1SXRHRV9tbGlOel85dDdZWHRnOWZtRkRiTHhuWWtWS1JlUHpCQVBHeWJJVXB6U0tDQW0xRHhfR2RyQXc?oc=5
+2. 利上げ注目点は〝春闘〟動向 日銀、政策金利「早く中立に」（観光経済新聞）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtcWI4VnpkcFdIaWE1MUx4MWtURTVuTDh3eDBPUEVHNGptVHFLSjEySFlFMnVYa0VuYVZTdmtsZ1NlTnVaeFdRRXdNTzhsVWVnc3pTTQ?oc=5
+3. R8年11月22日曜日 二十四節気 小雪記念！（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qRlZibFJJbjN6NzkyUlNhM3g0TW5xTXNXd1Q2VHY0dUJReTdTQjl4ZEwxRkN4ZFhWZmRFS05COWg1VU80eU1uTTV1eFZBaG5Ia3JxOEgyODFPbUlwNmtn?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-22.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-22.mp3" length="1634688" type="audio/mpeg"/><pubDate>Sun, 22 Nov 2026 08:50:57 +0900</pubDate></item></channel></rss>
