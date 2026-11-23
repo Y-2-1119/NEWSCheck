@@ -1,46 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 21 Nov 2026 23:52:29 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>11月9日のニュースブリーフィング</title><description>11月9日 ニュースブリーフィング
-
-■ 世界情勢
-1. 「頼りになる兄貴」はもういない…アメリカに依存し続ける日本が直視すべき外交の現実（オリコンニュース）
-   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kU3pnWHZUbGpHRnNxMWdkN3BjY2lfRnBBU25iSExPYTZlLWdVSmVueDhfZDVoSklrMUxZMEZEd3ppbTU2RlNUS1hYUXItczI5V2NJ?oc=5
-2. ルビオ米国務長官 イラン問題の外交的解決が不可能な場合もある（みんかぶ FX/為替）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Pb1k4dlYxNjZIVXdRZnR5WkpPS1F3MHpfRHlwalRTenowRm14MjNDLWN1LTZGdmFvWDZxcUMyZ1RLRDRSTDRTZg?oc=5
-3. 苦境に立つトランプ大統領が外交レガシーづくりで「高市斬り」悪夢のシナリオ 北朝鮮の核容認、「米中ロ対日包囲網」形成なら日本の安全保障政策は根底から崩れる（マネーポストWEB）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE9fUTJUWUFMbXJXd1diZ0d1Rl9KZzJMZ3B5LS1PNV9rRFFmZndkdE44dHJPTjZiNXp1N2lrbkxIaWtjSEhZN0hfS2I3ODloeUlnczBWLUdHVGpBWFlIZng1UldKWnFmR2VEM1l4T1Z2cVdTaGNZMGVlY0RCMUF4Nmc?oc=5
-
-■ 学校教育
-1. 立命館大学の宇宙事業 文科省「次世代イノベーション事業」に（大学ジャーナルオンライン）
-   https://news.google.com/rss/articles/CBMiR0FVX3lxTE8xbV9QTml2V1RSc0JHZG9sclJjOWxFTlVsYlZEVmFwcXRldU1pUVA0UWsyeDllcE1fdUIweEJfTUhBYmNsSG1n?oc=5
-2. 文部科学省 - 授業外学習「週6時間未満」6割 大学2年、人文系で短い傾向（西日本新聞me）
-   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEN1k2Z3JtSGFCdThoaDlpLS1hMl90bnVZYXhHSXpaelBoaEsyMmxQcy01dXFvUmJReXQxYWxpOHdVLWwzVnE5cUY1a01iREl4ZkpCUGg4cw?oc=5
-3. 授業外学習「週６時間未満」６割（デイリースポーツ）
-   https://news.google.com/rss/articles/CBMid0FVX3lxTE40bEpzamNIZ2NwTGdyb21jdXFyelpRTnhUM0phYmJDeWt5OU9WSXFuYkRmT0FPT2lGT1hZMlZQbi1tRnpldVlDbjJaeEk5Yi02cTJlcHpfVG5velN2T1pvUko3VzlxY1FMRjNiazFGdlBocnZ6VUZ3?oc=5
-
-■ 倉庫・工場・物流
-1. モーリタニア向け漁業調査船「MASAAKI NAKAMURA」、常石三保造船 新潟工場で進水 元JICA専門家にちなみ命名（Funeco）
-   https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hYmNWWTNoNE5uSlhhaUNGdDJHM2h2QjJ1OWYtRkxCQW1Ec3VKbDltNnRPQTdPUGtEVWxURmNXczNHSUl3RURodXNn?oc=5
-2. 大阪・港区の倉庫火災 54時間後に鎮火 7500平方メートル焼ける 近隣住民が軽傷（ｄメニューニュース）
-   https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnk2LWFpNm90c096N2FheGRESUtaNFBUX0VxTmVOb2tja1Nrc2NYMGk5OVl5bUxmZkFOZFlERXR0emNxN1NhN3liWWlWY1llT1ZQVGZDcmc2NmJyb0doTy1mNmFDckFuVVVwemZ6dWVJbnROSGFFR2xCMDd4M1pXOWhqNUNYdGlaQ3FHWWk4cFF2elhkRVhhU0tpODFpMEVtelZHbUJRRGrSAa4BQVVfeXFMTzVOb0ZMNUxnU0tNc3FBZ3QycmtpQ0xsSFJ5Uy1mLTFDR1N6N2pmX3dISkw2YnFabk11Z0o1QllQZmVaNmc4SEpRenBRSU9MX1RyX08zRUVKV3ZfRVBMdVl3X204blQtejFzYzJxNG9jV2VpcUg2bXRRR1VaQUJHTlEwcjNkTDJvNkZkR2ZtMGttWlZtcjFfbzJTWVVqT3VIdEgtR1pWSVVxcDlqaUhB?oc=5
-3. 3DスキャンからCADデータへ自動変換、工場設備のレイアウト検討を効率化（ASCII.jp）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWS0RvcmhObVd4RUxKWFNZcW9WSGlHd3J0QzdfY1d0bGhfN2RrdXZ0dmgzRmVTTlRZRnFFcm5FZ21jWUZfZFk5UmhUZk5rMTFDYmpNeg?oc=5
-
-■ 日本の社会
-1. 日本の建設市場、インフラ整備や都市再開発を背景に2034年までに9413億米ドル規模へ到達する見通し（Newscast.jp）
-   https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LZWo0ZEE1S2UxWkJqYm0weF9UaVMzbThfRzN0d0VZRHRMOW14c1I2LXNsTWllYy13VkF2UlFxa3JkWllRZVVBcTV6RVI1YUk?oc=5
-2. 「日本行きは自粛を」中国呼びかけから1年 習氏が唱えた交流のいま（朝日新聞）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fd2N6THlzM2ZNbHBOSmdFU3BabkZMczU1QXVtQml5cW5ZMGxEM2RfcS1tT0dOUEdlamt4clVIWXo0TDhDbV9oN3F1UkRLQmhjNHJmUTJNYTVEOV9nRjNkUnlUZ2dqYXc?oc=5
-3. 技能実習生の逸失利益「67歳まで日本水準」判決 専門家「画期的」 [千葉県] [外国人]（朝日新聞）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13bi1RU2hnbWlyN3pBcGpnVjBiQ3RNVWJEMm1EdVlsaDRhYm13eVZZZzJwT2JoZXlMUFRXYkNWVXVQekFEYXRQSm1UY0hNOU1kR1hPSkFzOUpxRlRva01lTXFiTE5XTXM?oc=5
-
-■ 政治
-1. 松山市長選挙2026候補者｜田中エリナ 物価高対策 なぜ商品券でなく水道基本料金か（選挙ドットコム）
-   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZcHo3RjMtMTI4TWpibHBSSG0zUUMxaVZ6V09wMTFTZEx6a2VUc2lPV3YyS0lNWm9BbElfVWFyU0o2RzNSM2k4M2tLd21HSHhyVF95Y2RwSmRZWjE1dVdz?oc=5
-2. 米民主党、マスク・ミラー両氏の調査視野 中間選挙圧勝で（ロイター）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTFB6TTUxVU5rT001UFVuR1VHdlNnMjA1RG8wR1NNY1BuUVR0LS1CUGk3Z2M3Z3VUYnowelZkTkVnOUl6dmZQVWNDcXJuaW5aeTlDTjJZR0ltRkk5NlZYZnpGeldqUUtuc3pYcTRLZUtKSHZnbDB1dUNtNWl2MVZYNkE?oc=5
-3. 週明けNZドルは上昇して始まる、総選挙で与党が僅差でリード（みんかぶ FX/為替）
-   https://news.google.com/rss/articles/CBMiSEFVX3lxTE05MVRpVUNSZFJjOWJwZUI1SHJQaXE1SVlwLTM0aVJydVd2M3JwMlVWWmVJQjg1dVhjckdRV3BBZU16RXlsWjYxYQ?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-09.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-09.mp3" length="1376784" type="audio/mpeg"/><pubDate>Mon, 09 Nov 2026 07:58:13 +0900</pubDate></item><item><title>11月10日のニュースブリーフィング</title><description>11月10日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 23 Nov 2026 00:24:58 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>11月10日のニュースブリーフィング</title><description>11月10日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 【知財は国家の戦略資源!!知財安全保障の確立が急務】（taroyamada.jp）
@@ -633,4 +592,53 @@
    https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtcWI4VnpkcFdIaWE1MUx4MWtURTVuTDh3eDBPUEVHNGptVHFLSjEySFlFMnVYa0VuYVZTdmtsZ1NlTnVaeFdRRXdNTzhsVWVnc3pTTQ?oc=5
 3. R8年11月22日曜日 二十四節気 小雪記念！（選挙ドットコム）
    https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qRlZibFJJbjN6NzkyUlNhM3g0TW5xTXNXd1Q2VHY0dUJReTdTQjl4ZEwxRkN4ZFhWZmRFS05COWg1VU80eU1uTTV1eFZBaG5Ia3JxOEgyODFPbUlwNmtn?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-22.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-22.mp3" length="1634688" type="audio/mpeg"/><pubDate>Sun, 22 Nov 2026 08:50:57 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-22.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-22.mp3" length="1634688" type="audio/mpeg"/><pubDate>Sun, 22 Nov 2026 08:50:57 +0900</pubDate></item><item><title>11月23日のニュースブリーフィング</title><description>11月23日 ニュースブリーフィング
+
+■ 世界情勢
+1. 「北朝鮮外交官、トランプ大統領の親書を封筒ごと返した」…朝米首脳会談が実現しなかった経緯（1）（ｄメニューニュース）
+   https://news.google.com/rss/articles/CBMihwFBVV95cUxObkZXemJmMWhxbjRWM2tiUjRrT0lLME9rMGk4TjJqS09KTmFrUE9GVUVKd2Y5aHdSMzNfMHRyR0ZzdDFERU9XaXZyc2VnMlk4dUNmUEZrLW41bU5JQXB6NzVsMHA4Sm03WjcwZE5YZVRXNHctMWlvUllhbEs2MkFhR0NwZ0ltMlXSAYwBQVVfeXFMTVQ3YUxNTEIxYWVXVFo5b1VDZDBHOS0zT1ZCempPWk1PV3V1RWJCV1ZlTDZodl80aEppcVBZZk4zLVhYWUtGQVpwSFAwLU5mZHJ1SFVnS1I2TDZXbG1paXVKR1NfRmxTXzcwQ00xcDdjQWJ3Q0wzRDYwU1pqOG5Sa1JLT2RxMVRIbkt2NW0?oc=5
+2. 「北朝鮮外交官、トランプ大統領の親書を封筒ごと返した」…朝米首脳会談が実現しなかった経緯（2）（Infoseek）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Rb3VtdlM1Nm50S0Y1M1lpWWEtN2JvSXVjbjFyZDFIWDFsRWFRekw2TUZpT0NINjNCcVJOaTZ6dUNsbGQtUjVCRHFnMGo3Yk8zbXNSVkhGSEhhaXBJRmE1Q3phX2xWWFXSAWxBVV95cUxOWGVsT1R3NnB1NElFSUZ0LVZBeVVZVHVGQmhzYUNBeGtpYm1nWF9PLUlkZUU5bGJrdDRwajhpamp0Nmk3cmNBa1E5SXltbXAtMExSZF9odUZ3SUl5QzBvNkxqOTg2QkJHdy1RVGg?oc=5
+3. トランプ氏にはYMCA公演、高市氏とは2回握手…習近平氏の「オーダーメード型首脳外交」14件を分析（中央日報日本語版）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE8zVXZhTGlWaWdqbm5IUmlFWW90NEMxODBXZ3NSWldpUmRSWGQ0SnBPeU4yRUdrTmlGWHNLd1BfZkRfWU9wWmNaNnlVX2JpaTFzQ2tQSEZ3dmFQRUZ5eHU4a1dXRGU4RXpmbWlfWkdtSGpKOVk1SWktOWZ4R0U5WEU?oc=5
+
+■ 学校教育
+1. 【私立大学の初年度納付金】2年で変わった額は理・工が「6万6978円」増、歯は21万6206円減。文部科学省の令和7年度調査（LIMO | くらしとお金の経済メディア）
+   https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGb3hBU2pXdHRXRW5jTzJ1X3RIZER6dDlkMGpfMFB1dE82YWJQbDZyOERoTTdGM0dfdTdjcnVCcVRYNzZhcXNNcWQ0NHA?oc=5
+2. ４．７メートルＸマスツリー点灯 坂井・県児童科学館 親子２００人歓声 | 社会,学校・教育,催し・文化（福井新聞社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SMTZ5VlBGRzNXcGdZZkdXMEhLekNQSFdoOEtBcW16NkRMX0wyNE1UcVJqcmlQSWVTV0gzX2pDS0NQTE9IT2h1NFZPanJmcmJ1NzVvLTJwWjZnOFg5d3c?oc=5
+3. 「教員になってもいいかな」増やせるの？ 政府の改革案が抱える懸念 「憲法軽視」も指摘され（東京新聞）
+   https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXMEo5WHhESEFIZkVnVjhocnl3eGo3UzVxSUQ2eTdjcnA1Znh5YUZEOU11dzVtZDRlVHBWdVlmaG5sNWVLNkx2bFdhdWZsSXNGSkRv?oc=5
+
+■ 倉庫・工場・物流
+1. オリオン、売上成長と原価負担軽減に期待 新韓証券（Chosunbiz）
+   https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGc3WUhhZmdkY3RsMHJOSlZ5anZacTBOQlhLV25VaUhXRVFPNlZVeWdRbWNnanFnN3FncVE5S1NIcVFKQ25hZVhGNTcxcXd1Z1JkY25SWjdWQk8wQkxoNjVzY2o2R0lIUFc1Q05qUTZsM0tEV25FT3FnVTc1WlNxMdIBlAFBVV95cUxNckQ2OFNjQ3I1QUFRS01IR2JhVEM4RDFlamdKVDNfQ242OXBjSWNlTE1kOVBwS3Y2VmFBbXVfRkdVVllmb0Zwa0dEQnBhcWotd3d6VEZXWGNIVXVLOVNMLUhBdkJxVVZNQ3J3eFk1Z0FuVk5SdThBZ2hwMzlkMnk0Smk2ODVncW1la1FzZVVPN29xZ21C?oc=5
+2. 日本の物流自動化市場は、年平均成長率（CAGR）14.35%で成長し、2034年までに192億3,000万米ドルを超えると予測されています。（アットプレス）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tZ1VHdDhLMm84TWhBVUtjNnRnV05rNUhBU2lsUnVMMkZVVVZzdVFEc3UxdmpiVUxKRjUxbDU3VTlZZWdvQ3d5RmFpNjN5dmc?oc=5
+3. 埼玉の巨大物流施設で火事…外環道JCT近く 「1階の冷凍庫から煙が出ている」と警備員が119番 5階建て倉庫が燃え、鎮圧まで約9時間半 消防車両15台以上が出動（埼玉新聞）（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE9xN1NaTktNSjBPZGxKU041QlNEOG0zNDZMZWJkTHF5WjJjLTY2Rjd6dGhzbXFRYl95d1JVUU9YRk9UUkJKbDRqbnJUUmUyOUs1S1Y4dEdLeG01TTlGaDF1OHRtWVF4Y2VBdEs0M0RGVjM3OUVHdERjd3UzTU41NFE?oc=5
+
+■ WMS・WES・WCS・RFID
+1. 倉庫物流ロボットの世界市場（2026年～2032年）、市場規模（ピッキングロボット、仕分けロボット、パレタイジングロボット）・分析レポートを発表（Newscast.jp）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oRzlwZmVRdDYwcWdfX0RCaGJ0am5hVFFMZ0s3UF9VT09pVE9IYnhsRzdBaTNlckNaRC05NlNpNkRnUndpX0hiUlloWk1LVEk?oc=5
+2. 物流DXは「導入」から「内製」へ。創業97年のヤハタ、AGV×WMSで入出庫生産性150％を実現（山陽新聞）
+   https://news.google.com/rss/articles/CBMib0FVX3lxTE1maks5N010WmZHWUgtZ1B6QU9NMEI0UGZfSWM4aWg0cmRZRTBzYVo4TXpUMXlIM2RaTXNHNndqZXhrakpMcVhMR044bDhQd2FJY0ZtZFF6b0w5Zjk3WW1Sa2FGM24wQ05DOVNrUzFtUQ?oc=5
+3. 株式会社OptiMax、物流センター向け技能伝承ガイドを無料公開（Dellows News）
+   https://news.google.com/rss/articles/CBMiR0FVX3lxTE5UM3dwTFU1RVhBSTl1aGZhRktmUnFMQkswbXV3SmFHQnJGYW4xSGZxRFFSU2hTSl94bDN0TXV4cjVCUWlNSU9N?oc=5
+
+■ 日本の社会
+1. 「上海で日本人1人死亡・1人拘束」…日本の報道に反発した中国（Infoseek）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QQlBDdmhGaVptbXBZZ1Jnem5PYWxublJWZWJnZXpaYUxLLVZON25kcTFxVkp0N0ZpY0gtak1hb3NVNldnamZPdEEzVl9mNHVGUTk3RGFFZEtlUENtT2ZDYkkwWEs0WkXSAWxBVV95cUxNTENsS0JRVlJ3MGd6VEVmT2I3amk3SF9IX1YtNFJvNFBxRFAwc2drV3RydHZGMUdTcUJnX2ZyVzA4M29CeDdzaHZ0M0tMdWdITEJyYjhjSVZ3VUNuSDVjeWpWekl5SHo2UzZSTEw?oc=5
+2. 山田孝之主演『国民クイズ』新キャスト13人発表 大倉孝二、OKI、栗原類、佐野岳、シソンヌら出演（朝日新聞）
+   https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZWlhSeFN6N1I1dEdyajltcENvZExTbjFIUU5HZWI5RGd4dm5waW1JbHpiNWNaMmRLT2NBYlliRW52Q2tsOEJ4R2NrcWZxMWNacXRtaTY1azNfVzFS?oc=5
+3. 北朝鮮ハッカーは標的の弱みを熟知している…｢9500億円流出事件｣で従業員が思わずクリックした"甘い文言"（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTE5ta2VFdWU4aUN2RUhtdWVpT21fZlRIVFRITWZxaDk5QmJ3aDZoaGoyZ2FXN0NVTHZsajkwclpsLTBLend1S3BSMmcyQk5lSmdPUnFVOGp3enpYWmpBdWwwSm11Mk5EM3Q4R2NjbzJFQmE4dXJIbS1FTGZTT01VYkU?oc=5
+
+■ 政治
+1. 「勤労感謝の日」なのに…（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oaUUyWHBIVXhfNVpCVzVjMF9ZcThyM1FsMFVoVjNPYnZxNXlLbl9fM0RHU1lPR1FlZGZ2NC1oaWpBSDNpQy16MVZjVjdKejNHRXdQQW85SUt1bGpNUGc?oc=5
+2. ハッシー文書とは 憲法公布80年、前文起案者が託した平和への構想（朝日新聞）
+   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtaFk2RE54N0xYTS1ZRE9wS0I5WHVaRU5YZ0s4N3h4dnJNeEthUWxiUHMxUUlIZVhxX1pQcVBkbUQyTUJPUkozTDgwRy05TURwOF9UWDFoNDBNcjQyR0FSalJhSTM5SVU?oc=5
+3. 首相の国会出席削減 自民が議論（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NckZUblgzMjlpWTR2aHZKQXBvLXZBWWZqcGE0eHpFdGdhdEw4X2V1MGRrTXBmQ2dsYWE4LXYtbHhfVEhMR25ES29RZFBFQkZa?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-23.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-23.mp3" length="1796688" type="audio/mpeg"/><pubDate>Mon, 23 Nov 2026 09:22:40 +0900</pubDate></item></channel></rss>
