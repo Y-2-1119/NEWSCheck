@@ -1,52 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 23 Nov 2026 00:24:58 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>11月10日のニュースブリーフィング</title><description>11月10日 ニュースブリーフィング
-
-■ 世界情勢
-1. 【知財は国家の戦略資源!!知財安全保障の確立が急務】（taroyamada.jp）
-   https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DcmhiVmc1RnJBYy16Tk5zM29TS0lkNU04Smpub0ZBeURaRGw3NDB5N1AyaTdRU3RwZXptdUtxTjkyenA1cDRyQ1dQSWhlUkpfMm5uZk9ZOUo?oc=5
-2. 中国、南太平洋での影響力拡大に陰り 豪の外交攻勢などで（WSJ）
-   https://news.google.com/rss/articles/CBMitwFBVV95cUxQTk1EU215LVFFSnBEZFNDckZpMHZoU29fcHYzejNwNlNmRC1lMldfVTYtV1FCb2NaTmdSQlR1ZEdtUll5NzhMclpIWm95TWpfWlhOdjBFZDc5QlhxR1o1b04tS3hFY1dEVnUxUlp1d044clJuQU9kMlFnUkloYnV6VW1HZm9oMmE2Yk13Tm84VjQ3OEtyTFVjTUdlSl9UZkM5ZDV0OUxRODhVY2dIS1YyRG1EU2M1eHM?oc=5
-3. 中国の宇宙ステーションが初の外国人宇宙飛行士受け入れへ、中国外交部が見解（Excite エキサイト）
-   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10WTh3dWxSRl9aaWRSUHZlX0J5X1duZ0p2R0JOS0dwMUFIdGlNYTdMMmxVd0ZhbzR5Q3R3WDJ4MVBGRHJ0cXRHM0VWVE1pbjF2NlBKdHdmcGhzTmJxX0oyZ3JWVnUtcGc?oc=5
-
-■ 学校教育
-1. 文部科学省「情報ひろば」における広報企画展示 昭和100年の女性のあゆみとすごろくから学ぶ男女共同参画（共同通信PRワイヤー）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TV1dTNFJtakFodlAyS0tkdE9ZSHMwYjlTWlhpVlJSNUVmd09MTFJDVVQyM3R1TGRoS0hGTExpUklfcFZYTzVCbGktN1lQeVBqWGQtUmxPdXFQMW8?oc=5
-2. デジタル教科書、動画上限９０分 文科省検定対象、量抑え質確保へ（山陽新聞）
-   https://news.google.com/rss/articles/CBMiW0FVX3lxTE11R09zS1duNWZrOGRDYkZVTWdONGtueVlBZ2NVZmNsdWg1LXdLUDhuNHZ5dGIxTTByWS1HNWdsU0VwREJ0OWlTNXNjaFMwaFFJRjRyMU1vc2JoOEE?oc=5
-3. 熊本県の私立「九州看護福祉大学」 文部科学省へ公立移行の認可を申請 2027年4月より公立大学へ（大学ジャーナルオンライン）
-   https://news.google.com/rss/articles/CBMiR0FVX3lxTE1LdGZpUzJYWi00WFFOMDlKR0hHQWFSb3lwV2JCUDRoV2pBQlFlYzBQQ0h2Z2RnbkhZdXFjSmczN2RERkR5eWc4?oc=5
-
-■ 倉庫・工場・物流
-1. 次世代物流展が北海道進出、札幌新会場で（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtaE84ZzYyUElnNGhRSzRBS2o3Qi0xUFlvRVFmeGlSU3JuTDZ3czdRWHFEX0NLS3NJUnVJZmZ1ejR3Z3RxR1pzUTVn?oc=5
-2. ブリヂストンの鳥栖工場で火災 約４時間後に鎮火（ゴムタイムス）
-   https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mNVBvbk9JWnBjUUdfQ1BYVXhqazlSLUI4YkpKbHZjV1ZEQndBVVhnVUpmRC1nNk43aDJnQ09rUndSSUJFY2xWSHJLcUxsZw?oc=5
-3. 中央倉庫－急騰 上期営業益8％増 減価償却費の減少が寄与〔DZH 個別株情報〕(時事通信)（Yahoo!ファイナンス）
-   https://news.google.com/rss/articles/CBMihwFBVV95cUxOcDB2XzZKRGc0bDB3aVU3N3JmNGVIbVdXaTVYMlk4MmtSWW1OYllZd1lsSXZFTDVxMDhEZmFCTGFiZGdCS2RsbF9QRndIa29fRzkyd3MyWmFIN3ZNNXRTaHI0Um1tdzBRQlBjVlpFRU5CQTdPdGExZVBvRl8taDUzNHY2VGhqY00?oc=5
-
-■ WMS・WES・WCS・RFID
-1. 関通HD、WMSとロボットの役割分担を解説（LOGISTICS TODAY）
-   https://news.google.com/rss/articles/CBMiSkFVX3lxTE5iNHpOWGhPN29WREhTMDlha3NsTVREWFY0QkdtWnYyMzduV1M5aEFBWDBpd0dxRkx5UkpKSmpNd2NZd3NxSGpZM0RB?oc=5
-2. 『流通小売業が取り組むべき物流DXとは』本日よりアーカイブ配信開始（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMie0FVX3lxTE1QU3d5Y01JQVdNeVdfTzUyc2pkOXhFMWJJTURkNlFkY3VZMGVUSXVLNW84ZS1oWVpxNWFLWVdSNDZfYUxjeWRsa2RaYVZacFZtdDBCOGl3T2pBVHB4T0VDUUpZN25tYmkydGlYQnNwTHl5VVk1anV1dElEUQ?oc=5
-
-■ 日本の社会
-1. 胃からはタケノコと肉片が…死者4人を出した東北の｢十和利山クマ襲撃事件｣が日本人に残したもの（PRESIDENT Online（プレジデントオンライン））
-   https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxemlaRWNvYXV2UmF5QllvN2lRMlhvRjB3RF9NVTlicE9JdFNpZDBfcUxRVk0yS0plS1FRMmdpYXY0YnlySlU2dWxlNXBmV00?oc=5
-2. JALとスカパーJSAT、衛星データを活用した社会課題解決で業務提携、ヒグマ対策など検討（トラベルボイス）
-   https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pTmx2by1GdEtPenQ4WlIxRGpkbk5GZDBLLXRiaDZ5Q0pnV05ELVcwZFQwUlZmbFMyTVJvSW9wYVdrb3EyOWRSdlFBTVNiQmVJY1RYaQ?oc=5
-3. 日本無人搬送車（AGV）市場：スマート製造、倉庫自動化、労働力の最適化が成長を加速（ニコニコニュース）
-   https://news.google.com/rss/articles/CBMie0FVX3lxTE01YVFOYXNiUmYtVGp6SUtRYk92UjhlMzg3TGo4SXVZaDN4aDAyd09OZzU2MjZRczA2c2szcVlwRXFRQ3JCZE1QMmVsTzBlNW9yMjBtcVdFZDRCekRxUXF6Vms2WWhZa3hRcWlJVnlhVlRPWS0zN3loMURBZw?oc=5
-
-■ 政治
-1. ３文書改定へ協議スタート 自維、防衛費・核政策焦点（時事ドットコム）
-   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLRHphYTZwUGlzaDNqRG9YR2FDUG1WOG5mTDh2RUhIS202b1UxUlJXWllKSTB0NkRzNEZaMDVOaURmWHdvbmlMSXlvWGlpczlXdWJ2ZFZmQVJ5UGtScFpXOWdEdw?oc=5
-2. 【米中間選挙2026】 トランプ氏、公正性に疑問呈す 結果受け入れると表明後（BBC）
-   https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BY285eHlobG44UktseWk4RXRDSFVUVHR3OEJFU2F5SklwZWZtWm5qcHpEaUxYTTE3NE40MHIzb1RXMnBLWVlKeG5qd1AzSVZEUzB2cEpDRnYxaFlNN0V5cdIBZkFVX3lxTE9vNnljLW9IWl9HYUowemN4MHQtcU45YU9ibXQ5MGhRNDhxYzg3aXoweHd5Umh6Um9KTXJLTnl3UEpMLXV1dHZnSW9MTjRCQmVvYUktUnI2djEwQ1N3V1dBYWNCT0tOZw?oc=5
-3. 長崎県議選の「１票の格差」、５選挙区で２倍超…現在の区割りなど維持、格差解消されないまま選挙戦へ（長崎新聞）（Yahoo!ニュース）
-   https://news.google.com/rss/articles/CBMif0FVX3lxTE93X0tLMUtKZnJPSGlnNml1WUwzbEQ1Rm80ZWRDeEZXOG5Zb3E4eWdUdGJycnFLRkc5Nm9KT2hpcms5dHBMYXFiRU95WUFad1JEODVrWnJReEp6NVlzYUtiQS1kM0JVOEZRM05DQlJkcjdVNUJKVGhWN09UeTY5a0U?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-10.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-10.mp3" length="1477008" type="audio/mpeg"/><pubDate>Tue, 10 Nov 2026 11:17:40 +0900</pubDate></item><item><title>11月11日のニュースブリーフィング</title><description>11月11日 ニュースブリーフィング
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>毎朝ニュースブリーフィング</title><link>https://Y-2-1119.github.io/NEWSCheck</link><description>世界情勢・教育・物流・WMS等・日本社会・政治の朝の要約</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 24 Nov 2026 04:21:23 +0000</lastBuildDate><itunes:author>Yuji</itunes:author><itunes:category text="News"/><itunes:explicit>no</itunes:explicit><item><title>11月11日のニュースブリーフィング</title><description>11月11日 ニュースブリーフィング
 
 ■ 世界情勢
 1. 米下院共和トップにジョーダン氏、トランプ氏に近い強硬派（Reuters）
@@ -641,4 +594,49 @@
    https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtaFk2RE54N0xYTS1ZRE9wS0I5WHVaRU5YZ0s4N3h4dnJNeEthUWxiUHMxUUlIZVhxX1pQcVBkbUQyTUJPUkozTDgwRy05TURwOF9UWDFoNDBNcjQyR0FSalJhSTM5SVU?oc=5
 3. 首相の国会出席削減 自民が議論（Yahoo!ニュース）
    https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NckZUblgzMjlpWTR2aHZKQXBvLXZBWWZqcGE0eHpFdGdhdEw4X2V1MGRrTXBmQ2dsYWE4LXYtbHhfVEhMR25ES29RZFBFQkZa?oc=5
-</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-23.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-23.mp3" length="1796688" type="audio/mpeg"/><pubDate>Mon, 23 Nov 2026 09:22:40 +0900</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-23.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-23.mp3" length="1796688" type="audio/mpeg"/><pubDate>Mon, 23 Nov 2026 09:22:40 +0900</pubDate></item><item><title>11月24日のニュースブリーフィング</title><description>11月24日 ニュースブリーフィング
+
+■ 世界情勢
+1. 安全保障研究の専門的知見を大学生の学びへ政策・実務の専門家が日本の安全保障を議論（Infoseek）
+   https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lSXdCYmQwNjZkemVfSTczcDF0aXdWaE5XVEZrU1JsT3V6TUQ1S2NGOVB4RVFZRHFQSGxGTmpHSEppWi15VElWTlQtOGhBVnloRVViRG5pUVZUNGk1TUZCeQ?oc=5
+2. 元国家安全保障局長など、国家運営第一線の知見を活かし次世代防御基準の確立へ AppGuard、国家安全保障・危機管理・企業経営の有識者4名を迎え、戦略アドバイザリーボードを発足（時事ドットコム）
+   https://news.google.com/rss/articles/CBMia0FVX3lxTE9XMnBaemdLZ0cxVGpURzhnWVRzd1dhcDBMTC05U3lyV1hXVXdlbnBSaVlBWFduYUFmUm1wajZnOWtUUTdfUV9qdWx5WTV5VmNRUXQ2c2JSVnpzaEJoaGhlNDlPc2x3bHVSb0ZF?oc=5
+3. 対抗だけで理念なき外交で世界に咲き誇れるか（中国経済新聞）
+   https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yd1pBTDk3eGR0WTIweDdKb0RBYjRXRmxvOG01SHRURHpnS2htcVJ3QVR1ajlSTjQwOGx2MzZ5d0dHa1l0WS1ueENWYw?oc=5
+
+■ 学校教育
+1. 校外活動の政治的中立性、約7割が「確認・見直し」 辺野古沖事故受け文科省が調査結果を発表（沖縄タイムス社）
+   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UdjdKeHltWTNoRElxUUQ2UnFfSEpFQldVejREb0kwUWVOYjlET08tYWItUkk0b0pYcEpBVW83b3lnS1ppWE5uc1ZrLXhYeHRSWW54SHc3QmRZeGFUM1E?oc=5
+2. 静岡県、2040年見据え高校教育改革…先導拠点4校の取組み（リセマム）
+   https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2MVlPNDBaclFFcUtvQ3F1RUIwaC02ZnZPZnZBWmNwcmtRaGYxLWlETnd3cmdvTEQ3aUNRUm5pUmViU2ZwbThvblNEWmhObkJJenJ5YkxTcEJnWE9nSFpUVl9ObXNhZw?oc=5
+3. 文部科学省＝東京・霞が関 - 宿泊行事の点検、7割実施 辺野古事故受け全国の学校調査（西日本新聞me）
+   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBVm50UjkyWjh0SFprZ1ZoRXlRUnI2cV91Um5WUHZqdkpWRXdKRXlTZ0l2SWxFeE45aWlGa2hta0stbHpDRHpjMzMwcWtycFpfLWIxNTNMZw?oc=5
+
+■ 倉庫・工場・物流
+1. 埼玉・三郷倉庫火災 人気外食店に影響「ゴーゴーカレー」「ドムドムハンバーガー」臨時休業も（スポニチ Sponichi Annex）
+   https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWVzRjBHQlZoQzNfUnlqWU9iQ3YzRzR6MGpzWW82VXhaV0RwMWN1SWJvQi1jNWhRUXAtTmpveUt4QVhrNGNhS0dBaEJjQVlMdVBkNEs0d0F1X21oaWQyMWRJdHB4YVlFQ3JXX2FFNGRyT281S3FyQ3N3U3VkYXl1UndGRUR0ek1IWjFYTXF3?oc=5
+2. 災害前から考える「事前復興計画」策定を進める佐伯市、高校生が防災倉庫を提言…大学教授は重要性訴え（Yahoo!ニュース）
+   https://news.google.com/rss/articles/CBMif0FVX3lxTFBwN1pZSnBVeUpyVmxrZ1hnYTg0T3l4dEdRWTJuNEtJak5IU0RicjFSS0o0N3NEUFoxODNPVUF1Mmo5cWUyTmR6cjZ5QW1TdTdjV2o2RUV1MGs0MkdlU1BEbnRLMkJtNkt2dlVjOVhrYnV0a2o2UFVfYVo0YnZ2U00?oc=5
+3. ワークマン－岡三がレーティング引き下げ 物流制約からマス化達成には時間を要しよう〔DZH 個別株情報〕(時事通信)（Yahoo!ファイナンス）
+   https://news.google.com/rss/articles/CBMihwFBVV95cUxNc0I4SjFpTnlhcm5NTUVvc01ROFlYcC1kQ1JqaUJwYlFhYkd2TTN1akpqd3dBa05YSFN1SFdkRXJiWjdLWHkyRjVsZWsxbjl2Y1V5Z3AwamFackJFeF9CQlA5d3hVQUVBY2FZM2JjUW9RSkZpRlRHU1l6N0lJMHZTd2dkaGsydWc?oc=5
+
+■ WMS・WES・WCS・RFID
+1. 倉庫実行・オーケストレーションソフトウェア市場、2035年に200億米ドルへ拡大予測｜AI・ロボット連携が物流倉庫の自動化を加速、年平均成長率19.0（Newscast.jp）
+   https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fMkQzOXdvbXZHbG1ua3RJbXRrR1JFYTZSTl95c0ZZVW1QSndOLXpvcXN2YlJ4bF9qeHF0YlZfcjhSOS16bS16MURGTmNqSEk?oc=5
+
+■ 日本の社会
+1. 労働者4人死亡のセアベスチール元代表、懲役2年・執行猶予3年（조선일보）
+   https://news.google.com/rss/articles/CBMijgFBVV95cUxOZzFXaXNiM2FuMnZvd2o3UVd4OXh5bTNzYmFPYmRDeUFvTEE5TFczMzhZeGNhNFZrMklOODRGempOd0t5SnpVMlBuMFVYRGVaY3p5SHgyTmtFY0VoVWJIakZCZl9qcjlfSTk1M2IxZXFZbXhWVmVqSkppaTI3UkprX21oUk5Lb2hJTmx5MDFR?oc=5
+2. 『アストリッドとラファエル』シーズン7独占日本初配信！日本最速試写会も開催決定（海外ドラマNAVI）
+   https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIMmNLMnc4UEFPZDdMd2hUZ3VVdTJTc1EyeERWU3N3YkFtVi1pZmtXR0pNTTgxWll0b20tYXA4eklvTXB3Qm55VlRTSXFQZw?oc=5
+3. 連合調べ 若年層が望むキャリアTOP2 「ワークライフバランスを重視できるキャリア」「安定して長く働けるキャリア」（Excite エキサイト）
+   https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YZS1qNFhzYXhkN1doeFBRdkN2dXF3dWVQUFdScVpHdEpXcnhiVFc2YVl1dEQ0cEcwNEp1U3FybXpwWXhSSnUyRHR4emtfakFHS196UlBUZ1V3aENNR3MxMEZR?oc=5
+
+■ 政治
+1. 趙正湜（チョ・ジョンシク）韓国国会議長一行による表敬（首相官邸）
+   https://news.google.com/rss/articles/CBMibkFVX3lxTE9ibEtqR0hfVDY2YkRqVVpiUnpYOUJUR2I5TmJ1UW9RbGxtOUk0M2dqejhSLVlkV1M1XzAwbjhMVDNQQ0txb1hQdk02dkVjMmFMaW04LWF2OUNaVmpLNHZReENzc2FOYnpseFNNdnNn?oc=5
+2. 「放置少女」第六回人気キャラ総選挙で優勝した「魔・呂布」の観賞用無属性アバターが実装！イベント「薫沐の儀」も開催中（Gamer）
+   https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Ra3lCMUFKVU5pLWdtQTdqUHRiSW9aM1J3d3lXcUc4VmZyeDY4QTRhS2MwcEhCUkRNVG5MM3FFQjVVOGZINkRlVVc4dmN4V29DSUdoZg?oc=5
+3. 【内閣総理大臣杯】（選挙ドットコム）
+   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1STTFNR0VzLXh4cVNidmtlNkx2YlpIc2RHNHdYY0NfUXQzVnhUTTF6TDV2aUNSbTZXa2xSNjNmNGQwWUVkRldwbDFKR2JVOHhhUnlLS2I3RjR2el9RUE1R?oc=5
+</description><guid isPermaLink="false">https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-24.mp3</guid><enclosure url="https://Y-2-1119.github.io/NEWSCheck/audio/2026-11-24.mp3" length="1566576" type="audio/mpeg"/><pubDate>Tue, 24 Nov 2026 13:19:50 +0900</pubDate></item></channel></rss>
